@@ -1,7 +1,5 @@
 ---
 title: "Analysing Event Pricing and Distribution: A Data Science Report for Ticketmaster USA"
-author: "Candidate Number: 202146996"
-date: "29/01/2025"
 output: html_document
 ---
 
