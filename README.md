@@ -1,2 +1,2 @@
 # Projects
-Here are my data science projects!
+The repository has codes and reports for all my projects, assignments completed during MSc course.
