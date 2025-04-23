@@ -1,0 +1,327 @@
+---
+title: "IRP Code"
+format: html
+editor: visual
+---
+
+# Independent Research Project
+
+## Loading Packages
+
+```{r message=FALSE, warning=FALSE}
+install.packages("probemod")
+install.packages("readr")
+install.packages("tidyverse")
+install.packages("ggplot2")
+install.packages("lm.beta")
+install.packages("Hmisc")
+install.packages("modplot")
+install.packages("mediation")
+install.packages("fastDummies")
+install.packages("interactions")
+install.packages("car")
+install.packages("mosaic")
+install.packages("moments")
+install.packages("Hmisc")
+
+```
+
+```{r}
+library(readr)
+library(tidyverse)
+library(ggplot2)
+library(lm.beta)
+library(Hmisc)
+library(mediation)
+library(fastDummies)
+library(interactions)
+library(car)
+library(mosaic)
+library(moments)
+```
+
+## Loading in Dataset
+
+```{r}
+survey_draft <- read_csv("~/202146996/Research Compendium/Appendix/survey_data.csv")
+View(survey_draft)
+```
+
+## Pre-processing steps
+
+Here, since there were two conditions, for one of the conditions (morally valenced transgressions), the data was collected on a scale of 4-8, therefore those responses for those specific columns needed to be recoded for the data to be on a scale of 1-5. Additionally, since the questions were phrased like "I would continue supporting her music" and scored on a scale of 1- strongly disagree to 5- strongly agree, I needed to reverse code these responses to measure willingness to cancel with 1 indicating low willingness to cancel and 5 indicating high willingness to cancel.
+
+There was also an auto-created variable in the dataset called type_transgression which coded which condition the participant was allocated to. The value 0 indicated that they were allocated to the personal mis-behaviour condition and the value 1 meant that they were allocated to the morally valenced condition.
+
+```{r}
+library(readr)
+library(dplyr)
+
+# Read the CSV file
+survey_draft <- read_csv("~/Desktop/survey_draft.csv")
+
+columns_to_reverse <- c('Q101', 'Q103', 'Q104', 'Q105', 'Q106')
+
+# Custom function for reverse coding
+reverse_code1 <- function(x) {
+  case_when(
+    x == 8 ~ 1,
+    x == 7 ~ 2,
+    x == 6 ~ 3,
+    x == 5 ~ 4,
+    x == 4 ~ 5,
+    TRUE ~ NA_real_
+  )
+}
+
+# Reverse code the specified columns
+df_data <- survey_draft %>%
+  mutate(across(all_of(columns_to_reverse), reverse_code1))
+
+
+
+# Specify the columns to reverse code
+columns_to_reverse_code <- c('Q24', 'Q25', 'Q26', 'Q27', 'Q28', 'Q75', 'Q76', 'Q77', 'Q78', 'Q79', 'Q81', 'Q82', 'Q83', 'Q84', 'Q85', 'Q52', 'Q53', 'Q54', 'Q55', 'Q56', 'Q95', 'Q96', 'Q97', 'Q98', 'Q99')
+
+# Custom function for reverse coding
+reverse_code <- function(x) {
+  case_when(
+    x == 1 ~ 5,
+    x == 2 ~ 4,
+    x == 3 ~ 3,
+    x == 4 ~ 2,
+    x == 5 ~ 1,
+    TRUE ~ NA_real_
+  )
+}
+
+# Reverse code the specified columns
+df_data <- df_data %>%
+  mutate(across(all_of(columns_to_reverse_code), reverse_code))
+```
+
+## Creating variables
+
+Here. I created the variable measuring parasociality and degree of investment. These were created by taking an average of all the likert style questions aimed at understanding degree of parasociality and degree of investment
+
+```{r}
+
+# Continue with your existing code
+df_data <- df_data %>%
+  drop_na(Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q11, Q14, Q15, Q16, Q17, Q18, Q19, Q20, Q21) %>%
+  mutate(
+    Q1 = as.numeric(Q1),
+    Q2 = as.numeric(Q2),
+    Q3 = as.numeric(Q3),
+    Q4 = as.numeric(Q4),
+    Q5 = as.numeric(Q5),
+    Q6 = as.numeric(Q6),
+    Q7 = as.numeric(Q7),
+    Q8 = as.numeric(Q8),
+    Q9 = as.numeric(Q9),
+    Q11 = as.numeric(Q11),
+    Q14 = as.numeric(Q14),
+    Q15 = as.numeric(Q15),
+    Q16 = as.numeric(Q16),
+    Q17 = as.numeric(Q17),
+    Q18 = as.numeric(Q18),
+    Q19 = as.numeric(Q19),
+    Q20 = as.numeric(Q20),
+    Q21 = as.numeric(Q21),
+    parasociality = (Q1 + Q2 + Q3 + Q4 + Q5 + Q6 + Q7 + Q8 + Q9) / 9,
+    investment = (Q11 + Q14 + Q15 + Q16 + Q17 + Q18 + Q19 + Q20 + Q21) / 9
+  )
+
+# Check the updated dataframe
+print(df_data)
+```
+
+Since there were two conditions, there were a lot of NA values in all the columns. To combat this, I used the coalesce () function to combine the two rows and eliminate all the NA values.
+
+```{r}
+df_data <- df_data %>%
+  mutate(Q24 = coalesce(as.numeric(Q24), as.numeric(Q52)),
+         Q25 = coalesce(as.numeric(Q25), as.numeric(Q53)),
+         Q26 = coalesce(as.numeric(Q26), as.numeric(Q54)),
+         Q27 = coalesce(as.numeric(Q27), as.numeric(Q55)),
+         Q28 = coalesce(as.numeric(Q28), as.numeric(Q56)),
+         Q75 = coalesce(as.numeric(Q75), as.numeric(Q95)),
+         Q76 = coalesce(as.numeric(Q76), as.numeric(Q96)),
+         Q77 = coalesce(as.numeric(Q77), as.numeric(Q97)),
+         Q78 = coalesce(as.numeric(Q78), as.numeric(Q98)),
+         Q79 = coalesce(as.numeric(Q79), as.numeric(Q99)),
+         Q81 = coalesce(as.numeric(Q81), as.numeric(Q101)),
+         Q82 = coalesce(as.numeric(Q82), as.numeric(Q103)),
+         Q83 = coalesce(as.numeric(Q83), as.numeric(Q104)),
+         Q84 = coalesce(as.numeric(Q84), as.numeric(Q105)),
+           Q85 = coalesce(as.numeric(Q85), as.numeric(Q106)))
+```
+
+Now, with a complete set of data, I could create another variable measuring participants' willingness to cancel by taking an average of all the questions asked to assess participant's willingness to cancel.
+
+```{r}
+df_data <- df_data %>% 
+  mutate(
+ cancellation = (Q24 + Q25 + Q26 + Q27 + Q28 + Q75 + Q76 + Q77 + Q78 + Q79 + Q81 + Q82 + Q83 + Q84 + Q85) / 15)
+```
+
+## Summary Statistics
+
+```{r}
+summary(df_data$parasociality)
+summary(df_data$investment)
+summary(df_data$cancellation)
+```
+
+After conducting summary statistics, I can conclude that there is a high average degree of parasociality and investment in the sample with scores of 3.6 and 3.8 respectively on a Likert scale of 1-5. This can be expected as the sample consisted of Taylor Swift fans that are likely to express a high parasocial relationship and degree of investment with her. The willingness to cancel was relatively lower but still above average with a mean score of 3.2.
+
+## Descriptive Statistics
+
+I then created histograms that displayed the distributions of the three variables: parasociality, investment and willingness to cancel.
+
+### Distribution of Parasociality
+
+```{r}
+df_data %>% 
+  ggplot(aes(x= parasociality)) +
+  geom_histogram(aes(y=..density..), binwidth=.4, colour="black", fill="white") + 
+  geom_density(adjust = 4, alpha = .2, fill = "grey") +
+  geom_vline(aes(xintercept=mean(parasociality)), col="black", linetype="dashed", size=1) + # add a vertical line (vline) at the point (xintercept) of the mean of wellbeing, color it black (col=black) and make it dashed (linetype)
+  ylab("Number of Responses") +
+  xlab("Parasociality")+
+  ggtitle("Distribution of Parasociality in Survey Responses") +
+  theme_minimal(base_size = 8) 
+```
+
+### Distribution of Degree of Investment
+
+```{r}
+df_data %>% 
+  ggplot(aes(x= investment)) +
+  geom_histogram(aes(y=..density..), binwidth=.4, colour="black", fill="white") + 
+  geom_density(adjust = 4, alpha = .2, fill = "grey") +
+  geom_vline(aes(xintercept=mean(investment)), col="black", linetype="dashed", size=1) + # add a vertical line (vline) at the point (xintercept) of the mean of wellbeing, color it black (col=black) and make it dashed (linetype)
+  ylab("Number of Responses") +
+  xlab("Degree of Investment")+
+  ggtitle("Distribution of Investment in Survey Responses") +
+  theme_minimal(base_size = 8) 
+```
+
+### Distribution of Willingness to Cancel
+
+```{r}
+df_data %>% 
+  ggplot(aes(x= cancellation)) +
+  geom_histogram(aes(y=..density..), binwidth=.4, colour="black", fill="white") + 
+  geom_density(adjust = 4, alpha = .2, fill = "grey") +
+  geom_vline(aes(xintercept=mean(cancellation)), col="black", linetype="dashed", size=1) + # add a vertical line (vline) at the point (xintercept) of the mean of wellbeing, color it black (col=black) and make it dashed (linetype)
+  ylab("Number of Responses") +
+  xlab("Willingness to Cancel")+
+  ggtitle("Distribution of Cancellation in Survey Responses") +
+  theme_minimal(base_size = 8) 
+```
+
+## Mediation Analysis
+
+![](images/image-699952776.png){width="697"}
+
+![](images/image-1123498282.png){width="712"}
+
+### **Step 1:** Relationship between Willingness to Cancel and Degree of Parasociality
+
+```{r}
+mediation1 <- lm(cancellation ~ parasociality, data = df_data)
+summary(mediation1)
+```
+
+This indicates a significant negative relationship between parasociality and willingness to cancel of -0.5. This means that higher parasociality indicates a lower willingness to cancel. This supports our first hypothesis.
+
+### Step 2: Relationship between Degree of Investment and Degree of Parasociality
+
+```{r}
+mediation2 <- lm(investment ~ parasociality, data = df_data)
+summary(mediation2)
+```
+
+This indicates a significant high positive relationship between parasociality and degree of investment of 0.9. This means that higher parasociality indicates a higher degree of investment. This makes sense as fans of Taylor Swift are also more likely to invest more time, money and social commitment to things related to her.
+
+### Step 3: The Full Mediation Effect
+
+```{r}
+mediation3 <- lm(cancellation ~ parasociality + investment, data = df_data)
+summary(mediation3)
+```
+
+Since there is still an effect of parasociality on willingness to cancel but not as strong as the previous ones. Therefore this effect has weakened. This indicates a partial mediation effect.
+
+### Step 4: Checking for Statistical Significance
+
+```{r}
+# install.packages("mediation")
+library(mediation)
+results <- mediate(mediation2, mediation3, treat='parasociality', mediator='investment',
+                   boot=TRUE, sims=500)
+summary(results)
+```
+
+-   The total effect is -0.51. This is the total effect of parasociality on willingness to cancel without the mediation of investment
+
+-   The direct effect (ADE) is -0.40. This is the direct effect of parasociality on willingness to cancel taking into account a mediation (indirect effect) of investment.
+
+-   The mediation effect (ACME) of -0.12 is also known as the indirect effect. We can see that all these effects are statistically significant.
+
+Therefore, we can say that degree of investment in a celebrity mediates the effect of degree of parasociality on willingness to cancel.
+
+### Interpretations:
+
+-   Parasociality has a significant negative effect on cancellation, indicating that individuals with stronger parasocial relationships are less likely to cancel Taylor Swift when faced with transgressions.
+
+-   Parasociality also has a significant positive effect on investment, suggesting that individuals with stronger parasocial relationships tend to invest more in Taylor Swift.
+
+-   The mediation analysis reveals that a portion of the relationship between parasociality and cancellation is mediated by investment, indicating that investment partially explains the relationship between parasociality and cancellation.
+
+## Moderation Analysis
+
+![](images/image-427940325.png)
+
+### Step 1: Setting up the linear moderation model
+
+Building the linear model for a test of moderation requires a multiple regression, with a more complex interpretation. In this multiple regression model, I will add the predictor, in this case parasociality, the moderator, in this case the type of transgression, and the parasociality\*type of transgression interaction. The outcome is willingness to cancel.
+
+```{r}
+moderation <- lm(cancellation ~ 1 + parasociality + type_transgression + parasociality*type_transgression, data=df_data)
+summary(moderation)
+```
+
+By interpreting the interaction term, we can understand to what extent the effect of parasociality on willingness to cancel depends on the type of transgression presented (and vice versa). In other words, it tells us whether the predictor variables interact with each other to predict the outcome. **Here we can see that the interaction term has a slope estimate of -0.21, a SE of .10, and a t value of -2.17. This t is larger than 1.96 and, therefore, we can reject the null hypothesis. The relationship between strucutre and exhaustion is moderated by control.**
+
+-   The coefficient for **`type_transgression`** is 0.49152 (p = 0.1816), which is not statistically significant at the 0.05 level. This suggests that the type of transgression alone does not significantly predict cancellation.
+
+-   The coefficient for the interaction term is -0.21904 (p = 0.0302 \*), indicating a significant interaction effect between parasociality and type of transgression.
+
+-   This negative coefficient suggests that the relationship between parasociality and cancellation is moderated by the type of transgression. Specifically, as the level of parasociality increases, the effect of type of transgression on cancellation decreases.
+
+    Incidently, we can also bootstrap the interaction term, as we have been doing with the slope estimates in simple and multiple regression, to get a 95% confidence interval.
+
+```{r}
+mod.boot <- Boot(moderation, f=coef, R = 5000)
+confint(mod.boot, level = .95, type = "norm")
+```
+
+The bootstrapped interaction term has a confidence interval that does not include zero, making it significantly significant.
+
+### Interpretations:
+
+-   The moderation analysis reveals that the relationship between parasociality and cancellation is moderated by the type of transgression.
+
+-   While parasociality has a significant main effect on cancellation, the effect of type of transgression alone is not significant. However, the interaction between parasociality and type of transgression is significant.
+
+-   The negative coefficient for the interaction term suggests that the effect of parasociality on cancellation depends on the type of transgression. As parasociality increases, the impact of type of transgression on cancellation decreases.
+
+    ------------------------------------------------------------------------
+
+## Chat GPT:
+
+-   I used Chat GPT to gain better line-by-line understanding of code presented in the seminar file
+
+-   When faced with errors, I pasted my results and the warning explanation into Chat GPT to understand the source of my mistakes and remedy them.
