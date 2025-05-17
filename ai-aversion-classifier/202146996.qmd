@@ -1,0 +1,564 @@
+---
+title: "MY474 Summative Assignment"
+format: 
+  html:
+    self-contained: true
+    embed-resources: true
+editor: visual
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,      # Hide code output
+  message = FALSE,   # Suppress package messages
+  warning = FALSE,   # Suppress warnings
+  results = "hide"   # Hide printed output unless explicitly asked
+)
+```
+
+```{r package_installation, eval=FALSE, message=FALSE, warning=FALSE, results="hide"}
+options(repos = c(CRAN = "https://cloud.r-project.org/"))
+
+install.packages("haven")
+install.packages("rpart")
+install.packages("dplyr")
+install.packages("rpart.plot")
+install.packages("caret")
+install.packages("ROSE")
+install.packages("performanceEstimation")
+install.packages("tidyverse")
+install.packages("quarto")
+install.packages("knitr")
+install.packages("rmarkdown")  # Quarto still uses some rmarkdown dependencies
+
+```
+
+```{r package_installation_1, eval=FALSE, message=FALSE, warning=FALSE, results="hide"}
+# Load necessary libraries
+library(haven)       # Reading STATA files
+library(dplyr)       # Data manipulation
+library(rpart)       # CART model
+library(rpart.plot)  # Decision tree visualization
+library(caret)     # Model evaluation
+library(ROSE)        # Class balancing if needed
+library(performanceEstimation)       # SMOTE for class balancing
+library(tidyverse)
+library(htmltools)
+```
+
+```{r data, eval=FALSE, message=FALSE, warning=FALSE, results="hide"}
+library(haven)
+# Load the data set
+oxis_data <- haven::read_dta("UKDA-9146-stata/stata/stata14/oxis2019ukda.dta")
+```
+
+```{r variables, eval=FALSE, message=FALSE, warning=FALSE, results="hide"}
+#Defining variables in each group
+common_vars <- c("age", "gender", "eth4", "marstat", 
+                 "impinftv", "impinfrad", "impinfine", "impinfnews", "impenttv", 
+                 "impentrad", "impentppl", "impentine", "relpnews", "reltv", "relrad", 
+                 "relonews", "relsclm", "relsrch", "trmost", "funlit", "intnet", 
+                 "agttry", "agtbet", "aganon", "agcred", "agpriv", "agtdate", "agpdata", 
+                 "agai", "actsport", "actloc", "actunion", "actenv", "actpol", "actchar", 
+                 "actrel", "p_direc", "p_pwill", "p_peop", "p_prun", "p_ptalk", "p_psell", 
+                 "agtwout", "agtfail", "agtbre", "agtfun", "aglerdis", "aglerwant", "agoff", 
+                 "aglereasy", "mob", "mobs", "mobmail2", "mobppix2", "mobspix2", "moblmus2", 
+                 "mobdir2", "mobsns2", "mobtpix2", "mobtrav2", "mobform2", "mobttime", 
+                 "mobvid", "mobstime", "mobfrust", "mobavoid", "mobwast", "mobptime", 
+                 "mobeasy", "moblone", "mobesc", "mobtouch", "mobnews", "mobgamep", 
+                 "moborg", "hhcabsat", "hhtab", "hhgame", "hhtv", "hhwear", "hhstrem", 
+                 "hhpva", "ncomp", "usecomp", "usenet", 
+                 "ageasy", "agfrust", "agimmor", "agaddict", "agexh", 
+                 "agintouch", "agmeet", "agstime", "agpers", "agremv", "agwtime", "agptime", 
+                 "aglonely", "agttime", "agenjoy", "agescape", "agpolite", "agvulg", 
+                 "p_int", "p_party", "p_conmp", "p_pet", "p_buypol", "p_opinf", "p_cmt", 
+                 "p_censor", "p_caresay", "p_hideinf", "p_freesay", "p_efqual", "p_efund", 
+                 "p_efeasy", "p_efgood", "p_power", "p_moresay", "p_kwgov", "p_pubkw", 
+                 "p_clim", "p_immig", 
+                 "dgorig", "edntt", "labfor", "workstudy", "studywork", "workhome", 
+                 "workuse", "workperf", "wad", "wcoll", "wdoc", "wmat", "wdobet", "wgetbet", 
+                 "yrborn", "marstat", "adulthh", "kidhh", "disab", "disabnet", 
+                 "urbrur", "income", "lackcomp", "leftout", "isolate", "agshy", "agoutgo", 
+                 "agnocon", "agsucc", "agown", "agright", "agnoler", "agopp", "agideal", 
+                 "agcare", "agdislife", "aginjus", "agwthink", "agwpay", "frgamb", "frsex")
+
+
+## Internet Users
+current_users_vars <- c("u_acchome", "u_accmob", "u_accsuw", "u_acclib", "u_accfre", 
+                         "usedfir", "u_ability", "hhfast", "cs_bank", "cs_form", "cs_vid", 
+                         "cs_pjt", "cs_heal", "u_snsfb", "u_snsli", "u_snstw", "u_snsdat", 
+                         "u_snspin", "u_snsgoo", "u_snsins", "u_snssna", "u_snsvid", 
+                         "u_snsoth", "u_frstat", "u_frspix", "u_frscmt", "u_frrwri", 
+                         "u_frnfo", "u_frcont", "u_frpcmt", "u_frsper3", "u_frswri3", 
+                         "u_frpriv3", "u_frpol3", "u_frscl3", "u_frslikecom3", "u_frdrop3", 
+                         "u_frups3", "u_frrpcmt3", "u_agwast", "u_agptime", "bl_offy", 
+                         "bl_arg", "u_heasy", "u_gofir", "u_hfam", "u_hsuw", "u_hlib", 
+                         "u_hvorg", "u_htrain", "u_hvid", "u_hother", "u_frattach", 
+                         "u_frim", "u_frsns", "u_frcalls", "u_frrblog", "u_frwblog", 
+                         "u_frsite", "u_frcompl", "u_frfloc", "u_frpprob", "u_time", 
+                         "u_frppix", "u_frrpix", "u_frwri", "u_frpvid", "u_frrvid", 
+                         "u_cmtpr2", "u_cmtser2", "u_cmtusr2", "s_freq", "s_wheng", 
+                         "s_mpt", "s_cg", "s_wro", "s_lern", "s_over", "s_nthk", "s_chek", 
+                         "pn_fam", "pn_pol", "pn_tv", "pn_rad", "pn_fnews", "pn_onews", 
+                         "pn_sns", "pn_srch", "pn_disa", "pn_dif", "pn_conf", "pn_med", 
+                         "u_frogame", "u_frngame", "u_frdlmus", "u_frlmus", "u_frdlvid", 
+                         "u_frwmov", "u_frlpix", "u_frwtv", "u_frpod", "u_frbook", 
+                         "u_comaddr", "u_comdob", "u_compho", "u_comcred", "u_compix", 
+                         "u_fund", "u_frnews", "u_frevent", "u_frsport", "u_frtrav", 
+                         "u_frgoog", "u_frpopnews", "u_ijob", "u_smon", "u_fevent", 
+                         "u_fheal", "u_bmed", "u_metper", "u_pubann", "u_fjob", "u_conrely", 
+                         "u_convirus", "u_conpix", "u_conmus", "u_padd2", 
+                         "u_pshop2", "u_pmed2", "u_pmar2", "u_page2", "u_pprot2","u_hnone", "u_confren",
+                         "u_frfact", "u_frproj", "u_frint", "u_frdiy", "u_lertran", 
+                         "u_lertfree", "u_lertbuy", "u_lertobuy", "u_lerloc", 
+                         "u_lerliv", "u_leroff", "u_leronl", "u_lernneed", "u_lerncost", 
+                         "u_lerntime", "u_lernwher", "u_lernwant", "u_lernwhat", "u_lernint", 
+                         "u_lerprod", "u_lersskil", "u_lercmm", "u_frbuy", "u_frbills", 
+                         "u_frbank", "u_frcomp", "u_frfood", "u_frsell", "locserv", 
+                         "loctax", "govserv", "govtax", "sch", "mp", "policy", "govweb", 
+                         "u_conad", "u_convir", "u_concom", "u_conpay", "u_actad", 
+                         "u_actvirus", "u_actcom", "u_spam", "u_virus", "u_misrep", 
+                         "u_stolen", "u_hate", "u_theft", "u_hack", "u_actpay", "u_actspw", 
+                         "u_actcpw", "u_actsec", "frsport", "frtv", "frread", "frgoout", 
+                         "frcards", "frclass")
+
+
+
+## Never Used Internet
+never_used_vars <- c("n_reint", "n_reacc", "n_recomp", "n_redif", "n_reuseful", "n_reexpen", 
+                     "n_repriv", "n_rebad", "n_renotime", "n_renoint", "n_reusenet", 
+                     "n_retime", "n_reage", "n_relikeme", "n_remoney", "n_redetail", "n_reimp",
+                     "n_agmiss", "n_hpar", "n_hfrien", "n_hpart", "n_hkid", "n_hsib", "n_hlib", 
+                     "n_hcmy", "n_hcoll", "n_hpay", "n_agleftout", "n_agbetnot", "n_agfuture", 
+                     "n_agperbet", "n_hsome", "n_par", "n_frien", "n_part", "n_kid", "n_sib", 
+                     "n_lib", "n_cmy", "n_coll", "n_pay", "n_future", "n_gsave", "n_gfam", 
+                     "n_gint", "n_gtv", "n_gbank", "n_gben", "n_gjob", "ynacc")
+
+## Ex-Users
+ex_user_vars <- c("e_retry", "e_rework", "e_resch", "e_rerec", "e_reacc", "e_rehkid", "e_reintouch",
+                  "e_buysvc", "e_reimpu", "e_reint", "e_remove", "e_recomp", "e_redif", "e_reuseful", 
+                  "e_reexpen", "e_repriv", "e_rebad", "e_renotime", "e_renoint", "e_rehow", 
+                  "e_retime", "e_reage", "e_relikeme", "e_rejob", "e_reimps", "e_renotuse")
+
+
+```
+
+```{r filtering, eval=FALSE, message=FALSE, warning=FALSE, results="hide"}
+#Filtering Data to create Groups
+non_users <- oxis_data %>% 
+  select(all_of(c(common_vars, never_used_vars)))
+
+ex_users <- oxis_data %>% 
+  select(all_of(c(common_vars, ex_user_vars)))
+
+current_users <- oxis_data %>% 
+  select(all_of(c(common_vars, current_users_vars)))
+
+```
+
+```{r current, eval=FALSE, message=FALSE, warning=FALSE, results="hide"}
+#Current Users: Fitting CART model
+
+set.seed(1265)
+
+
+# Prepare Data
+current_users <- oxis_data %>%
+  select(all_of(c(common_vars, current_users_vars))) %>%  
+  drop_na(agai) %>%                                       
+  filter(agai %in% c(1, 2, 4, 5)) %>%                    
+  mutate(
+    agai = factor(ifelse(agai %in% c(1, 2), 1, 0), levels = c(0, 1))
+  ) %>%
+  mutate(agai = relevel(agai, ref = "1"))  # Set AI-Averse (1) as positive class
+
+
+set.seed(1265)
+
+# Train-Test Split (80% Training, 20% Testing)
+train_indices <- sample(1:nrow(current_users), size = 0.8 * nrow(current_users))
+train_data <- current_users[train_indices, ]
+test_data  <- current_users[-train_indices, ]
+
+set.seed(1265)  # Ensure reproducibility
+
+
+table(train_data$agai)
+
+
+# Downsample majority class to match minority class size
+train_data_balanced <- downSample(
+  x = train_data[, -which(names(train_data) == "agai")],  # Features only (exclude 'agai')
+  y = train_data$agai  # Target variable
+)
+
+# Check the new class distribution
+table(train_data_balanced$Class)  # 'Class' is the new target variable name in downSample()
+
+
+cart_model <- rpart(Class ~ . , 
+                         data = train_data_balanced, 
+                         method = "class", 
+                         parms = list(split="information"), # Apply cost matrix
+                         cp = 0.01, 
+                         minsplit = 20, 
+                         minbucket =5)
+
+# Check Complexity Parameter (cp) Table
+printcp(cart_model)
+
+# Prune the Tree
+best_cp <- cart_model$cptable[which.min(cart_model$cptable[, "xerror"]), "CP"] * 0.9
+pruned_cart <- prune(cart_model, cp = best_cp)
+
+# Visualize the Pruned Tree
+rpart.plot(pruned_cart, type = 3, extra = 101, tweak = 1.2)
+
+
+# Model Evaluation on Test Data
+y_pred <- predict(pruned_cart, newdata = test_data, type = "class")
+conf_matrix <- confusionMatrix(y_pred, test_data$agai, positive = "1")
+
+# Print Model Performance Metrics
+print(conf_matrix)
+
+```
+
+```{r ex, eval=FALSE, message=FALSE, warning=FALSE, results="hide"}
+#Ex Users: Tree-Based Model
+#Ex Users
+
+set.seed(1265)
+
+# Prepare Data
+ex_users <- oxis_data %>%
+  select(all_of(c(common_vars, ex_user_vars))) %>%  
+  drop_na(agai) %>%                                       
+  filter(agai %in% c(1, 2, 4, 5)) %>%                    
+  mutate(
+    agai = factor(ifelse(agai %in% c(1, 2), 1, 0), levels = c(0, 1))
+  ) %>%
+  mutate(agai = relevel(agai, ref = "1"))  # Set AI-Averse (1) as positive class
+
+
+set.seed(1265)
+
+# Train-Test Split (80% Training, 20% Testing)
+train_indices <- sample(1:nrow(ex_users), size = 0.8 * nrow(ex_users))
+train_data <- ex_users[train_indices, ]
+test_data  <- ex_users[-train_indices, ]
+
+table(train_data$agai)
+
+
+
+# Downsample majority class to match minority class size
+train_data_balanced <- downSample(
+  x = train_data[, -which(names(train_data) == "agai")],  # Features only (exclude 'agai')
+  y = train_data$agai  # Target variable
+)
+
+# Check the new class distribution
+table(train_data_balanced$Class)  # 'Class' is the new target variable name in downSample()
+
+set.seed(1265)
+
+loss_matrix <- matrix(c(0, 1.5,  # False Negative (1 misclassified as 0) = 1.5
+                        1, 0), # False Positive (0 misclassified as 1) = 1
+                      byrow = TRUE, nrow = 2)
+
+cart_model <- rpart(Class ~ . , 
+                         data = train_data_balanced, 
+                         method = "class", 
+                         parms = list(loss = loss_matrix, split="information"), # Apply cost matrix
+                         cp = 0.015, 
+                         minsplit = 10, 
+                         minbucket =2)
+
+# Check Complexity Parameter (cp) Table
+printcp(cart_model)
+
+# Prune the Tree
+best_cp <- cart_model$cptable[which.min(cart_model$cptable[, "xerror"]), "CP"] * 0.98
+pruned_cart <- prune(cart_model, cp = best_cp)
+
+# Visualize the Pruned Tree
+rpart.plot(pruned_cart, type = 3, extra = 101, tweak = 1.2)
+
+# Predict probabilities instead of class labels
+y_pred_probs <- predict(pruned_cart, newdata = test_data, type = "prob")
+
+# Adjust threshold to classify more as '1' (AI-averse)
+threshold <- 0.5
+
+# Convert probabilities to class labels
+y_pred_adjusted <- ifelse(y_pred_probs[, "1"] > threshold, "1", "0")
+
+# Convert to factor for confusion matrix
+y_pred_adjusted <- factor(y_pred_adjusted, levels = c("0", "1"))
+
+# Confusion matrix
+conf_matrix_adjusted <- confusionMatrix(y_pred_adjusted, test_data$agai, positive = "1")
+print(conf_matrix_adjusted)
+
+
+
+
+```
+
+```{r non, eval=FALSE, message=FALSE, warning=FALSE, results="hide"}
+#Non Users: Tree-Based Model
+#Non Users
+
+set.seed(1267)
+
+# Prepare Data
+non_users <- oxis_data %>%
+  select(all_of(c(common_vars, never_used_vars))) %>%  
+  drop_na(agai) %>%                                       
+  filter(agai %in% c(1, 2, 4, 5)) %>%                    
+  mutate(
+    agai = factor(ifelse(agai %in% c(1, 2), 1, 0), levels = c(0, 1))
+  ) %>%
+  mutate(agai = relevel(agai, ref = "1"))  # Set AI-Averse (1) as positive class
+
+set.seed(1267)
+
+# Train-Test Split (80% Training, 20% Testing)
+train_indices <- sample(1:nrow(non_users), size = 0.8 * nrow(non_users))
+train_data <- non_users[train_indices, ]
+test_data  <- non_users[-train_indices, ]
+
+table(train_data$agai)
+
+# Downsample majority class to match minority class size
+train_data_balanced <- downSample(
+  x = train_data[, -which(names(train_data) == "agai")],  # Features only (exclude 'agai')
+  y = train_data$agai  # Target variable
+)
+
+# Check the new class distribution
+table(train_data_balanced$Class)  # 'Class' is the new target variable name in downSample()
+
+set.seed(1267)
+
+# Define Cost Matrix (Higher penalty for misclassifying AI-Averse (1))
+loss_matrix <- matrix(c(0, 2.5,  # Cost of correctly classifying AI-Pro (0) = 0, Misclassifying AI-Averse (1) = 2.5
+                        1, 0), # Cost of Misclassifying AI-Pro (0) = 1, Correctly classifying AI-Averse (1) = 0
+                      byrow = TRUE, nrow = 2)
+
+
+cart_model <- rpart(Class ~ ., 
+                         data = train_data_balanced, 
+                         method = "class", 
+                         parms = list(loss = loss_matrix, split="information"), # Apply cost matrix
+                         cp = 0.015, 
+                         minsplit = 15, 
+                         minbucket =3)
+
+# Check Complexity Parameter (cp) Table
+printcp(cart_model)
+
+# Prune the Tree
+best_cp <- cart_model$cptable[which.min(cart_model$cptable[, "xerror"]), "CP"] * 0.5
+pruned_cart <- prune(cart_model, cp = best_cp)
+
+# Visualize the Pruned Tree
+rpart.plot(pruned_cart, type = 3, extra = 101, tweak = 1.2)
+
+# Predict probabilities instead of class labels
+y_pred_probs <- predict(pruned_cart, newdata = test_data, type = "prob")
+
+# Adjust threshold to classify more as '1' (AI-averse)
+threshold <- 0.5 
+
+# Convert probabilities to class labels
+y_pred_adjusted <- ifelse(y_pred_probs[, "1"] > threshold, "1", "0")
+
+# Convert to factor for confusion matrix
+y_pred_adjusted <- factor(y_pred_adjusted, levels = c("0", "1"))
+
+# Confusion matrix
+conf_matrix_adjusted <- confusionMatrix(y_pred_adjusted, test_data$agai, positive = "1")
+print(conf_matrix_adjusted)
+
+
+
+```
+
+## Introduction
+
+Advances in AI have huge potential for public good and have already begun to tackle some of the biggest challenges facing our society from speeding up the diagnosis of diseases to making transport more efficient and predicting extreme weather events (GOV UK,2024). To ensure that the benefits of AI are felt across the UK, it is essential to build justified trust in these systems and understand the public’s hopes, expectations and concerns as these technologies develop. Therefore, this report aims to understand the possibility of predicting AI aversion using other behavioral and attitudinal data to invite participants to a focus group.
+
+The OxIS 2019 dataset containing responses from 1818 participants across 689 variables, covering demographics, online behaviors, and digital attitudes was used to assess feasibility of these predictions. Given the breadth of the dataset, machine learning methods, specifically tree-based models were used to identify patterns that may indicate AI aversion, as these are well-suited to inductively gauge patterns from structured survey data.
+
+## Approach to Designing the Model
+
+### Data Structure and Missing Values
+
+The OxIS dataset includes respondents with different levels of internet experience: current internet users, former users, and non-users. Due to the survey’s skip logic, different groups answered different questions, leading to large-scale structured missing values. Simply dropping missing values would discard too much information, while imputing values could introduce bias since the data wasn't missing at random.
+
+To address this, the data was segmented into three groups and separate tree-based models were fit for each group:
+
+-   **Current Users:** Individuals who actively use the internet.
+
+-   **Ex-Users:** Individuals who used the internet in the past but no longer do.
+
+-   **Non-Users:** Individuals who have never used the internet.
+
+Each dataset includes a mix of common questions (asked to all respondents) and group-specific questions (only relevant to that group). This segmentation ensures that we use all available information while maintaining data integrity.
+
+### Choice of Model: Decision Trees (CART)
+
+Rather than parametric models (models with fixed predetermined structure and normality assumptions) like logistic regression, we opted for Classification and Regression Trees (CART) for the following reasons:
+
+-   **No Assumption of Linearity:** Decision trees can model complex, non-linear relationships between predictors. Since in this case, we do not have any information on relationships between variables, it is best not to assume a linear relationship.
+
+-   **Handling of Mixed Data Types:** The dataset contains continuous, binary, and categorical variables; decision trees can process all types in a model without additional transformation.
+
+-   **Robustness to Missing Data:** Even after segmentation, some structured missing values still remained. Decision trees handle missingness better than traditional models by splitting on NA values.
+
+-   **Interpretability:** Decision trees are easily interpretable and visually intuitive, making them accessible to policymakers and stakeholders.
+
+### Defining AI Aversion: Outcome Variable
+
+Since the dataset does not include a direct measure of AI aversion, a proxy variable was required to act as the outcome variable . **“agai”**: *“Artificial Intelligence will bring overall positive benefits for society.”* was used since this closely mirrored the aim of the government to run focus groups involving individuals who think AI is bad for society
+
+This variable was recoded into a binary outcome:
+
+-   **1 (AI-Averse):** Respondents who selected *“Strongly Disagree”* or *“Disagree”*
+
+-   **0 (Pro-AI):** Respondents who selected *“Agree”* or *“Strongly Agree”*
+
+-   *Neutral (“Neither Agree Nor Disagree”) and “Don’t Know” responses were excluded* to maintain a clear dichotomy.
+
+Additionally, respondents with missing values for this variable were removed.
+
+### Model Training
+
+A "decision tree" predicts AI aversion by splitting the dataset into smaller groups based on survey responses. At each step, the model chooses the most important question to divide respondents into AI-averse (1) and Pro-AI (0) groups. This gives you the key questions that would predict AI-aversion. The process continues until further splits no longer improve predictions.
+
+To train our model, we split the dataset into 80% training data and 20% testing data. However, since fewer respondents were AI-averse in the training data (due to the structure of the agai variable), the model initially struggled to detect them and overpredicted pro_AI responses.
+
+-   **Cost-Sensitive Learning:** AI-averse individuals were harder to classify, so we used a loss matrix to assign a higher penalty for misclassifying them. This made the model more sensitive to their identification.
+
+-   **Adjusted Pruning Parameters and Classification Threshold:** Since decision trees naturally grow large and complex, pruning was used to remove branches that added little predictive power and prevent overfitting. Additionally, we lowered the the probability cutoff for predicting AI aversion to increase the likelihood of correctly identifying AI-averse individuals.
+
+While the training dataset was balanced by applying downsampling (reducing the majority class to match the minority class) and cost-sensitive learning (penalizing misclassifications of AI-averse individuals more heavily), the test data was left imbalanced to preserve real-world distributions. This imbalance in the testing data and favouring of capturing AI-Averse individuals will lead to increased sensitivity at the cost of lower specificity and PPV.
+
+### Model Evaluation Metrics
+
+|                                 |                                                                                                                                                                           |
+|-------------------------|----------------------------------------------|
+| **Metric**                      | **Explanation**                                                                                                                                                           |
+| Accuracy                        | The proportion of all predictions that were correct. It provides an overall measure of model performance.                                                                 |
+| Sensitivity                     | The percentage of AI-averse individuals correctly identified. A higher sensitivity means fewer AI-averse respondents are missed.                                          |
+| Specificity                     | The percentage of pro-AI individuals correctly identified. A higher specificity ensures the model does not incorrectly classify too many pro-AI respondents as AI-averse. |
+| Positive Predictive Value (PPV) | The proportion of individuals predicted to be AI-averse who actually are. A higher PPV means the model is making more reliable predictions.                               |
+| Balanced Accuracy               | The average of sensitivity and specificity, ensuring performance is evaluated fairly across both classes, especially when data is imbalanced.                             |
+
+: Table 1. Evaluation Metrics for a Tree-Based Model in the Context of Predicting AI Aversion
+
+## Trained Model Performance
+
+For this task, sensitivity is prioritized over specificity because the goal is to identify AI-averse individuals for focus groups. It is better to slightly overestimate the number of AI-averse individuals (potentially including some false positives) rather than risk missing key participants. Additionally, including some pro-AI participants in a focus group would allow for fruitful discussion and debate.
+
+### Current Internet Users
+
+![Figure 1. Decision Tree for AI Aversion Prediction Among Current Internet Users](decision_tree.png){fig-align="center" width="571"}
+
+|             Metric              | Values |
+|:-------------------------------:|:------:|
+|            Accuracy             | 0.7363 |
+|           Sensitivity           | 0.8065 |
+|           Specificity           | 0.7050 |
+| Positive Prediction Value (PPV) | 0.5495 |
+| Negative Prediction Value (NPV) | 0.8909 |
+|        Balanced Accuracy        | 0.7557 |
+
+: Table 2. Model Performance Metrics for AI Aversion Prediction Among Current Internet Users
+
+The decision tree model for predicting AI aversion among current internet users performed well, with a balanced accuracy of 0.7557 and a relatively high sensitivity (0.8065), meaning the model successfully identifies a large portion of AI-averse individuals. However, it is important to note that a PPV of 0.5495 suggests that while many predicted AI-averse individuals are correctly classified, false positives are present. This suggests the model errs on the side of over-inclusion, which is useful for focus group recruitment but introduces some noise.
+
+**Key Splits in the Decision Tree:**
+
+1.  **Technology Optimism (agtbet -** “Technology is making things better for people like me”)
+
+    -   Respondents who do not believe technology is beneficial are more far more likely to be AI-averse.
+
+2.  **Urban vs Rural Location (urbrur -** "Where do you live?"**)**
+
+    -   People living in rural areas or smaller towns appear more likely to be AI-averse. This suggests that location-based digital divides or access issues might contribute to skepticism toward AI.
+
+3.  **Importance of Online Entertainment (impentine -** "How important is the internet for entertainment?**)**
+
+    -   Individuals who do not find online entertainment useful (\<5) were more likely to be AI-averse.
+
+4.  **Keeping up with technology (agtdate -** “I find it difficult to keep up with new technology”)
+
+    -   Individuals who struggle to keep up with technology are more AI-averse, hinting that perceived complexity and rapid technological change could drive skepticism toward AI.
+
+### Ex Internet Users
+
+![Figure 2. Decision Tree for AI Aversion Prediction Among Ex Internet Users](decision_tree_ex_users.png){fig-align="center" width="425"}
+
+|             Metric              | Values |
+|:-------------------------------:|:------:|
+|            Accuracy             | 0.5622 |
+|           Sensitivity           | 0.8871 |
+|           Specificity           | 0.4173 |
+| Positive Prediction Value (PPV) | 0.4044 |
+| Negative Prediction Value (NPV) | 0.8923 |
+|        Balanced Accuracy        | 0.6522 |
+
+: Table 3. Model Performance Metrics for AI Aversion Prediction Among Ex Internet Users
+
+The decision tree for ex-internet users performed worse than the model for current users, with an accuracy of 56.22%. However, it had very high sensitivity (88.71%), meaning it was highly effective at capturing AI-averse individuals. The trade-off was a lower specificity (41.73%), meaning many pro-AI individuals were misclassified. One of the key challenges with ex-users is that they answered fewer survey questions than both current and non-users as they had only 190 predictor variables as compared to current users (358) and non users (214). This more limited set of features means the model had less information to work with, potentially reducing its overall predictive power and making the tree less stable and more prone to misclassification errors.
+
+Since ex-users have already disengaged from digital technology, their AI aversion may be driven by fewer but stronger factors, compared to current users who engage regularly with the internet.
+
+In terms of key splits, this tree mirrored that of the current users with the added factors of older ex-users and those finding climate change important being more likely to be AI averse.
+
+### Non-Internet Users
+
+![Figure 3. Decision Tree for AI Aversion Prediction Among Non Internet Users](decision_tree_non_users.png){fig-align="center" width="492"}
+
+|             Metric              | Values |
+|:-------------------------------:|:------:|
+|            Accuracy             | 0.6517 |
+|           Sensitivity           | 0.7231 |
+|           Specificity           | 0.6176 |
+| Positive Prediction Value (PPV) | 0.4747 |
+| Negative Prediction Value (NPV) | 0.8235 |
+|        Balanced Accuracy        | 0.6704 |
+
+: Table 4. Model Performance Metrics for AI Aversion Prediction Among Non Internet Users
+
+The non-user model performed better than the ex-user model but worse than the current-user model, achieving an accuracy of 65.17%. and moderate sensitivity (72.31%). Despite this, the trend of low PPV (0.47) continues indicating that some AI-averse predictions may be false positives.
+
+Once again, this model showed similar key splits as the others. For non-users, employment status was another predictor as those outside the labor force (e.g., retired, unemployed) were more likely to be AI-averse. Other factors also included time spent on mobile devices (mobstime), spending time with others for entertainment (impentppl) and privacy concerns (agcred & aganon).
+
+Since non-users do not engage with the internet, it is important to keep in mind that they lack many key behavioral predictors that help identify AI-averse individuals and their attitudes may be more influenced by general technological skepticism rather than direct AI experiences.
+
+## Conclusion
+
+**“Is it feasible to identify AI-averse individuals without directly asking about their attitudes towards AI?”**
+
+Based on the results of the trained decision tree models, this report concludes that it is possible to identify AI-averse individuals using behavioural and attitudinal survey data, but it is important to consider the limitations associated with this approach.
+
+All three models uncovered consistent predictors across different user groups namely technology optimism, urban - rural divides, keeping up with technology, entertainment preferences and demographic factors (age, employment status, year of birth), suggesting that AI aversion is not entirely random but follows an identifiable pattern. Additionally, all models achieved high sensitivity meaning that they were very effective at identifying AI - averse individuals. Moreover, despite class imbalance, all models performed better than chance in distinguishing AI-averse from pro-AI individuals as balanced accuracy ranged from 65.22% (ex-users) to 75.57% (current users), showing that the models learned meaningful patterns.
+
+However, these models also prioritized sensitivity (correctly identifying AI-averse individuals) over specificity (avoiding false positives) which led to low PPV values meaning that a significant proportion of those predicted to be AI-averse may actually be pro-AI, making the predictions less robust. The 'agai' variable that is used as an arbitrary proxy for AI aversion was a general sentiment question about whether AI would bring positive benefits to society. This may not have the best validity as an outcome and AI aversion may manifest differently in different contexts (e.g., privacy concerns, job automation fears), meaning this proxy might not capture all aspects of AI skepticism. Additionally, since this survey was framed around internet use and technology attitudes broadly, it might be better at capturing traditional tech skepticism than AI-specific concerns.
+
+While it is possible to predict AI aversion and the high sensitivity of the models suggests that this method is useful for screening potential AI-averse individuals for focus groups, false positives and added bias must be accounted for. To improve accuracy, this model should be supplemented with additional qualitative validation or tested on different data samples to test for reliability.\
+
+## References
+
+-   GOV.UK (2024). *Public attitudes to data and AI: Tracker survey (Wave 3)*. \[online\] GOV.UK. Available at: https://www.gov.uk/government/publications/public-attitudes-to-data-and-ai-tracker-survey-wave-3/public-attitudes-to-data-and-ai-tracker-survey-wave-3.
+
+## Appendix: All code in this assignment
+
+```{r ref.label=knitr::all_labels(), echo=TRUE, eval=FALSE}
+# this chunk generates the complete code appendix. 
+# eval=FALSE tells R not to run (``evaluate'') the code here (it was already run before).
+```

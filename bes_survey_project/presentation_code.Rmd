@@ -1,0 +1,88 @@
+---
+title: 'MY474 Summative Assignment #2'
+author: "202146996"
+date: "WT 2025"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Research Question and Data {.smaller}
+
+🧠 **Research Question**
+
+-   Can we predict h01 responses – *“**Should environment or economic growth be prioritized?**”* – from other survey items?
+
+📊 **Data** (BES 2019 cross-sectional)
+
+-   h01 (10 point scale) recoded into 3 separate classes:
+    -   Environment Priority (7–10), Middle (4–6) and Growth Priority (0–3)
+
+🧹 **Preprocessing**
+
+-   Dropped variables with \>55% missingness
+
+-   Recoded structural missing values as a new "Not Applicable" class
+
+-   Used SMOTE to balance imbalanced class sizes (\~55% Env, 37% Mid, 8% Growth)
+
+🔎 **Why Multi-Class?**
+  
+-   Binary (env vs. growth) model showed marginally better performance  
+-   But multi-class retained to capture *moderate views* — key for policy nuance
+
+## Modelling Approach & Challenges {.smaller}
+
+-   **XGBoost** used for multi-class prediction  
+    - Handles non-linear patterns & interactions across survey items
+
+-   Challenge:
+    -  Substantial class overlap in PCA space makes preferences hard to distinguish → model fundamentally limited by non-separability
+    -  Class imbalance compounds difficulty (e.g. Growth group rarely separable)
+    -  Replication on BES 2017 confirms similar structure and class entanglement
+
+```{r, echo=FALSE, out.width="80%", fig.align='center'}
+knitr::include_graphics("combined_pca.png")
+
+```
+
+## Results & Interpretations {.smaller}
+
+- Model predicts pro-Environment views reasonably well (Sensitivity ≈ 78%)
+
+- Poor performance on Growth and Middle priorities
+    - Growth group rarely identified (~5% sensitivity; precision also low at 38%)
+    - Middle group inconsistently predicted (~47% sensitivity)
+
+- Strongest predictors include **Green Party affinity, left–right ideology, ethical consumerism and support for income redistribution**
+    - Suggests H01 reflects broader ideological alignment, not just single-issue concern (trend replicated in BES 2017)
+    
+
+```{r, echo=FALSE, out.width="100%", fig.align='center'}
+knitr::include_graphics("results_summary_combined.png")
+```
+
+
+
+
+
+## Conclusions & Implications {.smaller}
+
+
+1. **Model performance reveals class imbalance challenges**
+   - Accurately predicts Environment group (Sensitivity ≈ 78%)
+   - Growth class too small (~8%) for stable learning, even after SMOTE
+   - Top predictors (e.g. Green Party affinity, left–right ideology) support construct validity of H01
+
+2. **Multi-class model retains important nuance**
+   - Binary model simplifies attitudes, but collapses moderates into extremes
+   - Middle category captures ambivalent or conflicted views — key for understanding centrist or swing/undecided voters
+
+3. **Recommendation: Retain H01 in future BES surveys**
+   -  Model cannot reliably recover responses for key subgroups — especially Growth-oriented respondents
+   -  Dropping H01 risks under-representing respondents with economic or moderate priorities, limiting the survey’s ability to capture the full range of public opinion.
+   
+
+

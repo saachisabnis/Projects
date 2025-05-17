@@ -1,0 +1,526 @@
+---
+title: "DS202A - W11+1 Summative"
+author: <25864>
+output: html
+self-contained: true
+---
+
+# Summative 3, DS202A
+
+# Part 1
+
+## Question 1 - Describing the recipe
+
+Describe the recipe outlined above. What is the purpose of each step? Is there anything you would modify?
+
+This recipe focuses on preparing the data for predictive modelling by normalising the variables and converting categorical variables into binary indicators for ease of analysis.
+
+-   The step normalise function creates a specification of a recipe step that normalises all the numeric predictors, scaling them to have a mean of 0 and standard deviation of 1. K means clustering is not scale invariant meaning that results will be skewed by features with larger values. Additionally, it is sensitive to scale and unit independent. Therefore, the predictors must be normalised.
+
+-   Since we have factor predictors in our dataset with categorical variables for e.g. relationship status, converting these factor predictors into dummy variables by using the step_dummy function represents them as binary indicators. This prevents the model from assuming any inherent order among the categories and makes it easier to derive relationships between factors. This is necessary because clustering algorithms usually need numerical inputs.
+
+-   The prep() function then prepares the recipe, applying these specific transformations to the dataset and computing the necessary quantities using the training data to process the recipe.
+
+I would modify the code based on the requirements of future clustering tasks. For example, using the step_filter_missing to filter out columns with more than 5% missing values since some columns have more than 95% NA values. Additionally, since zero variance predictors don't carry any information, we can eliminate them using the step_zv. These can allow the clustering algorithm to focus on more meaningful features, leading to more accurate and interpretable clusters.
+
+Therefore, the code for modification would be as follows:
+
+``` r
+base_recipe <-
+  recipe(~., data = df_okcupid) %>%
+  step_filter_missing(all_numeric_predictors(), threshold=0.05) %>% 
+  step_normalize(all_numeric_predictors()) %>%
+  step_dummy(all_factor_predictors()) %>%
+  step_zv(all_numeric_predictors()) %>% 
+  prep()
+```
+
+## Question 2 - Choosing number of clusters
+
+> If you decided to apply k-means clustering to the data after using this `recipe`, how would you go about choosing the number of clusters? . *(\~ 100 words should be enough)*
+
+The elbow method is a popular method for estimating the optimal number of clusters for k-means clustering. This method calculates the distances between data points and their assigned centroids. The minimised complexity and ability of visualisation of this method makes it easier to notice a clear point of inflection. However, it is also important to note that k-means will be sensitive to outliers and the number of clusters we choose can be intuitive and varied based on the initial placement of the centroids.
+
+The method runs k-means multiple times with different numbers of clusters and computes the within-cluster sum of squares (WCSS) for each. It then plots the WCSS values against the number of clusters. The elbow point in this curve highlights the point wherein adding more clusters would not significantly improve the model.
+
+This is how I employed this method: (code in appendix)
+
+1.  I plotted the WCSS values against the number of clusters in the OkCupid Dataset.
+
+2.  I looked for a change in the slope of the graph (elbow) which was found to be at around 4 clusters.
+
+3.  After this point the graph moves almost parallel to the x-axis
+
+4.  This point reflects the balance between increasing complexity of the model and improving it
+
+5.  Therefore, I picked the ideal number of clusters to be 4
+
+![](elbowplot.png)
+
+## Question 3 - Typical User Profiles
+
+How would you determine what each cluster means? In other words, how would you go about describing the most typical user profile within each cluster? Please provide an explanation for your approach.
+
+Since we have not conducted dimensionality reduction, here we can use exploratory data analysis to gather information surrounding each cluster. To comprehend the meaning of each cluster and describe the most typical user, we can generate summary statistics for data columns, visualising distributions and variable combinations. By using the seed value for reproducibility, we can ensure that when the same code is run multiple times with the same seed, it will produce the same sequence of random numbers each time.
+
+-   Now that I have discovered that 4 clusters are ideal based on my previous analysis using the elbow graph method, I attempted to compute the cluster centroids showing the average values of the selected numerical features such as age, height, drinking, smoking and drug use. These are illustrated on the table below.
+
+|        age |     height |     drinks |     smokes |      drugs | Cluster |
+|-----------:|-----------:|-----------:|-----------:|-----------:|--------:|
+|  0.0692784 | -0.0341639 |  0.1857032 | -0.3657277 | -0.4683277 |       1 |
+| -0.2463954 |  0.1700238 |  0.3757708 | -0.1436030 |  2.0273387 |       2 |
+|  0.2617023 | -0.1066342 | -1.8707495 | -0.3425084 | -0.3898829 |       3 |
+| -0.3727831 |  0.1078351 |  0.4205670 |  2.5284463 |  0.7446052 |       4 |
+
+-   Then, this can be visualised using a bar chart that illustrates the average feature values across clusters, allowing us to understand specific patterns. This helps in revealing information about Ok Cupids's users
+
+![](clustered_data2.png)
+
+Considering the context of the data I examined the features for each cluster:
+
+-   This graph and the descriptive statistics show that Cluster 1 has a younger population which is slightly taller than average, drinks moderately and smokes excessively. In comparison, Cluster 2 has a young popular that drinks a little and is taller than average but does not engage in smoking and minimally in drugs. Cluster 3 is short young people who do not drink, smoke or do drugs. Cluster 4 refers to older people who don't engage in drinking, smoking and drugs.
+
+-   However, it is also important to consider that there may be a high correlation between the drinking, drugs and smoking variables which could be weighing the algorithm more. Therefore, in future analysis it might be useful to just use one of these characteristics.
+
+-   Using this approach to identify characteristics of clusters can help us get closer towards understanding what the most common user types on the dating app are.
+
+#### *Learning moment:*
+
+*I initially used data that wasn't normalised to carry out this analysis. Therefore, my result showed close to no variance between the clusters on the features of drinking, drugs and smoking and only showed large values for height and age. Upon close examination of the data, I realised that this was because the values for those variables were large and the data was not being compared on the same scale. Therefore, the distance calculation did not account for the relative difference between features.*
+
+## Question 4 - Principal Components
+
+-   **Why are there 9 principal components?**
+
+    The number of principal components in a PCA is determined by the dimensionality of the data i.e. the number of features in the data. Each principal component represents a linear combination of the original features and captures a certain amount of variance in the data. In this case, the first principal component captures 18.56% of the variance, the second PC captures 36.72% of the variance and so on. The ninth principal component captures 100% of the variance, therefore we have 9 features in the data, leading to nine principal components
+
+-   **If you were to use k-means clustering on the data now, how many principal components would you consider using? Give reasons for your choice.**
+
+    After running the PCA analysis on my own data, I obtained a different graph as compared to the one presented in the question. This could likely be due to my usage of slightly different pre-processing steps with the dummy variables, or scaling and normalisation of variables. My graph is given below:
+
+![](pca_plot.png)
+
+Determining the number of PCs to use for k-means clustering requires a tradeoff between preserving enough variance as well as reducing dimensionality significantly. Usually, we aim for a number of princiapl components that capture a large amount of variance (approximately 80-90%) (Vasco, 2012). Therefore, we should aim to use around 6 principal components in this case as it captures 88.32% of the variance. This would provide a higher chance that the features retain essential information for the k-means clustering algorithms and improve our modelling.
+
+-   **How would you change the approach to interpreting the clusters? Would you still use the same method you proposed in Question 3? Why or why not?**
+
+    Since we didn't have dimensionality reduction before, we had to resort to exploratory data analysis and k-means clustering. However, PCA allows us to reduce dimensionality in the data. This means that our clusters would be more reliable by eliminating irrelevant features and we can also capture the effects more clearly and understand the contributions of each characteristic to each feature.
+
+I would change my approach in the following way:
+
+-   Based on my previous findings, I chose 6 clusters for my k-means clustering since they captured a significant amount of the variance (around 88.32%). This is the point wherein information is maximised while minimising complexity and computational burden.
+
+![](centroid.png)
+
+This visualisation shows all the clusters grouped together, which means that there isn't significant variation between clusters or that data points are very similar. However, this was expected in this dataset as the type of people on a dating app such as OkCupid are likely to have similar characteristics.
+
+I can examine this in more detail by creating a plot which visualises the contribution of each variable to each PC in the PCA. This has been shown below:
+
+![](plot_df.png)
+
+This plot illustrates the contribution of each feature to the principal components, clarifying the patterns we observed in the other Figures in Questions 3 and 4.
+
+These results are fairly similar to what we observed earlier. However, this method provides a better understanding since it includes additional features such as sex, gay orientation and status which were not considered in the previous bar chart.
+
+-   The most common type of user as shown by PC1 which explains the most variance is a somewhat tall, relatively young straight man, drinks substantially, smokes and does drugs.
+
+-   The second most common user profile appears to be shorter, gay women.
+
+-   Since gay orientation is an unclear, small line we can conclude that it is not a significant predictor.
+
+These patterns are also seen in the scatter plot as groups that are lower down and further to the right in the scatter plot are more representative of PC1 as they consist of young men who smoke, drink, and use drugs. This suggests that individuals in these clusters exhibit similar patterns of behavior related to smoking, drinking, and drug usage. In comparison, the groups that are higher up and more to the left in the scatter plot are more representative of PC2. These clusters consist of young women who are short and identify as homosexual. This indicates that individuals in these clusters share common characteristics related to height and sexual orientation.
+
+These patterns could be because:
+
+-   There are disproportionately more men on dating apps which explains the large, highly similar cluster.
+
+-   Looking through the data manually indicates fewer gay women in the dataset. Since there are not many people with this characteristic, the predominance in PC2 can be due to this similarity grouping them in a statistically significant way.
+
+-   There doesn't seem to be as many distinct PC2s or PC1s i.e not a lot of outliers, so it seems like most people on dating apps in these clusters are pretty similar.
+
+    Note: Another point to consider is that since we have both height as well as both men and women in our dataset, so if we do want a meaningful understanding of height, we would have to normalise men and woman separately or consider the dataset separately for each gender.
+
+# Part 2
+
+*Note: While attempting to use code in this part, my computer crashed multiple times and was unable to handle the RAM required for this task. Therefore, I have resorted to simply describing my explanations and providing bits of code for how I would do this if I could.*
+
+-   **How would you go about analysing the text data? What would you do first?**
+
+I would begin my analysis by loading the essays into my dataset. Since the file would be massive, I might need to trim down the dataset for it to be interpretable. I would then conduct exploratory analysis on the data by exploring the structure of the data and checking the size, format and organisation of the text data. Lastly, I would conduct basic analysis to calculate the average word count and average length of essays to fully explore the data.
+
+To preprocess my data and make it fit for analysis, I would conduct the following functions: (assuming our dataset is titled (df_essays))
+
+1.  Creating a corpus: Firstly, I would build a corpus of text using the quanteda() function as shown below. This would help me later in easier access, retrieval, and manipulation of text data during various analysis stages.
+
+    ``` r
+    corp_essays <- quanteda::corpus(df_essays %>% select(-speech_html), text_field="speech_raw_text")
+    quanteda::docnames(corp_essays) <- df_essays
+    ```
+
+2.  Tokenization: The text can then be split text into individual words or tokens. This would break the text down into manageable units, making it easier to analyse themes and word frequencies. Therefore, we would have lists of broken down essays.
+
+    ``` r
+    tokens_essays <- quanteda::tokens(corp_speeches) %>% 
+    tokens_ngrams(tokens_essays)[[1]]
+    ```
+
+3.  Creating a Document Feature Matrix: We can use dfm to create a column for each unique token and a row for each document. The values in the matrix will be the frequency of each token in each essay. It can then be converted into a dataframe and we can investigate the most common features in this corpus and view the wordclouds generated showing the most frequently used tokens.
+
+    ``` r
+    dfm_essays <- quanteda::dfm(tokens_essays)
+    dfm_as_data_frame <- quanteda::convert(dfm_essays, to="data.frame")
+    dfm_essays %>% quanteda::topfeatures()
+    quanteda.textplots::textplot_wordcloud(dfm_essays)
+    ```
+
+4.  Stopword Removal and Cleaning: By eliminating common words (e.g., 'and', 'the') that do not add much meaning, we can focus on content-specific words. Some essays might contain special characters such as emojis or symbols which do not contribute to the analysis. Additionally, removing punctuation marks such as commas, periods, and apostrophes will help in standardising the text.
+
+    ``` r
+    tokens_essays <- 
+      # Get rid of punctuations
+      quanteda::tokens(corp_essays, remove_punct = TRUE) %>% 
+      # Get rid of stopwords
+      quanteda::tokens_remove(pattern = quanteda::stopwords("and", "the"))
+    ```
+
+5.  Stemming/Lemmatization: Words can be reduced to their root form to standardize text.
+
+6.  Visualisation: We can use visualisation techniques such as wordclouds, histograms and frequency distribution to view the most commonly used tokens in the dataset.
+
+Going forward, we can do multiple interesting analyses on this text data to uncover patterns, view how some answers may be related or predictive of others as well as comprehend the sentiment behind the speech for e.g. the way people answer questions on dating apps. We can conduct LSA (Latent Sentiment Analysis) on each essay to detect specific emotions, opinions, or attitudes that are not explicitly expressed in the text but are implied or latent. For example, to view which emotions certain profiles display or how people attempt to portray themselves online. We can also conduct LDA (Latent Dirichlet Allocation) to do topic modelling to identify common themes or topics and display where the text data clusters for e.g. to see similarities in the ways people answer questions linguistically or to group people on common interests.
+
+-   **What interesting research questions would you pose to the data? Why?**
+
+-   **What techniques (supervised or unsupervised) would you use to analyse the text data? Why?**
+
+It would be interesting to look into cross-correlational questions. i.e how responses to one essay could correlate to how people respond to other prompts. However, this would be made difficult since the data being shuffled makes it challenging to find a direct linkage between essays and individual profiles. Nevertheless, here are some potentially interesting questions:
+
+1.  Based on people's choices in books, movies, TV shows and favourite foods (essay 4), can we identify what they send more time thinking about (essay 6)? This sort of information can be used to advise social media algorithms for providing user-centered targeting or advertising which makes it interesting to understand. However, this is extremely challenging since we are unable to link responses back to individual users.
+
+2.  Looking at essay 1 (What I'm doing with my life), we can extract professions (student, professional, etc). Using sentiment analysis, can we understand how this feeds into their negative or positive tone while speaking about what they are doing? This would help us understand the kinds of jobs that invoke more positive feelings and provide an implicit, unbiased understanding of job satisfaction.
+
+3.  **If people mention that they read books or read generally, does this show that they use better vocabulary or sentence structure in their answers**?
+
+This analysis is interesting as it explores the cognitive association between reading habits and language usage, and can also help us understand how reading might influence writing styles or linguistic capabilities. This could help in looking at whether assessing language proficiency might aid in evaluating the authenticity of profiles and whether language proficiency could impact how individuals are viewed on dating platforms. Additionally, given more data, we could explore whether well-written responses receive more views on dating apps and more successful in terms of matches than others. For example, Van der Zanden (2020) revealed that language errors negatively affect perceptions of social and romantic attraction on dating apps.
+
+To analyse this, we could use both unsupervised methods like topic modeling, semantic analysis, or clustering to identify language patterns related to reading and supervised techniques such as classifiers (e.g., logistic regression, decision trees) to predict whether an essay mentions reading based on specific linguistic features or complexity. This can help us explore potential correlations without directly linking these aspects to specific individuals. This is how I would do this:
+
+1.  Firstly, I would load and isolate the text day for essay 1, tokenising it into words and phrases. Then, I would define a list of keywords related to reading for e.g. ("read", "reading", "books", "literature", "novels") and use pattern matching to identify sentences or phrases that contain these. Regex can be used for this and then these identified phrases and sentences can be aggregated.
+2.  I would then apply text preprocessing steps (i.e. cleaning, lowercasing, tokenization, stopword removal). I would remove stopwords such as "and" and "the" since they are likely to be overused in the dataset but don't provide any real content on explaining our research question.
+3.  I would apply Topic Modelling (LSA) to the extracted sentences to discern language patterns or themes associated with reading mentions. Themes that could come up include: specific genres, literary preferences, words that may appear together or expressive styles in the way people phrase themselves
+4.  Next, I would use word embeddings to explore semantic relationships between vocabulary used in sentences mentioning reading and those that don't and compare vocabulary richness or semantic coherence within reading-related topics against the rest of essay 1 text.
+5.  I can calculate vocabulary metrics for each sentence in essay 1 (for e.g. type-token ratio (indicates use of unique words) or vocabulary size) to identify how complex the vocabulary used is.
+6.  Lastly, I could train a supervised classification model such as a logistic regression or decision tree using vocabulary complexity metrics as features and reading mentions as labels and evaluate the model's performance in understanding whether vocabulary richness differs significantly between sentences mentioning reading and those that don't.
+
+There are several limitations in this study. Linguistic analysis might not capture context or depth of meaning and could overlook nuanced expressions related to reading. For example, in situations where the user uses figurative language such as metaphors or sarcasm, linguistic analysis might not compute this. Findings may also overgeneralize language patterns associated with reading mentions and not provide specifity due to aggregation. Therefore, the analysis might present broad trends that apply to a larger group and be unable to capture individual nuances. Additionally, topic modeling relies on subjective interpretation of the analyst, potentially leading to biases.
+
+------------------------------------------------------------------------
+
+# Chat GPT
+
+-   I used Chat GPT to gain better line-by-line understanding of code presented in the weekly notebooks and lab files
+
+-   When faced with errors, I pasted my results and the warning explanation into Chat GPT to understand the source of my mistakes and remedy them.
+
+-   Chat GPT also helped me in ensuring that my responses were concise, clear and well-presented
+
+# Appendix
+
+Since there was a lot of code that would have impacted the quality of the answer script and I faced errors while attempting to render the file, I have included all the code in the appendix for your reference
+
+## Loading Packages
+
+``` r
+Tidyverse packages we will use 
+library(ggplot2) 
+library(dplyr)
+library(tidyr)
+library(readr)
+library(forcats) library(stringr) library(recipes) library(broom)
+
+Tidymodel packages we will use
+
+library(rsample) 
+library(yardstick) 
+library(parsnip)
+library(recipes)
+library(workflows) 
+library(rpart) 
+library(tune) 
+library(broom)
+library(purrr)
+
+Non-tidymodels packages
+
+library(dbscan) library(knitr)
+```
+
+```         
+## Importing Dataframe
+
+```r, message=FALSE, warning= FALSE
+download.file("https://github.com/rudeboybert/JSE_OkCupid/profiles_revised.csv.zip",
+              dest="profiles_revised.csv.zip")
+
+# Unzip it so we can use a profiles_revised.csv file
+unzip("profiles_revised.csv.zip")
+```
+
+Our dataset contains information about 59,946 users of the dating site OkCupid and includes demographic and lifestyle data, as well as text answers to questions asked by OkCupid.
+
+``` r
+df_okcupid <-read_csv("profiles_revised.csv") %>% 
+  select(sex, orientation, status, age, height, drinks, smokes, drugs) %>% 
+  mutate(status=factor(status,levels=c("not_informed", "single", "available", "seeing someone", "married")),
+         drinks=factor(drinks,levels=c("not_informed", "not_at_all", "rarely", "socially", "often", "very_often", "desperately")),
+         smokes=factor(smokes,levels=c("not_informed", "no", "sometimes", "when drinking", "yes", "trying to quit")),
+         drugs=factor(drugs,levels=c("not_informed", "never", "sometimes", "often"))) %>%
+  mutate(status= as.numeric(status),
+       drinks=as.numeric(drinks),
+       smokes=as.numeric(smokes),
+       drugs=as.numeric(drugs)) %>% 
+  drop_na
+
+kable(head(df_okcupid)) 
+```
+
+``` r
+base_recipe <-
+  recipe(~., data = df_okcupid) %>%
+  step_filter_missing(all_numeric_predictors(), threshold=0.05) %>% 
+  step_normalize(all_numeric_predictors()) %>%
+  step_dummy(all_factor_predictors()) %>%
+  step_zv(all_numeric_predictors()) %>% 
+  prep()
+
+baked_data <- bake(base_recipe, new_data=df_okcupid)
+baked_data %>% 
+  head
+```
+
+``` r
+numerical_columns <- c("age", "height", "drinks", "smokes", "drugs")
+#k means clustering with 4 clusters
+
+set.seed = (1000)
+k = 4
+kmeans_result <- kmeans(baked_data %>% select(all_of(numerical_columns)), centers=k)
+```
+
+``` r
+numerical_columns <- c("age", "height", "drinks", "smokes", "drugs")
+set.seed = (1000)
+k = 4
+
+kmeans_result <- kmeans(baked_data %>% select(all_of(numerical_columns)), centers=k)
+
+cluster_range <- 1:9
+WCSS <- numeric(length(cluster_range))
+
+for (k in cluster_range) {
+  set.seed(1001) # setting seed so results are reproducible
+  kmeans_result <- kmeans(baked_data %>% select(all_of(numerical_columns)), centers=k)
+  WCSS[k-1] <-kmeans_result$tot.withinss
+}
+
+plot <- ggplot() + 
+  geom_line(aes(x=cluster_range,y=WCSS), color= "deeppink") +
+  geom_point(aes(x=cluster_range, y=WCSS), color="blue", size=2) +
+  scale_x_continuous(breaks=seq(1,9,by=1), limits=c(1,9)) +
+  labs(title = "Elbow plot for K-Means Clustering", x= "Number of Clusters", y="Within Cluster Sum of Squares")
+plot
+
+ggsave(filename="elbowplot.png", width=8, height=4)
+```
+
+``` r
+k <- 4
+kmeans_result <- kmeans(baked_data %>% select(all_of(numerical_columns)), centers=k)
+cluster_centroids <- kmeans_result$centers
+cluster_means <- as.data.frame(cluster_centroids)
+kable(cluster_means)
+
+cluster_means$Cluster <-1:k
+cluster_means_long <- tidyr::pivot_longer(cluster_means, cols= -Cluster, names_to= "Feature", values_to = "Mean")
+clustered_data2 <- ggplot(cluster_means_long, aes(x=Feature,y=Mean, fill=as.factor(Cluster))) +
+  geom_bar(stat="identity", position = "dodge") +
+  labs(x="Feature", y="Mean", fill="Cluster") +
+  scale_fill_discrete(name="Cluster") +
+  theme_minimal()
+clustered_data2
+
+ggsave(filename="clustered_data2.png", width=8, height=4)
+```
+
+``` r
+pca_recipe <-
+  recipe(~., data = df_okcupid) %>%
+  step_filter_missing(all_numeric_predictors(), threshold=0.05) %>% 
+  step_normalize(all_numeric_predictors(), skip=FALSE) %>%
+  step_dummy(all_factor_predictors()) %>%
+  step_zv(all_numeric_predictors()) %>% 
+  step_pca(all_numeric_predictors(), num_comp=Inf, keep_original_cols = TRUE) %>% 
+  prep()
+
+pca_complete <- bake(pca_recipe, new_data=df_okcupid)
+pca_complete %>% 
+  select(PC1, PC2) %>% 
+  head
+
+kable(pca_complete %>% head(8))
+```
+
+``` r
+ggplot(pca_complete, aes(PC1, PC2)) +
+  geom_point(alpha=0.3) +
+  ggtitle("Principal Components", subtitle = "2-dimensional representation of our 100+ numeric predictors")
+```
+
+``` r
+kclustcentroid <-
+  pca_complete %>% 
+  select(PC1, PC2) %>% 
+  kmeans(centers=6)
+
+centroidtable <-tidy(kclustcentroid)
+kable (centroidtable)
+```
+
+``` r
+kclustcentre <- augment(kclustcentroid, pca_complete) %>% 
+  ggplot() +
+  geom_point(aes(x=PC1, y=PC2, color=.cluster), alpha=0.3) +
+  geom_point(data = tidy(kclustcentroid), aes(x=PC1, y=PC2), size = 6, shape = "x") + 
+  ggtitle("Cluster Visualisation for Principal Components") +
+  labs(x="Principal Component 1", y= "Principal Component 2")
+  
+  
+
+print(kclustcentre)
+ggsave(filename="centroid.png", width=8, height=4)
+```
+
+``` r
+
+kclusts <- 
+  tibble(k = 1:9) %>%
+  mutate(
+    kclust = map(k, ~kmeans(select(pca_complete, PC1, PC2), .x)),
+    tidied = map(kclust, tidy),
+    glanced = map(kclust, glance),
+    augmented = map(kclust, augment, pca_complete)
+  )
+
+clusters <- 
+  kclusts %>%
+  unnest(cols = c(tidied)) ## look within dataframe
+
+assignments <- 
+  kclusts %>% 
+  unnest(cols = c(augmented))
+
+clusterings <- 
+  kclusts %>%
+  unnest(cols = c(glanced))
+```
+
+``` r
+ggplot(assignments, aes(x = PC1, y = PC2)) +
+  geom_point(aes(color = .cluster), alpha = 0.7) + 
+  facet_wrap(~ k) +
+  geom_point(data = clusters, size = 4, shape = "x")
+```
+
+``` r
+ggplot(clusterings, aes(k, tot.withinss)) +
+  geom_line() +
+  geom_point() +
+  labs(x="Number of Clusters", y= "Within Cluster Sum of Squares")
+```
+
+``` r
+
+pca_step <- pca_recipe %>% tidy() %>% filter(type == "pca") %>% pull(number)
+pca_fit <- pca_recipe$steps[[5]]$res
+
+# the eigenvalues determine the amount of variance explained
+eigenvalues = 
+  pca_fit %>%
+  tidy(matrix = "eigenvalues")
+
+pca_plot <-
+eigenvalues %>%
+  filter(PC <= 9) %>%
+  ggplot(aes(x=PC, y=cumulative)) +
+  geom_col(fill="#C63C4A") +
+  geom_text(aes(label=scales::percent(cumulative, accuracy=0.01)),
+            nudge_y=0.05, fontface="bold", size=rel(4.5)) + 
+  
+  # Customise scales
+  scale_y_continuous(name="Cumulative Explained Variance", 
+                     labels=scales::percent,
+                     limits=c(0, 1), 
+                     breaks=seq(0, 1, 0.2)) +
+  scale_x_continuous(name="Principal Component") +
+  
+  labs(title="Principal Component Analysis on the Ok Cupid Data")
+
+  
+  # Prettify plot a bit
+  theme_bw() +
+  theme(plot.title=element_text(size=rel(1.2)),
+        plot.subtitle = element_text(size=rel(1)),
+        axis.title=element_text(size=rel(1.3)),
+        axis.title.x=element_text(margin=margin(t=10)),
+        axis.title.y=element_text(margin=margin(r=10)),
+        axis.text=element_text(size=rel(1.2)))
+  
+  ggsave(filename="pca_plot.png", width=8, height=4)
+```
+
+```         
+```r fig.width=10, out.width=8, echo=FALSE
+tidied_pca <- tidy(pca_recipe, pca_step)
+
+plot_df <- 
+  tidied_pca %>%
+  filter(component %in% paste0("PC", 1:5)) %>%
+  arrange(desc(abs(value))) %>% 
+  group_by(component) %>% 
+  # Get 10 biggest contributors to this PC
+  slice_head(n=10) %>%
+  mutate(component = fct_inorder(component))
+
+terms_levels <- 
+  plot_df %>% 
+  group_by(terms) %>% 
+  summarise(sum_value=sum(abs(value))) %>% 
+  arrange(sum_value) %>% 
+  pull(terms)
+
+plot_df$terms <- factor(plot_df$terms, levels=terms_levels)
+
+ggplot(plot_df, aes(value, terms, fill = abs(value))) +
+  geom_col() +
+  
+  scale_fill_viridis_c(name="Abs value") +
+  
+  facet_wrap(~component, nrow = 1) +
+  labs(title="Visualisation of which variables contributed to each PC in a PCA", 
+       y = NULL) +
+  # Prettify plot a bit
+  theme_bw() +
+  theme(plot.title=element_text(size=rel(1.2)),
+        plot.subtitle = element_text(size=rel(1)),
+        axis.title=element_text(size=rel(1.3)),
+        axis.title.x=element_text(margin=margin(t=10)),
+        axis.title.y=element_text(margin=margin(r=10)),
+        axis.text.y=element_text(size=rel(1.25)))
+
+ggsave(filename="plot_df.png", width=8, height=4)
+```
+
+## References:
+
+-   Vasco, M. N. C. S. (2012). Permutation tests to estimate significances on Principal Components Analysis. *Computational Ecology and Software*, *2*(2), 103.
+-   Van der Zanden, T., Schouten, A. P., Mos, M. B., & Krahmer, E. J. (2020). Impression formation on online dating sites: Effects of language errors in profile texts on perceptions of profile owners' attractiveness. *Journal of Social and Personal Relationships*, *37*(3), 758-778.

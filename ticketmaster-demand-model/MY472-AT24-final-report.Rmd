@@ -1,0 +1,1533 @@
+---
+title: "Analysing Event Pricing and Distribution: A Data Science Report for Ticketmaster USA"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Prompt:** 3
+
+## Loading Packages
+
+```{r, message = FALSE, warning = FALSE}
+## Loading Packages - set message to FALSE to avoid the pop-up package clash messages
+
+#install.packages("httr")
+#install.packages("jsonlite")
+#install.packages("tidyverse")
+#install.packages("keyring")
+#install.packages("DBI")
+#install.packages("RSQLite")
+#install.packages("readr")
+#install.packages("sf")
+#install.packages("ggplot2")
+#install.packages("rvest")
+#install.packages("dplyr")
+#install.packages("httr")
+#install.packages("plotly")
+#install.packages("htmlwidgets")
+#install.packages("ggrepel")
+
+library("httr") 
+library("jsonlite")
+library("tidyverse")
+library("keyring")
+library("DBI")
+library("RSQLite")
+library("readr")
+library("sf")       
+library("ggplot2") 
+library("rvest")
+library("dplyr")
+library("plotly")
+library("htmlwidgets")
+library("ggrepel")
+```
+
+**ChatGPT/AI disclosure statement:**
+
+I used ChatGPT to debug code, address syntax/NA errors, improve API and SQL queries, and validate the data
+
+```{r, eval=FALSE}
+## Important Instructions for Reproducing Analysis
+
+# To ensure ease of reproducibility, this report provides the processed data in a ready-to-use SQLite database. The original data scraping process via the Ticketmaster API is included in the code for transparency but does not need to be re-executed by the reader. 
+
+# Do NOT run the API data retrieval code block (titled "Get Primary Data: Step 1) unless you specifically wish to scrape the raw data again.
+# The API retrieval code has already been run on Jan 22nd
+# The pre-scraped event data is stored in Google Drive and will be automatically downloaded if missing. 
+# Fetching data from the API involves thousands of requests and is time-consuming due to rate limits. 
+
+# Instead of scraping again, start from the provided SQLite database code block (titled "Get Primary Data: Step 2), which contains the processed event data.
+
+
+#Automatically Download Data from Google Drive:
+#If the required files (CSV, SQLite) are not found locally, the script automatically downloads them from Google Drive.
+#Alternatively, you can manually download them using the following link: https://drive.google.com/drive/folders/15DqYdFKfxjGo4M8ALNLGr1NESapbc9UQ?usp=sharing
+
+
+#Directory Setup for Reproduction: To make the code as portable as possible:
+
+# Ensure your working directory is set to the folder containing the repository.
+# All file paths in the code (e.g., data/ticketmaster_events.sqlite) are relative, so the directory structure should remain intact.
+
+#If you'd like to enable scraping or modify file paths:
+
+#Locate the setup code chunk at the beginning of the document (titled "Get Primary Data: Step 1").
+#Adjust only the specified variables for your environment (e.g., API keys, StartDates or file paths).
+```
+
+## 1. Introduction
+
+For this project, I have utilized the Ticketmaster Discovery API to collect detailed event data across the US for events scheduled in 2025. This data includes event names, locations, ticket pricing, and event categories. To complement this dataset, I have incorporated income statistics from the US Census to provide socioeconomic context.
+
+Assuming the role of a junior data scientist at Ticketmaster, this report addresses a key organizational challenge: optimizing pricing strategies and accurately estimating event demand for specific events. The relevance of this analysis stems from ongoing criticism of Ticketmaster's dynamic pricing model, which has been widely regarded as unaffordable and inaccessible for low-income groups (GOV UK, 2024). Additionally, inaccurate demand forecasting has led to venues being either overbooked or underestimated, resulting in inefficiencies and dissatisfaction among both event organizers and attendees (Rackham, 2022). Furthermore, concerns about high platform fees have led to consumers shifting toward competitors, like AXS.
+
+This report aims to analyze the relation between ticket pricing patterns across US states and state-level income data. It seeks to identify opportunities for Ticketmaster to refine its pricing strategies to balance profitability and affordability, identify underserved markets, and tailor event offerings to regional preferences and income levels. By leveraging this data, Ticketmaster can improve demand forecasting and enhance customer satisfaction.
+
+## 2. Retrieving Primary Data
+
+The primary data for this report was collected using the Ticketmaster Discovery API, which provides detailed information on upcoming events. This dataset includes event details (e.g., names, dates, prices, venues, genres). At time of analysis, data was collected for events in the United States scheduled between January 22, 2025, and December 30, 2025.
+
+To retrieve the data, I made sequential HTTP GET requests with filters for date ranges and location restricted to the US. Given the API's rate limits of 5,000 calls per day and a maximum of 5 requests per second, a delay of 300 milliseconds was added between requests. Additionally, to combat the API's deep paging limitation restricting data retrieval beyond the 1,000th item, pagination was limited to 5 pages, with 200 results per page. The collected data was stored in a CSV file for reproduction and further organized into a SQLite database to handle the large volume of events and enable efficient querying.
+
+```{r, eval=FALSE}
+
+#Get Primary Data:Step 1
+
+#Here eval is set to false since the file takes a long time to knit due to the large size of the data. In case you wish to run this code, you can copy it and paste into a code chunk. If you want to just run the analysis, go to the next code chunk titled "Get Primary Data: Step 2" to download the pre-existing files.
+
+#-----------DO NOT RUN THIS CODE UNLESS YOU WANT TO SCRAPE THE API RESPONSE AGAIN----------->
+
+#Setting API Key
+
+key_name <- "ticketmaster-api-key"
+#key_set(key_name)
+
+# Define API key and base URL
+api_key <- key_get("ticketmaster-api-key")  # Securely fetch your API key
+base_url <- "https://app.ticketmaster.com/discovery/v2/events"
+
+# Helper function to extract values or return NA
+safe_extract <- function(field, default = NA) {
+  if (!is.null(field)) return(field) else return(default)
+}
+
+# Define CSV file path
+csv_file <- "ticketmaster_events.csv"
+
+# Create the CSV file with headers if it doesn't exist
+if (!file.exists(csv_file)) {
+  write.csv(
+    data.frame(
+      Name = character(),
+      URL = character(),
+      Type = character(),
+      StartDate = character(),
+      MinPrice = numeric(),
+      MaxPrice = numeric(),
+      PostalCode = character(),
+      City = character(),
+      State = character(),
+      Country = character(),
+      Address = character(),
+      Segment = character(),
+      Genre = character(),
+      SubGenre = character(),
+      stringsAsFactors = FALSE
+    ),
+    csv_file,
+    row.names = FALSE
+  )
+}
+
+# Initialize variables
+start_date <- as.Date(Sys.Date())  # Start from today
+end_date <- start_date + 7         # Fetch one week of data at a time
+final_end_date <- as.Date("2025-12-30")  # Fetch events till December 30, 2025
+total_fetched <- 0  # Track total number of events fetched
+
+# Loop through date ranges
+while (start_date <= final_end_date) {
+  # Convert dates to ISO 8601 format
+  start_date_time <- paste0(start_date, "T00:00:00Z")
+  end_date_time <- paste0(end_date, "T23:59:59Z")
+  
+  page <- 0  # Reset pagination for each date range
+  
+  repeat {
+    # Set up API parameters
+    params <- list(
+      apikey = api_key,
+      countryCode = "US",
+      size = 200,  # Max results per page
+      sort = "date,asc",
+      startDateTime = start_date_time,
+      endDateTime = end_date_time,
+      page = page
+    )
+    
+    # Make the GET request
+    response <- GET(url = base_url, query = params)
+    
+    # Check if the response is successful
+    if (status_code(response) != 200) {
+      print(paste("Request failed with status code:", status_code(response)))
+      break
+    }
+    
+    # Parse the JSON response
+    raw_content <- content(response, "text", encoding = "UTF-8")
+    data <- tryCatch({
+      fromJSON(raw_content, flatten = TRUE)
+    }, error = function(e) {
+      print(paste("JSON parsing error:", e$message))
+      return(NULL)
+    })
+    
+    # Stop if no events are found
+    if (is.null(data$`_embedded`$events)) {
+      print("No more events found in this date range.")
+      break
+    }
+    
+    # Process events on this page
+    page_events <- data$`_embedded`$events
+    page_data <- lapply(seq_len(nrow(page_events)), function(i) {
+      event <- page_events[i, ]
+      venues <- if (!is.null(event$`_embedded.venues`)) {
+        lapply(event$`_embedded.venues`, function(venue) {
+          data.frame(
+            Name = safe_extract(event$name),
+            URL = safe_extract(event$url),
+            Type = safe_extract(event$type),
+            StartDate = safe_extract(event$dates.start.localDate),
+            MinPrice = safe_extract(event$priceRanges[[1]]$min),
+            MaxPrice = safe_extract(event$priceRanges[[1]]$max),
+            PostalCode = safe_extract(venue$postalCode),
+            City = safe_extract(venue$city.name),
+            State = safe_extract(venue$state.name),
+            Country = safe_extract(venue$country.name),
+            Address = safe_extract(venue$address.line1),
+            Segment = safe_extract(event$classifications[[1]]$segment.name),
+            Genre = safe_extract(event$classifications[[1]]$genre.name),
+            SubGenre = safe_extract(event$classifications[[1]]$subGenre.name),
+            stringsAsFactors = FALSE
+          )
+        })
+      } else {
+        list(data.frame(
+          Name = safe_extract(event$name),
+          URL = safe_extract(event$url),
+          Type = safe_extract(event$type),
+          StartDate = safe_extract(event$dates.start.localDate),
+          MinPrice = safe_extract(event$priceRanges[[1]]$min),
+          MaxPrice = safe_extract(event$priceRanges[[1]]$max),
+          PostalCode = NA,
+          City = NA,
+          State = NA,
+          Country = NA,
+          Address = NA,
+          Segment = safe_extract(event$classifications[[1]]$segment.name),
+          Genre = safe_extract(event$classifications[[1]]$genre.name),
+          SubGenre = safe_extract(event$classifications[[1]]$subGenre.name),
+          stringsAsFactors = FALSE
+        ))
+      }
+      dplyr::bind_rows(venues)
+    })
+    
+    # Combine all events into a single data frame for the page
+    page_df <- dplyr::bind_rows(page_data)
+    
+    ensure_consistent_types <- function(data, reference) {
+  for (col_name in colnames(reference)) {
+    if (col_name %in% colnames(data)) {
+      data[[col_name]] <- as.character(data[[col_name]])
+    } else {
+      # Add missing columns as NA
+      data[[col_name]] <- NA
+    }
+  }
+  return(data)
+}
+    
+   if (file.exists(csv_file)) {
+  # Read existing data
+  existing_data <- read.csv(csv_file, stringsAsFactors = FALSE)
+  
+  # Ensure consistent column types
+  page_df <- ensure_consistent_types(page_df, existing_data)
+  existing_data <- ensure_consistent_types(existing_data, page_df)
+  
+  # Combine and deduplicate data
+  combined_data <- bind_rows(existing_data, page_df) %>%
+    distinct(Name, URL, StartDate, City, State, Genre, SubGenre, .keep_all = TRUE)
+  
+  # Overwrite the CSV file with updated data
+  write.csv(combined_data, csv_file, row.names = FALSE)
+} else {
+  # Write new data to the CSV file
+  write.csv(page_df, csv_file, row.names = FALSE)
+}
+    
+    # Print progress
+    total_fetched <- total_fetched + nrow(page_df)
+    print(paste("Fetched", total_fetched, "unique events so far."))
+    
+    # Update pagination
+    page <- page + 1
+    
+    # Stop if the 1000-event limit is reached or no more pages
+    if (page >= 5 || page >= data$page$totalPages) {
+      print("Reached paging limit or end of data for this range.")
+      break
+    }
+    
+    # Rate limiting: ensure no more than 5 requests per second
+    Sys.sleep(0.3)  # 300ms delay between requests
+  }
+  
+  # Update date range
+  start_date <- end_date + 1
+  end_date <- min(start_date + 6, final_end_date)  # Cap end_date to final_end_date
+}
+
+print("All unique events fetched and written to the CSV file successfully.")
+
+```
+
+## Downloading the Data from Google Drive
+
+```{r, warning= FALSE, message = FALSE}
+
+#Get Primary Data: Step 2
+
+# Define Google Drive Direct Download URLs
+drive_csv_url <- "https://drive.google.com/uc?export=download&id=1RRGhDlSePAF0JRPUt5Hwu6mgGWsAEC-8"
+drive_sqlite_url <- "https://drive.google.com/uc?export=download&id=1Lqrz0XCJ9uVi5wDHNyVhYBzQPje8Y4VH"
+
+# Define local file paths
+csv_file <- "data/ticketmaster_events.csv"
+sqlite_file <- "data/ticketmaster_events.sqlite"
+
+# Create 'data' directory if it doesn't exist
+if (!dir.exists("data")) {
+  dir.create("data")
+}
+
+# Download CSV file from Google Drive if not found locally
+if (!file.exists(csv_file)) {
+  download.file(drive_csv_url, csv_file, mode = "wb")
+  print("CSV file downloaded successfully from Google Drive.")
+}
+
+# Download SQLite database from Google Drive if not found locally
+if (!file.exists(sqlite_file)) {
+  download.file(drive_sqlite_url, sqlite_file, mode = "wb")
+  print("SQLite database downloaded successfully from Google Drive.")
+}
+
+# Connect to SQLite database (creates it if it doesn't exist)
+con <- dbConnect(SQLite(), sqlite_file)
+
+# Check if the database already has the required table
+tables <- dbListTables(con)
+
+if (!"ticketmaster_events_table" %in% tables) {
+  print("No existing table found in SQLite. Creating a new table from CSV.")
+
+  # Read CSV file into R (ensure proper data types)
+  data <- read_csv(csv_file, col_types = cols(
+    Name = col_character(),
+    URL = col_character(),
+    Type = col_character(),
+    StartDate = col_date(format = "%Y-%m-%d"),
+    MinPrice = col_double(),
+    MaxPrice = col_double(),
+    PostalCode = col_character(),
+    City = col_character(),
+    State = col_character(),
+    Country = col_character(),
+    Address = col_character(),
+    Segment = col_character(),
+    Genre = col_character(),
+    SubGenre = col_character()
+  ))
+
+  # Write the CSV data into the SQLite database
+  dbWriteTable(con, "ticketmaster_events_table", data, overwrite = TRUE, row.names = FALSE)
+} 
+
+# Disconnect from the database
+suppressWarnings(dbDisconnect(con))
+
+```
+
+## 3. Retrieving secondary data
+
+To supplement the primary data, I collected state-level median household income data from a publicly accessible Wikipedia page hosting US Census Data. This provides a socioeconomic dimension for analyzing event ticket affordability across states. 2024 census data was unavailable, so median household incomes for 2025 were projected using compound growth.
+
+While scraping, the script checks for existing data to avoid redundant scraping. This secondary data provides insights into affordability trends, helping Ticketmaster identify pricing disparities and improve equitable access to events across states.
+
+```{r}
+
+# Define the Wikipedia URL
+wikipedia_url <- "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_income"
+
+# Function to scrape only relevant data
+scrape_filtered_data <- function(url) {
+  
+  # Read the webpage
+  wikipage <- tryCatch(read_html(url), error = function(e) NULL)
+  
+  # Check if the page loaded
+  if (is.null(wikipage)) {
+    stop("Failed to load webpage")
+  }
+  
+  # Extract and filter the table directly during scraping
+  filtered_data <- wikipage %>%
+    html_elements(xpath = '//*[@id="mw-content-text"]/div[1]/table[2]') %>%
+    html_table(fill = TRUE) %>%
+    .[[1]] %>%  # Extract the first table
+    select(`States and Washington, D.C.`, `2023`, `Growth rate`) %>%  # Select relevant columns
+    filter(!is.na(`States and Washington, D.C.`)) %>% 
+    filter(!is.na(`States and Washington, D.C.`)) %>%  # Remove NA rows
+    filter(!(`States and Washington, D.C.` %in% c("United States", "Washington, D.C.")))  # Remove specific rows
+  # Remove NA rows
+  
+  # Return the filtered data
+  return(filtered_data)
+}
+
+# Scrape the filtered data
+filtered_income_data <- scrape_filtered_data(wikipedia_url)
+
+# Rename the columns to more intuitive names
+filtered_income_data <- filtered_income_data %>%
+  rename(
+    State = `States and Washington, D.C.`,
+    Income_2023 = `2023`,
+    Growth_Rate = `Growth rate`
+  )
+
+# Preprocess the data
+filtered_income_data <- filtered_income_data %>%
+  mutate(
+    Income_2023 = as.numeric(gsub("[\\$,]", "", Income_2023)),  # Remove "$" and "," and convert to numeric
+    Growth_Rate = as.numeric(gsub("[%]", "", Growth_Rate)) / 100  # Remove "%" and convert to decimal
+  )
+
+# Compute Projected_Income_2025 using compound growth formula
+filtered_income_data <- filtered_income_data %>%
+  mutate(Projected_Median_Income_2025 = Income_2023 * (1 + Growth_Rate)^2) %>%
+  select(State, Projected_Median_Income_2025)
+
+# View final processed data
+print(filtered_income_data)
+
+filepath <- "data/filtered_income_table.csv"
+
+# Save the filtered data to a CSV file in the data folder
+write.csv(filtered_income_data, filepath, row.names = FALSE)
+
+```
+
+## 4. Tabular data and Transformation
+
+### Transformation 1: Identifying the Most Popular Event Segment by State
+
+This transformation identifies the most popular event segment by state, providing insights into regional preferences for event types.Ticketmaster can use this data to tailor event promotions and ticket pricing strategies to match consumer demand in each state (for e.g. Music events are most popular in California!).
+
+```{r}
+# Connect to the SQLite database
+db_file <- "data/ticketmaster_events.sqlite"
+con <- dbConnect(SQLite(), db_file)
+
+# SQL query to calculate the most popular segment for each state
+popular_segment_state <- dbGetQuery(con, "
+WITH event_counts AS (
+-- Step 1: Count the number of events for each segment within each state
+    SELECT 
+        State,
+        Segment,
+        COUNT(*) AS event_count
+    FROM ticketmaster_events_table
+    WHERE State IS NOT NULL AND Segment IS NOT NULL -- Exclude rows with NA Values for State & Segment
+      AND Segment != 'Undefined' -- Exclude rows where the Segment is marked as 'Undefined'
+      AND State != 'District of Columbia' -- Exclude Districts for consistency
+    GROUP BY State, Segment
+),
+state_totals AS (
+ -- Step 2: Calculate the total number of events for each state
+    SELECT 
+        State,
+        SUM(event_count) AS total_events
+    FROM event_counts
+    GROUP BY State -- Group by State to calculate total events
+),
+popularity_scores AS (
+-- Step 3: Calculate the relative popularity of each segment within a state
+    SELECT 
+        ec.State,
+        ec.Segment,
+        ec.event_count,
+        st.total_events,
+        ROUND((ec.event_count * 100.0 / st.total_events), 0) AS relative_popularity -- Convert to percentage
+    FROM event_counts ec
+    JOIN state_totals st
+    ON ec.State = st.State -- Join to get total events for each state
+)
+-- Step 4: Select the most popular segment for each state
+SELECT 
+    ps.State,
+    ps.Segment AS Most_Popular_Segment,
+    ps.event_count,
+    ps.total_events,
+    ps.relative_popularity || '%' AS relative_popularity_percentage  -- Append '%' to the value
+FROM popularity_scores ps
+WHERE ps.relative_popularity = (
+    SELECT MAX(relative_popularity)
+    FROM popularity_scores ps2
+    WHERE ps2.State = ps.State -- Ensure we are selecting the most popular segment per state
+)
+GROUP BY ps.State -- Ensure one row per state
+ORDER BY ps.State -- Sort results alphabetically by state
+")
+
+# View the result
+print(head(popular_segment_state, 10))
+
+
+
+```
+
+We can also look at which genres and subgenres are the most popular within these segments.
+
+```{r, warning=FALSE, message=FALSE}
+# SQL Query to find most popular genres and subgenres within each state
+
+popular_genres_state <- dbGetQuery(con, "
+WITH most_popular_segments AS (
+ -- Step 1: Identify the most popular segment for each state
+    SELECT 
+        ps.State,
+        ps.Segment
+    FROM (
+        SELECT 
+            State,
+            Segment,
+            COUNT(*) AS event_count,
+            RANK() OVER (PARTITION BY State ORDER BY COUNT(*) DESC) AS rank
+             -- Rank segments within each state by their event count in descending order
+        FROM ticketmaster_events_table
+        WHERE State IS NOT NULL AND Segment IS NOT NULL
+          AND Segment != 'Undefined'  
+          AND State != 'District of Columbia'
+        GROUP BY State, Segment
+    ) ps
+    WHERE ps.rank = 1 -- Select only the top-ranked segment per state
+),
+genre_subgenre_counts AS (
+-- Step 2: Count events for each genre and subgenre within the most popular segment for each state
+    SELECT 
+        e.State,
+        e.Segment,
+        e.Genre,
+        e.SubGenre,
+        COUNT(*) AS event_count
+    FROM ticketmaster_events_table e
+    JOIN most_popular_segments mps
+      ON e.State = mps.State AND e.Segment = mps.Segment
+       -- Filter data to include only events in the most popular segment for each state
+    WHERE Genre IS NOT NULL
+    GROUP BY e.State, e.Segment, e.Genre, e.SubGenre -- Group by state, segment, genre, and subgenre
+),
+segment_genre_totals AS (
+ -- Step 3: Calculate total event counts for each segment in each state
+    SELECT 
+        State,
+        Segment,
+        SUM(event_count) AS total_segment_events
+    FROM genre_subgenre_counts
+    GROUP BY State, Segment
+),
+popularity_scores AS (
+ -- Step 4: Calculate the relative popularity of each genre and subgenre within the segment
+    SELECT 
+        gsc.State,
+        gsc.Segment,
+        gsc.Genre,
+        gsc.SubGenre,
+        gsc.event_count,
+        sgt.total_segment_events,
+        ROUND((gsc.event_count * 100.0 / sgt.total_segment_events), 0) AS relative_popularity -- Convert to percentage
+    FROM genre_subgenre_counts gsc
+    JOIN segment_genre_totals sgt
+      ON gsc.State = sgt.State AND gsc.Segment = sgt.Segment
+),
+most_popular_genres AS (
+-- Step 5: Rank genres and subgenres within each state and segment by their relative popularity
+    SELECT 
+        ps.State,
+        ps.Segment,
+        ps.Genre,
+        ps.SubGenre,
+        ps.event_count,
+        ps.relative_popularity,
+        RANK() OVER (
+            PARTITION BY ps.State, ps.Segment
+            ORDER BY ps.relative_popularity DESC, ps.event_count DESC, ps.Genre ASC, ps.SubGenre ASC
+            -- Rank by relative popularity, event count, and alphabetically for ties
+        ) AS rank
+    FROM popularity_scores ps
+)
+-- Step 6: Select the most popular genre and subgenre for each state and segment
+SELECT 
+    State,
+    Segment,
+    Genre,
+    SubGenre,
+    event_count,
+    relative_popularity || '%' AS relative_popularity_percentage  -- Append '%' to the value
+FROM most_popular_genres
+WHERE rank = 1 -- Select only the top-ranked genre and subgenre for each state and segment
+ORDER BY State;  -- Sort results alphabetically by state
+")
+
+
+print(head(popular_genres_state, 10))
+```
+
+### Transformation 2: Analyzing Price Tiers
+
+This transformation identifies the dominant price tier (low, medium, or high) for each event segment in each U.S. state. This helps Ticketmaster evaluate price accessibility and optimize pricing strategies to align with demand and affordability.
+
+```{r}
+
+# SQL Query to identify the dominant price tier (low, medium, or high) for each event segment in each U.S. state
+
+price_segment_state <- dbGetQuery(con, "
+WITH PriceData AS (
+ -- Step 1: Calculate the average price for each event
+    SELECT 
+        State,
+        Segment,
+        (CAST(MinPrice AS FLOAT) + CAST(MaxPrice AS FLOAT)) / 2 AS AvgPrice
+         -- Compute the average of minimum and maximum prices
+    FROM ticketmaster_events_table
+    WHERE MinPrice IS NOT NULL AND MaxPrice IS NOT NULL
+     -- Exclude events without price information
+),
+RankedPrices AS (
+  -- Step 2: Categorize average prices into three tiers (Low, Medium, High) within each segment
+    SELECT 
+        State,
+        Segment,
+        AvgPrice,
+        NTILE(3) OVER (PARTITION BY Segment ORDER BY AvgPrice) AS price_group
+         -- Divide the average prices into three equal groups within each segment
+    FROM PriceData
+),
+TierAssignment AS (
+ -- Step 3: Assign a price tier (Low, Medium, High) based on the group number
+    SELECT 
+        State,
+        Segment,
+        CASE 
+            WHEN price_group = 1 THEN 'Low'
+            WHEN price_group = 2 THEN 'Medium'
+            ELSE 'High'
+        END AS price_tier
+        -- Assign descriptive names to each tier
+    FROM RankedPrices
+),
+TierCounts AS (
+  -- Step 4: Count the number of events in each price tier for each state and segment
+    SELECT 
+        State,
+        Segment,
+        price_tier,
+        COUNT(*) AS event_count
+    FROM TierAssignment
+    GROUP BY State, Segment, price_tier
+),
+DominantTier AS (
+ -- Step 5: Identify the dominant price tier for each state and segment
+    SELECT 
+        State,
+        Segment,
+        price_tier AS dominant_price_tier,
+        event_count
+    FROM (
+        SELECT 
+            State,
+            Segment,
+            price_tier,
+            event_count,
+            RANK() OVER (PARTITION BY State, Segment ORDER BY event_count DESC) AS rank
+            -- Rank tiers within each state and segment based on the number of events
+        FROM TierCounts
+    ) ranked
+    WHERE rank = 1
+    -- Select the price tier with the highest event count for each state and segment
+)
+-- Step 6: Final output: dominant price tier for each state and segment
+SELECT 
+    State,
+    Segment,
+    dominant_price_tier,
+    event_count
+FROM DominantTier
+ORDER BY State, Segment;
+")
+
+print(head(price_segment_state, 15))
+
+
+
+```
+
+### Transformation 3: Temporal Trends
+
+This transformation calculates the number of events for each segment (Music, Arts & Theatre, Sports, Miscellaneous) occurring on each day of the week. This can be useful to optimize marketing campaigns for specific days. As expected, most events occur on weekends!
+
+```{r}
+# SQL Query to calculate the number of events for each segment (Music, Arts & Theatre, Sports, Miscellaneous) occurring on each day of the week.
+
+day_of_week_segment <- dbGetQuery(con, "
+SELECT
+-- Step 1: Convert numerical weekday representation into readable day names
+    CASE strftime('%w', StartDate)
+        WHEN '0' THEN 'Sunday'
+        WHEN '1' THEN 'Monday'
+        WHEN '2' THEN 'Tuesday'
+        WHEN '3' THEN 'Wednesday'
+        WHEN '4' THEN 'Thursday'
+        WHEN '5' THEN 'Friday'
+        WHEN '6' THEN 'Saturday'
+    END AS day_of_week,
+    
+    -- Step 2: Count the number of events in each segment by day of the week
+    
+    SUM(CASE WHEN Segment = 'Music' THEN 1 ELSE 0 END) AS event_count_music,
+    SUM(CASE WHEN Segment = 'Arts & Theatre' THEN 1 ELSE 0 END) AS event_count_arts,
+    SUM(CASE WHEN Segment = 'Sports' THEN 1 ELSE 0 END) AS event_count_sports,
+    SUM(CASE WHEN Segment = 'Miscellaneous' THEN 1 ELSE 0 END) AS event_count_miscellaneous
+    
+FROM ticketmaster_events_table
+-- Step 3: Only consider rows with a non-NULL StartDate
+WHERE StartDate IS NOT NULL
+
+-- Step 4: Group results by day of the week
+GROUP BY day_of_week
+
+-- Step 5: Order results in the sequence of days from Monday to Sunday
+ORDER BY CASE strftime('%w', StartDate)
+    WHEN '1' THEN 1  -- Monday
+    WHEN '2' THEN 2  -- Tuesday
+    WHEN '3' THEN 3  -- Wednesday
+    WHEN '4' THEN 4  -- Thursday
+    WHEN '5' THEN 5  -- Friday
+    WHEN '6' THEN 6  -- Saturday
+    WHEN '0' THEN 7  -- Sunday
+END;
+")
+
+print(day_of_week_segment)
+```
+
+We can take this further by looking at the average ticket prices by day of the week.
+
+```{r}
+# SQL Query to calculate average ticket prices by day of the week.
+
+price_of_week_segment <- dbGetQuery(con, "
+SELECT
+-- Step 1: Convert numerical weekday representation into readable day names
+    CASE strftime('%w', StartDate)
+        WHEN '0' THEN 'Sunday'
+        WHEN '1' THEN 'Monday'
+        WHEN '2' THEN 'Tuesday'
+        WHEN '3' THEN 'Wednesday'
+        WHEN '4' THEN 'Thursday'
+        WHEN '5' THEN 'Friday'
+        WHEN '6' THEN 'Saturday'
+    END AS day_of_week,
+    
+    -- Step 2: Calculate the average ticket price for Music events on each day
+    AVG(CASE WHEN Segment = 'Music' THEN (MinPrice + MaxPrice) / 2.0 ELSE NULL END) AS avg_price_music,
+    
+    -- Step 3: Calculate the average ticket price for Arts & Theatre events on each day
+    AVG(CASE WHEN Segment = 'Arts & Theatre' THEN (MinPrice + MaxPrice) / 2.0 ELSE NULL END) AS avg_price_arts,
+    
+     -- Step 4: Calculate the average ticket price for Sports events on each day
+    AVG(CASE WHEN Segment = 'Sports' THEN (MinPrice + MaxPrice) / 2.0 ELSE NULL END) AS avg_price_sports,
+    
+     -- Step 5: Calculate the average ticket price for Miscellaneous events on each day
+    AVG(CASE WHEN Segment = 'Miscellaneous' THEN (MinPrice + MaxPrice) / 2.0 ELSE NULL END) AS avg_price_miscellaneous
+    
+FROM ticketmaster_events_table
+-- Step 6: Filter rows where StartDate, MinPrice, or MaxPrice is NULL
+WHERE StartDate IS NOT NULL AND MinPrice IS NOT NULL AND MaxPrice IS NOT NULL
+
+-- Step 7: Group results by day of the week
+GROUP BY day_of_week
+
+-- Step 8: Order results chronologically from Monday to Sunday
+ORDER BY CASE strftime('%w', StartDate)
+    WHEN '1' THEN 1  -- Monday
+    WHEN '2' THEN 2  -- Tuesday
+    WHEN '3' THEN 3  -- Wednesday
+    WHEN '4' THEN 4  -- Thursday
+    WHEN '5' THEN 5  -- Friday
+    WHEN '6' THEN 6  -- Saturday
+    WHEN '0' THEN 7  -- Sunday
+END;
+")
+
+print(price_of_week_segment)
+```
+
+### Transformation 4: Calculating and Analyzing Affordability by Event Segment
+
+This transformation calculates the average ticket price by state for each segment (Sports, Music, Arts & Theatre). It does this by calculating an affordability index for different event types by comparing average ticket prices to projected state incomes for 2025. This is valuable for Ticketmaster to align ticket pricing with customer affordability.
+
+#### For Sports
+
+```{r}
+# SQL Query to calculate the average ticket price for sports events by state
+sports_prices <- dbGetQuery(con, "
+    WITH sports_prices AS (
+        SELECT
+            State,
+            AVG((MinPrice + MaxPrice) / 2.0) AS avg_ticket_price -- Calculate average ticket price
+        FROM ticketmaster_events_table
+        WHERE Segment = 'Sports' -- Filter for sports events
+        AND MinPrice IS NOT NULL AND MaxPrice IS NOT NULL
+        AND State != 'District of Columbia'
+        AND (MinPrice + MaxPrice) / 2.0 BETWEEN 10 AND 700 -- Exclude unrealistic ticket prices
+        GROUP BY State -- Group by state to calculate state-level averages
+    )
+    SELECT
+        State,
+        avg_ticket_price
+    FROM sports_prices
+    ORDER BY State;
+")
+
+# Join sports ticket prices with state income data and calculate affordability index
+sports_affordability_data <- sports_prices %>%
+    inner_join(filtered_income_data, by = "State") %>%
+    mutate(
+        # Affordability Index: Measures how much of the median household income is needed to buy a sports ticket
+        # Formula: (Average Ticket Price / Median Household Income) * 100
+        # Example: If the affordability index is 3.5, it means that a sports ticket costs 3.5% of the median income in that state
+        affordability_index = round((avg_ticket_price / Projected_Median_Income_2025) * 100, 2), 
+
+        # Categorizing states based on affordability quartiles
+        affordability_category = case_when(
+            affordability_index <= quantile(affordability_index, 0.25) ~ "Most Affordable",  # Bottom 25% (cheapest states)
+            affordability_index <= quantile(affordability_index, 0.75) ~ "Moderately Affordable", # Middle 50%
+            TRUE ~ "Least Affordable" # Top 25% (most expensive states)
+        )
+    )
+
+# Display the first 10 rows
+print(head(sports_affordability_data, 10))
+
+
+
+```
+
+#### For Music
+
+```{r}
+# SQL Query to calculate the average ticket price for music events by state
+music_prices <- dbGetQuery(con, "
+    WITH music_prices AS (
+        SELECT
+            State,
+            AVG((MinPrice + MaxPrice) / 2.0) AS avg_ticket_price -- Calculate average ticket price
+        FROM ticketmaster_events_table
+        WHERE Segment = 'Music' -- Filter for music events
+        AND MinPrice IS NOT NULL AND MaxPrice IS NOT NULL
+        AND State != 'District of Columbia'
+        GROUP BY State -- Group by state to calculate state-level averages
+    )
+    SELECT
+        State,
+        avg_ticket_price
+    FROM music_prices
+    ORDER BY State;
+")
+
+# Join music ticket prices with state income data and calculate affordability index
+music_affordability_data <- music_prices %>%
+    inner_join(filtered_income_data, by = "State") %>%
+    mutate(
+       # Affordability Index: Measures how much of the median household income is needed to buy a music event ticket
+        # Formula: (Average Ticket Price / Median Household Income) * 100
+        # Example: If the affordability index is 3.5, it means that a music ticket costs 3.5% of the median income in that state
+          affordability_index = round((avg_ticket_price / Projected_Median_Income_2025) * 100, 2), 
+        affordability_category = case_when(
+            affordability_index < 0.1 ~ "Highly Affordable",
+            affordability_index >= 0.1 & affordability_index < 0.3 ~ "Moderately Affordable",
+            affordability_index >= 0.3 ~ "Less Affordable"
+        )
+    )
+
+# Print first 10 rows
+print(head(music_affordability_data, 10))
+
+```
+
+#### For Arts & Theatre
+
+```{r}
+# SQL Query to calculate the average ticket price for arts events by state
+
+arts_prices <- dbGetQuery(con, "
+    WITH arts_prices AS (
+        SELECT
+            State,
+            AVG((MinPrice + MaxPrice) / 2.0) AS avg_ticket_price -- Calculate average ticket price
+        FROM ticketmaster_events_table
+        WHERE Segment = 'Arts & Theatre' -- Filter for arts and theatre events
+        AND MinPrice IS NOT NULL AND MaxPrice IS NOT NULL
+        AND State != 'District of Columbia'
+        GROUP BY State -- Group by state to calculate state-level averages
+    )
+    SELECT
+        State,
+        avg_ticket_price
+    FROM arts_prices
+    ORDER BY State;
+")
+
+# Join arts & theatre ticket prices with state income data and calculate affordability index
+arts_affordability_data <- arts_prices %>%
+    inner_join(filtered_income_data, by = "State") %>%
+    mutate(
+      # Affordability Index: Measures how much of the median household income is needed to buy a art event ticket
+        # Formula: (Average Ticket Price / Median Household Income) * 100
+        # Example: If the affordability index is 3.5, it means that a art ticket costs 3.5% of the median income in that state
+        affordability_index = round((avg_ticket_price / Projected_Median_Income_2025) * 100, 2), 
+         # Categorizing states based on affordability quartiles
+        affordability_category = case_when(
+            affordability_index <= quantile(affordability_index, 0.25) ~ "Most Affordable",  # Bottom 25% (cheapest states)
+            affordability_index <= quantile(affordability_index, 0.75) ~ "Moderately Affordable", # Middle 50%
+            TRUE ~ "Least Affordable" # Top 25% (most expensive states)
+        )
+    )
+
+print(head(arts_affordability_data, 10))
+```
+
+### Transformation 5: Analyzing Event Variety and Popularity by Segment
+
+This transformation provides a detailed view of the variety of events, how often they occur, and their relative importance within their categories. This insight can help Ticketmaster identify trends and optimize event offerings.
+
+```{r, warning=FALSE, message = FALSE}
+# SQL Query to calculate the variety of events with improved metric clarity
+variety_events <- dbGetQuery(con, "
+WITH genre_subgenre_counts AS (
+    -- Step 1: Count events for each Genre and SubGenre within each Segment
+    SELECT 
+        Segment,                         
+        Genre,                           
+        SubGenre,                        
+        COUNT(*) AS event_count          -- Total number of events for the specific Genre and SubGenre
+    FROM ticketmaster_events_table
+    WHERE Segment IS NOT NULL 
+      AND Genre IS NOT NULL
+      AND SubGenre IS NOT NULL           -- Filter out entries with undefined or NULL categories
+      AND Segment != 'Undefined'
+      AND Genre != 'Undefined'
+      AND SubGenre != 'Undefined'
+      AND State != 'District of Columbia' 
+    GROUP BY Segment, Genre, SubGenre   
+),
+segment_totals AS (
+    -- Step 2: Calculate the total number of events for each Segment
+    SELECT 
+        Segment,                         
+        SUM(event_count) AS total_segment_events -- Total number of events in this Segment
+    FROM genre_subgenre_counts
+    GROUP BY Segment                    -- Group by Segment to calculate the total events in each category
+),
+popularity_scores AS (
+    -- Step 3: Calculate the relative popularity of each Genre and SubGenre within the Segment
+    SELECT 
+        gsc.Segment,                   
+        gsc.Genre,                     
+        gsc.SubGenre,                  
+        gsc.event_count,                
+        st.total_segment_events,        -- Total events in the Segment for normalization
+        ROUND((gsc.event_count * 100.0 / st.total_segment_events), 2) AS relative_popularity_within_segment -- Convert to percentage
+    FROM genre_subgenre_counts gsc
+    JOIN segment_totals st
+      ON gsc.Segment = st.Segment       -- Join totals to compute relative popularity
+)
+-- Step 4: Select the variety of events with frequencies and relative popularity
+SELECT 
+    Segment,                           
+    Genre,                              
+    SubGenre,                          
+    event_count,                        -- Event count for this Genre and SubGenre
+    relative_popularity_within_segment AS `Relative Popularity within Segment (%)` -- Rename column for clarity
+FROM popularity_scores
+ORDER BY Segment, `Relative Popularity within Segment (%)` DESC; -- Order by Segment and descending popularity
+")
+
+# Print the first 15 rows
+print(head(variety_events, 15))
+
+# Disconnect from the database
+dbDisconnect(con)
+
+
+```
+
+## 5. Use the data
+
+This report aims to use geospatial data to visually represent the collected information. For this, the Census Bureau's shapefile of US states is used.
+
+```{r, warning = FALSE, message = FALSE, quiet=TRUE}
+
+# Reads in the US states shapefile from the US Bureau
+
+# Suppress all messages, warnings, and outputs
+suppressMessages({
+  suppressWarnings({
+    # Reads in the US states shapefile from the US Bureau
+
+    # Define the URL and the destination directory (US Bureau shapefile of US states)
+    states_url <- "https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_state_500k.zip"
+    dest_folder <- "data/shapefiles"  # Destination folder for the shapefiles
+
+    # Create the destination directory if it doesn't exist
+    if (!dir.exists(dest_folder)) {
+      dir.create(dest_folder, recursive = TRUE)
+    }
+
+    # Download the zip file to a temporary location
+    temp_zip <- tempfile(fileext = ".zip")  # Temporary file for the zip
+    download.file(states_url, temp_zip, quiet = TRUE)
+
+    # Unzip the downloaded file into the data/shapefiles folder
+    unzip(temp_zip, exdir = dest_folder)
+
+    # Remove the temporary zip file
+    unlink(temp_zip)
+
+    # Read the shapefile using sf
+    shapefile_path <- file.path(dest_folder, "cb_2018_us_state_500k.shp")
+    us_states <- st_read(shapefile_path, quiet = TRUE)  # Use `quiet = TRUE` for sf
+
+    # Defining filepath to graphs folder in directory
+    graphs <- "graphs"
+  })
+})
+
+
+```
+
+### Graph: Projected Median Household Income by State
+
+```{r, warning = FALSE, message = FALSE}
+# prevents pop-up warnings for geospatial latitude and longitudata
+
+# Clean and match the column names
+us_states_income <- us_states %>%
+  left_join(filtered_income_data, by = c("NAME" = "State")) %>% 
+   filter(NAME != "District of Columbia")  # Exclude "District of Columbia"
+
+
+# Define overlapping states (East Coast and smaller states)
+overlapping_states <- c(
+  "Rhode Island", "Delaware", "Connecticut", "New Jersey", "Maryland", 
+  "Massachusetts", "Vermont", "New Hampshire", "New York", 
+  "Virginia", "Pennsylvania", "Ohio", "Maine"
+)
+
+# Heatmap plotting
+income_plot <- ggplot(data = us_states_income) +
+  geom_sf(aes(fill = Projected_Median_Income_2025), color = "black", size = 0.2) +  # Heatmap
+  coord_sf(xlim = c(-125, -66), ylim = c(24, 50), expand = FALSE) +  # Continental US
+  scale_fill_gradientn(
+    colors = c("#deebf7", "#3182bd", "#08306b"),  # Gradient colors
+    values = scales::rescale(c(60000, 80000, 100000)),  # Income thresholds
+    name = "Median Household\nIncome (USD)",
+    guide = guide_colorbar(
+      barwidth = 15,
+      barheight = 0.5,
+      title.theme = element_text(size = 10),
+      label.theme = element_text(size = 8)
+    )
+  ) +
+  # Labels for larger states (no overlap)
+  geom_sf_text(
+    data = us_states_income %>% filter(!(NAME %in% overlapping_states)),
+    aes(label = NAME),
+    size = 2.5, color = "black"
+  ) +
+  # Labels for overlapping states (with repelled text)
+  geom_text_repel(
+    data = us_states_income %>% filter(NAME %in% overlapping_states),
+    aes(label = NAME, geometry = geometry),
+    stat = "sf_coordinates",
+    size = 2, color = "black",  # Smaller font size
+    force = 0.8,  # Adjust repulsion force for better spacing
+    max.overlaps = 15,  # Allow more labels to be displayed
+    segment.size = 0.3,  # Thin line segments
+    segment.color = "black",  # Line color
+    min.segment.length = 0  # Always show connecting lines
+  ) +
+  theme_minimal() +
+  ggtitle(
+    "US States Heatmap by Median Income (Projected 2025)",
+    subtitle = "Illustrating state-level median household income distribution"
+  ) +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 16),
+    plot.subtitle = element_text(hjust = 0.5, size = 12),
+    legend.position = "bottom",
+    legend.background = element_rect(fill = "white", color = "black"),
+    plot.caption = element_text(hjust = 1, size = 9, color = "gray50"),
+    plot.margin = margin(10, 10, 30, 10)  # Additional bottom margin
+  ) +
+  labs(caption = "Source: US Census Bureau")
+
+print(income_plot)
+
+
+#saving plot to graphs
+ggsave(filename = file.path(graphs, "income_heatmap.png"), plot = income_plot, width = 10, height = 6, dpi = 300)
+
+
+```
+
+### Graphs Based on Affordability
+
+These heatmaps offer visualizations of affordability for sports, music, and arts & theatre events across the US, expressed as the percentage of median household income required to attend events in each state. These heatmaps show affordability disparities, visualizing states with accessible or financially burdensome events to inform pricing. The grey coloured states denote missing data.
+
+```{r, warning = FALSE, message = FALSE}
+
+## Heatmap for US Affordability for Sports Events
+
+# Filter the data for the 50 US states only
+us_states_affordability_sports <- us_states %>%
+  left_join(sports_affordability_data, by = c("NAME" = "State")) %>%
+  filter(NAME %in% state.name)  # Filter for 50 US states only
+
+# Define overlapping states (East Coast small states)
+overlapping_states <- c("Rhode Island", "Delaware", "Connecticut", "New Jersey", "Maryland", 
+                        "Massachusetts", "Vermont", "New Hampshire", "New York", "Virginia", 
+                        "Pennsylvania", "Ohio", "Maine")
+
+# Calculate the global maximum affordability index across all datasets
+global_max_affordability <- max(
+  max(sports_affordability_data$affordability_index, na.rm = TRUE),
+  max(music_affordability_data$affordability_index, na.rm = TRUE),
+  max(arts_affordability_data$affordability_index, na.rm = TRUE)
+)
+
+
+
+
+# Heatmap
+sports_affordability_heatmap <- ggplot(data = us_states_affordability_sports) +
+  geom_sf(aes(fill = affordability_index), color = "black", size = 0.2) +  # Heatmap
+  coord_sf(xlim = c(-125, -66), ylim = c(24, 50), expand = FALSE) +  # Continental US
+  scale_fill_gradient(
+    low = "#fef0d9",  # Light orange
+    high = "#b30000", # Dark red
+    na.value = "gray80", # Gray for missing data
+    name = "Affordability Index (%)",
+    limits = c(0, global_max_affordability)
+  ) + 
+  # Add a custom legend for missing data
+  scale_fill_gradientn(
+    colors = c("#fef0d9", "#b30000"), 
+    na.value = "gray80", 
+    limits = c(0,1),
+    name = "Affordability Index (%)",
+    guide = guide_colorbar(
+      title = "Affordability Index (%)\n(Higher = Less Affordable)",
+      barwidth = 15,
+      barheight = 0.5,
+      label.theme = element_text(size = 8),
+      title.theme = element_text(size = 10)
+    )
+  ) +
+  geom_sf_text(
+    data = us_states_affordability_sports %>% filter(!(NAME %in% overlapping_states)),
+    aes(label = NAME),
+    size = 2,
+    color = "black"
+  ) +
+  geom_text_repel(
+    data = us_states_affordability_sports %>% filter(NAME %in% overlapping_states),
+    aes(label = NAME, geometry = geometry),
+    stat = "sf_coordinates",
+    size = 2,  # Smaller font size for labels
+    color = "black",
+    force = 0.5,  # Slight repulsion force
+    max.overlaps = 15,  # Allow more overlaps
+    segment.size = 0.3,  # Thin line segments
+    segment.color = "black",  # Line color
+    min.segment.length = 0  # Always show lines
+  ) +
+  theme_minimal() +
+  ggtitle(
+    "US States Heatmap by Sports Events Affordability Index",
+    subtitle = "An analysis of affordability by percentage income spent on sports events"
+  ) +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 16, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5, size = 12),
+    legend.position = "bottom",
+    legend.title = element_text(size = 10),
+    legend.text = element_text(size = 8),
+    legend.background = element_rect(fill = "white", color = "black"),
+    plot.caption = element_text(hjust = 1, size = 9, color = "gray50"),
+    plot.margin = margin(10, 10, 30, 10) # Extra bottom margin for visual explanation
+  ) +
+  labs(caption = "Affordability Index: Percentage of median household income required to buy a sports ticket")
+
+
+## Heatmap for US Affordability for Music Events
+
+# Filter the data for the 50 US states only
+us_states_affordability_music <- us_states %>%
+  left_join(music_affordability_data, by = c("NAME" = "State")) %>%
+  filter(NAME %in% state.name)  # Filter for 50 US states only
+
+
+# Plotting Heatmap
+music_affordability_heatmap <- ggplot(data = us_states_affordability_music) +
+  geom_sf(aes(fill = affordability_index), color = "black", size = 0.2) +  # Heatmap
+  coord_sf(xlim = c(-125, -66), ylim = c(24, 50), expand = FALSE) +  # Continental US
+  scale_fill_gradient(
+    low = "#fef0d9",  # Light orange
+    high = "#b30000", # Dark red
+    na.value = "gray80", # Gray for missing data
+    name = "Affordability Index (%)",
+    limits = c(0, 3)
+  ) + 
+  # Add a custom legend for missing data
+  scale_fill_gradientn(
+    colors = c("#fef0d9", "#b30000"), 
+    na.value = "gray80", 
+    name = "Affordability Index (%)",
+    guide = guide_colorbar(
+      title = "Affordability Index (%)\n(Higher = Less Affordable)",
+      barwidth = 15,
+      barheight = 0.5,
+      label.theme = element_text(size = 8),
+      title.theme = element_text(size = 10)
+    )
+  ) +
+  geom_sf_text(
+    data = us_states_affordability_music %>% filter(!(NAME %in% overlapping_states)),
+    aes(label = NAME),
+    size = 2,
+    color = "black"
+  ) +
+  geom_text_repel(
+    data = us_states_affordability_music %>% filter(NAME %in% overlapping_states),
+    aes(label = NAME, geometry = geometry),
+    stat = "sf_coordinates",
+    size = 2,  # Smaller font size for labels
+    color = "black",
+    force = 0.5,  # Slight repulsion force
+    max.overlaps = 15,  # Allow more overlaps
+    segment.size = 0.3,  # Thin line segments
+    segment.color = "black",  # Line color
+    min.segment.length = 0  # Always show lines
+  ) +
+  theme_minimal() +
+  ggtitle(
+    "US States Heatmap by Music Events Affordability Index",
+    subtitle = "An analysis of affordability by percentage income spent on music events"
+  ) +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 16, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5, size = 12),
+    legend.position = "bottom",
+    legend.title = element_text(size = 10),
+    legend.text = element_text(size = 8),
+    legend.background = element_rect(fill = "white", color = "black"),
+    plot.caption = element_text(hjust = 1, size = 9, color = "gray50"),
+    plot.margin = margin(10, 10, 30, 10) # Extra bottom margin for visual explanation
+  ) +
+  labs(caption = "Affordability Index: Percentage of median household income required to buy a music event ticket")
+
+## Heatmap for US Affordability for Art Events
+
+# Filter the data for the 50 US states only
+us_states_affordability_arts <- us_states %>%
+  left_join(arts_affordability_data, by = c("NAME" = "State")) %>%
+  filter(NAME %in% state.name)  # Filter for 50 US states only
+
+# Heatmap Plotting
+arts_affordability_heatmap <- ggplot(data = us_states_affordability_arts) +
+  geom_sf(aes(fill = affordability_index), color = "black", size = 0.2) +  # Heatmap
+  coord_sf(xlim = c(-125, -66), ylim = c(24, 50), expand = FALSE) +  # Continental US
+  scale_fill_gradient(
+    low = "#fef0d9",  # Light orange
+    high = "#b30000", # Dark red
+    na.value = "gray80", # Gray for missing data
+    name = "Affordability Index (%)",
+    limits = c(0, 3)
+  ) + 
+  # Add a custom legend for missing data
+  scale_fill_gradientn(
+    colors = c("#fef0d9", "#b30000"), 
+    na.value = "gray80", 
+    name = "Affordability Index (%)",
+    guide = guide_colorbar(
+      title = "Affordability Index (%)\n(Higher = Less Affordable)",
+      barwidth = 15,
+      barheight = 0.5,
+      label.theme = element_text(size = 8),
+      title.theme = element_text(size = 10)
+    )
+  ) +
+  geom_sf_text(
+    data = us_states_affordability_arts %>% filter(!(NAME %in% overlapping_states)),
+    aes(label = NAME),
+    size = 2,
+    color = "black"
+  ) +
+  geom_text_repel(
+    data = us_states_affordability_arts %>% filter(NAME %in% overlapping_states),
+    aes(label = NAME, geometry = geometry),
+    stat = "sf_coordinates",
+    size = 2,  # Smaller font size for labels
+    color = "black",
+    force = 0.5,  # Slight repulsion force
+    max.overlaps = 15,  # Allow more overlaps
+    segment.size = 0.3,  # Thin line segments
+    segment.color = "black",  # Line color
+    min.segment.length = 0  # Always show lines
+  ) +
+  theme_minimal() +
+  ggtitle(
+    "US States Heatmap by Arts Events Affordability Index",
+    subtitle = "An analysis of affordability by percentage income spent on art & theatre events"
+  ) +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 16, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5, size = 12),
+    legend.position = "bottom",
+    legend.title = element_text(size = 10),
+    legend.text = element_text(size = 8),
+    legend.background = element_rect(fill = "white", color = "black"),
+    plot.caption = element_text(hjust = 1, size = 9, color = "gray50"),
+    plot.margin = margin(10, 10, 30, 10) # Extra bottom margin for visual explanation
+  ) +
+  labs(caption = "Affordability Index: Percentage of median household income required to buy a art event ticket")
+
+print(sports_affordability_heatmap)
+print(music_affordability_heatmap)
+print(arts_affordability_heatmap)
+
+
+# Save Affordability Heatmaps
+ggsave(file.path(graphs, "sports_affordability_heatmap.png"), width = 10, height = 6, dpi = 300)
+ggsave(file.path(graphs, "music_affordability_heatmap.png"), width = 10, height = 6, dpi = 300)
+ggsave(file.path(graphs, "arts_affordability_heatmap.png"), width = 10, height = 6, dpi = 300)
+
+```
+
+### Graph: Most Popular Segment by State
+
+```{r, warning= FALSE, message = FALSE}
+# Merge the shapefile with the most popular segment data
+us_states_segments <- us_states %>%
+  left_join(popular_segment_state, by = c("NAME" = "State"))
+
+# Plot the map with the most popular segment categories
+popular_segment_plot <- ggplot(data = us_states_segments) +
+  geom_sf(aes(fill = Most_Popular_Segment), color = "black", size = 0.2) + # Color by Segment (categorical)
+  coord_sf(xlim = c(-125, -66), ylim = c(24, 50)) + # Continental US
+  scale_fill_brewer(palette = "Set2", name = "Most Popular Segment") + # Categorical color scale
+  geom_sf_text(aes(label = NAME), size = 2, color = "black") + # Add state names
+  theme_minimal() +
+  ggtitle("US States by Most Popular Segment") +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 16, face = "bold"),
+    legend.position = "right"
+  ) +
+  labs(caption = "Source: Event Data")
+
+popular_segment_plot
+
+ggsave(file.path(graphs, "popular_segment_plot.png"), width = 10, height = 6, dpi = 300)
+```
+
+#### Graphs: Genre Segmentation
+
+These visualizations present the top event genres across Sports, Music, and Arts & Theatre segments, offering insights into audience preferences and market trends and showcasing event popularity and distribution through different chart types.
+
+```{r, warning = FALSE, message = FALSE}
+# Graphs for Top Event Genres for each Segment in Ticketmaster Event Data
+
+## FOR SPORTS EVENTS
+
+
+sports_genres_top <- variety_events %>%
+  filter(Segment == "Sports") %>%
+  group_by(Genre) %>%
+  summarise(Total_Events = sum(event_count), .groups = "drop") %>% 
+  top_n(10, Total_Events) %>%
+  arrange(desc(Total_Events))
+
+# Create the pie chart
+sports_chart <- plot_ly(
+  data = sports_genres_top,
+  labels = ~Genre,
+  values = ~Total_Events,
+  type = "pie",
+  textinfo = "percent+label",  # Show percentage and label on each slice
+  hoverinfo = "label+value+percent",  # Show detailed info on hover
+  marker = list(
+    colors = c("#4E79A7", "#A0CBE8", "#F28E2B", "#FFBE7D", "#59A14F", 
+               "#8CD17D", "#B6992D", "#F1CE63", "#E15759", "#FF9D9A"),  # selected colours
+    line = list(color = "white", width = 1.5)  # White borders for distinction
+  )
+) %>%
+  layout(
+    title = list(
+      text = "<b>Top Event Genres in Sports Segment</b>",
+      x = 0.5,  # Center-align title
+      font = list(size = 18, family = "Arial, sans-serif", color = "#4E4E4E")
+    ),
+    margin = list(t = 80, b = 40, l = 40, r = 40),  # Adjust margins for a clean layout
+    showlegend = FALSE,  # Hide the legend for clarity
+    font = list(family = "Arial, sans-serif", color = "#4E4E4E")  # Apply consistent font styling
+  )
+
+# Display the refined pie chart
+sports_chart
+
+#FOR MUSIC EVENTS:
+
+music_genres <- variety_events %>%
+  filter(Segment == "Music") %>%
+  group_by(Genre) %>%
+  summarise(Total_Events = sum(event_count), .groups = "drop") %>% 
+  top_n(10, Total_Events) %>%
+  arrange(desc(Total_Events))
+
+# Assign categories for coloring based on Total_Events
+music_genres <- music_genres %>%
+  mutate(
+    color_category = case_when(
+      Total_Events > 5000 ~ "dark_blue",
+      Total_Events > 1000 ~ "medium_blue",
+      TRUE ~ "light_blue"
+    )
+  )
+
+# Updated bar chart with manual coloring
+music_chart <- ggplot(music_genres, aes(x = reorder(Genre, -Total_Events), y = Total_Events, fill = color_category)) +
+  geom_bar(stat = "identity", width = 0.8) +  # Adjust bar width
+  geom_text(aes(label = Total_Events), vjust = -0.5, size = 4, color = "black") +  # Add text labels
+  scale_fill_manual(
+    values = c(
+      "dark_blue" = "#003366",   # Dark blue
+      "medium_blue" = "#0073e6", # Medium blue
+      "light_blue" = "#a1d0ff"   # Light blue
+    ),
+    name = "Event Category"
+  ) +
+  scale_y_continuous(limits = c(0, 10000), expand = c(0, 0)) +  # Set Y-axis to 10,000
+  labs(
+    title = "Top Event Genres in Music Segment",
+    subtitle = "A breakdown of the most popular music event genres by total events",
+    x = "Genre",
+    y = "Total Events",
+    caption = "Source: Ticketmaster Data"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 18, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5, size = 14, margin = margin(b = 10)),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
+    axis.text.y = element_text(size = 12),
+    axis.title = element_text(size = 14, face = "bold"),
+    legend.position = "none",  # Remove legend
+    plot.margin = margin(30, 20, 50, 20)  # Add balanced margins
+  )
+
+# Display the chart
+music_chart
+
+#### FOR ARTS AND THEATRE EVENTS
+
+# Data for the art genre
+
+arts_genres_top <- variety_events %>%
+  filter(Segment == "Arts & Theatre") %>%
+  group_by(Genre) %>%
+  summarise(Total_Events = sum(event_count), .groups = "drop") %>% 
+  top_n(10, Total_Events) %>%
+  arrange(desc(Total_Events))
+
+
+# Create Chart
+arts_plot <- ggplot(arts_genres_top, aes(y = reorder(Genre, Total_Events), x = Total_Events)) +
+  geom_segment(aes(yend = Genre, x = 0, xend = Total_Events), color = "grey") +
+  geom_point(size = 5, aes(
+    color = Total_Events,
+    text = paste("Genre:", Genre, "<br>Total Events:", Total_Events)
+  )) +  # Add 'text' for interactive tooltips
+  scale_color_viridis_c() +
+  labs(
+    title = "Top Event Genres in Arts Segment",
+    x = "Total Events",
+    y = "Genre",
+    caption = "Source: Ticketmaster Data"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 18, face = "bold"),
+    axis.text.y = element_text(size = 12),
+    legend.position = "none"
+  )
+
+# Convert ggplot to plotly with tooltips
+arts_plot <- ggplotly(arts_plot, tooltip = "text")
+
+# Display the interactive chart
+arts_plot
+
+
+saveWidget(sports_chart, file = file.path(graphs, "sports_chart.html"))
+saveWidget(arts_plot, file = file.path(graphs, "arts_plot.html"))
+ggsave(file.path(graphs, "music_chart.png"), plot = music_chart, width = 10, height = 6, dpi = 300)
+
+
+```
+
+## 6. Data and Output Storage
+
+1.  The Raw Data (ticketmaster event data and wikipedia data) are stored as **CSV files** in Google Drive. These files are dynamically downloaded before processing. Here's the access link -<https://drive.google.com/drive/folders/15DqYdFKfxjGo4M8ALNLGr1NESapbc9UQ?usp=sharing>
+
+2.  All cleaned and analyzed datasets (e.g., affordability indices, event metrics) are stored in an **SQLite database** (`ticketmaster_events.sqlite`), which is also hosted on Google Drive. The script will automatically download this database if it is not present locally.
+
+3.  Generated visualizations, including static images (`.png`) and interactive visualizations (`.html`), are stored in the **graphs** folder within this repository. These outputs are saved locally after running the analysis.
+
+Further details are in the README file
+
+## References
+
+-   Rackham, Annabel. "Ticketmaster Demand-Based Pricing System Criticised." *BBC News*, 10 Oct. 2022, www.bbc.co.uk/news/entertainment-arts-62919634.
+
+-   "CMA Launches Investigation into Ticketmaster over Oasis Concert Sales." *GOV.UK*, 4 Sept. 2024, www.gov.uk/government/news/cma-launches-investigation-into-ticketmaster-over-oasis-concert-sales.

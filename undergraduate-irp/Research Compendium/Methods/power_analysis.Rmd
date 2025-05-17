@@ -1,0 +1,23 @@
+---
+title: "Power Analysis"
+output: html_notebook
+---
+
+
+# Downloading Packages
+
+```{r}
+library(pwr)
+install.packages(pwr.t2n.test)
+```
+
+## Power Analysis for correlations and regression
+
+Here, for this study, we can use the power analysis for a correlation to identify how many people to include in our study for it to have a power of 0.8.
+Since, using an effect size of 0.25 is standard practice in psychological research, I will use this for my power analysis. 
+
+
+```{r}
+pwr.r.test(r = .25, sig.level = .05, power =.80)
+```
+These results show that in order to that to achieve the desired power level of 0.80 at a significance level of 0.05 with the specified effect size of 0.2 for correlation, the study requires a sample size of 122 participants.

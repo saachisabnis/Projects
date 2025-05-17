@@ -1,0 +1,963 @@
+---
+title: "Exercise2code"
+format: html
+editor: visual
+---
+
+# Loading Packages
+
+```{r}
+# install.packages("haven")
+# install.packages("rpart")
+# install.packages("dplyr")
+# install.packages("rpart.plot")
+# install.packages("caret")
+# install.packages("ROSE")
+# install.packages("performanceEstimation")
+# install.packages("tidyverse")
+# install.packages("quarto")
+# install.packages("knitr")
+# install.packages("rmarkdown")  # Quarto still uses some rmarkdown dependencies
+```
+
+# Loading Libraries
+
+```{r package_installation_1, eval=FALSE, message=FALSE, warning=FALSE, results="hide"}
+# Load necessary libraries
+library(haven)       # Reading STATA files
+library(dplyr)       # Data manipulation
+library(rpart)       # CART model
+library(rpart.plot)  # Decision tree visualization
+library(caret)     # Model evaluation
+library(ROSE)        # Class balancing if needed
+library(performanceEstimation)       # SMOTE for class balancing
+library(tidyverse)
+library(htmltools)
+```
+
+# Data Loading and Cleaning
+
+```{r}
+# Load the data set
+survey_data <- haven::read_dta("bes_rps_2019_1.3.0.dta")
+```
+
+# Removed values with excessive missingness
+
+```{r}
+# Step 2: Remove variables with more than 55% missingness
+missing_percent <- sapply(survey_data, function(x) mean(is.na(x)) * 100)
+keep_vars <- names(missing_percent[missing_percent <= 55])
+survey_data_clean <- survey_data %>% select(all_of(keep_vars))
+```
+
+```{r}
+table(survey_data$country)
+```
+
+### Column Based Removal of Values
+
+```{r}
+# List of columns to remove
+cols_to_remove <- c(
+  "y07", "a01", "a01_code", "a02", 
+  "y48_1", "y48_2", "y48_3", "y48_4", "y48_5", "y48_6",
+  "agency", "n04a", "y47", "y22", "y23", 
+  "Interview_Date", "ns_sec", "ns_sec_analytic", "finalserialno", 
+  "a01", "k04", "Age", "y45", "y46a", "followup1", "followup2",
+ "LA_UA_Code", "interviewer", "pano", "i01_5", "Y10A", "Y10B1", "Y10B2", 
+  "Y10B3", "Y10B4", "Y10B5","Q18_CSES","Q17_CSES", "wt_vote_f2f","wt_demog_f2f", "wt_vote_cses","wt_demog_cses",  "wt_demog", "wt_sel_wt","wt_vote","b05", "y25a", "LA_UA_Name","Constit_Name","Constit_Code", "Stratumlabel2", "Stratum", "seg"
+)
+
+# Remove them from the cleaned dataset
+survey_data_clean <- survey_data_clean %>% select(-all_of(cols_to_remove))
+
+
+```
+
+### CSES - setting Not Applicable
+
+```{r}
+
+# List all your CSES variables
+cses_vars <- c("Q1_CSES", "Q2_CSES_1", "Q2_CSES_2", "Q2_CSES_3", "Q2_CSES_4", 
+               "Q2_CSES_5", "Q2_CSES_6", "Q2_CSES_7", "Q2_CSES_8", 
+               "Q3_CSES_1", "Q3_CSES_2", "Q3_CSES_3", "Q3_CSES_4", "Q3_CSES_5", 
+               "Q4_CSES_1", "Q4_CSES_2", "Q4_CSES_3", "Q4_CSES_4", 
+               "Q5_CSES", "Q6_CSES", "Q7_CSES", 
+               "Q9_CSES_1", "Q9_CSES_2", "Q9_CSES_3", "Q9_CSES_6", "Q9_CSES_8", 
+               "Q10_CSES_1", "Q10_CSES_2", "Q10_CSES_3", "Q10_CSES_6", "Q10_CSES_8",
+               "Q11_CSES_1", "Q11_CSES_2", "Q11_CSES_3", "Q11_CSES_4", 
+               "Q12_CSES", "Q13_CSES", "Q14_CSES", "Q15_CSES", "Q19_CSES", 
+               "Q20_CSES", "Q21_CSES")
+
+# For all rows where CSESMode is NA, set CSES vars to "Not Applicable"
+survey_data_clean <- survey_data_clean %>%
+  mutate(across(all_of(cses_vars), ~ifelse(is.na(CSESMode), "Not Applicable", .)))
+
+# Make sure all CSES variables are factors now
+survey_data_clean <- survey_data_clean %>%
+  mutate(across(all_of(cses_vars), as.factor))
+
+```
+
+### Follow ups from k14
+
+```{r}
+
+# List of all k14 variables
+k14_vars <- c(
+  "k14_1_01", "k14_1_02", "k14_1_03", "k14_1_04", "k14_1_05", "k14_1_06",
+  "k14_2_01", "k14_2_02", "k14_2_03", "k14_2_04", "k14_2_05", "k14_2_06",
+  "k14_3_01", "k14_3_02", "k14_3_03", "k14_3_04", "k14_3_05", "k14_3_06",
+  "k14_6_01", "k14_6_02", "k14_6_03", "k14_6_04", "k14_6_05", "k14_6_06",
+  "k14_8_01", "k14_8_02", "k14_8_03", "k14_8_04", "k14_8_05", "k14_8_06",
+  "k14_9_01", "k14_9_02", "k14_9_03", "k14_9_04", "k14_9_05", "k14_9_06"
+)
+
+# 1. First, convert k14 vars to character
+for (var in k14_vars) {
+  survey_data_clean[[var]] <- as.character(survey_data_clean[[var]])
+}
+
+# 2. Safely replace missing values
+survey_data_clean <- survey_data_clean %>%
+  mutate(across(all_of(k14_vars), ~ ifelse((k13 == 2 | is.na(k13)) & is.na(.), "Not Applicable", .)))
+
+# 3. Convert them to factors
+for (var in k14_vars) {
+  survey_data_clean[[var]] <- as.factor(survey_data_clean[[var]])
+}
+```
+
+### Changing SurveyMode
+
+```{r}
+survey_data_clean$SurveyMode <- factor(
+  survey_data_clean$SurveyMode,
+  levels = c(1, 2, 3),
+  labels = c("Face-to-Face", "Online", "Mail-in"))
+
+```
+
+### CAPI (only face to face) - setting not Applicable
+
+```{r}
+
+# List your CAPI-only variables
+capi_vars <- c("j08", "j10", "j11", "j12", "l01", "l03", "l04", "u01", "dwelling_type", "total_num_dwel", "total_num_hous")
+
+# Step 1: Convert the CAPI variables to character **outside** of mutate
+for (var in capi_vars) {
+  survey_data_clean[[var]] <- as.character(survey_data_clean[[var]])
+}
+
+# Step 2: Now safely replace missing for non-CAPI respondents
+survey_data_clean <- survey_data_clean %>%
+  mutate(across(all_of(capi_vars), ~ ifelse(SurveyMode != "Face-to-Face" & is.na(.), "Not Applicable", .)))
+
+# Step 3: Convert to factor
+for (var in capi_vars) {
+  survey_data_clean[[var]] <- as.factor(survey_data_clean[[var]])
+}
+
+
+```
+
+### Fixing b06 - Structural Missing
+
+```{r}
+
+# List of all b06 variables
+b06_vars <- c(
+  "b0601", "b0602", "b0603", "b0604", "b0605", "b0606",
+  "b0607", "b0608", "b0609", "b0610", "b0611", "b0612",
+  "b0613", "b0614", "b0615", "b0616", "b0617", "b0618", "b0619"
+)
+
+# Step 1: Convert b06 variables to character so you can safely insert "Not Applicable"
+for (var in b06_vars) {
+  survey_data_clean[[var]] <- as.character(survey_data_clean[[var]])
+}
+
+# Step 2: Set "Not Applicable" where b02 is NA
+survey_data_clean <- survey_data_clean %>%
+  mutate(across(all_of(b06_vars), ~ ifelse(is.na(b02) & is.na(.), "Not Applicable", .)))
+
+# Step 3: Convert b06 variables back to factor for modeling
+for (var in b06_vars) {
+  survey_data_clean[[var]] <- as.factor(survey_data_clean[[var]])
+}
+
+```
+
+### Fixing coding of b02
+
+```{r}
+
+# Step 1: Recoding b02
+survey_data_clean <- survey_data_clean %>%
+  mutate(b02 = case_when(
+    is.na(b02) ~ "Did Not Answer",             # <-- Handle true NA values
+    b02 == -999 ~ "Not Stated",                 # If you also have -999s separately
+    b02 == -2 ~ "Prefer not to say",
+    b02 == -1 ~ "Don't know",
+    b02 == 1 ~ "Labour Party",
+    b02 == 2 ~ "Conservative Party",
+    b02 == 3 ~ "Liberal Democrats",
+    b02 == 4 ~ "Scottish National Party",
+    b02 == 5 ~ "Plaid Cymru",
+    b02 == 6 ~ "Green Party",
+    b02 == 7 ~ "UKIP",
+    b02 == 8 ~ "Brexit Party",
+    b02 == 9 ~ "Other",
+    b02 == 10 ~ "Independent Candidate",
+    b02 == 11 ~ "Specified Name - No Party Mentioned",
+    b02 == 12 ~ "Spoilt Ballot Paper",
+    b02 == 13 ~ "None",
+    TRUE ~ "Other/Unexpected"  # Just in case of weird values
+  ))
+
+# Step 2: Make b02 a factor
+survey_data_clean$b02 <- as.factor(survey_data_clean$b02)
+```
+
+### Not asked to Mail-In responders
+
+```{r}
+
+# List all the affected variables
+mailin_missing_vars <- c(
+  "m02_1", "m02_2", "m02_3", "m02_4", "m02_5", "m02_6", 
+  "b07", "c01", "c02_1", "c02_2", "c02_3", "c02_4", "f2", "f3", 
+  "g01_1", "g01_2", "g01_3", "g01_4", "g01_5", "g01_6", 
+  "i01_1", "i01_2", "i01_3", "i01_6", "k13", "n02", "p03a", "p03b",
+  "q01_1", "q01_2", "q01_3", "q02_1", "q02_2", "q04", "q12", 
+  "t01_1", "t01_2", "u05", "w11", "w12", "w15_1", "w15_2", 
+  "k06", "k08", "IntUse"
+)
+
+# Step 1: Convert these variables to character type
+for (var in mailin_missing_vars) {
+  survey_data_clean[[var]] <- as.character(survey_data_clean[[var]])
+}
+
+# Step 2: Set "Not Applicable" if SurveyMode == "Mail-in" and value is NA
+survey_data_clean <- survey_data_clean %>%
+  mutate(across(all_of(mailin_missing_vars), ~ ifelse(SurveyMode == "Mail-in" & is.na(.), "Not Applicable", .)))
+
+# Step 3: Convert these variables back to factors
+for (var in mailin_missing_vars) {
+  survey_data_clean[[var]] <- as.factor(survey_data_clean[[var]])
+}
+
+```
+
+### Only asked to England residents - v04
+
+```{r}
+
+# Step 1: Convert v04 to character
+survey_data_clean$v04 <- as.character(survey_data_clean$v04)
+
+# Step 2: Set "Not Applicable" where country is not England
+survey_data_clean <- survey_data_clean %>%
+  mutate(v04 = ifelse(country != 1 & is.na(v04), "Not Applicable", v04))
+
+# Step 3: Convert v04 to factor
+survey_data_clean$v04 <- as.factor(survey_data_clean$v04)
+```
+
+### d04 dependent on d01 - changing this
+
+```{r}
+
+# Step 1: Convert d04 to character
+survey_data_clean$d04 <- as.character(survey_data_clean$d04)
+
+# Step 2: Set "Not Applicable" where d01 indicates no party ID and d04 is NA
+survey_data_clean <- survey_data_clean %>%
+  mutate(d04 = ifelse(d01 %in% c(-1, 0, -2) & is.na(d04), "Not Applicable", d04))
+
+# Step 3: Convert d04 to factor
+survey_data_clean$d04 <- as.factor(survey_data_clean$d04)
+
+```
+
+### j06 dependent on j05 - changing this
+
+```{r}
+
+# Step 1: Convert j06 to character
+survey_data_clean$j06 <- as.character(survey_data_clean$j06)
+
+# Step 2: Set "Not Applicable" where j05 == -1 and j06 is NA
+survey_data_clean <- survey_data_clean %>%
+  mutate(j06 = ifelse(j05 == -1 & is.na(j06), "Not Applicable", j06))
+
+# Step 3: Convert j06 to factor
+survey_data_clean$j06 <- as.factor(survey_data_clean$j06)
+
+```
+
+### removing the CSESMode Column
+
+```{r}
+# Remove the CSESMode column
+survey_data_clean <- survey_data_clean %>%
+  select(-CSESMode)
+```
+
+### participants didn't answer education-related questions
+
+```{r}
+
+# List of variables you want to modify
+vars_to_fix <- c("sc", "edlevel", "education")
+
+# Step 1: Convert them to character so you can safely insert "Not Answered"
+for (var in vars_to_fix) {
+  survey_data_clean[[var]] <- as.character(survey_data_clean[[var]])
+}
+
+# Step 2: Replace NA with "Not Answered"
+survey_data_clean <- survey_data_clean %>%
+  mutate(across(all_of(vars_to_fix), ~ ifelse(is.na(.), "Not Answered", .)))
+
+# Step 3: Convert back to factors (important for modeling)
+for (var in vars_to_fix) {
+  survey_data_clean[[var]] <- as.factor(survey_data_clean[[var]])
+}
+
+```
+
+### structural missingness in k_14
+
+```{r}
+
+# List of all the variables you want to fix
+vars_to_fix_k14_d04 <- c(
+  "k14_1_01", "k14_1_02", "k14_1_03", "k14_1_04", "k14_1_05", "k14_1_06",
+  "k14_2_01", "k14_2_02", "k14_2_03", "k14_2_04", "k14_2_05", "k14_2_06",
+  "k14_3_01", "k14_3_02", "k14_3_03", "k14_3_04", "k14_3_05", "k14_3_06",
+  "k14_6_01", "k14_6_02", "k14_6_03", "k14_6_04", "k14_6_05", "k14_6_06",
+  "k14_8_01", "k14_8_02", "k14_8_03", "k14_8_04", "k14_8_05", "k14_8_06",
+  "k14_9_01", "k14_9_02", "k14_9_03", "k14_9_04", "k14_9_05", "k14_9_06",
+  "d04"
+)
+
+# Step 1: Convert to character
+for (var in vars_to_fix_k14_d04) {
+  survey_data_clean[[var]] <- as.character(survey_data_clean[[var]])
+}
+
+# Step 2: Replace NA with "Not Applicable"
+survey_data_clean <- survey_data_clean %>%
+  mutate(across(all_of(vars_to_fix_k14_d04), ~ ifelse(is.na(.), "Not Applicable", .)))
+
+# Step 3: Convert back to factor
+for (var in vars_to_fix_k14_d04) {
+  survey_data_clean[[var]] <- as.factor(survey_data_clean[[var]])
+}
+
+```
+
+# Creating Outcome Variable - 3 Levels
+
+```{r}
+# Remove -999 and -1 from the target variable 
+survey_data_clean <- survey_data_clean %>%
+  filter(!(h01 %in% c(-999, -1)))
+
+# OPTION 2: Create categories for classification
+survey_data_clean <- survey_data_clean %>%
+  mutate(h01_group = case_when(
+    h01 <= 3 ~ "Growth Priority",
+    h01 >= 7 ~ "Environment Priority",
+    TRUE ~ "Middle"
+  ))
+
+# Turn into a factor if classification
+survey_data_clean$h01_group <- factor(survey_data_clean$h01_group)
+
+# Check class distribution
+table(survey_data_clean$h01_group)
+
+# Check proportions
+prop.table(table(survey_data_clean$h01_group))
+
+```
+
+# Split into Training and Testing
+
+```{r}
+set.seed(123)
+train_index <- createDataPartition(survey_data_clean$h01_group, p = 0.8, list = FALSE)
+train_data <- survey_data_clean[train_index, ]
+test_data <- survey_data_clean[-train_index, ]
+```
+
+# SMOTE class balancing
+
+```{r}
+library(dplyr)
+
+# 1. Remove the outcome variable
+X_train <- train_data %>%
+  select(-h01_group, -h01)
+
+y_train <- train_data$h01_group
+
+# 2. Convert all factors or characters to numeric
+X_train_encoded <- X_train %>%
+  mutate(across(where(is.factor), ~ as.numeric(as.factor(.)))) %>%
+  mutate(across(where(is.character), ~ as.numeric(as.factor(.))))
+
+# 3. Now apply SMOTE
+library(smotefamily)
+
+set.seed(123)
+smote_output <- SMOTE(X_train_encoded, y_train, K = 5)
+
+# 4. Recombine into final dataset
+train_data_balanced <- smote_output$data
+
+# 5. Rename 'class' to 'h01_group'
+train_data_balanced <- train_data_balanced %>%
+  rename(h01_group = class)
+
+# 6. Check
+table(train_data_balanced$h01_group)
+prop.table(table(train_data_balanced$h01_group))
+
+```
+
+
+#Using XGBoost
+
+
+```{r}
+library(dplyr)
+library(xgboost)
+library(caret)
+
+# Drop unused variables
+X_train <- train_data %>% select(-h01_group, -h01)
+y_train <- train_data$h01_group
+
+X_test <- test_data %>% select(-h01_group, -h01)
+y_test <- test_data$h01_group
+
+# Encode all categorical variables
+X_train_encoded <- X_train %>%
+  mutate(across(where(is.factor), ~ as.numeric(as.factor(.)))) %>%
+  mutate(across(where(is.character), ~ as.numeric(as.factor(.))))
+
+X_test_encoded <- X_test %>%
+  mutate(across(where(is.factor), ~ as.numeric(as.factor(.)))) %>%
+  mutate(across(where(is.character), ~ as.numeric(as.factor(.))))
+
+# Convert factor to numeric starting at 0
+y_train_xgb <- as.numeric(y_train) - 1
+y_test_xgb <- as.numeric(y_test) - 1
+
+
+dtrain <- xgb.DMatrix(data = as.matrix(X_train_encoded), label = y_train_xgb)
+dtest <- xgb.DMatrix(data = as.matrix(X_test_encoded), label = y_test_xgb)
+
+
+num_class <- length(unique(y_train))  # Should be 3
+
+params <- list(
+  booster = "gbtree",
+  objective = "multi:softprob",  # Softprob = get class probabilities
+  num_class = num_class,
+  eval_metric = "mlogloss",
+  max_depth = 6,
+  eta = 0.1,
+  subsample = 0.8,
+  colsample_bytree = 0.8
+)
+
+set.seed(123)
+xgb_model <- xgb.train(
+  params = params,
+  data = dtrain,
+  nrounds = 100,
+  watchlist = list(train = dtrain),
+  verbose = 1
+)
+
+
+# Predict probabilities for all classes
+pred_probs <- predict(xgb_model, newdata = dtest)
+pred_matrix <- matrix(pred_probs, ncol = num_class, byrow = TRUE)
+
+# Predicted class (highest probability)
+pred_class <- max.col(pred_matrix) - 1  # Adjust to match encoding
+
+# Convert numeric predictions back to factor labels
+pred_labels <- factor(pred_class, labels = levels(y_train))
+
+# Confusion matrix
+confusionMatrix(pred_labels, y_test)
+
+importance_matrix <- xgb.importance(model = xgb_model)
+xgb.plot.importance(importance_matrix[1:20])  # Top 20 features
+
+```
+
+
+```{r}
+library(ggplot2)
+
+# Extract top 10 important features
+importance_matrix <- xgb.importance(model = xgb_model)
+top_feats <- importance_matrix[1:10, ]
+
+# Rename cryptic variable names for clarity
+label_map <- c(
+  s01_5 = "Green Party Likeability",
+  l09 = "Support for Income Redistribution",
+  e01 = "Left–Right Ideology",
+  p04_07 = "Ethical Consumerism",
+  Q10_CSES_6 = "Likelihood to Vote Green",
+  s01_1 = "Conservative Likeability",
+  n03 = "Trust in British Politicians",
+  f01_10 = "Tolerance of Unconventional Lifestyles",
+  g01_1 = "Tax & Spend: Self-Placement",
+  f01_9 = "Support for Right to Protest"
+)
+
+# Replace variable names if found in the mapping
+top_feats$Feature <- sapply(top_feats$Feature, function(x) {
+  if (x %in% names(label_map)) label_map[[x]] else x
+})
+
+# Create the plot object
+top_plot <- ggplot(top_feats, aes(x = reorder(Feature, Gain), y = Gain)) +
+  geom_col(fill = "darkseagreen4", width = 0.7) +
+  coord_flip() +
+  theme_minimal(base_size = 12) +
+  labs(
+    title = "Top 10 Predictors of H01 Prioritization",
+    x = NULL,
+    y = "Relative Importance (Gain)"
+  ) +
+  theme(
+    plot.title = element_text(size = 14, face = "bold", hjust = 0.5),
+    axis.text.y = element_text(size = 10),
+    axis.text.x = element_text(size = 10)
+  )
+
+# Print the plot in RStudio
+print(top_plot)
+
+# Save as PNG
+ggsave("top_10_predictors_h01.png", plot = top_plot, width = 8, height = 5, dpi = 300)
+
+# Optional: Save as PDF
+# ggsave("top_10_predictors_h01.pdf", plot = top_plot, width = 8, height = 5)
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+```{r}
+# Load necessary packages
+library(caret)
+library(dplyr)
+library(knitr)
+library(kableExtra)
+
+# Generate the confusion matrix
+cm <- confusionMatrix(pred_labels, y_test)
+
+# Extract key metrics per class
+sensitivity <- cm$byClass[, "Sensitivity"]
+precision <- cm$byClass[, "Pos Pred Value"]
+support <- as.numeric(table(y_test))
+
+# Class names
+classes <- levels(y_test)
+
+# Create a summary data frame
+performance_df <- data.frame(
+  Class = classes,
+  Sensitivity = round(sensitivity, 3),
+  Precision = round(precision, 3),
+  Support = support  # Rename here directly
+)
+
+colnames(performance_df)[colnames(performance_df) == "Support"] <- "# Test Cases"
+
+# Print nicely in console
+kable(performance_df, caption = "Per-Class Performance Summary") %>%
+  kable_styling(font_size = 10, full_width = FALSE, position = "center")
+
+
+# Save the table as an image
+library(gt)
+library(webshot2)
+
+performance_df %>%
+  gt() %>%
+  tab_header(title = "Per-Class Performance Summary") %>%
+  tab_options(
+    table.font.size = px(8),     # ↓ reduce font size
+    data_row.padding = px(2),     # ↓ reduce row height
+    heading.title.font.size = px(10)  # ↓ slightly shrink title
+  ) %>%
+  gtsave("performance_summary_table.png", vwidth = 800, vheight = 400, expand = 1.5)
+
+
+
+
+```
+
+
+
+# XGBoost with binary classification
+
+```{r}
+
+# Load libraries
+library(dplyr)
+library(xgboost)
+library(caret)
+library(ggplot2)
+
+# STEP 1: Recode Outcome (Environment Priority vs Not)
+survey_data_binary <- survey_data_clean %>%
+  filter(!is.na(h01)) %>%
+  mutate(h01_binary = ifelse(h01 >= 7, 1, 0))  # 1 = Environment Priority, 0 = Not
+
+# STEP 2: Split into Train/Test
+set.seed(123)
+train_index <- createDataPartition(survey_data_binary$h01_binary, p = 0.8, list = FALSE)
+train_data <- survey_data_binary[train_index, ]
+test_data <- survey_data_binary[-train_index, ]
+
+# STEP 3: Prepare Features
+X_train <- train_data %>% select(-h01, -h01_group, -h01_binary)
+X_test <- test_data %>% select(-h01, -h01_group, -h01_binary)
+y_train <- train_data$h01_binary
+y_test <- test_data$h01_binary
+
+# Encode categorical variables
+X_train_encoded <- X_train %>%
+  mutate(across(where(is.factor), ~ as.numeric(as.factor(.))),
+         across(where(is.character), ~ as.numeric(as.factor(.)))) %>%
+  as.matrix()
+
+X_test_encoded <- X_test %>%
+  mutate(across(where(is.factor), ~ as.numeric(as.factor(.))),
+         across(where(is.character), ~ as.numeric(as.factor(.)))) %>%
+  as.matrix()
+
+# Create DMatrix for XGBoost
+dtrain <- xgb.DMatrix(data = X_train_encoded, label = y_train)
+dtest <- xgb.DMatrix(data = X_test_encoded, label = y_test)
+
+# STEP 4: Train XGBoost Binary Classifier
+params <- list(
+  booster = "gbtree",
+  objective = "binary:logistic",
+  eval_metric = "auc",
+  eta = 0.1,
+  max_depth = 6,
+  subsample = 0.8,
+  colsample_bytree = 0.8
+)
+
+set.seed(123)
+xgb_model <- xgb.train(
+  params = params,
+  data = dtrain,
+  nrounds = 100,
+  watchlist = list(train = dtrain),
+  verbose = 1
+)
+
+# STEP 5: Predict & Evaluate
+pred_probs <- predict(xgb_model, newdata = dtest)
+pred_class <- ifelse(pred_probs > 0.5, 1, 0)
+
+# Confusion Matrix
+confusionMatrix(as.factor(pred_class), as.factor(y_test), positive = "1")
+
+# STEP 6: Plot ROC Curve (optional)
+library(pROC)
+roc_obj <- roc(y_test, pred_probs)
+plot(roc_obj, col = "#1B9E77", main = "ROC Curve: Environment Priority")
+cat("AUC:", auc(roc_obj), "\n")
+
+
+```
+
+
+#PCA for binary classifier
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(xgboost)
+
+# === 1. PLOTTING PROBABILITY DISTRIBUTIONS ===
+
+# Create a dataframe with probabilities and true class
+prob_df <- data.frame(
+  Probability = pred_probs,
+  TrueClass = as.factor(y_test)
+)
+
+# Plot histogram of predicted probabilities, colored by true class
+ggplot(prob_df, aes(x = Probability, fill = TrueClass)) +
+  geom_histogram(bins = 40, position = "identity", alpha = 0.5) +
+  scale_fill_manual(values = c("0" = "#d95f02", "1" = "#1b9e77"),
+                    labels = c("Not Environment", "Environment")) +
+  labs(title = "Predicted Probability Distribution",
+       subtitle = "XGBoost Model: Environment Priority (1) vs Not (0)",
+       x = "Predicted Probability of Environment Priority",
+       y = "Count", fill = "True Class") +
+  theme_minimal()
+
+# === 2. FEATURE IMPORTANCE PLOT ===
+
+# Get importance matrix from the model
+importance_matrix <- xgb.importance(model = xgb_model)
+
+# Plot top 20 important features
+xgb.plot.importance(importance_matrix[1:20, ],
+                    rel_to_first = TRUE,
+                    xlab = "Relative Importance",
+                    top_n = 20,
+                    main = "Top 20 Most Important Features (XGBoost)")
+
+```
+
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+
+# Recreate binary outcome if needed
+survey_data_clean <- survey_data_clean %>%
+  filter(!is.na(h01)) %>%
+  mutate(h01_binary = ifelse(h01 >= 7, 1, 0))
+
+# Prepare the feature matrix
+X_bin <- survey_data_clean %>%
+  select(-h01, -h01_group, -h01_binary) %>%
+  mutate(across(where(is.factor), ~ as.numeric(as.factor(.))),
+         across(where(is.character), ~ as.numeric(as.factor(.)))) %>%
+  as.matrix()
+
+# Scale the features
+X_scaled_bin <- scale(X_bin)
+
+# Run PCA
+pca_bin <- prcomp(X_scaled_bin, center = TRUE, scale. = TRUE)
+
+# Create dataframe for plotting
+pca_df_bin <- data.frame(
+  PC1 = pca_bin$x[,1],
+  PC2 = pca_bin$x[,2],
+  Class = as.factor(survey_data_clean$h01_binary)
+)
+
+# Plot
+ggplot(pca_df_bin, aes(x = PC1, y = PC2, color = Class)) +
+  geom_point(alpha = 0.5, size = 2) +
+  scale_color_manual(values = c("0" = "#D95F02", "1" = "#1B9E77"),
+                     labels = c("Not Environment", "Environment Priority")) +
+  labs(title = "PCA of Input Features Colored by h01_binary",
+       x = "PC1", y = "PC2", color = "Class") +
+  theme_minimal()
+
+```
+
+
+
+
+
+#PCA with 3 groups
+
+```{r}
+library(ggplot2)
+library(dplyr)
+
+# Prepare the feature matrix
+X <- survey_data_clean %>%
+  select(-h01, -h01_group) %>%
+  mutate(across(where(is.factor), ~ as.numeric(as.factor(.))),
+         across(where(is.character), ~ as.numeric(as.factor(.)))) %>%
+  as.matrix()
+
+# Make sure it's scaled
+X_scaled <- scale(X)
+
+# Run PCA
+pca_result <- prcomp(X_scaled, center = TRUE, scale. = TRUE)
+
+# Create dataframe with first two principal components
+pca_df1 <- data.frame(
+  PC1 = pca_result$x[,1],
+  PC2 = pca_result$x[,2],
+  Class = survey_data_clean$h01_group
+)
+
+# Plot with ggplot2
+b <- ggplot(pca_df1, aes(x = PC1, y = PC2, color = Class)) +
+  geom_point(alpha = 0.5, size = 2) +
+  labs(title = "PCA of Input Features Colored by h01_group in BES 2019",
+       x = "PC1", y = "PC2") +
+  theme_minimal() +
+  scale_color_manual(values = c("Growth Priority" = "#D95F02", "Middle" = "#7570B3", "Environment Priority" = "#1B9E77"))
+
+ggsave("pca_plot2.png", plot = b, width = 4, height = 2, dpi = 300)
+
+
+```
+
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+
+# Prepare data
+X <- survey_data_clean %>%
+  select(-h01, -h01_group) %>%
+  mutate(across(where(is.factor), ~ as.numeric(as.factor(.))),
+         across(where(is.character), ~ as.numeric(as.factor(.)))) %>%
+  as.matrix()
+
+X_scaled <- scale(X)  # PCA benefits from scaling
+
+# Run PCA
+pca_result <- prcomp(X_scaled, center = TRUE, scale. = TRUE)
+
+# Create dataframe for plotting
+pca_df <- data.frame(
+  X1 = pca_result$x[,1],
+  X2 = pca_result$x[,2],
+  Class = survey_data_clean$h01_group
+)
+
+# Plot
+ggplot(pca_df, aes(x = X1, y = X2, color = Class)) +
+  geom_point(alpha = 0.7, size = 2) +
+  labs(title = "PCA Scatterplot of Survey Responses by Preference Class",
+       x = "PC1", y = "PC2", color = "Class") +
+  theme_bw() +
+  theme(legend.position = "bottom")
+
+```
+
+#PCA plots
+
+```{r}
+library(patchwork)
+
+# PCA for 2017 – keep legend and title
+pca_2017_plot <- ggplot(pca_df, aes(x = PC1, y = PC2, color = Class)) +
+  geom_point(alpha = 0.5, size = 2) +
+  labs(title = "PCA – BES 2017", x = "PC1", y = "PC2") +
+  theme_minimal() +
+  scale_color_manual(values = c(
+    "Growth Priority" = "#D95F02",
+    "Middle" = "#7570B3",
+    "Environment Priority" = "#1B9E77"
+  ))
+
+# PCA for 2019 – suppress legend and title
+pca_2019_plot <- ggplot(pca_df1, aes(x = PC1, y = PC2, color = Class)) +
+  geom_point(alpha = 0.5, size = 2) +
+  labs(title = "PCA – BES 2019", x = "PC1", y = "PC2") +
+  theme_minimal() +
+  theme(legend.position = "none") +  # Hide legend
+  scale_color_manual(values = c(
+    "Growth Priority" = "#D95F02",
+    "Middle" = "#7570B3",
+    "Environment Priority" = "#1B9E77"
+  ))
+
+
+combined_pca <- pca_2017_plot + pca_2019_plot +
+  plot_layout(ncol = 2, guides = "collect") &
+  theme(
+    legend.position = "bottom",
+    plot.margin = margin(5, 5, 5, 5)  # Reduce margin around each plot
+  )
+
+ggsave("combined_pca.png", combined_pca, width = 10, height = 3.8, dpi = 300)
+
+
+
+
+```
+
+
+
+
+
+#Missingness Visual
+
+```{r}
+
+
+# Install if not already installed
+# install.packages("magick")
+
+library(magick)
+
+# Load both images
+img1 <- image_read("performance_summary_table.png")
+img2 <- image_read("top_10_predictors_h01.png")
+
+# Resize images to match height for better alignment
+img2_resized <- image_resize(img2, geometry = geometry_size_percent(width = 80))
+
+# Combine side by side
+combined <- image_append(c(img1, img2_resized))
+
+# Save the combined image
+image_write(combined, path = "combined_results_summary.png")
+
+
+library(magick)
+
+# Load images
+table <- image_read("performance_summary_table.png")
+chart <- image_read("top_10_predictors_h01.png")
+
+# Resize BOTH to have the same height
+target_height <- 400  # or adjust to fit your slide better
+table_resized <- image_scale(table, paste0("x", target_height))
+chart_resized <- image_scale(chart, paste0("x", target_height))
+
+# Combine side by side
+combined <- image_append(c(table_resized, chart_resized))
+
+# Save
+image_write(combined, "results_summary_combined.png")
+
+
+```
+
+
+
+
+```
