@@ -1,7 +1,28 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9NdxGEaf)
 # MY472-AT24-final
 
-The instructions are available in the file [MY472-AT24-final-instructions.md](/MY472-AT24-final-instructions.md).
+# Ticketmaster Demand Analysis – Understanding Event Attendance Challenges
+
+This project required me to simulate a real-world data science task for an organization struggling to meet a core objective. I chose **Prompt 3**, assuming the role of a junior data scientist hired by a large event organization (e.g., Ticketmaster) that is facing difficulties in maximizing event attendance. My task was to compile and prepare new real-world data that could be used in future analyses to better understand audience behavior and improve turnout.
+
+### Project Overview
+
+The goal of this project was to collect, clean, and structure data that could help diagnose potential reasons why attendance at live events might be lower than expected. The focus was on identifying geographical, demographic, and event-related factors that influence demand.
+
+### Primary Data Source
+
+- **Ticketmaster API**: The primary data for this report was collected using the Ticketmaster Discovery API, which provides detailed information on upcoming events. This dataset includes event details (e.g., names, dates, prices, venues, genres). At time of analysis, data was collected for events in the United States scheduled between January 22, 2025, and December 30, 2025.
+
+### Secondary Data Source
+
+- **U.S. Census Bureau API**:To supplement the primary data, I collected state-level median household income data from a publicly accessible Wikipedia page hosting US Census Data. This provides a socioeconomic dimension for analyzing event ticket affordability across states. 2024 census data was unavailable, so median household incomes for 2025 were projected using compound growth.
+
+
+### Technologies Used
+
+- **R** and RMarkdown
+- **APIs**: Ticketmaster Discovery API, U.S. Census Bureau API
+- **Libraries**: `httr`, `jsonlite`, `tidyverse`, `dplyr`, `ggplot2`, `sf`
 
 
 This repository contains the **data, code, and outputs** for analyzing event pricing, distribution, and affordability using **Ticketmaster event data** and **supplementary income data**.
