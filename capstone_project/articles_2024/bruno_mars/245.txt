@@ -1,0 +1,37 @@
+INGLEWOOD, CA – Working with lead designer AECOM and Turner Construction, Clair Global Integration (CGI) was engaged to design and install innovate technical solutions to the Intuit Dome, the world’s most high-tech basketball arena, home of the LA Clippers.
+More details from Clair Global (www.clairglobal.com):
+In addition, the $2 billion, 18,000-capacity venue announced Clair Global touring client, Bruno Mars, as its opening act, uniquely placing Clair’s rental and installation divisions in close collaboration for the Inglewood, CA, arena’s first live event.
+“The great thing about the LA Clippers is their dedication to the fans – as an organization they wanted this facility to engage sports and music fans instantly,” says CGI VP of Sports Integration, Demetrius Palavos. “Steve Ballmer, LA Clippers Chairman, has a background in powerful technology and understands perfectly how it can become a lever to meaningfully interact with patrons.”
+Ballmer’s dedication to invigorate the NBA team’s new home has been paramount. During the site build, he told a press conference: “You all, fans and players together deserve the ultimate home court. You’re going to have it and you’re going to have it here in Inglewood.”
+Gillian Zucker, LA Clippers President of Business Operations adds: “Intuit Dome is the ultimate manifestation of Steve’s vision, everything a basketball arena, a concert venue, and a community center should be.”
+To help bring this eagerly anticipated project to fruition, CGI undertook an extensive scope of work which included the installation of the main JBL Professional bowl sound system, Q-SYS networking systems in the club spaces, practice courts, and locker rooms, integrating NEAT solutions for every conference room, national, and in-house ENG broadcast cable plant and distribution, ENG plant and cabling, CISCO IPTV systems, and AV over IP solutions.
+As with all CGI builds, there was a focus on the fan experience and how technology can enhance it. CGI was charged with implementing ADA – American Disabilities Act – panels for sight impaired fans in the club spaces and suites.
+“We’re a creative engineering company, we solve beyond audio and video,” Demetrius continues. “In conjunction with Storm LED panels, we created our own back-end software that interfaces with Q-SYS. In every suite and club space we have an ADA panel that connects with a Q-SYS touch panel. The ADA panel mimics the touch panel buttons allowing anyone with a sight loss disability to control the sound and TVs for that area.”
+The visual experience is elevated by CISCO VisionEdge IPTV systems with BrightSign media players for every suite, club, office and broadcast/media space. Control of the displays utilizes Q-SYS Control Engines, and locations with touch integrated displays use Wipro VisionEdge-Go, an adjacent application that leverages VisoinEdge.
+The Intuit Dome’s exceptional new production facilities include a giant ‘halo’ shaped video screen which hangs centrally above some of the arena’s seating. This potentially large obstruction to great audio coverage required an innovative sound design, and to achieve optimum results, an inner ring of eight clusters was integrated to sufficiently cover the lower bowl, while a significant number of smaller line arrays cover the outer edge of the halo.
+“We worked with AV Consultant and Technical Designer Greg Swindle of WJHW on the overall cluster configuration and precise box angles; it was critical to ensure we were not putting any energy into the back of the LED video screen and causing reflections. Our job at Clair Global Integration is to make things work seamlessly, to make the technology a success from the first time the doors open,” Demetrius confirms.
+The JBL speaker solution comprises VTX A12’s in the center and VTX A8’s on the outer delays with PD500 large-format loudspeakers for upper delay fills.
+“From construction to production, we are always looking at the premier audience experience, whether that’s on the road or in an integration scenario in music, sports or themed entertainment,” explains Demetrius. “Using the envelope of state-of-the-art technology, we create experiences that make people want to visit again.”
+For Bruno Mars’ concerts, which took place over two consecutive nights, CGI worked with the “Uptown Funk” singer’s touring team, including Systems Engineer Matt McQuaid, to augment the fixed hangs with a concert-grade L-Acoustics K Series touring rig.
+Clair Global supplied main hangs of K1 and K2, KS28’s as flown subs, K1 and K2 for side hangs, K2 rear hangs, more KS28 cabinets for ground subs, and A10’s and A15’s for front fill reinforcement. The system was powered by 64 x LA12X amplifiers.
+Clair Global Account Executive for Bruno Mars, Robert Drewes, comments: “This was a very collaborative internal process at Clair, where a great synergy of our experiences and our expertise made this possible. The construction teams, architects, designers, venue and sports team ownership have truly done everything to ensure this incredible new building is the very best it can be.”
+This sentiment was amplified by Matt McQuaid, who comments: “The Clippers organization went above and beyond to ensure that our tour audio team felt comfortable being the first show in the building. Having the opportunity to both conduct a construction site visit and deploy the touring PA system early for testing set us up for success.
+“The halo presents a unique challenge for a touring systems engineer; with a standard end-stage position it can be difficult to cover the upper corners of the bowl. Having the opportunity to create a solution using the installed house system to reinforce areas which need extra help, and to make the transition sound natural between the two zones, was something we focused a good portion of time on.”
+Following the Bruno Mars’ concerts which commanded a star-studded audience, and even surprised fans with an appearance from Lady Gaga for duet “Die with a Smile”, Billboard wrote, “Mars is a once-in-a-lifetime performer, and his skills were on full display during the show.”
+In conclusion, Matt confirms: “The energy in the building was palpable. Seeing how happy the fans were to experience this show in a new space made it all worthwhile.”
+Sign Up for Our Newsletter
+"*" indicates required fields
+Δ
+
+
+May 2025Articles | Digital IssueApril 2025Articles | Digital IssueMarch 2025Articles | Digital IssueFebruary 2025Articles | Digital IssueJanuary 2025Articles | Digital Issue
+Timeless Communications Corp.
+6700 Via Austi Pkwy, Suite C
+Las Vegas, NV 89119
+P: (702) 932-5585
+© 2025 Timeless Communications, LLC
+Timeless Communications Corp.
+6700 Via Austi Pkwy, Suite C
+Las Vegas, NV 89119
+P: (702) 932-5585
+© 2025 Timeless Communications, LLC

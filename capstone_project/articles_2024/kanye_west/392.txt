@@ -1,0 +1,52 @@
+March 1, 2024, 04:15 PM  
+									
+									1								
+Share
+Bite (noun): more meaty news to sink your teeth into.
+Bark (noun): peripheral noise worth your attention.
+This week in Other Barks and Bites: a California district court rules a Chinese chipmaker was not guilty of stealing trade secrets; multiple news organizations sue OpenAI for using copyrighted material to train ChatGPT; and a writer accuses Amazon Studios of copyright infringement and using AI to work around the actor’s strike.
+News Outlets Sue OpenAI for Copyright Infringement During AI Training
+On Wednesday, February 28, news outlets The Intercept, Raw Story, and AlterNet filed two separate lawsuits accusing ChatGPT maker OpenAI of using the companies’ copyrighted material to train its generative AI models. In the lawsuit, the media companies asked for $2,500 per copyright violation and an order to stop the AI developer from using their work without permission. Intercept filed its lawsuit separately and also listed OpenAI’s parent company Microsoft as a defendant.
+OpenAI currently faces a range of lawsuits, including from other media outlets like The New York Times. In that case, OpenAI this week filed a motion to dismiss, alleging that The Times “paid someone to hack OpenAI’s products…. by targeting and exploiting a bug (which OpenAI has committed to addressing) by using deceptive prompts that blatantly violate OpenAI’s terms of use.”
+OpenAI Wins Trademark Battle Against Silicon Valley Entrepreneur
+On Wednesday, February 28, a California district court ruled that a Silicon Valley entrepreneur could not use the trademark “OpenAI” in commerce because of a likelihood of confusion with Microsoft’s OpenAI. OpenAI filed the lawsuit against Guy Ravine and his company Open Artificial Intelligence. The California court granted a preliminary injunction in part due to the ubiquity of OpenAI’s brand and also due to Open Artificial Intelligence’s mark only being “associated with a website that, until shortly before this litigation commenced, was inoperable at best.”
+Writer Accuses Amazon of Copyright Infringement, Using AI to Get Around Actor’s Strike
+On Tuesday, February 27, the original writer of the 1989 film “Roadhouse” sued Metro-Goldwyn-Mayer Studios and Amazon Studios alleging a new remake in the works infringes on his copyright of the screenplay. R. Lance Hill accused Amazon of ignoring his copyright claims to the screenplay once another claim expired in 2023. Later the lawsuit claims that the studios also used AI to work around the recent actor’s strike.
+Chinese Chipmaker Cleared of Trade Secret Accusations
+On Tuesday, February 27, a California district court ruled that a Chinese chipmaker was not guilty of economic espionage and trade secret theft, concluding a 5-year legal battle with American company Micron Technology, as first reported by Bloomberg. The U.S. Commerce Department blacklisted Fujian Jinhua Integrated Circuit Co. and classified the company as a national security threat. However, the district judge ruled that the Commerce Department failed to prove that Fujian stole proprietary information from Micron.
+EPO Chief Says Unitary Patent Will Allow EU to Compete with U.S. and China
+On Wednesday, February 28, European Patent Office chief Antonio Campinos told Euronews in an interview that the EU’s unitary patent will be a game-changer that allows the EU to compete with the United States and China as a technology market. The Unified Patent Court has been functional since June 2023, and Campinos said it has exceeded the EPO’s expectations thus far with 20,000 unitary patents granted in the court’s first eight months. Campinos said, “this a huge step forward in the creation of a single market for technology, on a par with the US and China, and giving Europe incredible business opportunities.”
+New SEP Regulation Passes First Hurdle in European Parliament
+On Wednesday, February 28, the European Parliament approved a new regulation for standard essential patents (SEPs) by a vote of 454 to 83. The legislation will still have to pass more hurdles, but if put into law the regulation would give the European Union Intellectual Property Office (EUIPO) increased oversight of SEPs and FRAND. Additionally, SEP owners would be unable to enforce their SEP against implementers in court while the EUIPO is carrying out an examination process.
+Donna Summer’s Estate Sues Kanye West for Copyright Infringement
+On Tuesday, February 27, Donna Summer’s estate filed a lawsuit against Ye, formerly known as Kanye West, accusing the star of infringing on Summer’s copyrighted song “I Feel Love” in his latest album. The lawsuit claims that Ye asked permission to sample the song, but the estate denied the request, after which the rapper released a song that samples Summer’s hit. The lawsuit refers to recent controversies sparked by Ye’s controversial public comments and said it “wanted no association with West’s controversial history.”
+House Republicans Accuse FTC Senior Leadership of Mismanagement and Wasting Resources
+On Monday, February, 26, Republicans in the House Judiciary Committee (FTC) released a video it claims exposes dysfunction within the Federal Trade Commission. Representative Harriet Hageman (R-WY) released the video which accuses FTC Chair Lisa Khan and her staff of “mismanagement, waste, and abuse of government resources.” Last week, the committee also released a report detailing the accusations.
+Sixth Circuit Clarifies Copyright Protects ‘Even the Dull and Workaday’ Creations
+On Monday, February 26, the U.S. Court of Appeals for the Sixth Circuit upheld a district court’s ruling that Allegiance Administrators LL infringed Premier Dealer Services Inc.’s copyright in its Lifetime Powertrain Loyalty Program certificates. In its ruling, the appellate court said that, while the certificates are “probably not” what Samuel Johnson had in mind when he said that “the chief glory of every people arises from its authors,” nonetheless, “the long-accepted policy of the copyright laws is that they protect all manner of works—mundane and lofty, commercial and non-commercial, even the dull and workaday—so long as they satisfy the modest imperatives of originality.”
+Paramount Releases Mixed Quarterly Earnings
+On Wednesday, February 28, Paramount released fourth-quarter earnings with mixed results that saw advertising money drop. Despite the ad revenue disappointment, Paramount was more pleased with streaming numbers with losses falling to $1.66         billion from a peak of $1.8 billion in losses in 2022. CEO Bob Bakish said, “we now expect to reach domestic Paramount+ profitability in 2025.”
+Apple Ditches Self-Driving Car Project in Favor of Generative AI
+On Tuesday, February 27, Apple told its staff that it was scrapping plans to develop a self-driving car in favor of investing more in generative AI, according to a report from Bloomberg. Apple had been working on the project for over a decade and said the roughly 2,000 employees working on the project would be shifting to generative AI projects. According to some sources, the tech giant is already spending around $1 million a day on generative AI technology.
+Quarterly Earnings – The following firms identified among the IPO’s Top 300 Patent Recipients for 2023 are announcing quarterly earnings next week (2023 rank in parentheses):
+Image Source: Deposit Photos
+Author: AlexanderKot
+Image ID: 429596304 
+Share
+Warning & Disclaimer: The pages, articles and comments on IPWatchdog.com do not constitute legal advice, nor do they create any attorney-client relationship. The articles published express the personal opinion and views of the author as of the time of publication and should not be attributed to the author’s employer, clients or the sponsors of IPWatchdog.com.
+One comment so far.
+
+“EPO Chief Says Unitary Patent Will Allow EU to Compete with China”
+There. Fixed.
+Thanks to SCOTUS’, the CAFC’s, and the Death Squad PTAB’s Constitution-usurping decisions over these 10+ years — and Congress’ unwillingness to bring these rampaging, innovation-killing mongrels to heel — America has dropped out of the competition.
+See, e.g.: https://www.wsj.com/articles/china-trumps-u-s-in-key-technology-research-report-says-adbb56bc
+May 2, 2025
+May 2, 2025
+May 1, 2025
+May 1, 2025
+May 1, 2025
+May 1, 2025
+At IPWatchdog.com our focus is on the business, policy and substance of patents and other forms of intellectual property. Today IPWatchdog is recognized as the leading sources for news and information in the patent and innovation industries.
+© 1999 – 2025 IPWatchdog, Inc.
+Images on IPWatchdog Primarily Provided by
+Our website uses cookies to provide you with a better experience. Read our privacy policy for more information.Accept and Close

@@ -1,0 +1,25 @@
+“Rest assured, we’re doing our utmost to make it right”
+
+Arrowhead CEO Johan Pilestedt has taken to social media to apologise about a number of issues affecting Helldivers 2 following a huge launch.
+Helldivers 2 was released last week and quickly became Sony’s biggest ever launch on PC. It went on to rack up over one million sales before the weekend but that massively successful launch has caused developers and players a number of issues.
+Players have been unable to access Helldivers 2 servers and when they can, rewards and XP are not being received as they should be.
+On Sunday, Arrowhead performed “live service maintenance” to try and address those issues, with three “rapid-fixes” designed to “improve the situation with rewards often not being handed out properly, login-issues and server capacity”. However, Pilestedt admitted the team still has a long way to go to fix the problems with Helldivers 2.
+🛠️ Attention recruits, we will now be performing live server maintenance. ⚙️
+During this maintenance we expect there to be larger disruptions to the servers for a limited period of time.
+— HELLDIVERS 2™ (@helldivers2) February 11, 2024
+Taking to social media, Pilestedt said that the team had doubled the amount of connections that their servers could handle and increased the total capacity of concurrent players from 250,000 to 360,000. “This was, however, still not enough as the player count jumped to 360k after five minutes,” he added, with their servers limited to stop the entire system from failing.
+“As such, the issue with login remains,” Pilestedt continued. “If for any reason you get the ‘failed to connect to server’ issues, it means that the maximum number of login requests for that particular minute is exceeded and/or that the servers are full and will require someone to log out before allowing new players in. As mentioned above, the increased capacity should require less retries to get in.”
+He went on to say that the issue with rewards and XP not being given out “was mitigated but not resolved” with the fix “due to the high traffic on the servers leading to rewards not being tracked correctly by our own servers.”
+A message to the community in regards to our latest server update. @helldivers2 @ArrowheadGS #Helldivers2. pic.twitter.com/lwriSFbBbK
+— Pilestedt (@Pilestedt) February 11, 2024
+“Without additional server maintenance, this will still not work as intended,” he said, before suggesting players reboot the game to increase their chances of receiving rewards.
+“I know the progression issue is frustrating, especially for newer divers that want to unlock sweet gear. For now, please once again accept our sincere apologies for the issues you’re facing and rest assured, we’re doing our utmost to make it right,” he finished.
+It was revealed last week that Pocketpair were spending 380k a month on their servers to ensure their Palworld servers never went down.
+In other news, Playboi Carti has received online backlash after his brief appearance on popular Kick streamer Adin Ross’ live broadcast earlier this week.
+The world’s defining voice in music and pop culture: breaking what’s new and what’s next since 1952.
+
+    When you purchase through affiliate links on NME.com, you may contribute to our site through commissions.
+    Learn more
+
+
+    © 2025 NME is part of NME Networks.

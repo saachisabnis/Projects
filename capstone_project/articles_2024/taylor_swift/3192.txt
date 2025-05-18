@@ -1,0 +1,33 @@
+An artificial intelligence (AI)-created blues song that went viral has ignited discussions among experts about the revolutionary role AI might play in reshaping the music and commerce fields. 
+The platform Suno created the hit song, which utilizes ChatGPT for lyric writing. Suno offers a unique service: generating entire songs from simple text prompts. Their productions cover all the essentials – vocals, melody, chords — along with lyrics and titles powered by ChatGPT. Even the album covers are AI-generated.  
+“AI is leveling the playing field in the music industry,” Gregg Lehrman, founder and CEO of Output, a music-creation software company that uses generative AI, told PYMNTS. 
+“There will be more content made than ever before from every corner of the world. And some of it will be great and quite successful,” he added. “However, AI cannot replicate the nuance of great music. Though companies could save a lot of money by utilizing generative AI instead of licensed content, this could ultimately backfire on them because music isn’t just about a melody or lyrics. It’s about creating a real feeling and a sense of community.”
+However, some in the music industry are taking a more measured approach to AI-created music. Universal Music Group and Roland Corporation are weighing in with a suggested framework of use as AI increasingly makes its way into creative fields.
+Suno, a web-based text-to-music generator, transforms simple text prompts into complete songs within seconds, including vocals, instrumentation, lyrics, a song title and artwork. Even with its free version, Suno offers substantial creative possibilities. Users receive 50 credits daily, allowing the creation of up to 10 songs despite some limitations inherent to free accounts.
+Rolling Stone, a music and entertainment magazine, recently used Suno to produce a delta blues track named “Soul of the Machine,” which has amassed nearly 40,000 plays on SoundCloud. With Suno’s latest V3 model, users with a free account can now generate entire songs lasting up to two minutes.
+PYMNTS created its own pop song using Suno about AI and the commerce industry. The song, titled “Digital Revolution,” which may not win any Grammys, can be found here. The first verse goes: 
+“Saw you on the TV screen, playing your guitar
+But it ain’t the same, it’s just a digital facade
+Auto-tune perfection, every note in its place
+But where’s the soul, the emotion in your face?”
+Suno did not respond to a request for comment from PYMNTS. 
+While large advertising campaigns may still prefer to license pre-existing tracks for their guaranteed quality and legal certainty, Joel Smith, audio expert and founder of the music hub AllAxess, told PYMNTS in an interview that AI offers an invaluable alternative for smaller businesses and creators looking for affordable creative options.
+“These AI tools are fast, affordable, and let you easily customize music to fit your specific needs. The ad world already uses AI for music curation and targeting,” he said. “AI-generated music could just be the next weapon in their arsenal for more personalized content.”
+Just as text-to-image threatened many graphic designers, and text-to-video has begun impacting videographers, text-to-music will significantly alter the demand for music creators, Shawn Daly, an AI and commerce expert at Niagara University, told PYMNTS. He said that companies will likely use AI to generate custom ad music instead of licensing existing songs, potentially reducing costs and increasing control over branding.
+“As ever in the AI revolution, it’s the human element in the collaboration that makes the difference,” he said. “How you prompt and iterate — and even more importantly, which outcomes you select — will determine music’s success. Having said that, the ability of the machine to create professional-quality music without diligently honed music skills allows anyone to produce finished original songs. This could lead to a surge of new artists and potentially saturate the market.”
+Daly noted that Suno comprises two separate AI tools, Bark (vocals and lyrics) and Chirp (music).  
+“It’s just like Elton John and Bernie Taupin or (often, John Lennon and Paul McCartney) sitting in separate spaces independently creating different parts of the music,” he added. “Then a third party, the producer (Gus Dudgeon for John-Taupin and George Martin for Lennon-McCartney), came in and assembled the finished product. Sounds to me like modern AI life imitating art.”
+Suno is only one of many AI tools already available to help musicians and amateurs create music. For example, Lehrman noted that Studio’s Music School is a new education program that utilizes AI to create personalized curriculums with lessons taught by big-name artists like H.E.R., Charlie Puth and Pentatonix for songwriters, producers and artists. 
+Output’s Co-Producer is a new suite of AI tools to power the technical music-making process, putting the power of AI to work to help music makers unlock more time to be creative. There are also tools like Maverick SoundZ, which uses AI to help artists from all backgrounds promote their music. 
+“This app uses AI to create a customized strategy for the artists’ music career, generate biographies, captions for social media and email templates,” Lehrman said. 
+Observers have noted that despite advancements in new technology, artificial intelligence is not expected to supplant human artists. They said that AI may augment the creative process, but the unique emotional depth and perspective brought by humans remain irreplaceable. 
+“Some of today’s biggest artists like Taylor Swift have a meteoric impact because of the ideology and community that they build around their artistry,” Lehrman said. “AI can’t build community, and so it cannot create the same level of impact as human artists.”
+
+                                    Lloyds Bank and Coinbase: Inside Their Generative AI Playbooks                                
+
+                                    Meta to Begin Training AI on User Data in EU                                
+
+                                    Paychex Acquires Paycor in $4.1 Billion Deal                                
+
+                                    Airlines Boost Premium Offerings as Demand for Main Cabin Seats Slows                                
+We’re always on the lookout for opportunities to partner with innovators and disruptors.

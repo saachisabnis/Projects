@@ -1,0 +1,13 @@
+With mainstream artificial intelligence tools on the rise at the cusp of the 2024 U.S. presidential election, AI-generated disinformation isn't just a fear — it's already a reality. On January 22, the New Hampshire Department of Justice released a statement that people received a recorded audio deepfake of Joe Biden, telling them not to vote in the state primary election. The call encouraged voters to "save" their vote, noting falsely that, "your vote makes a difference in November, not this Tuesday."
+Days later, AI startup ElevenLabs suspended the creator of the fake Biden audio, Bloomberg reported.
+ElevenLabs is an AI voice generator that is run by a model that, according to its website, can add human-like inflection to a voice based on context. The generator has thousands of pre-made AI voices to choose from, or you can create a custom one. Bloomberg reported that voice-fraud detection company Pindrop Security Inc. found that the AI Biden robocall was made using ElevenLabs.
+"We are dedicated to preventing the misuse of audio AI tools and take any incidents of misuse extremely seriously," ElevenLabs told Bloomberg. ElevenLabs' website states that deepfakes of politicians can be used only in certain cases, including caricature, parody, or satire. Once the company was made aware of the Biden deepfake, it investigated and suspended the account responsible, a source told Bloomberg.
+In an interview with The Hill, computer science professor at Carnegie Mellon University Kathleen Carley said the Biden robocall is "the tip of the iceberg" in terms of attempts to suppress voters. Carley added that it's a harbinger of what could come.
+ChatGPT developer OpenAI is already trying to quell misinformation itself, releasing plans to protect the integrity of the election. Soon after, the company suspended a developer who made a bot for a long-shot democratic candidate. 
+As such, we must be vigilant in what we see — and hear — this election season. As Mashable tech reporter Cecily Mauran warned, "The idea of an internet dominated by AI-generated content is already happening and it doesn't look good."
+
+Topics
+Artificial Intelligence
+Joe Biden
+
+Anna Iovine is the associate editor of features at Mashable. Previously, as the sex and relationships reporter, she covered topics ranging from dating apps to pelvic pain. Before Mashable, Anna was a social editor at VICE and freelanced for publications such as Slate and the Columbia Journalism Review. Follow her on Bluesky.

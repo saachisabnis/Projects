@@ -1,0 +1,198 @@
+Latest	
+
+
+
+		AI	
+
+
+
+		Amazon	
+
+
+
+		Apps	
+
+
+
+		Biotech & Health	
+
+
+
+		Climate	
+
+
+
+		Cloud Computing	
+
+
+
+		Commerce	
+
+
+
+		Crypto	
+
+
+
+		Enterprise	
+
+
+
+		EVs	
+
+
+
+		Fintech	
+
+
+
+		Fundraising	
+
+
+
+		Gadgets	
+
+
+
+		Gaming	
+
+
+
+		Google	
+
+
+
+		Government & Policy	
+
+
+
+		Hardware	
+
+
+
+		Instagram	
+
+
+
+		Layoffs	
+
+
+
+		Media & Entertainment	
+
+
+
+		Meta	
+
+
+
+		Microsoft	
+
+
+
+		Privacy	
+
+
+
+		Robotics	
+
+
+
+		Security	
+
+
+
+		Social	
+
+
+
+		Space	
+
+
+
+		Startups	
+
+
+
+		TikTok	
+
+
+
+		Transportation	
+
+
+
+		Venture	
+
+
+
+		Events	
+
+
+
+		Startup Battlefield	
+
+
+
+		StrictlyVC	
+
+
+
+		Newsletters	
+
+
+
+		Podcasts	
+
+
+
+		Videos	
+
+
+
+		Partner Content	
+
+
+
+		TechCrunch Brand Studio	
+
+
+
+		Crunchboard	
+
+
+
+		Contact Us	
+
+This week saw one of the most widespread IT disruptions in recent years linked to a faulty software update from popular cybersecurity firm CrowdStrike. Businesses across the world reported IT outages, including Windows “blue screen of death” errors on their computers, impacting airlines, banks, retailers, brokerage houses, media companies and railway networks.
+OpenAI released GPT-4o mini, a pared down version of its latest flagship model. According to the company, the new model is supposed to be more than 60% cheaper than GPT 3.5 Turbo and will be useful for simple, high-volume tasks. GPT-4o has begun rolling out to developers and consumers through the ChatGPT web and mobile apps, with enterprise users expected to gain access next week. 
+The USPS was caught sharing the postal addresses of its online customers with Meta, LinkedIn and Snap. TechCrunch found that customers’ information was shared by way of hidden data-collecting code used across its website, including the addresses of logged-in Informed Delivery customers. The USPS said it addressed the issue and stopped the practice, claiming that it was “unaware” of it.
+PartnerOne pays a fraction for HeadSpin: The Canadian private equity firm paid $28.2 million for HeadSpin, a fraction of its $1.1 billion valuation, documents seen by TechCrunch reveal. In April, HeadSpin’s founder was sentenced to 18 months in prison for fraud. Read more
+Alphabet might be buying Wiz: Alphabet is reportedly in advanced talks to acquire cloud security service Wiz for around $23 billion. If the deal goes through, it will mark the company’s largest acquisition to date. Read more
+Americans spent big on Prime Day: Amazon’s Prime Day event resulted in record sales this year, with U.S. consumers spending $14.2 billion across July 16 and 17, according to Adobe Analytics. Read more
+Wordle for learning chess: Echo Chunk created an AI-powered daily game called Echo Chess to help you improve your chess skills — and it just raised $1.4 million. Read more
+Kaspersky shuts down in the U.S.: The Russian cybersecurity giant will lay off dozens of staff and leave the U.S. market following a government order banning the sale of the company’s software due to alleged security risks. Read more
+Elon Musk doubles down on Texas: Musk is vowing to move SpaceX and X to Texas, calling the passage of a California bill that prohibits schools from disclosing students’ sexuality or gender identity without their consent “the final straw.” Read more
+Would you take a robotaxi to the airport? Waymo is ramping up efforts to get approval to facilitate robotaxi pickups and drop-offs at the San Francisco International Airport, according to emails viewed by TechCrunch. Read more
+Watch The Weeknd on the Apple Vision Pro: Apple is teasing new content for the Apple Vision Pro, including a short film about the 2024 NBA All-Star Weekend game in Indianapolis and an immersive concert by The Weeknd. Read more
+Moon cave! Scientists have identified what they believe is an accessible tunnel or cave on the moon. If real, such a feature could define years of development by startups, governments and space companies aiming to create a lasting lunar colony. Read more
+Cool new headphones just dropped: Dyson’s new retro-looking OnTrac headphones are almost infinitely customizable — and they tout an impressive battery life of 55 hours with ANC turned on. Read more
+Hank Green reckons with the creator economy: Hank Green started making YouTube videos in 2007 with his brother, novelist John Green, at a time when Myspace was still relevant and Instagram didn’t exist. Seventeen years later, posting videos on the internet is no longer just a hobby, but also a $250 billion industry. In a wide-ranging conversation, Amanda Silberling spoke with Green about creator solidarity, loneliness on social media, and the businesses behind it all. Read more
+Are female-founded startups getting left behind? So far this year, companies with all-women founding teams have raised 2.2% of the venture capital allocated for the year. Data shows that all-women founding teams have never raised more than 3% in VC funding since at least 2014 and that for the past four years, all-women founding teams have raised just about 2% in VC funding. Dominic-Madori Davis explores how this disparity exists when the amount of capital allocated to U.S. startups has hit record heights. Read more
+Topics
+Get inside access to Europe’s top investment minds — with leaders from Monzo, Accel, Paladin Group, and more — plus top-tier networking at StrictlyVC London.
+ Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection
+
+ Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI
+
+ Microsoft CEO says up to 30% of the company’s code was written by AI
+
+ Google launches AI tools for practicing languages through personalized lessons
+
+ Indian court orders blocking of Proton Mail
+
+ Hugging Face releases a 3D-printed robotic arm starting at $100
+
+ From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off
+
+© 2025 TechCrunch Media LLC.

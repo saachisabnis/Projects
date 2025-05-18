@@ -1,0 +1,56 @@
+Color Scheme
+Subscriber Actions
+Staff Options
+Connect With Us
+Support Local Journalism
+LOS ANGELES — Last week, a bipartisan group of U.S. senators introduced the NO FAKES Act, designed to protect the voices and visual likenesses of artists and citizens in the AI era. One of the main groups advocating for that bill was the Recording Industry Association of America, better known as the RIAA.
+The trade group, which represents record labels on policy issues, has been on a legal and legislative tear as advancements in AI upend how music is produced, discovered and used.
+In June, the RIAA announced a lawsuit against a pair of music AI firms, Suno and Udio, alleging they bulk-harvested copyrights to train their models. “Unlicensed services like Suno and Udio that claim it’s ‘fair’ to copy an artist’s life’s work and exploit it for their own profit without consent or pay set back the promise of genuinely innovative AI for us all,” RIAA chief Mitch Glazier said in a statement in June.
+(Suno chief executive Mikey Shulman said that the company “is designed to generate completely new outputs, not to memorize and regurgitate preexisting content).
+The Times spoke to Glazier about the RIAA’s work policing and cultivating AI’s potential, the black-box conspiracies around Spotify’s algorithm, and how the group’s reputation as the bully of the Napster era has changed.
+Q: There’s a lot of government and legal interest around music and AI. How would you compare this moment to the advent of file sharing in the ‘90s and streaming in the 2010s?
+A: If you add the threat of file sharing and the opportunity of streaming, this is a combination of the two. Like file sharing, it is a major technological shift that will have a huge impact on the music industry. AI has been used as a creative tool. But the abuse of AI could be as big a threat as file sharing was. Companies view it as an opportunity much like when streaming services could provide legal alternatives and fan-friendly platforms. But if it goes unchecked for abuse by regulators and the courts, it could be a giant threat.
+Q: Musicians already rely on AI that fixes drum loops or recommends songs. Is the threat in synthetic music and abusing likenesses?
+A: Generative AI is really the issue here. And it’s nonconsensual generative AI — when you train your model and don’t ask permission. It’s when you dilute the marketplace because you can create 10 million songs a day. That unfairly competes with the music of the artists you copied. Synthetic music made from generative AI as a result of training on artists, and the voice and visual likeness issues where you’re basically cloning artists to sing something they didn’t sing, that’s where it hits the hardest.
+Q: What were the particular dangers in Suno and Udio’s models?
+A: We suspected they had used established artists’ music to train their model. They avoided legal consequences by changing it so that you couldn’t put in a particular artist’s name. They added new subscription services and monetized it very quickly, when we knew that they hadn’t gotten consent for the input. The reason why we had to get out in front was because the technology was advancing so quickly and they’re not transparent about their input.
+Q: How could you tell what music they were training on?
+A: The output itself contained clumps that were recognizable. Jason Derulo famously tags his music by singing “Jason Derulo.” When the AI output does that, you’re like, “I think I know where that came from.”
+One of the key pieces in this case was a quote from one of the investors in the companies, that basically said “I wouldn’t have invested in this company if they had followed copyright law, that would be such a restraint.” As these services rise and start to mature, by filing this suit, it’s a signal to venture capitalists that it might not be so safe to put your money into a service like this if it doesn’t get consent for its input.
+Q: The RIAA has advocated for bills like the NO FAKES Act, which echo concerns that actors might see their digital likeness compromised or signed away. Is this something musicians should worry about too?
+A: Absolutely. This is one instance where record companies and artists have stood side by side to make sure that voices and visual likenesses can’t be used without consent. If someone puts words in your mouth using your own voice, what can that do to your career and your reputation?
+We have sent thousands of notices to have platforms take down not just songs like fake Drake and The Weeknd, but countless types of cloning, misinformation and things that are funny but overall damaging. We’ve had mixed luck with the platforms. That’s why we are pushing so hard to protect voice and likeness rights federally, that would apply to all people. If somebody wants to make a replica with your consent, that’s fine. But if you don’t, you can go after them and get it taken down quickly to limit the damage.
+Q: Tennessee passed the ELVIS Act dealing with this. It’s interesting that Nashville was a first mover on this.
+A: I don’t think it’s an accident. A lot of country artists spoke up very quickly, because their fans demand authenticity. Not that other genres don’t, but I think in country, there’s a special appeal. Lainey Wilson testified for the House bill and made a great case for it. Randy Travis testified. Nashville has been front and center in passing legislation and for artists speaking out about this.
+Politicians understand their opponents may clone them and make them say the opposite policy position that they actually stand for. That’s how you get Marsha Blackburn and Chris Coons standing together on this.
+Q: Many artists are struggling in the current music economy. I can imagine a world where there’s pressure from labels to sign those rights away.
+A: There need to be guardrails. If you sign with a major label, you’re not going to have some broad grant of rights forever. Let’s say you’re a 14-year-old kid and a manager says, “I can get you a label deal, all you have to do is sign here and you sign away the rights to your name, image and likeness forever, including after you’re dead for any purpose.” Those are practices that need to be addressed. We worked on this legislation with SAG-AFTRA to make sure that there were guardrails.
+Q: I’m not too worried about fake Drake running up the charts. But streaming services might put a thumb on the scale for synthetic music they own. Does that worry you?
+A: There’s definitely going to be a transition. I wonder what’s going to happen to the production music houses licensing their catalogs to AI companies, so that they can generate more music? If you’re writing commercial music and getting a cut of whatever the company licenses, what does that mean for you? AI music is cheap. There’s no human who has to get paid. Will platforms use their algorithms to point people to AI-generated music, because there’s no royalty? I think that’s a potential real problem for human artists.
+Then there’s the dilution issue. Are they going to allow these aggregators to automatically upload 10 million tracks a day that you have to compete with to break an artist? Which ones will the algorithms favor? If people like something, will they automatically produce more of it? Will they label it as such? I think these are big, commercial questions.
+At the end of the day, fans are discriminating about having a connection to human artists. At the end of the day, the market is going to serve fans who want authenticity. If we can get the legal rights in place so that artists can protect themselves, I think fans will do the rest.
+Q: There are conspiracies about the reasons certain songs have taken off on Spotify. Discovery Mode is a point of contention too. Are there new pressures on artists and labels to give up money in exchange for visibility there, or fears that Spotify has its own agenda about what becomes popular?
+A: I don’t think major label artists would make that trade. But I also don’t think it scales, because then it’s useless. If everybody gave up royalties in order to have promotion, then it’s no longer promotion, because everybody’s getting it. It’s self-defeating.
+But the push for transparency is incredibly important. We don’t want to turn into an industry where artists can’t get data about themselves to promote themselves, and record labels can’t get data about artists to identify audiences. Nobody’s going to give away their secret sauce, but the black-box issue is real, and it creates angst and feeds conspiracy theories. It makes people feel that there is a thumb on the scale and that it’s not fair.
+Q: Back in the ‘90s and 2000s, young music fans were aligned with tech firms against labels. Now, you see more fans allied against tech. How have those allegiances changed since you’ve been at the RIAA?
+A: Record companies are not gatekeepers anymore. They don’t control their own distribution. The control is now with the tech platforms. I think we stand on the same side as fans and artists today, because we have the same interests. The Man has changed, and the tech platforms are now The Man.
+Q: For my entire life, the RIAA was synonymous with suing music fans for downloading songs on Napster. Do you still encounter that sentiment about your work today?
+A: It’s a lot more fun now. The industry has changed, but our mission remains the same. How do we protect against people infringing the content of the artists with whom our record companies work? Now adding to that, how do we protect their name, image and likeness? The rise of streaming and the democratization of the industry has changed the perspective about the enforcement of those rights.
+Q: What conflicts and changes are on the horizon in music and AI?
+A: How much human contribution does there have to be on something that’s partly made by a machine in order for it to be copyrightable? We don’t want Suno to say they own all the music generated by its machine. On the other hand, there’s the new Randy Travis track, where AI scraped his voice so that he could create art when he can’t sing anymore. Is that enough human contribution? I think that’s a fascinating piece on the board.
+Local journalism is essential.
+Give directly to The Spokesman-Review's Northwest Passages community forums series -- which helps to offset the costs of several reporter and editor positions at the newspaper -- by using the easy options below. Gifts processed in this system are tax deductible.
+Get breaking news delivered to your inbox as it happens.
+Updated 8:46 p.m.
+Don’t judge a book by its cover.
+Follow Us
+Support Local Journalism
+Subscribe
+Help
+User
+
+Advertising
+
+More
+Contact Us
+© Copyright 2025, The Spokesman-Review | Community Guidelines | Terms of Service | Privacy Policy | Copyright Policy

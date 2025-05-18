@@ -1,0 +1,21 @@
+Microsoft cracked down on the use of the company’s free AI software after the tool was linked to creating the sexually explicit deepfake images of Taylor Swift that swamped social media – and raised the specter of a lawsuit by the infuriated singer.
+The tech giant pushed an update to its popular tool, called Designer – a text-to-image program powered by OpenAI’s Dall-E 3  – that adds  “guardrails” that will prevent the use of non-consensual photos, the company said.
+The fake photos – showing a nude Swift surrounded by Kansas City Chiefs players in a reference to her highly-publicized romance with Travis Kelce – were traced back to Microsoft’s Designer AI before they began circulating on X, Reddit and other websites, tech-focused site 404 Media reported on Monday.
+“We are investigating these reports and are taking appropriate action to address them,” a Microsoft spokesperson told 404 Media, which first reported on the update.
+“We have large teams working on the development of guardrails and other safety systems in line with our responsible AI principles, including content filtering, operational monitoring and abuse detection to mitigate misuse of the system and help create a safer environment for users,” the spokesperson added, noting that per the company’s Code of Conduct, any Designer users who create deepfakes will lose access to the service.
+Representatives for Microsoft did not immediately respond to The Post’s request for comment.
+The update comes as Microsoft CEO Satya Nadella said tech companies need to “move fast” to crack down on the misuse of artificial intelligence tools. 
+Nadella, whose company is a key investor in ChatGPT creator OpenAI, described the spread of fake pornographic images of the “Cruel Summer” singer as “alarming and terrible.”
+“We have to act. And quite frankly, all of us in the tech platform, irrespective of what your standing on any particular issue is,” Nadella said, according to a transcript ahead of an interview on NBC Nightly News interview, which will air Tuesday.
+“I don’t think anyone would want an online world that is completely not safe for both content creators and content consumers.” 
+The Swift deepfakes were viewed more than 45 million times on X before finally being removed after about 17 hours.
+A source close to Swift was appalled “the social media platform even let them be up to begin with,” the Daily Mail reported, especially considering X’s Help Center outlines policies that prohibit posting “synthetic and manipulated media” as well as “non-consensual nudity.”
+Over the weekend, Elon Musk’s social media platform took the extraordinary step of blocking any searches involving Swift’s name from yielding results — even those that were harmless.
+X executive Joe Benarroch described the move as a “temporary action and done with an abundance of caution as we prioritize safety on this issue.”
+The ban remained in effect Monday.
+The controversy could mean another headache for Microsoft and other AI leaders who are already facing mounting legal, legislative and regulatory scrutiny over the burgeoning technology.
+White House Press Secretary Karine Jean-Pierre described the deepfakes trend as “very alarming” and said the Biden administration was “going to do what we can to deal with this issue.”
+The rise of AI deepfakes could emerge as a key theme later this week when Meta CEO Mark Zuckerberg, TikTok CEO Shou Chew and other prominent tech bosses testify before a Senate panel.
+Earlier this month, Rep. Joseph Morelle (D-NY) and Tom Kean (R-NJ) reintroduced a bill that would make the nonconsensual sharing of digitally altered pornographic images a federal crime, with imposable penalties like jail time, a fine or both.
+The “Preventing Deepfakes of Intimate Images Act” was referred to the House Committee on the Judiciary, but the committee has yet to make a decision on whether or not to pass the bill.
+Advertisement

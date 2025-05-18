@@ -1,0 +1,74 @@
+As 2024 comes to a close, Billboard looks back at the most consequential music publishing stories of the year. 
+
+													By
+												
+
+	Kristin Robinson
+
+Senior Writer
+
+	Music publishing has long been considered to be a slow and steady revenue stream for the industry — the business of rounding up pennies (or, rather, micro-pennies!) for the underlying musical work copyright. But anyone who works in the field will tell you that in publishing there is plenty of drama and action behind the scenes, even if it feels, to outsiders, like the drama surrounds overly-complicated minutiae. 
+
+	And at least on that first part, those outsiders might be right — many of these topics are way too complicated, but publishers and songwriters believe every cent is worth fighting for, even if that means working within the confines of archaic systems and against Big Tech to get it done.
+
+	This year, the publishing business was marked by Hipgnosis’ catalog woes, the domino effect of UMPG writers getting removed from TikTok, and the NMPA “declaring war” on Spotify for cutting royalty payments by an estimated $150 million to publishers over the next year. The MLC also found itself increasingly at the center of the action. From its redesignation that kicked off the new year (and still isn’t done), to its lawsuits against Spotify and Pandora and figuring out the nine-figure adjustment in royalties owed to publishers from 2018-2022 underpayments, the collection society, which is still a relative newcomer, has become a force in the publishing sector. 
+
+	And with increasing calls for PRO reform and AI threatening to alter the songwriting process, there is surely more drama ahead for publishers in 2025. Let the games begin.
+
+≈
+
+	The year kicked off with the Mechanical Licensing Collective’s (MLC) — and the much less talked about Digital Licensing Coordinator, or DLC — first-ever redesignation process. Starting in late January, the Copyright Office began a comprehensive review of the two organizations to determine whether or not they were complying with what they are supposed to do, according to the Music Modernization Act, which established these organizations when it was passed into law in 2018. While this is the first time the MLC and DLC have ever been through a redesignation, this will be a routine occurrence every five years from now on. 
+
+	During this process, publishers, songwriters and streaming services are able to write letters explaining whether or not they think the MLC and DLC should continue on in these official roles and, in their opinion, whether any improvements should be made. And boy, did a lot of people write in! 
+
+	These letters bled out from the Copyright Office and into the press as some stakeholders squabbled over the future they want for the MLC. The consensus is that the MLC should remain in its role as the organization that collects and distributes mechanical royalties, but the Digital Media Association (DiMA), which represents the streaming services, felt the organization should become more efficient and transparent. It makes sense that they would take this position, given the streaming services pay for the MLC’s operation! DiMA’s comments provoked the National Music Publishers Association (NMPA) to fire back with comments of support for MLC, saying that DiMA was trying to “undermine” the organization’s progress. 
+
+	To date, this process is still ongoing. 
+
+	When UMG announced that it would allow its license to lapse with TikTok on February 1, saying the social media company failed to offer “fair value” for its massive catalog of hit songs, most music fans were watching for the day when Taylor Swift, Drake, BTS, Ariana Grande and other superstars signed to UMG labels would have their songs taken down. 
+
+	Publishers knew, however, that the greatest consequence of this would come when TikTok removed all of UMPG songwriters’ works from the platform. Sure, some of these writers’ names are less recognizable than the front-facing celebrities on UMG’s label side, but UMPG songwriters work on songs put out by nearly every label and publisher in the industry, resulting in a domino effect that spread rapidly across the whole business. 
+
+	As Billboard reported earlier this year, this led to some non-UMG recording artists that had worked on recent or upcoming releases with UMPG songwriters to ask the track’s songwriters to withhold information about who wrote the song to try to skirt the UMG TikTok ban — and songwriters often agreed. Songwriters of North America co-founder and CEO Michelle Lewis said at the time that she worried that songwriters were “the least equipped to negotiate” and would not feel like they could push back on these requests. The standoff between the two companies ended about three months later and likely did not have a great overall impact on those writers’ publishing royalties, given the time it takes for money to be collected. 
+
+	If you’re new to publishing, this might sound hard to believe, but from 2018-2022 (known as Phonorecords III), it was unclear exactly how much music publishers and songwriters should be paid for streaming mechanical royalties. This is the result of Spotify, Amazon Music and others appealing the initial royalty rate determination from 2018 and pushing everyone into a multi-year fight to figure it out. By the time this was all settled, in August 2023, that period of time was already over. Sigh.
+
+	In the meantime, while the mechanical streaming rate was still in dispute, streaming services were paying out music publishers based on either the previous five year period’s rate (these rates are re-considered every five years) or at the initial Phono III rate that was determined before Spotify and Amazon fought back. 
+
+	On Feb. 23, The MLC announced that they had determined how much the adjustment would be, based on going back and calculating the difference between the rate that was ultimately set for 2018-2022, versus what streamers actually paid during that time period. The MLC said the adjustment was $419.2 million. While it was a great headline, the fine print breakdown suggested that as much as a third of that sum had already been paid out. Still, if someone’s going to hand you millions of dollars for something your business did years ago, you’re going to smile and say yes. 
+
+	It’s no secret that Spotify and the music publishers have not always seen eye-to-eye, but after the voluntary settlement of Phonorecords IV (2023-2027), which was peacefully agreed upon by streamers, the NMPA and Nashville Songwriters Association International (NSAI), it seemed like Spotify and publishers had buried the hatchet. It turns out that it lasted for less than two years. In March, Spotify began paying publishers and songwriters at a discounted mechanical royalty rate for streams on its popular premium tiers, ending what David Israelite, CEO and president of the NMPA, called the era of “relative peace” with Spotify.
+
+	The company justified this by saying it was simply exercising one of the concessions publishers made in Phonorecords IV, which allowed “bundled” services to split the royalty pie between the multiple offerings offered under one price. In this case, Spotify argued that the new inclusion of audiobooks to its premium audio tiers should allow it to split royalties that were previously just paid out for music to something that would be now shared between music and books. This, Billboard estimated, would lead to $150 million reduction in royalty payouts over the first 12 months of this change. 
+
+	The publishing biz did not take this lying down. Songwriter groups spoke out. The MLC launched a lawsuit, arguing that Spotify premium actually does not qualify for this discount. The NMPA forged a multi-pronged campaign to try to stop it, including an FTC complaint and letters to the attorneys general for nine states, filing a legislative proposal in both the House and Senate, and sending cease and desist notices to Spotify for supposedly unlicensed video and podcast content.
+
+	The MLC’s lawsuit against Spotify is still ongoing.
+
+	Following UMG’s licensing battle with TikTok, the NMPA announced that it would be letting its model license expire with TikTok too, starting May 1. The organization said it had no plans to renew the license, which was often used by indie publishers. Unlike the massive domino effect caused by the removal of UMPG songwriters, NMPA’s license expired to little fanfare. Some of the publishers using it found other ways to get licensed, and whatever else was left unlicensed was quietly removed. 
+
+	But the NMPA’s decision to cease its license with TikTok made it clear that the UMG dispute was not going to be an isolated event. The music business and TikTok had entered a new phase in their relationship, a phase that seems much rockier. This was underscored in the fall, when indie label digital rights organization Merlin also saw its TikTok license — used by thousands of indie labels — lapse, after a dispute in which Merlin claimed TikTok “walked away” from their negotiations. Instead, TikTok wanted to license each Merlin member individually.
+
+	The beef between rappers Kendrick Lamar and Drake was certainly the event of the year for hip-hop heads, but it also spawned a possible new precedent for publishers. On May 24, Sexyy Red and Drake teamed up on the track “U My Everything” which featured a sample of a song called “BBL Drizzy.” 
+
+	Complicated sample clearances happen all the time, of course, but this one had a strange twist. How do you clear a sample that was largely AI-generated like “BBL Drizzy”? Created by comedian King Willonius on the AI platform Udio, “BBL Drizzy” was popularized when Metro Boomin remixed the track and put it out unofficially on SoundCloud. Then, in an apparent effort to reclaim the joke, Drake sampled Willonius’s original creation in “U My Everything,” which was officially released on all platforms. 
+
+In an interview with Billboard, Willonius and Metro Boomin’s lawyers, Donald Woodard and Uwonda Carter of Woodard & Carter, said that they worked off of recent guidance from the U.S. Copyright Office to figure this out. Woodard said that the master recording of “BBL Drizzy” is considered “public domain,” meaning anyone can use it royalty-free and it is not protected by copyright, since Willonius created the master using AI. But because Willonius did write the lyrics to “BBL Drizzy,” copyright law says he should be credited and paid for the “U My Everything” sample on the publishing side. “We are focused on the human portion that we can control,” Woodard said at the time. “You only need to clear the human side of it, which is the publishing.”
+
+	While it remains to be seen if further AI regulations will change the process Woodard and Carter set up, the song provided publishers with sneak peek into the future — one where songwriters and producers might be using AI in integral parts of the song-making process.
+
+	Hipgnosis, founded by Merck Mercuriadis, is known as the company that revolutionized the catalog market, driving up the price for music to new heights and turning it into a sought-after asset class for investors of all backgrounds. But the last two years have marked a period of turmoil for the company. This included a shareholder revolt, an accounting scandal, a bidding war, and bitter infighting between the board of the publicly-traded Hipgnosis and the investment manager Mercuriadis led. Amidst all of this, Mercuriadis stepped down from his post as chairman and CEO of Hipgnosis Songs Management.
+
+	Ultimately, Blackstone won the bidding war, spending $1.6 billion to acquire the publicly traded Hipgnosis Songs Fund, a catalog of 65,000 copyrights including songs by Red Hot Chili Peppers, Journey, Shakira and Neil Young. The deal was completed on July 29.
+
+	If anyone tells you they understand exactly how performance royalties are determined, they’re probably exaggerating. It’s a complicated process, conducted by performance rights organizations (PROs), and one that has been long criticized by songwriters and publishers for not being transparent, especially when you get into the concept of royalty bonuses for top talent. 
+
+	In September, the House Judiciary Committee sent a letter, obtained by Billboard, to the Register of Copyrights, Shira Perlmutter, requesting an examination of the PROs. They were especially concerned with two key issues — the “proliferation” of PROs and their “lack of transparency.” While Perlmutter and the Copyright Office cannot make any specific changes to the way PROs work today, letters like this are often sent in hopes that it will draw attention to particular issues or become the predicate for a hearing or draft bill.
+
+	Between this letter, BMI’s sale to New Mountain Capital, GMR’s high rates for hit songs, the introduction of AllTrack into CISAC as a rights management entity, and more, it’s clear that PROs are an area of increasing concern to publishers, songwriters and licensees heading in 2025.
+Get weekly rundowns straight to your inbox
+A daily briefing on what matters in the music industry
+Send us a tip using our anonymous form.
+A daily briefing on what matters in the music industry
+Send us a tip using our anonymous form.
+Billboard is a part of Penske Media Corporation. © 2025 Billboard Media, LLC. All Rights Reserved.

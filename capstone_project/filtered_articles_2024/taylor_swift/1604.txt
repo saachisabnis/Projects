@@ -1,0 +1,50 @@
+Username
+Password
+Remember me
+Forgot your password?
+
+                                Subscribe today to gain access to every Research Intelligencer article we publish as well as the exclusive daily newsletter, full access to The MediaPost Cases, first-look research and daily insights from Joe Mandese, Editor in Chief.
+                            
+If you're already a paid subscriber, please sign-in.
+Username  
+                                    
+Password  
+                                      Forgot?
+Log in if you are already a member
+Username  
+                                    
+Password  
+                                      Forgot?
+In a successful example of the unique opportunities
+Bluesky can provide its users through a decentralized social media model, the X-competitor offered its growing user base the ability to follow Super Bowl LVIII without any mention of pop megastar
+Taylor Swift.  Funded by ex-Twitter CEO Jack Dorsey and run by software engineer Jay Graber, Bluesky operates on the idea that social-media users should be able to curate their own specific
+experiences separate from the influence of algorithms and moderation settings, which users can also set themselves.This is how Bluesky users were able to follow the Big Game with a pair of
+additional screen experiences -- one that blocked out all mentions of Taylor Swift, who is dating Kansas City Chiefs tight end Travis Kelce -- and one that offered “Taylor’s Version”
+and included a feed comprised of updates about the popstar and her relationship.advertisementadvertisement“The real distinction is that some football fans have strong feelings about *not* seeing any TS-related
+content in their football news, and the first feed can provide that for them,” posted Bluesky team member Emily Liu.The timing was ideal.Just last week, Bluesky -- which has
+operated as an invite-only app since its start, amassing 2 million active users -- decided to open its doors to public use.A few days later, Bluesky added roughly 1.6 million new
+users, stating in its announcement that users “will have the freedom to choose (and the right to leave) instead of being held to the whims of private companies and black box algorithms."This is made possible by Bluesky being built on a decentralized protocol called the AT Protocol, which gives users and developers an added layer of transparency into how the platform is being
+created.Later this month, the company says it will begin allowing outside developers to host their own servers on its AT Protocol, which is designed to rival ActivityPub, the open protocol
+being used by decentralized rival Mastodon and, eventually, Meta’s app Threads.Bluesky currently has about 4.8 million users. Opening up its gates to public use will prove whether or
+not the app can scale properly to an audience seeking a new level of agency in the microblogging space. 
+Funded by ex-Twitter CEO Jack Dorsey and run by software engineer Jay Graber, Bluesky operates on the idea that social-media users should be able to curate their own specific
+experiences separate from the influence of algorithms and moderation settings, which users can also set themselves.
+This is how Bluesky users were able to follow the Big Game with a pair of
+additional screen experiences -- one that blocked out all mentions of Taylor Swift, who is dating Kansas City Chiefs tight end Travis Kelce -- and one that offered “Taylor’s Version”
+and included a feed comprised of updates about the popstar and her relationship.
+advertisement
+advertisement
+“The real distinction is that some football fans have strong feelings about *not* seeing any TS-related
+content in their football news, and the first feed can provide that for them,” posted Bluesky team member Emily Liu.
+The timing was ideal.
+Just last week, Bluesky -- which has
+operated as an invite-only app since its start, amassing 2 million active users -- decided to open its doors to public use.
+A few days later, Bluesky added roughly 1.6 million new
+users, stating in its announcement that users “will have the freedom to choose (and the right to leave) instead of being held to the whims of private companies and black box algorithms."
+This is made possible by Bluesky being built on a decentralized protocol called the AT Protocol, which gives users and developers an added layer of transparency into how the platform is being
+created.
+Later this month, the company says it will begin allowing outside developers to host their own servers on its AT Protocol, which is designed to rival ActivityPub, the open protocol
+being used by decentralized rival Mastodon and, eventually, Meta’s app Threads.
+Bluesky currently has about 4.8 million users. Opening up its gates to public use will prove whether or
+not the app can scale properly to an audience seeking a new level of agency in the microblogging space. 
+advertisement

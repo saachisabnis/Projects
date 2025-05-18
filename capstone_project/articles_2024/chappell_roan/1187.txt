@@ -1,0 +1,29 @@
+Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+Universal Music Group (UMG), one of the largest recording labels in the world, has been vocal about the impact of AI in the music industry, going as far as to sue AI companies.
+But even UMG wants its data to help train generative AI as long as it can control who gets to use its copyright and build AI models. 
+UMG announced it will work with AI company Klay Vision to help train generative AI music models “ethically and fully respectful of copyright.” The model will help create commercially available AI-generated music that will also include protections for the likeness rights of human creators. 
+ “Research is critical to building the foundations for AI music, but the tech is only an empty vessel when it doesn’t engage with the culture it is meant to serve,” said Ary Attie, founder and CEO of Klay, in a press release.  
+This is not the first time UMG has made a deal to offer its content for AI licensing, all the while allowing it to help shape how AI music models are built. UMG signed an agreement with YouTube to be part of YouTube’s parent Alphabet’s Music AI Incubator. It also worked with SoundLabs to help create voice models for artists. 
+Klay and UMG said the goal is to responsibly build AI music foundation models that the companies hope “will dramatically lessen the threat to human creators and stand the greatest opportunity to be transformational, creating significant new avenues for creativity and future monetization of copyrights.”
+The companies did not elaborate on what the music AI foundation model will do. 
+The music industry is famously litigious, guarding its copyright and licenses tightly. After all, these are the same music labels that attempted to kill music downloads. The industry has been involved in the Congressional hearings on legally protecting copyright and the right to publicity of artists.
+UMG and the Recording Industry Association of America (RIAA), Sony Music and Warner Music Group’s Atlantic Records filed a copyright infringement claim against Suno and Udio. The labels alleged the two startups copied songs and that when prompted to generate similar-sounding songs, the platforms would return with the same songs with different lyrics instead. Both Udio and Suno denied the accusations. 
+Labels, once again including Universal, sued Anthropic, the company behind Claude,  for distributing lyrics without permission. 
+As much as record labels want to protect their copyright, the partnerships the companies are forging point to a trend of industries adopting an “if you can’t beat ‘em, join ‘em” attitude towards AI. 
+Music labels see they can’t stem the creation of AI-generated songs and prevent AI models from training on publicly released music. Through these deals with AI startups, labels like UMG, which owns other record labels that host artists like Taylor Swift and Chappell Roan, can make (even more) money from their copyrights. 
+It also allows the companies to exert some control over who gets to use their data, something other industries have been pushing for as well. For example, media companies inked deals with companies like OpenAI, Perplexity, Google and now Meta, which just signed its first AI news partnership with Reuters. 
+Vickie Nauman, founder of music and tech consultancy Cross Border Works, said in an email to VentureBeat that when new technologies like AI “crash into the music sector, there is usually a burst of innovation alongside legal issues surrounding music rights.”
+“Major and smaller rightsholders all see that generative AI is here to stay and it is in everyone’s best interest to establish a sustainable legal market,” Nauman said. “The downside is these deals take negotiation and time, so it doesn’t happen immediately.”
+Music labels will undoubtedly continue to sue AI companies if they feel they are infringing on copyright, but recording agencies will also undoubtedly want to shape how AI music is created in the image that best suits them. 
+If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.
+Read our Privacy Policy
+
+					Thanks for subscribing. Check out more VB newsletters here.
+				
+An error occured.
+Join leaders in enterprise AI for networking, insights, and engaging conversations at the upcoming stops of our AI Impact Tour. See if we're coming to your area!
+© 2025 VentureBeat. All rights reserved.
+
+										Thanks for subscribing. Check out more VB newsletters here.
+									
+An error occured.

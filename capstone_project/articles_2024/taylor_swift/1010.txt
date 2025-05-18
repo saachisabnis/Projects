@@ -1,0 +1,23 @@
+Benzinga Rankings give you vital metrics on any stock – anytime.
+The CEO of Microsoft Corporation MSFT, Satya Nadella, has pledged rapid response to the spread of non-consensual explicit deepfake images, following the viral distribution of AI-generated explicit images of pop star Taylor Swift.
+What Happened: Nadella expressed an urgency to address the rise of nonconsensual explicit deepfake images, in light of the viral AI-generated fake nude images of Swift and subsequent backlash. The account that posted these images was suspended after reports from Swift’s fans.
+In a conversation with CNBC News, Nadella underscored the importance of a safe digital environment for both content creators and consumers. Although he did not comment directly on a 404 Media report linking the viral deepfake images to a Telegram group chat, Microsoft stated that it was investigating the reports and would act accordingly.
+Microsoft is a major investor in OpenAI, a prominent AI organization responsible for creating ChatGPT. It has incorporated AI tools into its products, such as Copilot, an AI chatbot tool featured on the company’s search engine, Bing.
+See Also: Stable Diffusion Creates A Woman That Doesn't Exist With A Passport That's Fake
+“Yes, we have to act,” he said, adding, “I think we all benefit when the online world is a safe world. And so I don't think anyone would want an online world that is completely not safe for both content creators and content consumers. So therefore, I think it behooves us to move fast on this.”
+“I go back to what I think’s our responsibility, which is all of the guardrails that we need to place around the technology so that there’s more safe content that’s being produced,” the CEO stated. “And there’s a lot to be done and a lot being done there.”
+“But it is about global, societal, you know, I'll say convergence on certain norms,” Nadella continued. “Especially when you have law and law enforcement and tech platforms that can come together, I think we can govern a lot more than we give ourselves credit for.”
+Nadella also said that the company’s Code of Conduct prohibits the use of its tools for the creation of adult or non-consensual intimate content. "…any repeated attempts to produce content that goes against our policies may result in loss of access to the service."
+Microsoft later updated its statement, asserting its commitment to a safe user experience and the seriousness with which it takes such reports. The company found no proof that its content safety filters were bypassed and has taken measures to fortify them against the misuse of its services, the report noted. 
+Why It Matters: This incident comes on the heels of recent concerns about the misuse of AI technology for creating explicit images, and the potential risks such manipulated media pose to public figures. 
+Deepfakes have created a stir on social media during the U.S. election cycle, with the circulation of false images, voice alterations, and videos.
+The White House press secretary Karine Jean-Pierre also voiced her concern on Friday, saying, “We are alarmed by the reports of the circulation of false images.”
+"We are going to do what we can to deal with this issue."
+Check out more of Benzinga’s Consumer Tech coverage by following this link.
+Read Next: ‘2024 Elections Will Be A Mess' Because Of AI, Says Former Google CEO — Misleading And Fake Info Top Concern Among State Election Officials
+This content was partially produced with the help of Benzinga Neuro and was reviewed and published by Benzinga editors.
+Image Credits – Wikimedia Commons
+Benzinga Rankings give you vital metrics on any stock – anytime.
+© 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.
+A newsletter built for market enthusiasts by market enthusiasts. Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes.

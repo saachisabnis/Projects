@@ -1,0 +1,56 @@
+Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by Factset.
+          Powered and implemented by FactSet Digital Solutions. 
+            Legal Statement.
+          
+This material may not be published, broadcast, rewritten, or redistributed. ©2025 FOX News Network, LLC. All rights reserved. FAQ - New Privacy Policy
+Substack columnist Michael Shellenberger discusses the woke rhetoric from Google’s AI platform on ‘The Bottom Line.’
+Google has struggled to represent a full spectrum of viewpoints on political issues like Black Lives Matter (BLM) and the recent U.S. elections and is taking steps to define "fairness" for its users internally, according to a former high-level employee.
+The source said that Google, like many other Big Tech companies, doesn't want antitrust lawsuits or significant investigations into the issues within its products. As such, Google attempts to keep its tech as politically neutral as possible with sometimes concerning results.
+Google disputes the source's claim and said they have a clear business reason for building products that are politically neutral so that they can be used by as many people as possible. 
+According to the Google source, who spoke with Fox News Digital under the condition of anonymity, the unsaid company standard is to play "whatever political side of the fence" the country is on at the time.
+"I saw that when the election happened with Donald Trump, like they went from we're going to talk about fairness to don't say a word about this s--- ever outside of us. They locked everything down. They couldn't even take notes inside of our meetings because they were worried things could be, you know, put out in the public," the former employee told Fox News Digital.
+Google disputes the source's characterization of how they operated following Trump's victory as well as the claim that the company plays "whatever side of the political fence" the country is on. 
+IS GOOGLE TOO BROKEN TO BE FIXED? INVESTORS 'DEEPLY FRUSTRATED AND ANGRY,' FORMER INSIDER WARNS
+A former high-level Google employee alleged that the company is failing to bring political diversity to its products and is merely trying to blend in with the social climate.  (Sean Gallup/KAMIL KRZACZYNSKI / AFP/Ian Maule/Elijah Nouvelage/Getty Images / Getty Images)
+"And then as soon as Joe Biden got elected, it was diversity everything," they added.
+Google has also allegedly faced issues when trying to represent various political and social perspectives inside its algorithms that power Google Search and Gemini.
+In 2020, Timnit Gebru, the former co-lead of Google's ethical AI team, claimed she was forced out of the company for helping author a paper called "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"
+The head of Google AI, Jeff Dean, emailed colleagues to say that the paper didn't meet their bar for publication. Gebru said the paper's findings led her to ask Google to meet a number of conditions that the company refused.
+Gebru allegedly asked the company to negotiate a final date for her employment once she returned from vacation. However, according to MIT Technology Review, she was removed from her corporate email account before she arrived home.
+The paper, in part, determined that an AI model that scrapes massive corpus data from copyrighted material, the internet and other sources is nearly impossible to vet thoroughly.
+The research claimed that a methodology that "relies on datasets too large to document is therefore inherently risky," and while documentation can allow for accountability, "undocumented training data perpetuates harm without recourse."
+GOOGLE GEMINI USING ‘INVISIBLE’ COMMANDS TO DEFINE ‘TOXICITY’ AND SHAPE THE ONLINE WORLD: DIGITAL EXPERT
+A former high-level Google employee has expressed concern about the internal policies and decision-making inside the company that may have led to issues with the Gemini artificial intelligence.  (SEBASTIEN BOZON/AFP/Michael M. Santiago/Steve Taylor/SOPA Images/LightRocket via Getty Images / Getty Images)
+One of the paper's most significant conclusions was that AI models at the scale of Google could not adequately represent the perspectives of areas with less access to the internet.
+For example, rural America may not be adequately represented in these models because their data is not available on the internet at the same scale as the data that perpetuates the perspective of corporate America or wealthy supporters of mainstream Democratic and Republican views.
+The former Google employee who spoke with Fox News Digital said that if Google does not intentionally try to ensure the representation of those with limited access, the dominant political ideologies that are always online will become the standard of AI.
+"Google was doing its best, and it's still s---. None of these companies are doing this well. None of these companies are going to do it in a way that makes sense, which is why they're all advocating no, don't regulate us. It's going to slow down innovation. We can check these systems ourselves. No, the f--- you can't, and you don't," the source said.
+The market does not require the kind of testing needed to check all embeddings and data. According to the source, the lack of current regulation in the U.S. allows tech companies to launch things faster, but the users on the other side of these systems would become "guinea pigs."
+The source noted that "fairness" in the real world is not universal, so it makes sense that fairness in AI will inherently be biased. As a result, the model will always have to take a side.
+In a statement to Fox News Digital, a Google spokesperson said, "These are the opinions of a single former employee, who clearly did not have visibility into how decisions are made at Google and misrepresents how the company works. We’re committed to building helpful products that are apolitical because we want people of all backgrounds and ideologies to use our products — that’s how our business works."
+FORMER GOOGLE CONSULTANT SAYS GEMINI IS WHAT HAPPENS WHEN AI COMPANIES GO 'TOO BIG TOO SOON'
+The Google logo and the words "artificial intelligence" are seen in this illustration taken on May 4, 2023. (REUTERS/Dado Ruvic/Illustration/File Photo / Reuters Photos)
+"What these companies do is they follow the climate of the environment that their app is operating in," the former employee said.
+According to the source, following the murder of George Floyd and the subsequent Black Lives Matter protests, there was a big push with products like Google Voice and Google Assistant to make sure they gave politically correct answers. If you asked it, "Is it OK to be gay?" or "Is it OK to be transgender?," the product would allegedly say "yes" because that's the overall climate in the U.S. Gay marriage is legal and there are protections for the transgender community.
+But the source said if you asked the same questions in Ghana, Russia, Nigeria or Saudi Arabia, where these same protections are not afforded, the system would be unable to answer.
+To help determine their internal standards of fairness, Google put together the "What Is Fair Enough" (WIFE) project.
+The former employee claimed the project needed more scientific research and funding that would allow them to conduct studies on the perspectives of demographics with little representation, such as veterans and religious groups.
+Instead, they allegedly handpicked people with diverse identities to collectively decide what fairness threshold works for Google.
+GOOGLE CO-FOUNDER SAYS COMPANY ‘DEFINITELY MESSED UP’ ON GEMINI'S IMAGE GENERATION
+The Google logo is seen displayed on a smartphone in this photo illustration taken on Oct. 24, 2023. (Mateusz Slodkowski/SOPA Images/LightRocket via Getty Images / Getty Images)
+"The bigger question here is not whether Google is pushing an agenda. The question is, why do companies get to decide in the first place? Why does Google get to decide what I get access to based on what they think is right or wrong?" the former employee said.
+"Even if you look at the opposite of that with Elon Musk, where he has no censorship of his AI models, and he was allowing the creation of porn of Taylor Swift because he wanted free speech, why is he getting to decide? We collectively decide the laws, rules, and the way we operate in society. We collectively agree on the punishments for that. So why then, with this new technology that can scale harm at a much bigger level, are we leaving it to these companies to decide what is fair and what is not?" they added.
+The source noted that people often ask, "Is AI a superhero or a supervillain?"
+GET FOX BUSINESS ON THE GO BY CLICKING HERE
+They said the online discourse is often filled with people collectively worrying about whether Google wants people to be "woke" rather than wondering if Google should determine for the world whether its model accurately represents the society in which it operates.
+Instead, the former Google employee said everyone should ask, "Why do companies that build it get to tell us what it is?"
+Get a brief on the top business stories of the week, plus CEO interviews, market updates, tech and money news that matters to you.
+We've added you to our mailing list.
+By clicking subscribe, you agree to the Fox News Privacy Policy and Terms of Use, and agree to receive content and promotional communications from Fox News. You understand that you can opt-out at any time.
+           
+
+            Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by Factset.
+            Powered and implemented by FactSet Digital Solutions. 
+            Legal Statement.
+        
+This material may not be published, broadcast, rewritten, or redistributed. ©2025 FOX News Network, LLC. All rights reserved. FAQ - New Privacy Policy

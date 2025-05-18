@@ -1,0 +1,40 @@
+Canadian rap artist Drake was forced to pull a diss track he had produced that used an AI-generated voice of Tupac Shakur. Prince Williams/Wireimage via Getty Images
+by Jabari M. Evans, University of South Carolina
+In April 2023, a song titled “Heart on My Sleeve,” written and produced by a mysterious producer named Ghostwriter, went viral on TikTok and briefly became the most popular song on both YouTube and Spotify.
+But just as quickly as “Heart on My Sleeve” took off, Spotify and YouTube removed it from their libraries. The producer and songwriter had used artificial intelligence to create vocals on the track that sounded like Drake and The Weeknd. Universal Music Group, which represents both artists, had threatened legal action.
+Though Drake was surely aware of the kerfuffle, he didn’t seem fazed by it.
+In fact, just over a year later, he was the one incorporating AI-generated vocals into his music during his ongoing feud with rapper Kendrick Lamar.
+I’ve been closely following these developments – which strike at the heart of technology, music and the law – both as a scholar of digital media and as a rap artist who was among the first to interpolate rap lyrics with samples of previously released vocals.
+As Drake showed in his diss track, AI can help artists produce music. But the technology exists in a legal gray area – particularly when it comes to vocals.
+On April 19, 2024, Drake released a song, “Taylor Made Freestyle,” that used AI-generated vocals of Tupac Shakur and Snoop Dogg.
+On the track, the AI voice of Shakur – who died in 1996 – addresses Lamar, skewering his silence in the feud between the two rap giants:
+“Kendrick we need ya, the West Coast savior / Engraving your name in some hip-hop history,” raps the artificial Shakur. “Call him a b—h for me / Talk about him liking young girls as a gift for me.”
+Unsurprisingly, Shakur’s estate threatened legal action against Drake for his unauthorized incorporation of Tupac’s voice and persona, which, they claimed, violated the deceased artist’s rights to control the commercial use of his identity.
+Howard King, the estate’s attorney, noted in a letter that the estate would never have approved this use. Drake soon pulled the diss track from streaming platforms and YouTube.
+It’s important to distinguish copyright from someone’s right to publicity.
+Because copyright laws use the term “author,” they’ve traditionally been interpreted to exclusively refer to the creative work of a human being. In other words, according to statutory copyright provisions, only humans can qualify as authors. And their writing, art, photographs and music cannot be used without their permission.
+When it comes to AI and copyright, one of the core legal issues is the extent to which copyrighted material can be used to train the models. That’s why The New York Times has sued OpenAI and Microsoft: The companies trained their models using articles that ran in the publication without the permission of the newspaper.
+Someone’s right to publicity, on the other hand, refers to their ability to make money off their name, image, likeness, voice or signature.
+Arguably, the most famous right of publicity case is one Bette Midler brought against the Ford Motor Co. in 1988. After Midler turned down the car company’s offer to appear in one of their television commercials, Ford used one of her former backup singers to impersonate her singing voice within the ad.
+Ford was forced to pay Midler US$400,000 for violating her right of publicity. That judgment by the state of California will now prove vital in the ways AI can be used to clone the voice of a celebrity.
+However, litigating rights of publicity in cases involving AI won’t be simple.
+That’s what actor Scarlett Johannson will discover if she sues OpenAI for releasing a new AI voice assistant technology that uses a voice that sounds just like hers.
+Because AI large language models are designed to be trained on a wide range of sources for original work, it is still difficult to determine, without proof of intent, what is outright theft and what is simply a product of this range of influences. In Johannson’s case, OpenAI invited her to be the voice of its AI assistant technology. She declined, and the company says it went on to create a voice on its own. Even though that voice sounds eerily similar to Johnannson’s, the company claims it never intended to replicate the actress’s voice.
+Either way, current federal copyright law doesn’t specifically address cloned vocals or when someone’s voice is used in a new or different context.
+When it comes to songwriting, because these voice clones often introduce original lyrics and musical elements from musicians prompting the AI, they’re somewhat distinct from existing copyrighted material.
+In contrast, precedents in California and other states assert that impersonating a famous musician in music can infringe upon that musician’s right of publicity.
+The publicity rights referenced by Shakur’s estate are probably a more suitable avenue for litigation: They protect a person’s likeness itself – their face, voice or signature phrases – even if they’re used in a totally new context.
+Famously, in the 1990s, there were injunctions against musicians using samples of boxing ring announcer Michael Buffer’s trademark catchphrase of “Let’s Get Ready to Rumble!” But historically, these rights have been primarily invoked in lawsuits concerning advertisements and commercial uses, rather than newly generated works, such as songs.
+Faced with legal uncertainty, the recording industry and other top creatives have pushed for new legislation to address the problem.
+Recently, Tennessee passed a statute called the ELVIS Act that aims to crack down on voice cloning by expanding the state’s publicity rights laws beyond just advertisements. This statute can protect artists from unauthorized voice cloning, ensuring that their vocal expressions are not used without their consent. Federal lawmakers are also considering similar bills that would create new, broader definitions of publicity rights
+With advancements in AI, I think everyone can agree that it’s important to safeguard the role of humans in making art.
+While AI can generate impressive imitations, it lacks the soul and spontaneity that human artists infuse into their work. In my view, AI’s role in songwriting should not merely involve replicating human talent. Instead, AI should enhance and support the work of artists, allowing them to leverage the technology without being overshadowed by it.
+The AI train has left the station. Now, the guardrails need to be hastily built to keep the technology from running the music industry off the tracks.
+Jabari M. Evans, Assistant Professor of Race and Media, University of South Carolina
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+
+See author's posts
+
+Tags: AI copyright, Artificial intelligence (AI), beef, copyright, Copyright law, Drake, Generative AI, kendrick lamar, Law, Music, Tupac Shakur
+Copyright © 2025. Real Times Media. All Rights Reserved.
+Accessibility Tools

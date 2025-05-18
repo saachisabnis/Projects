@@ -1,0 +1,71 @@
+Updated May 14, 2024 at 12:10 PM ET
+
+In late April, Senator Thom Tillis (R-North Carolina) began his testimony before a Senate subcommittee hearing by doing something unusual for a stuffy institution like Congress: He played a new song from the rapper Drake.
+
+But it wasn't Drake's rap verse that Tillis felt was important for Congress to hear. Rather it was a verse in the song featuring the voice of the legendary — and long dead — rapper Tupac Shakur.
+
+In a kind of uniquely modern sorcery, the song uses artificial intelligence to resurrect Tupac from the dead and manufacture a completely new — and synthetic — verse delivered in the late rapper's voice. The song, titled "Taylor Made Freestyle," is one in a barrage of brutal diss tracks exchanged between Drake and Kendrick Lamar in a chart-topping rap battle. Kendrick is from California, where Tupac is like a god among rap fans, so weaponizing the West Coast rap legend's voice in the feud had some strategic value for Drake, who is from Toronto.
+
+Drake, apparently, thought it'd be okay to use Tupac's synthetic voice in his song without asking permission from the late rapper's estate. But, soon after the song's release, Tupac's estate sent a cease-and-desist letter demanding that Drake take the song down, which he did. However — given the murky legal landscape regulating AI creations — it's unclear whether Tupac's estate actually has the law on their side.
+
+And so the beef between Drake and Kendrick Lamar has become not only one of the most brilliant — and most vicious — battles in the history of rap. It's also become a historic flashpoint for the issues posed by what you might call AI necromancy — resurrecting traits of the dead using AI technology.
+
+We've entered a new world where anyone can conjure the voice or visual likeness of a dead celebrity — or really anyone, dead or alive — with a few clicks using AI software. And this has opened up a bunch of new legal questions about the rights of people and their heirs to control digital replicas of themselves.
+
+"So we've got work to do and legislation addressing the misuse of digital replicas will have a multi-billion dollar implication," said Senator Tillis after playing the new Drake song featuring AI Tupac in Congress. "We've got to get it under control."
+
+For Tupac, this is just the latest chapter in one of the most productive careers that any artist has had after death. Even before the explosion of artificial intelligence, there was enormous commercial and artistic demand for reviving the late rapper. And there were questions over whether his legacy was being tarnished by his estate cashing in on that demand.
+
+Tupac, who is widely recognized as one of the greatest and most charismatic rappers of all time, was murdered back in 1996, in a drive-by shooting on the streets of Las Vegas. Given the incredible mark he left on the world, it's hard to believe he was only 25 years old when he passed.
+
+Tupac, who was known to go into the studio and churn out songs like a conveyor belt, left behind a massive supply of unreleased songs. And, under the direction of Tupac's estate, music labels released seven posthumous studio albums of these songs — more than the number of albums Tupac released while he was alive. That doesn't even include the slew of greatest hits albums, live albums, and compilation albums released after he died.
+
+By the early 2000s, the constant deluge of new Tupac songs began to strike many people as strange. Was he still alive? Maybe! In 2006, Dave Chapelle released a hilarious sketch on The Chappelle Show that poked fun at this idea. He and a group of clubgoers can be seen dancing to a new Tupac song, which has reference after reference to events that happened well after he died. The crowd is mesmerized — and perplexed — by the song's eerily contemporary lyrics. The sketch was called "Tupac is still alive."
+
+While some of the Tupac songs released after he died were actually quite good, most were ones that the artist himself would have probably not released. In this humble Tupac fan's opinion, repeated themes and phrases in these songs became clichés. His flows were often very similar and got a little boring. By 2006, when Tupac's heirs released his final studio album, it felt like they were scraping the bottom of the barrel for a quick buck.
+
+Last year, the estate controversially partnered with the company Nixon to launch an entire line of watches inspired by the late rapper. "Through photos, writings, and, of course, his music, we visually designed Tupac's story through the medium of watches," said a Nixon spokesperson in a press release. As Vibe made clear, many of Tupac's fans were not pleased with this partnership.
+
+At the heart of the battle over regulating AI-generated digital replicas of dead people is whether their estates should have powers to authorize usage. The idea is that such power will safeguard the artist's legacy and financially benefit their families. But Tupac's story reveals that this is by no means a foolproof solution.
+
+Tupac's sister, Sekyiwa Shakur, has alleged her brother's estate has been improperly managed by its executor, Tom Whalley. Whalley was appointed to that job by Afeni Shakur, Tupac's mother, in her will. She died in 2016. Tupac's sister, in a lawsuit filed in 2022, accused Whalley of embezzling money and requested an official audit of the estate. Whalley vigorously denies any wrongdoing. The lawsuit is still pending.
+
+While Tupac's story, likeness, and mortal music catalog would clearly continue to be a valuable commodity, by the 2010s, it started to feel like the finality of death had finally caught up with Tupac and stopped the flow of new musical performances. There's only so much someone can do when they've been dead for decades, right?
+
+Then, however, came 2012. That's when Dr. Dre and Snoop Dogg, performing live at Coachella, famously resurrected Tupac with a "hologram" for a performance. To a roaring crowd, Tupac, artificially generated using CGI and projected onto the stage, rose up from out of the ground like a ghost. Ghost Tupac began by performing his bone-chilling posthumously released song, "Hail Mary." The crowd loved every second of it.
+
+Funny enough, even Drake's archenemy Kendrick Lamar reanimated Tupac for his own artistic purposes. The last track on Kendrick's 2015 album "To Pimp A Butterfly" is a song titled "Mortal Man." The song ends with Kendrick interviewing Tupac. Kendrick lifted Tupac's side of the interview from a rarely heard Q&A that Tupac did back in 1994 with a Swedish radio show. But, unlike Drake, Kendrick got authorization from Tupac's estate to do this.
+
+With the explosion of AI, Tupac — or at least a fake, digitally rendered version of him — is seeing another resurgence. It's not just Drake. YouTube is now filled with songs featuring AI Tupac. Some of these songs already have millions of listens.
+
+The question is whether any of this is even legal when the creators lack authorization from Tupac's estate. To get an answer to this, we spoke to Mark Bartholomew, a law professor at The University at Buffalo School of Law. He has a forthcoming law review article titled "A Right To Be Left Dead," which dives deep into the legal issues posed by AI necromancy.
+
+[Editor's note: This is an excerpt of  Planet Money's newsletter. You can  sign up here.]
+
+Currently, there are few or no federal laws that explicitly prohibit people from using AI to generate and distribute replicas of you without your consent. Instead, Bartholomew says, there's a confusing patchwork of laws that vary state by state. Some states protect your visual likeness, but not your voice. Others protect you when you're living but not when you're dead. Tennessee, the epicenter of country music, recently became the first state to enact a law protecting musicians from unauthorized AI replicas, safeguarding an artist's likeness and voice, both when they're living and dead.
+
+How do we know which state's laws govern? Bartholomew points to a famous case involving the unauthorized use of Marilyn Monroe's persona. The late actress's estate argued that Monroe, at the time of her death, was domiciled in California, which hands generous rights to artists to control commercial use of their personas, including after they're dead. Because of her California ties, Monroe's estate argued, they had rights to authorize — and profit from — the use of her image. However, using evidence like tax records and past arguments by Monroe's own estate, the court ruled that Monroe's main home was actually in New York, where these rights were not granted posthumously (back then), and so the estate lost their case. (For more on the economic and legal issues posed by commercial use of dead celebrities, listen to this 2015 Planet Money episode, "Frank Sinatra's Mug.")
+
+Even though he was born in New York, Tupac famously declared California as his home during the latter years of his life. After all, one of his biggest hits is "California Love." And so Bartholomew says it's pretty clear that Drake violated the law when he published a song featuring synthetic Tupac. "Because the rights holders [Tupac's estate] are in California and California has a pretty vigorous right to your identity in various forms that extends years after death," Bartholomew says. "If we were talking about a celebrity who is from a different state, we'd have a different analysis."
+
+Bartholomew suggests that Tupac's estate may also have a case under federal copyright law if Drake and his team fed copyrighted Tupac material into AI software to generate his synthetic voice. However, he says, the facts of the case are uncertain and the law is still murky in this area.
+
+Which brings us back to that U.S. Senate hearing in late April, where Senator Tillis played that Drake song featuring AI Tupac. Tillis, together with Senators Coons, Blackburn, and Klobuchar, is a co-sponsor of draft legislation known as "The No Fakes Act."
+
+The No Fakes Act would grant a federal "digital replication right" to Americans, giving us the power to authorize the use of our image, voice, or visual likeness in a digital replica. It would hold those — like, say, a rapper named Drake — liable if they use a digital replica of someone without authorization.
+
+This digital replication right is currently modeled after existing copyright law, so it includes "fair use" exceptions for free speech and grants this digital replication right not only to a living individual, but also "the executors, heirs, assigns, or devisees of the applicable individual for a period of 70 years after the death of the individual."
+
+At the hearing, there was a lot of debate over this 70-year postmortem provision. A representative of the Motion Picture Industry, Ben Sheffner, argued that it made sense to grant a digital replication right to living performers because an AI fake of them "impacts their ability to earn a living." However, he said, after a performer dies, "that job preservation justification goes away." The movie industry obviously has an interest in being able to use AI or CGI versions of dead actors freely. In fact, this was one of the main concerns that actors had when they went on strike last year. Many performers fear they will lose jobs if studios can freely reanimate and use dead actors, or generate new synthetic actors, on the cheap.
+
+Duncan Crabtree-Ireland, a representative of the SAG-AFTRA union, which represents actors (and, full disclosure, reporters at NPR like me), expressed shock at the idea that a performer's designated heirs would not get control over their digital replicas after they died. "This is about a person's legacy," Crabtree-Ireland said. "This is about a person's right to give this to their family and let their family take advantage of the economic benefits they worked their whole life to achieve." Crabtree-Ireland argued there "shouldn't be a 70-year limitation at all. This right should be perpetual."
+
+We asked Bartholomew, the expert on law and technology, for his perspective on the 70-year postmortem provision. He thinks we need to strike a balance between the interests of artists and their families to control and profit from their legacies on the one hand, and, on the other hand, the interests of creators and the general public to have free expression, including the freedom to use AI and reanimate celebrities for that expression in commercial works.
+
+"We really don't want people exercising dead hand control over what people can do with their likenesses or their voices 70 years after they die," Bartholomew argues. As is the case with lengthy copyrights, he argues. handing what essentially amounts to a monopoly over a dead artist or celebrity's digital doppelgänger for such a long period of time is not in the public interest. He stresses that oftentimes the estates of dead celebrities aren't even held by their families. The rights are often sold off to big companies, which have a greater interest in making money than safeguarding the legacy and reputations of the dead artist or giving up-and-coming creators the chance to make new art using the artist's voice or likeness.
+
+Bartholomew argues a more sensible regulation would strike some sort of middle ground, and give the heirs of dead artists around 20 years to control their digital replicas. That rule, by the way, would have granted Drake the freedom to use AI Tupac in his song without the need for authorization (Tupac has been dead for almost 30 years). The existing draft legislation would not.
+
+While it's unclear where all this heading, it is clear that, thanks to AI, we've entered a strange new world where age-old concepts like "rest in peace" are being upended.
+
+Copyright 2024 NPR

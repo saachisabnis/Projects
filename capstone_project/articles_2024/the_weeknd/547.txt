@@ -1,0 +1,78 @@
+A
+lex, a Ph.D. candidate at the University of Washington, has been betting on politics on a site called PredictIt since the summer before the 2020 election.
+In the last four years he estimates that he’s spent $100,000, placed close to $1 million in bets, and ended up $10,000 in the black.
+If Kamala Harris wins the presidency in November, Alex estimates that he would win $15,000. But what’s more likely is that he will sell his shares before the election and make closer to $5,000.
+“My interest is very niche,” said Alex, who asked that his last name not be included for privacy reasons. “I don’t have a general desire to bet. I haven’t become a gambling addict yet.”
+To an outsider, Alex’s engagement with PredictIt might sound like an addiction, or at least an obsession. He estimates that he has spent thousands of hours on the site, where you can buy “contracts” based on their current value — between 1 cent and 99 cents — and trade those contracts with other bettors as the odds change. Alternately, traders can keep their shares until the market resolves — someone wins the election. At that point, winning shares are worth $1 and losing shares are worth nothing.
+As the U.S. hurtles toward what could be an extremely close presidential election, prediction markets are taking advantage of the excitement by offering U.S. citizens the opportunity to do something that has been widely outlawed for close to 100 years — bet on the outcome.
+With 3 weeks to go until Election Day,@realDonaldTrumpholds a lead over@KamalaHarris. Have you made your prediction? https://t.co/z1zYI63YzW pic.twitter.com/zQFCt7ZZQf
+While online markets like Kalshi and PredictIt see a surge of traders on their platforms, they are fighting legal battles with the federal agency that regulates commodities markets, the Commodity Futures Trading Commission.
+In a statement this summer, Commission Chairman Rostin Behman said the “exponential increase” in online election betting threatens the democratic process and puts his agency “in the role of an election cop.”
+“Contracts involving political events ultimately commoditize and degrade the integrity of the uniquely American experience of participating in the democratic electoral process,” Behman said.
+RELATED: 'Predatory gambling' has helped the lottery reach sky-high jackpot, critics say
+The commission has traditionally regulated futures markets in commodities like corn and oil. That’s a far cry from online markets, where bettors can wager on elections, sports, and practically anything else.
+Traditional futures markets allow investors to bet on whether the value of commodities will go up or down. But when that same formula is applied to elections, politics, and other outcomes, the ability of traders to make informed wagers is less clear.
+The outcome of the election is “a black box” that the Commodity Futures Trading Commission has no way of regulating, explained Steven Adamske, the agency’s public affairs director.
+“Bottom line: Elections need to be decided by voters, not bettors,” Adamske said in an email.
+John Phillips, CEO of PredictIt’s parent company, Aristotle International, said the commission’s objections misrepresent what prediction markets are, the purpose they serve, and the value they have for the public. He calls the commission’s efforts to shut down PredictIt “regulatory waterboarding.”
+“These markets are going to continue to grow, whether it's onshore or offshore,” Phillips said. “If the intent of some is to push this activity offshore, where there is no consumer protection, no research value, and no transparency as to how the odds are derived, that's what these attempts to close PredictIt will accomplish.”
+PredictIt and Kalshi are structured and regulated differently, but both have been winning their legal battles with the feds of late.
+In September, a U.S. District Court gave Kalshi the green light to sell election contracts online. Although that ruling was quickly stayed by a federal appeals court, that stay has now been lifted and political betting on Kalshi is, for the time being, legal.
+When the election markets officially went live on Oct. 3, Kalshi founder Tarek Mansour wrote a triumphant message on X.
+“We have been waiting for this turning point for decades,” he said. “The time has come.”
+We have been waiting for this turning point for decades. The time has come. pic.twitter.com/ftBCkFrIIJ
+RELATED: SuperSonics star places first legal sports bet in Washington state
+Kalshi operates as a designated contract market, which means it can list trading futures or options contracts on a wide variety of commodities. In addition to elections, traders can bet on economics, culture, technology — pretty much anything.
+Will Taylor Swift or The Weeknd be the top artist on Spotify this year? How many tornadoes will be reported in October? What score will “Blitz” get on the movie rating app Rotten Tomatoes?
+In contrast, PredictIt, which is now applying for a designated contract market, has operated for the past 10 years under a “no-action letter” from the Commodity Futures Trading Commission. That means that, as long as PredictIt stays within the parameters outlined in the letter, the federal agency won’t try to shut it down.
+In 2022, the commission abruptly revoked the letter, claiming that PredictIt was out of compliance with what was spelled out in the original agreement — that the experimental market would remain small-scale, not-for-profit, and educational — and ordered PredictIt to shut down in six months.
+PredictIt sued and the question of its legality has been working its way through the courts ever since. Last summer, the U.S. Court of Appeals ruled in PredictIt’s favor, arguing that the federal agency’s decision to rescind the no-action letter was “likely arbitrary and capricious.”
+While the legal battles continue, PredictIt has limited its markets to election outcomes. Traders can bet on the Electoral College margin in 2024, who will win the presidency, and the outcome of a few key Senate races, but not much else.
+Unlike Kalshi, PredictIt puts an $850 limit on how many shares a person can buy in a single market and limits the number of bettors for each contract to 5,000. Those limits are designed to reduce the chances that one person or group can manipulate the market.
+PredictIt also takes 10% of a trader’s winnings, but Aristotle executives say the platform has not made a significant profit over its first 10 years.
+“This is really for small-scale forecasts by everyday Americans who want to make a forecast on a future political event — not just an election, but a Supreme Court decision or an administrative decision of some type,” Phillips said. “We think there's a market for that.”
+While the market remains small and the margins slim, PredictIt has grown in popularity. It now has 80,000 individual traders, compared to 15,000 during its first year of operation in 2015.
+Despite its growth, Phillips said PredictIt maintains its federally mandated educational and public value. The PredictIt website lists almost 150 “research partners” who have used data from the prediction market to pursue research in a variety of academic fields.
+Some researchers maintain that prediction markets offer a better real-time analysis of election probability than polls, which take time to survey voters and can become quickly outdated in the rapid-fire, minute-by-minute news cycle.
+Election markets = source of truth pic.twitter.com/eKTGJdG9Dc
+David Mason is general counsel and chief compliance officer for Predictit’s parent company, Aristotle. He’s also the former chair of the Federal Election Commission.
+Mason said the prediction markets provide an additional data point for investors and investment companies to use when they’re making consequential decisions that could be impacted by election outcomes.
+“Elections clearly have huge economic consequences,” he said. “They have macroeconomic consequences in terms of whether we expand world trade or contract world trade, and they have microeconomic consequences as well. If you're building a pipeline to carry natural gas, what did Biden do the first day he was in office? He shut the company down.”
+In other words, PredictIt isn’t just a gambling platform; it provides investors and investment companies with valuable information they can use to gauge election outcomes.
+As an example of the real-time response of prediction markets to live events, Mason pointed to the Trump-Biden debate in June, which contributed to Biden dropping out of the 2024 presidential race.
+“You could see the PredictIt numbers moving live during the debate,” Mason said. “That’s the advantage we have over polling. You can’t get a poll in the field and get results.”
+But there’s also recent evidence that the election platforms could be shaped by big-money influencers.
+While traditional polls show Harris and Trump in a virtual tie, the top three prediction markets — Kalshi, Polymarket (which trades in crypto), and PredictIt — showed Trump ahead nationally by between 5-10% during the week of Oct. 14.
+Some credit Trump’s more favorable ratings in the prediction markets to Elon Musk’s Oct. 7 pointing to Polymarket as a more accurate election gauge than polls, “as actual money is on the line.”
+Trump now leading Kamala by 3% in betting markets. More accurate than polls, as actual money is on the line. https://t.co/WrsqZ2z8pp
+On the other hand, Trump’s odds of winning the presidency may be improving, as reflected in the prediction markets, and polls have yet to register the change.
+In addition to the national fight over the legality of election betting, certain states, including Washington, have limits on what people can wager on and where they can place those bets.
+The Washington State Gambling Commission specifically states that online gambling is a class C felony. As to what qualifies as gambling, the commission states that the following elements must be present: Staking something of value on the outcome of a future event and on the agreement that “a prize will be awarded in the event of a certain outcome.”
+When asked whether he realizes that online gambling is illegal in Washington state unless someone is physically at a tribal casino, Alex paused.
+“They have federal approval, so I just assume that supersedes any state legality issues,” he said.
+Alex doesn’t try to hide his PredictIt winnings or his online wagers. He doesn’t use a virtual private network or VPN to hide the location of his computer. He receives a tax statement every year from PredictIt and reports whatever winnings he has for that year on his federal income taxes.
+“I would think that if it was illegal in Washington state and it was really a serious thing, PredictIt wouldn’t operate here,” he said.
+Mason and Phillips said PredictIt is a stock market where people bet on future outcomes, and therefore is not subject to state gaming rules.
+“Alex can invest in the stock market without running afoul of gambling laws,” Phillips said. “He can invest in commodities markets without running afoul of state gambling laws.”
+The key distinction, according to Mason, is the secondary market that’s built into the PredictIt platform.
+“When you're gambling, you put down your money and you’ve got to wait ‘til the end of the game, and you can't get your money back or anything like that,” he said.
+On PredictIt, most of the traders exit out of their positions before expiration, he said.
+“In other words, they buy at 40 [cents] and they sell at 60 [cents], or they buy at 70 [cents] and they and they sell at 50 [cents] because they want to cut their losses,” Mason explained. “That's a huge difference, and that's where most of the trading activity occurs and where most of the information is generated.”
+But in an email response to questions from KUOW, the Washington State Gambling Association questioned the legality of online election markets.
+“While we cannot comment on the specific websites you named, betting on elections would be an illegal form of gambling in Washington,” said Nicole Frazer, an agency evidence officer for the association. “Gambling requires three elements – prize, consideration, and chance – all of which are present here.”
+For some people, gambling can grow into an addiction with devastating effects on their lives and the lives of their families and loved ones.
+The 2021 Washington State Adult Gambling Prevalence Study estimates that approximately 90,000 adults in Washington state are at moderate-to-severe risk for problem gambling. Another 400,000 are considered to be at a lower risk.
+The study found that people who gamble online are three times more likely to be problem gamblers.
+Roxane Waldron manages the state problem gambling program within the Division of Behavioral Health and Recovery at the Washington State Healthcare Authority. She is also the former head of the state’s Problem Gambling Task Force.
+While the state has not looked specifically at prediction markets, Waldron said the agency did find an uptick in online gambling during the pandemic, when fewer Washingtonians were venturing out to bet in person at tribal casinos.
+She also said that based on research in other countries, online gambling presents potential pitfalls for people who have problem gambling tendencies.
+“We're seeing that with developers of both online gaming and online gambling products, they are using the mechanisms of addiction that are well known already to increase both time and money spent on the game, and that includes a lot of free rewards or loot boxes,” Waldron said. “You haven't paid anything. We'll give you a loot box, or maybe we'll give you some additional free play. We're giving you free money, and that leads to opportunities for gambling.”
+Waldron said the increasing prevalence of online betting is especially concerning when it comes to teenagers and young adults.
+The 2023 Washington State Healthy Youth Survey found that 10% of 10th graders said gambling had caused them problems either at home, school, or with their friends within the past year.
+“They are most likely doing most of their gambling online because they cannot go into casinos or card rooms, and they're not supposed to purchase lottery tickets,” Waldron said.
+Research has shown that children who engage in gambling before the age of 18 are at an increased risk of developing a gambling problem. Young adults who gamble are twice as likely to develop a problem, compared to adults in general.
+Waldron’s agency, which recently had its budget doubled by the state legislature, is launching a new problem gambling prevention program with a focus on young people.
+As for Alex, who’s in his 30s, he plans to pull back on his prediction market wagers after the November election.
+“It’s like a dopamine hit, but ultimately it’s not something that’s making my life better,” he said. “I don’t make enough money to justify spending as much time on it as I do. But then, apart from the money, it is stressful. I mean it’s exciting, but it’s stressful.”
+Stephen Howie is an Online Editor/Producer at KUOW. He is an award-winning journalist, nonfiction writer, college professor and videographer. His first book, The Bluffton Charge: One Preacher’s Struggle for Civil Rights won the Mammoth Books Nonfiction Prize.
+KUOW is Seattle’s NPR news station. We are an independent, nonprofit news organization that produces award-winning journalism, innovative podcasts, engaging community events, and more.

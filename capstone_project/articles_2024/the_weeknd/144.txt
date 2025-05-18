@@ -1,0 +1,18 @@
+YouTube is hard at work on flagging AI-generated videos posted to its platform. The company has announced that it’s developing two new AI tools: one to detect AI-generated music and another for generated faces.
+The company refers to the music detection feature as its “synthetic-singing identification technology,” essentially tracking down songs that are deepfakes, such as the viral (but fake) Drake and The Weeknd collaboration. That tool will seemingly only be available for those signed on to Content ID, a service for copyright owners that allows them to identify and manage copyrighted material.
+The second tool will allow people across industries, from athletes to artists, to detect AI-generated content showing their faces.
+YouTube says that it already processes billions of claims filed through Content ID each year, a number that will likely rise as more gain access to generative AI software.
+
+                                                
+                                                                                                    
+
+                                                            Read Full Article
+                                                        
+
+
+YouTube says that it already processes billions of claims filed through Content ID each year, a number that will likely rise as more gain access to generative AI software.
+
+                                                
+                                                                                                    
+
+                                                            Read Full Article

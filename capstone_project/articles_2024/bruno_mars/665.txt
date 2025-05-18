@@ -1,0 +1,170 @@
+You are viewing an older version of the Skeptic website.
+
+by Kate Brunotts
+
+In October of 2023, U.S. Senator Chris Coons (D), Chair of the Senate Judiciary Subcommittee on Intellectual Property, announced a draft bill entitled the No Fakes Act, or the “Nurture Originals, Foster Art, and Keep Entertainment Safe Act.”1 This bill would enable artists to sue those who use their likeness (presumably, a deep fake of their voice) without permission.
+
+
+	His bill is largely a reaction that traces its roots back to “Ghostwriter,” an anonymous artist who created the song Heart on My Sleeve. It utilized AI-deep fakes of vocals by two of the most popular artists in the world— The Weeknd and Drake—without their consent. It also earned a whopping 1.4 million U.S. streams before its forced removal by Universal Music Group.2
+
+
+	Ghostwriter is the poster child for the prediction that AI will create another stream of licensing income3 and thus revolutionize the way artists create. I hope that’s the case. But as the industry continues to extract value from music and other media with little oversight, it’s unclear who exactly is reaping the benefits.
+
+
+	On most days, I’m making music or writing about the mechanics of doing so. It goes without saying that I have an inherent bias against the man or anything I perceive to capitalize on arts for the sole sake of profit. When ChatGPT burst into my world of self-referential music and writing, I couldn’t help but feel trepidatious.
+
+
+	To be clear, I’m not against utilizing certain forms of AI in my own music production process. Whether it’s using Ableton’s Magenta Studio4 to generate drum pattern ideas or playing with AI-assisted toggles in my favorite plugins, I’m no stranger to taking advantage of machine learning to feed me inklings of a great idea.
+
+
+	My beatmaking workflow changes from one song to the next, but for illustration purposes, I might start by writing a song on piano or guitar, and then record that into my music-making software, Ableton Live. I can then start to build the beat (drums, synthesizers, and other instrumentation) around what I’ve recorded. I might open a plugin where I can input the key and the tempo of my composition, and the plugin might suggest some samples that I can add to my song. In the case of a plugin such as Magenta Studio, with the click of a button, the AI-assisted suite can generate drum patterns, melodies, and more musical elements based on what I’ve already created
+
+
+	In this way, I occasionally use AI technology to act as a writing partner, though it’s important to me that I resample the initial idea provided by the plugin. This could mean shifting the pitch of the sample, chopping and splicing it to make something new, or adding effects to place it within the artistic world of my song. I try to use AI as a tool to fuel and assist my creative processes, rather than as a substitute or replacement for them.
+
+
+	Without the presence of strong guardrails to protect their intellectual property rights, the working artist’s stock in trade isn’t just being depleted; it runs significant risk of being stolen.
+
+
+	Part of the problem with “AI,” or at least the public discourse about it, is that the term can mean so many different things. Grammarly, an app that can proofread text as you write it, could be packaged as AI—but so can the likes of Midjourney, an image generator accused of lifting data from artists without consent or compensation.5
+
+
+	The ambiguity behind those emotionally charged two letters all too easily turns what should be balanced discussions into trash talk. Yet it’s a discussion we must have.
+
+
+	AI has the potential to be much more invasive than simply co-opting the working artist’s dwindling paycheck. Tom Hanks is one of the many whose voice, reproduced by AI, was used in an advertisement without his consent or compensation.6 And note that we’re only hearing about it because Hanks has the name recognition to make headlines and the finances needed to hire any necessary legal expertise.
+
+
+	There’s a reason why, in the wake of AI, union contract negotiations now include stipulations that require the employment of a certain number of writers or background actors, and outline profitable licensing agreements for writers.7 Otherwise, extra cash flow would inevitably trickle back to the companies that host content, instead of the creators who built the stories that support the tech platforms in the first place.
+
+
+	Without the presence of strong guardrails to protect their intellectual property rights, the working artist’s stock in trade isn’t just being depleted; it runs significant risk of being stolen. Derivative works may deserve some level of monetization, but it stands to reason that some of that capital, or at the very least, good-faith credit, should find its way back to the original creative artist.
+
+
+	It would be hypocritical for me to argue against all forms of artificial intelligence. I use Photoshop’s Content Aware Fill to cut out pesky distractions in photos as well as computer tools to repurpose long-form content into short clips for social media.
+
+
+	I personally know many artists who have even experimented with generative AI engines to extend their visions for music videos and other visual art they would not be able to afford to produce otherwise. Many of these “AI assisted tools” have been around for a while, but only recently have been repackaged to line up with the latest venture capital buzzwords.
+
+
+	However, I am staunchly opposed to creating new solutions where no problems exist. If the motivation to create an AI tool is purely profit (that is, swapping paid background actors for digital renderings), my opinion on the matter quickly turns negative. When it comes to art and monetization, the AI squeeze is sending seismic shocks through an already cracked system where artists get an increasingly shorter end of the stick in an oversaturated, undervalued market.
+
+
+	Not all art forms will be affected equally. In cases where art is required to be passable and not personal, AI is likely to take over the field entirely. Displacement by AI is already a reality for those who make corporate commercial music as opposed to artists with a loyal fanbase. Many of those artists counted on such commercial gigs to pay the rent, especially in their early, struggling days.
+
+
+	It’s not all doom and gloom, however—AI might also help artists focus on the part of their creative process they love most. Advances in technology, seen in the brightest light, may allow creators to take time and energy formerly consumed by the tedious, repetitive parts of the process and reallocate them to the more “creatively intensive” tasks, which is what art, music, and literature are all about—or should be.
+
+
+	These positive aspects of AI tools will undoubtedly enable some creatives to be more productive and build more while staying within the confines of their budget. Nonetheless, a broadband reevaluation of artists and compensation is long overdue. The advent of new technology provides a perfect opportunity to redraw these boundaries, but at least so far, the companies that build these models have shown little interest in helping to do so.
+
+
+	After one of the entertainment industry’s longest and most paralyzing strikes, Hollywood actors and screenwriters obtained an agreement that defines when, where, and how AI can and cannot be used. The agreement allows screenwriters to use AI tools in their original writing but prevents the industry from using it to replace them. It prohibits the studios from using AI to produce scripts—which, of course, it does only after being repeatedly trained on existing scripts— and then requiring real live human writers to complete the work at lower fees, royalties, and screen credit (i.e., likely future earnings) than for original writing.
+
+
+	Simon Johnson, Professor of Entrepreneurship at MIT, who specializes in studying the economic effects of technological transformation, called the agreement a “fantastic win for writers” that he’s “hoping will be a model for the rest of the economy.” As one of those creative artists out in the rest of the economy, I have to hope he’s right. I also hope he’s right in predicting that it will result in “better quality work and a stronger industry for longer.”8
+
+
+	And it isn’t only labor that’s concerned about being cheated out of just compensation by AI—so are affected management and capital. The New York Times has sued OpenAI and Microsoft for copyright infringement over the unauthorized use of its published material to “train” artificial intelligence to first copy it and then replace it. Specifically, the Times lawsuit contends that millions of its articles of “uniquely valuable work” were used to train automated chatbots that now compete as a news source against it. And they’re talking in the billions—with a B! And while we may not be valued in the billions, every creative writer, actor, artist, musician, and performer believes that our work is “uniquely valuable” or we wouldn’t be making the sacrifices necessary to produce in the first place.9
+
+
+	Together, Sen. Coons’ bill, the Screen Writers agreement, and the Times lawsuit show that our society is responding to the new challenges thrown up by AI, though it will take time and effort to work them out and get it right. And again, it’s those with the money, the clout, and the name recognition who are able to force the issue for the rest of us.
+
+
+	Art thrives on exclusivity. Your work is effectively assigned value based on the amount of bonafide attention you can garner. For a discipline focused on the wide distribution of culture, that process can be oddly elitist.
+
+
+	While the world’s broader economy reflects a staggering wealth gap with the richest one percent owning nearly twice as much as the other 99 percent,10 the art world may be even worse.11 Admittedly, data is scarce for the latter, in part because art is, by design, opaque.
+
+
+	You can’t attribute a concrete value to a piece of art. And that is why art is a wildly risky but a potentially highly rewarding investment. This is true for the lucky few—most artists across all disciplines make pennies in comparison to their poster-child contemporaries. The reality of the starving artist is alive and well (though clinically and chronically malnourished).
+
+
+	Even if we broaden the criteria to include Internet creators and influencers within the artist umbrella, we can see a growing divide between profitable, sustainable artists and those who do not make enough to thrive off their craft alone. In 2020, the top one percent of creators on Gumroad, an ecommerce platform where creators can sell digital products, courses, and more, garnered about 60 percent of payouts.12
+
+
+	While I’m most keen to discuss music since I can speak most accurately to my own experiences, the hard truth is that there has been a massive devaluation across all creative disciplines, which I fear will only be exacerbated by a rising sea of AI content. A case in point is Elena Velez, who won the CDFA Emerging Designer of the Year13 designing for celebrity performers the likes of Solange Knowles, Julia Fox, and Rosalia, recently had to take a loan out of her mother’s retirement account in order to keep the lights on.14
+
+
+	When it comes to art and monetization, the AI squeeze is sending seismic shocks through an already cracked system where artists get an increasingly shorter end of the stick in an oversaturated, undervalued market.
+
+
+	Craftsmen like Velez simply cannot keep up with fast-fashion giants such as SHEIN, whose “AI Technology” can create new clothes in as little as three days.15 Industrialization of a market sector almost always leads to oversaturation and devaluation of craftsmanship. Markets tend to prioritize the cheapest, fastest means of production at all costs, likely because consumers simply don’t know and/or don’t care what goes into creating a quality piece.
+
+
+	Still, no one likes to award artists with sympathy. After all, who is pining to comfort a group of people who get to “do what they love” day in and day out by choice, while the rest of the workforce labor at a job, just to be able to live paycheck to paycheck. The big blunder is to assume that even at the A-list level, clout automatically equates to a sustainable income.
+
+
+	With machine learning’s inherent coding bias16 and tendency to provide preferential treatment to those who represent the backgrounds of those already in power, we cannot deny that AI is a black-mirrored reflection of the current state of the world. The proliferation of technology that’s made without the consciousness of underrepresented groups is unlikely to be a benign steward of art, let alone the state of the world. Left entirely to its own, it won’t be.
+
+
+	Tech as a whole has continued to poach value between artist and patron over the past two decades, making it increasingly difficult for the profession or the craft to exist. Spotify recently announced its royalty restructure for 2024, which will require each track to earn 1,000 streams within 12 months to start earning royalties.17 Otherwise, artists won’t earn anything. It has become increasingly clear that small artists aren’t a priority, because the streaming platform’s sense of value is ultimately tied to their shareholders.
+
+
+	It’s hard to get excited about AI “revolutionizing art” or providing artists additional streams of income when the very industry that created it has a systemic pattern of devaluing craft on a massive scale. Artists are the last people to resist innovation, but when the cost of your creation comes at the expense of an already decimated model of compensation, it’s hardly easy to welcome it with open arms.
+
+
+	In spite of all that, we cannot stop artificial intelligence from continuing to grow, nor should we necessarily. However, we’re missing a great opportunity to rethink how we value craft and the creatures of our culture. As a musician myself, whenever I speak about increased compensation for artists, I’m met with dismissive remarks that I believe largely come from a lack of experience and sometimes willful ignorance.
+
+
+	Most artists neither need nor desire a mansion, flashy clothes, or an assistant who helps sort out one color of M&Ms from the rest of the pack. In my experience, most of us just want a living wage, with the possibility of some sustainable retirement down the line, like what those in any other profession desire. Yet getting to this reasonable baseline of security is insurmountably difficult for most.
+
+
+	For instance, how much do you think an artist makes off a million streams on Spotify? As of fall 2023, that amount is…$4000.18 And that assumes that you have 100 percent of your royalty rights, which is extremely unlikely. If we’re being generous, an artist with a million monthly listeners will earn less than $50,000 a year off that platform.
+
+
+	I’m aware this assessment is fairly rudimentary in that it does not factor in revenue from a wider swath of streaming platforms, as well as merch, brand deals, and performances. (Though those are less likely to make large profits,19 if any, nowadays.) However, that also does not factor out the costs of recording, royalty splits, travel, publicity, management, and the general cost that comes from being the figurehead of a fickle entertainment brand with no guarantee of longevity. You can forget about healthcare and socking away savings for a rainy day. In the life of an up-and-coming artist, El Niño years are the rule, not the exception.
+
+
+	AI might very well bring us boatloads of art and works from new creators who might not have the means to do so were it not for machine learning simplifying the process. Everyone who wants to make art should do so if they get the chance, even if that process requires assistance from AI. At the same time, it’s hard to ignore the fact that, according to Music Business Worldwide, 120,000 new songs20 are released on streaming services every day. While having more access to the tools to make amazing music has never been easier, it’s also much more challenging to make a career out of your creations.
+
+
+	Anecdotally, I am not craving even more content as a consumer. Are you? Is anyone? With AI-assisted art ushering in a wide wave of content, I fear that I may miss out on some hidden gems. I get fatigued just waffling through the many shows of Netflix, attempting to find something worthy of the little free time I have. Yet I fear I might give up before discovering a priceless new artist engulfed in the overwhelming surge of content.
+
+
+	While admittedly antiquated, the eras of mass radio airplay created a collective sense of adulation, allowing some artists a chance at longevity. Today’s world is much more segmented, with your algorithm standing being as unique as your fingerprint.
+
+
+	Even so, artists who were lucky enough to earn a spot on the radio when it was the major medium continue to have a seat at the table. Bruno Mars, Eminem, Katy Perry, and SIA remain in Spotify’s top 100 despite not having a key hit within the past year, in part because of their prominence in a time of more collective culture.
+
+
+	The struggle for artists has changed. It’s no longer about finding the tools and the means of distribution for your creations. It’s now about how to stand out and get noticed amidst a sea of endless content. Art and content have never been more interchangeable, and for craftsmen, this reality couldn’t be more painful.
+
+
+	You cannot take art away from artists. However, you can, perhaps unknowingly, extract compensation from the producers of that craft. And for many, that equates to depriving them of a necessary part of their livelihood. Artists aren’t upset because they want to serve as the gatekeepers of innovation and expression.
+
+
+	Rather, it’s becoming increasingly difficult to survive—let alone thrive—in an environment that does not value supporting your trade with a livable wage. Artificial intelligence’s purported sense of utility in art is based on an incorrect assumption that lies at its core: that bringing AI into one’s process will breed greater efficiency, with more art equating to more valuable expression as a whole.
+
+
+	Yet, the word “art” is derived from the Latin ars, that is, to craft, or the cultivation of human skill. The magic of art often exists due to human error and only as the end product of a lengthy process. And those are so often at odds with the constant lust for instant gratification, which is, in many ways, the defining characteristic of today’s world.
+
+
+	Art often means a rejection of the efficient. It’s churning the butter instead of flipping on the mixer just for the sake of doing so. Art is applying beauty and meaning beyond the mere asset itself, defying cost-efficient logic, and foregoing obsessive A/B testing.
+
+
+	I can see how one might argue that AI art is a new medium in its own right, but that does not take away from the stinging fact that oversaturation leads to devaluation in an environment that already has a huge problem with compensating creators directly.
+
+
+	Ultimately, the moral dilemma behind artificial intelligence and art may not matter. Since the dawn of the Industrial Revolution, so much of the population opted for innovation at all costs, which continues to be true regardless of how the underpaid craftsmen may feel.
+
+
+		This article appeared in Skeptic magazine 29.1
+Buy print edition
+Buy digital edition
+Subscribe to print edition
+Subscribe to digital edition 
+Download our app
+
+
+	Artificial intelligence is here, and not only to stay, but to grow. Just as we define the mental models and data training sets, we get to choose—with our money, time, and attention—how we attribute value to the artists, and potentially, the AI artists of our generation. As in preferences for minimalism or maximalism, progressive rock or bubblegum pop, the debate ultimately boils down to what we as individuals allow space for in our lives.
+
+
+	Ultimately, the questions raised by AI about fair compensation for artists are but part of the general question about the increasing income inequality seen in modern technological societies. As futurist and AI expert Rudy van Belkom states in his Introduction to this issue of Skeptic, while AI can help by performing any necessary complex computations, the final decisions on such socially sensitive decisions should be left to human wisdom rather than machines, however “intelligent.” 
+
+
+Kate Brunotts is a writer and an avant-pop music producer based in Brooklyn. She strives to create accessible sonic dreamscapes that challenge the bounds of music. Her work has been featured on multiple Spotify and Apple editorial playlists, along with BBC Introducing and Earmilk.
+	
+This article was published on July 5, 2024.
+
+				Whether at home or on the go, the SKEPTIC App is the easiest way to read your favorite articles. Within the app, users can purchase the current issue and back issues. Download the app today and get a 30-day free trial subscription.

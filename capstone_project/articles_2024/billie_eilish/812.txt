@@ -1,0 +1,21 @@
+Related Stories
+More than 200 music artists including stars like Nicki Minaj, Katy Perry, Billie Eilish, Stevie Wonder, J Balvin and Jon Bon Jovi have signed an open letter warning against the "predatory use of AI" in the music industry.
+On Monday, the group of artists released the letter acknowledging AI's "enormous potential to advance human creativity" but also warning that powerful companies could use their original work to train artificial intelligence models and eventually replace human musicians altogether.
+"We must protect against the predatory use of AI to steal professional artists' voices and likenesses, violate creators' rights, and destroy the music ecosystem," the letter states.
+It further calls on tech companies, AI developers and digital music services to pledge that they won't develop or use AI-powered technology that undermines songwriters and artists or prevents them from earning fair compensation for their art.
+While the letter certainly makes a statement, things get a bit complicated when it comes to getting companies to comply, says Michael Huppe, president and CEO of SoundExchange, a music tech organization that collects and distributes digital performance royalties. Huppe is also a music law professor at Georgetown University.
+Streaming platforms and tech companies "can't turn a blind eye to these types of concerns from the creative community," he tells CNBC Make It. "But, unfortunately, if they feel they can do something without getting the proper licenses or without proper authorization, some of them will do it and some won't."
+In a March 29 blog post, OpenAI, the creator of ChatGPT, revealed development of a new AI tool that is able to generate a realistic clone of someone's voice from a 15-second audio clip. The company noted the risks voice cloning technology presents and says the tool has not been released to the public at this time.
+"We believe that any broad deployment of synthetic voice technology should be accompanied by voice authentication experiences that verify that the original speaker is knowingly adding their voice to the service and a no-go voice list that detects and prevents the creation of voices that are too similar to prominent figures," OpenAI said in the blog post.
+Although U.S. federal copyright laws offer artists and music labels protections against blatant rip-offs of their work, it can be tough to apply those laws to AI-generated content that merely mimics an artist's voice or general sound but doesn't directly copy their lyrics or music.
+Huppe says the laws currently on the books could use an update in order to keep up with AI technology's rapid development and prevent it from being used irresponsibly.
+"An artist's sound is their brand," he says. "If you're using somebody's voice or their likeness without permission, it goes beyond copyright law because that's stealing their brand for commercial profit."
+To that point, Tennessee, which is known as a major music and entertainment hub, recently became the first state to pass legislation that will protect musicians from AI voice cloning technology. The Ensuring Likeness Voice and Image Security (ELVIS) Act, which will go into effect July 1, expands the state's existing laws protecting artists' name, image and likeness from being misused to also include their voice.
+AI innovation doesn't spell completely bad news for the music industry, Huppe says. There's potential for collaboration if AI tech is used responsibly.
+One way to do that is to gain artists' consent to use their voice in AI-generated music, compensate them appropriately and give them proper credit, he says.
+"As long as you have consent, credit and compensation, many artists and creators would likely happily collaborate with AI," he says. "There's a way to make this work."
+Want to make extra money outside of your day job? Sign up for CNBC's new online course How to Earn Passive Income Online to learn about common passive income streams, tips to get started and real-life success stories. Register today and save 50% with discount code EARLYBIRD.
+Plus, sign up for CNBC Make It's newsletter to get tips and tricks for success at work, with money and in life.
+Get Make It newsletters delivered to your inbox
+Learn more about the world of CNBC Make It
+© 2025 CNBC LLC. All Rights Reserved. A Division of NBC Universal

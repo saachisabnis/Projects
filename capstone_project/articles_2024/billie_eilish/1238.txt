@@ -1,0 +1,30 @@
+The use of AI to mimic artists’ voices and music without their consent continues to be a deep concern in the music business.
+Now, more than 200 artists have signed an open letter calling on AI developers, tech companies, and digital services “to cease the use of artificial intelligence (AI) to infringe upon and devalue the rights of human artists”.
+Within the letter, which you can read in full here, the artists call on all AI developers, technology companies, platforms and digital music services “to pledge that they will not develop or deploy AI music generation technology, content or tools that undermine or replace the human artistry of songwriters and artists or deny us fair compensation for our work”.
+The letter was issued by US-based advocacy organization the Artist Rights Alliance (ARA), on Tuesday (April 2). It was signed by superstars like Billie Eilish, Finneas, Metro Boomin, and Noah Kahan.
+Other signatories include the likes of Sam Smith, Chuck D, J Balvin, Pearl Jam, Kacey Musgraves, Katy Perry, Kim Petras, Kim Petras, Stevie Wonder, Smokey Robinson, and the estate of Bob Marley.
+[Update: Since this story was originally published, HYBE’s name has been removed from the ARA letter. We have updated this article accordingly.]
+AI-related technologies such as deepfakes and voice cloning continue to attract significant scrutiny in the music business, and the letter highlights two related trends which, according to ARA “are among the most serious and irresponsible uses of AI”.
+Those two trends, according to ARA, include the use of musical works by AI developers without permission to train and produce AI “copycats”; and “the use of AI ‘sound’ to dilute royalty obligations”.
+Jen Jacobsen, Executive Director of the ARA, said: “Working musicians are already struggling to make ends meet in the streaming world, and now they have the added burden of trying to compete with a deluge of AI-generated noise.
+“The unethical use of generative AI to replace human artists will devalue the entire music ecosystem — for artists and fans alike.”
+Jen Jacobsen
+Added Jacobsen: “The unethical use of generative AI to replace human artists will devalue the entire music ecosystem — for artists and fans alike.”
+According to the letter published by ARA on Tuesday, “when used responsibly, AI has enormous potential to advance human creativity and in a manner that enables the development and growth of new and exciting experiences for music fans everywhere”.
+It adds, however, that “unfortunately, some platforms and developers are employing AI to sabotage creativity and undermine artists, songwriters, musicians and rightsholders”.
+“We call on all digital music platforms and music-based services to pledge that they will not develop or deploy AI music-generation technology, content, or tools that undermine or replace the human artistry of songwriters and artists or deny us fair compensation for our work.”
+Open letter signed by over 200 artists
+The letter continues: “We must protect against the predatory use of AI to steal professional artists’ voices and likenesses, violate creators’ rights, and destroy the music ecosystem.”
+ARA’s letter arrives amid an intensification of the debate around the use of AI in music and the use of AI music by digital platforms.
+A story we’ve been following closely over the past few weeks for example is Universal Music Group‘s falling out with TikTok. UMG refuses to renew its licensing deal with TikTok for a number of reasons, including the app’s compensation for artists and songwriters, but also due to UMG’s concerns about TikTok’s use of AI.
+On March 1, Universal Music Publishing’s catalog of ~4 million songs became unlicensed for use on TikTok, joining UMG’s portfolio of ~3 million recordings, whose license on TikTok expired (so far without renewal) on February 1.
+In a statement issued to UMPG’s songwriters on February 29, the company turned much of its attention to the role AI-generated audio is playing on TikTok.
+UMPG claimed that, so far, TikTok has not provided Universal with any assurances that the platform won’t train its AI models on the music company’s songs.
+The letter published on Tuesday also follows the news of Tennessee’s recent adoption of the Ensuring Likeness Voice and Image Security (ELVIS) Act to protect artists’ voice and likeness from the misuse of AI.
+The ELVIS Act is described as the first legislation of its kind in the US to build upon existing state rules protecting against the unauthorized use of someone’s likeness by adding “voice” to the realm it protects.
+Meanwhile, at a federal level, a bill has also been introduced in the US House of Representatives that aims to protect people from having their image and voice used in AI-generated deepfakes.
+The No Artificial Intelligence Fake Replicas And Unauthorized Duplications (No AI FRAUD) Act was brought forward on January 10 by a bipartisan group of House Representatives led by Democrat Rep. Madeleine Dean of Pennsylvania and Republican Rep. Maria Salazar of Florida.
+The bill goes a long way to establishing a “right of publicity” at the federal level in the United States.
+Elesewhere, a year ago, a group called Human Artistry Campaign launched to ensure that AI is used in ways that support human creativity, and doesn’t “erode” human artistry. Among its members are the Recording Industry Association of America (RIAA) and the National Music Publishers’ Association (NMPA).
+Last month, Universal Music Group (UMG) and instrument maker Roland unveiled a joint manifesto aimed at the responsible use of AI in music.Music Business Worldwide
+Stay on top of the real stories shaping the music industry: Join over 60,000 industry professionals who rely on MBW's FREE daily newsletter and alert emails for essential insights and breaking news.

@@ -1,0 +1,21 @@
+If humanoid robots make you a bit queasy — would it help if they had fleshy faces that can smile at you?
+
+The uncanny feat is the result of new technology using engineered living skin tissue and human-like ligaments to give robots a more natural smile, according to Tokyo University researchers who unveiled their work this week.
+
+“In this study, we managed to replicate human appearance to some extent by creating a face with the same surface material and structure as humans,” professor Shoji Takeuchi, the team leader, said in a news release. In the process, he added, “we identified new challenges, such as the necessity for surface wrinkles and a thicker epidermis to achieve a more humanlike appearance.”
+
+The approach promises to make robots more lifelike — and in the future, the researchers say, similar techniques could also be used on humans, in the cosmetics and plastic surgery industries. Their findings were published in the journal Cell Reports Physical Science.
+
+To overlay and connect the lab-produced skin on a robotic skeleton, a layer of collagen gel containing cultured human dermal fibroblasts (a type of connective tissue cell) binds to an innovative system of tiny V-shaped perforations in the surface, letting the skin move with the underlying structure without tearing or peeling. The work of muscles — creating a smile, and other motions — is done by actuators.
+
+Takeuchi's Biohybrid Systems Laboratory has previously engineered skin that can heal, created small robots with biological muscle tissue, and 3D printed lab-grown meat. He says the latest work on living skin has a string of potential next steps.
+
+“Self-healing is a big deal — some chemical-based materials can be made to heal themselves, but they require triggers such as heat, pressure or other signals, and they also do not proliferate like cells,” he said. “Biological skin repairs minor lacerations as ours does, and nerves and other skin organs can be added for use in sensing and so on.”
+
+It’s critical for robots to have the ability to heal and self-repair, the researchers said in their study, because even small scratches could develop into serious impairments.
+
+Biomimetic robots could also become even more realistic with thicker skin, Takeuchi said, adding that future projects could look to add sensors, pores and even sweat glands and fat. The team’s paper says their work could also bring insights into how humans’ wrinkles are formed. And by incorporating more sophisticated actuators and eventually, cultured muscle tissue, their approach could help robots in the future move in fluid, humanlike ways.
+
+For now, the robot can't feel its face, putting it in a category pioneered by Abel Tesfaye, a.k.a. The Weeknd. Not long ago, many of us smiled when technology managed to put the singer's words about his face into the mouth of a U.S. president. 
+
+ Copyright 2024 NPR

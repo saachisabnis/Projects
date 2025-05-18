@@ -1,0 +1,32 @@
+Update your browser to view this website correctly. Update my browser now
+
+×
+
+
+Home
+›
+The Wire - Press Releases 
+Hummingbird Media, Inc. ⋅
+        
+            Published: March 19, 2024        
+
+Brooklyn, NY, March 13, 2024 — The hip hop music culture is invariably associated with inventive beatmaking, breakbeats and of course vintage hardware sampling and drum machines. Brooklyn-based, self-described ‘synth whisperer’ Benjamin Atchouel, aka Ben The Glorious Bastard (Ben), has been pioneering his own flavor of minimalistic hip hop music using Modbap Modular’s Per4mer effects processor in combination with the company’s Trinity multi-array drum module. Both of these Eurorack modules — and indeed the entire line of Modbap Modular — has carved their own ‘beat-centric’ sonic niche in the wider Eurorack modular synth community.
+​
+Having relocated from Paris, France to Brooklyn, New York in 2013, Ben is a beatmaker, composer, engineer and producer with diversity of projects in play — from live performances, to engineering and producing other acts (he’s worked with Kanye West, Smoke DZA, Jim Jones among others), to score composing for film and dance and more. He also co-founded the New York Modular Society (NYMS) in 2019, which he still runs and which routinely hosts gatherings and events for those sharing a passion in modular synths.
+His own interests in synths began as a teenager: “I got into synths where I was around 15 years old and have been involved with them ever since,” he says. “As a hip hop producer, my perception of synths is a bit different. I was def one of the first in my genre to integrate modular synths.” He says that when he started with hardware synths, sonic options were somewhat limited: “You can only do so much with LFO to pitch, LFO to filter and three envelopes, or whatever. But the promise of Eurorack was that you could break that mold and do your own thing.”
+​
+​Beat dancing with Per4mer
+​In the late 2010s, he connected with Corry Banks, founder/owner/designer of Modbap Modular, who also shared an interest in hip hop music. Once Banks finished his Per4mer effects module and Ben tried it out, everything changed. “It blew my mind,” he says. “I wanted a way to transition between tracks, but it couldn’t be stiff — I didn’t want to do what everyone else does, which is a stylized DJ wash, and delay with reverb.” He says that the precision of Per4mer’s timing and syncing made an enormous difference not only in transitions, but in the overall sonic flavor of the track. “With Per4mer, everything was clocked with perfection: time divisions were precise, and everything was just so smart and performance oriented. I could do beat repeats, I could pitch down, this was the culture!”
+While Ben initially began using it for live performances, he’s also recently been using it for film scores. “I’ve been working on a dance film called Fistful of Love, and on this project, the Per4mer really shined,” he says. “Everything needs to be perfectly timed with the dancers and you really can’t miss a cue. I used an MPC1 as a controller, sent the gate out and triggered the effects in Per4mer with a super tight result.”
+​
+​Trinity: ‘mind-blowing’ drums in Eurorack
+​After Per4mer had earned a top spot in his rack, Banks told him about the Trinity drum synth array module he was creating. “Before Corry started working on the Trinity, we had this convo where we all agreed that drums in modular were not the smartest idea for beatmakers,” he recalls. “You can have 10,000 kicks on an SD card inside the MPC.” But he went through with the module and Modbap released it in November 2022. “I got the module, and once again, my mind was blown,” Ben recalls. ​
+He says that the game changer on Trinity is the output section. “The fact that I can send the sum output through a crazy effect, and then also use the direct outputs for things like parallel compression, or other processing is huge,” Ben says. “Or, I can completely mash one output, drop it out, and bring it back in to the mix. You can achieve these massive dynamic variations without ever losing a beat and staying on the time grid.” Noting the dim lighting in New York City’s club scene and performance spaces, he appreciates aesthetic considerations of Trinity’s layout as well. “The lights are strong on Trinity that you can see what you are doing in the dark. This helps make the routing really clear, which would otherwise be a struggle. I never thought this module would bring so much to my sound and set up.”
+Like the variety of projects he is working on, Ben’s modular set up is continuously evolving. He appreciates having powerful modules in a small set up. “I am not the guy who likes to bring half his house to the stage — I move by train and try to stay small. For my next show, I will probably take Per4mer and put it into a pod.” In summary, he says it is a great time to be making music. “For me, this all feels like the future. If I had products like Per4mer and Trinity back in the ‘90s, it would have been amazing to access such creative tools at that price point back then!”
+
+​About Modbap Modular
+​Modbap Modular, founded by Corry Banks, is a black owned electronic music instrument manufacturer. Our instruments are made and designed in Southern California, USA. It is our goal and mission to develop fun, forward thinking, performance oriented instruments with the DJ and beatmaker’s perspective in mind.
+Launched in 2020, Modbap Modular’s products are distributed by Electro-Distro and sold in 40+ electronic musical instrument stores across the globe: North America, Europe, and Asia.
+Hummingbird Media, Inc.
+This section of TWICE, “The PR Wire,” contains original press releases that reflect the views of the industry organizations issuing them. Releases are not reviewed or edited by TWICE editorial staff. Suppliers, The PR Wire is “A Virtual Press Conference.”
+© 2025 TWICE is part of Future plc, an international media group and leading digital publisher.

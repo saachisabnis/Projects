@@ -1,0 +1,11 @@
+Deepfakes, technology to face-swap images, have ushered in a new era of scams. In the past year, fake video of celebrities like Tom Hanks and Mr. Beast have been used to shill products they don't actually endorse. The latest of these scams is a phony giveaway of cookware Le Creuset by deepfaked Taylor Swift and Selena Gomez, the New York Times and others report.
+In these AI-generated videos that ran on Meta (which owns Facebook and Instagram) and TikTok, Swift's appearance and voice were imitated to express that she's "thrilled" to give away free Le Creuset sets. There are also fake ads of Selena Gomez, according to cybersecurity site MalwareTips, where a deepfaked Gomez promises free cookware due to a warehouse error. 
+These ads included links to websites appearing to be the Food Network and other legitimate news outlets, saying that the "free" Le Creuset items required a one-time "small shipping fee of $9.96." Users that attempted to claim the free set and entered their personal information didn't receive any Le Creuset, but instead were signed up to a monthly $89.95 subscription in addition to that "shipping" fee of $9.96, MalwareTips states.
+A Meta spokesperson told the Times that these fraudulent ads violate its policies, but are often missed by its review systems because creators cloak their content. Meta has taken legal action against some perpetrators of these scam ads. A TikTok spokesperson told the Times that creators are required to disclose whether media is synthetic or manipulated, and that advertisers must obtain consent for "any synthetic media which contains a public figure."
+AI fools us — and will continue to as the technology advances. Here's a rule of thumb: If an ad featuring a celebrity isn't on that celebrity's or the company's social media accounts, it's likely fake. 
+
+Topics
+Artificial Intelligence
+Taylor Swift
+
+Anna Iovine is the associate editor of features at Mashable. Previously, as the sex and relationships reporter, she covered topics ranging from dating apps to pelvic pain. Before Mashable, Anna was a social editor at VICE and freelanced for publications such as Slate and the Columbia Journalism Review. Follow her on Bluesky.

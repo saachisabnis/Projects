@@ -1,0 +1,15 @@
+You can now use "natural language" to search in both Apple Music and Apple TV. The subtle change is part of iOS 18.2, iPadOS 18.2, tvOS 18.12, and macOS Sequoia 15.2, all of which came out this week. The feature "lets you describe what you’re looking for using any combination of categories like genres, moods, actors, decades, and more," according to Apple.
+This sounds great in theory, but how does it work in real life? I'd say it's probably not going to change your life but is fine overall. One tip before I jump in: the auto-populated results that show up as you type don't use this feature, meaning you need to actually hit the Search button on your device
+For example: I asked for an "unsettling office drama," basically setting Apple up to recommend its show Severance(which is amazing). And it kind of worked: there was a British drama that's not set in an office followed by Severance. The results also included The Morning Show, which... I guess kind of fits.
+Maybe more hilariously: I typed "sitcoms like The Office" and was recommended the (original) British version of the show, which makes sense. That's followed by Friends, which is pretty different, if similarly bingeable, and Parks and Recreation, which is different in tone but has some writers and the mockumentary format in common. Results also included The Big Bang Theory, which is inexcusable, and Mythic Quest, which honestly should be higher.
+So, yeah, a mixed bag for abstract questions—it kind of works but has questionable taste. It works a lot more accurately if you search for movies by a specific director or shows featuring a certain actor.
+The feature also works in Apple Music. I searched for artists "similar to Billie Eilish" and the top recommendation was Olivia Rodrigo, which I'd question a little bit, but Eilish's brother and collaborator FINEAS also showed up which is fair enough.
+I also searched for "Indie Christmas Albums" and got Sufjan Steven's classic Songs For Christmas, which make sense, and Mariah Carey's Merry Christmas, which does not. So, as with TV, the results are mixed. It's nothing if not interesting, though. Give it a shot if you have a TV or Music subscription.
+Justin Pot is a freelance journalist who helps people get more out of technology.
+Justin Pot is a freelance journalist who helps people get more out of technology.
+Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.
+                
+© 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.
+Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate
+                    any affiliation or the
+                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.

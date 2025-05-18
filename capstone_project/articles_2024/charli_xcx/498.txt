@@ -1,0 +1,56 @@
+While some major labels are touting YouTube as an important partner in the evolving world of music and AI, not everyone in the industry has been as enthusiastic about these new efforts.
+
+													By
+												
+
+	Elias Leight
+
+
+Lyor Cohen’s first encounter with Google’s generative artificial intelligence left him gobsmacked. “Demis [Hassabis, CEO of Google Deepmind] and his team presented a research project around genAI and music and my head came off of my shoulders,” Cohen, global head of music for Google and YouTube, told Billboard in November. “I walked around London for two days excited about the possibilities, thinking about all the issues and recognizing that genAI in music is here — it’s not around the corner.”
+
+	While some of the major labels are touting YouTube as an important partner in the evolving world of music and AI, not everyone in the music industry has been as enthusiastic about these new efforts. That’s because Google trained its model on a large set of music — including copyrighted major-label recordings — and then went to show it to rights holders, rather than asking permission first, according to four sources with knowledge of the search giant’s push into generative AI and music. That could mean artists “opting out” of such AI training — a key condition for many rights holders — is not an option.
+
+
+
+
+			Trending on Billboard		
+
+
+
+
+
+
+	YouTube did make sure to sign one-off licenses with some parties before rolling out a beta version of its new genAI “experiment” in November. Dream Track, the only AI product it has released publicly so far, allows select YouTube creators to soundtrack clips on Shorts with pieces of music, based on text prompts, that can include replicas of famous artists’ voices. (A handful of major-label acts participated, including Demi Lovato and Charli XCX.) “Our superpower was our deep collaboration with the music industry,” Cohen said at the time. But negotiations that many in the business see as precedent-setting for broader, labelwide licensing deals have dragged on for months.
+
+	Negotiating with a company as massive as YouTube was made harder because it had already taken what it wanted, according to multiple sources familiar with the company’s label talks. Meanwhile, other AI companies continue to move ahead with their own music products, adding pressure on YouTube to keep progressing its technology.
+
+	In a statement, a YouTube representative said, “We remain committed to working collaboratively with our partners across the music industry to develop AI responsibly and in a way that rewards participants with long-term opportunities for monetization, controls and attribution for potential genAI tools and content down the road,” declining to get specific about licenses.
+
+	GenAI models require training before they can start generating properly. “AI training is a computational process of deconstructing existing works for the purpose of modeling mathematically how [they] work,” Google explained in comments to the U.S. Copyright Office in October. “By taking existing works apart, the algorithm develops a capacity to infer how new ones should be put together.”
+
+	Whether a company needs permission before undertaking this process on copyrighted works is already the subject of several lawsuits, including Getty Images v. Stability AI and the Authors Guild v. OpenAI. In October, Universal Music Group (UMG) was among the companies that sued AI startup Anthropic, alleging that “in the process of building and operating AI models, [the company] unlawfully copies and disseminates vast amounts of copyrighted works.” 
+
+	As these cases proceed, they are expected to set precedent for AI training — but that could take years. In the meantime, many technology companies seem set on adhering to the Silicon Valley rallying call of “move fast and break things.”
+
+	While rights holders decry what they call copyright infringement, tech companies argue their activities fall under “fair use” — the U.S. legal doctrine that allows for the unlicensed use of copyrighted works in certain situations. News reporting and criticism are the most common examples, but recording a TV show to watch later, parody and other uses are also covered.
+
+	“A diverse array of cases supports the proposition that copying of a copyrighted work as an intermediate step to create a noninfringing output can constitute fair use,” Anthropic wrote in its own comments to the U.S. Copyright Office. “Innovation in AI fundamentally depends on the ability of [large language models] to learn in the computational sense from the widest possible variety of publicly available material,” Google said in its comments.
+
+	“When you think of generative AI, you mostly think of the companies taking that very modern approach — Google, OpenAI — with state-of-the-art models that need a lot of data,” says Ed Newton-Rex, who resigned as Stability AI’s vp of audio in November because the company was training on copyrighted works. “In that community, where you need a huge amount of data, you don’t see many people talking about the concerns of rights holders.”
+
+	When Dennis Kooker, president of global digital business and U.S. sales for Sony Music Entertainment, spoke at a Senate forum on AI in November, he rejected the fair use argument. “If a generative AI model is trained on music for the purpose of creating new musical works that compete in the music market, then the training is not a fair use,” Kooker said. “Training in that case, cannot be without consent, credit and compensation to the artists and rights holders.”
+
+	UMG and other music companies took a similar stance in their lawsuit against Anthropic, warning that AI firms should not be “excused from complying with copyright law” simply because they claim they’ll “facilitate immense value to society.”
+
+	“Undisputedly, Anthropic will be a more valuable company if it can avoid paying for the content on which it admittedly relies,” UMG wrote at the time. “But that should hardly compel the court to provide it a get-out-of-jail-free card for its wholesale theft of copyrighted content.”
+
+	In this climate, bringing the major labels on board as Google and YouTube did last year with Dream Track — after training the model, but before releasing it — may well be a step forward from the music industry’s perspective. At least it’s better than nothing: Google infamously started scanning massive numbers of books in 2004 without asking permission from copyright holders to create what is now known as Google Books. The Authors Guild sued, accusing Google of violating copyright, but the suit was eventually dismissed — almost a decade later in 2013.
+
+	While AI-related bills supported by the music business have already been proposed in Congress, for now the two sides are shouting past each other. Newton-Rex summarized the different mindsets succinctly: “What we in the AI world think of as ‘training data’ is what the rest of the world has thought of for a long time as creative output.” 
+
+Additional reporting by Bill Donahue.
+Daily newsletters straight to your inbox
+Send us a tip using our anonymous form.
+A daily briefing on what matters in the music industry
+Send us a tip using our anonymous form.
+Billboard is a part of Penske Media Corporation. © 2025 Billboard Media, LLC. All Rights Reserved.

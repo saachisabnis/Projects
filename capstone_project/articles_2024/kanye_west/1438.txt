@@ -1,0 +1,145 @@
+Site Sponsor:
+
+Log In | Register 
+3D Printing News Briefs, May 3, 2025: Executives, Awards, & a 3D Printing Factory
+After Failed Sale, voxeljet Turns to Germany’s Rescue Law
+Driving Sustainable Additive Manufacturing: Continuum Powders Joins AMGTA as Principal Member
+Metals Market Data: Q4 2024
+
+										April 01, 2025									
+
+										Report # 									
+Polymers Market Data: Q4 2024
+
+										April 01, 2025									
+
+										Report # 									
+3DP/AM Market Insights: Q4 2024
+
+										March 31, 2025									
+
+										Report # ----									
+
+            MARKETS        
+3DP/AM Market Insights: Q4 2024
+
+										March 31, 2025									
+
+										Report # ----									
+AM Software Markets 2025: Analysis, Data and Forecast
+
+										February 27, 2025									
+
+										Report # AMR-AMSOFT2025-0325									
+AM for Data Centers: a 3D Printing Market Opportunity
+
+										February 27, 2025									
+
+										Report # AMR-AMDC3DP-0225									
+Metals Market Data: Q4 2024
+
+										April 01, 2025									
+
+										Report # 									
+Polymers Market Data: Q4 2024
+
+										April 01, 2025									
+
+										Report # 									
+3DP/AM Market Insights: Q4 2024
+
+										March 31, 2025									
+
+										Report # ----									
+Dig Deeper, Search Our Message Board 3dprintboard.com
+Strategic Sales Manager (Contract Manufacturing Medical)
+Director of BD (Federal & DoD Contract Manufacturing)
+Feature Your Job Posting Here
+Velo3D
+October 27, 2021
+Innovator's Roundtable
+September 23, 2021
+Elkem Silicones
+June 10, 2021
+In-Vision
+May 27, 2021
+Article Series
+A curated collection of industry and product deep-dives.
+Exclusive Content
+Videos, podcasts, product reviews and free downloadable resources.
+3D Printing News Briefs, May 3, 2025: Executives, Awards, & a 3D Printing Factory
+After Failed Sale, voxeljet Turns to Germany’s Rescue Law
+Driving Sustainable Additive Manufacturing: Continuum Powders Joins AMGTA as Principal Member
+3D Printing News Briefs, May 3, 2025: Executives, Awards, & a 3D Printing Factory
+After Failed Sale, voxeljet Turns to Germany’s Rescue Law
+Driving Sustainable Additive Manufacturing: Continuum Powders Joins AMGTA as Principal Member
+Share this Article
+In today’s 3D Printing News Briefs—the first of the new year!—we’ll start with metal 3D printing and move on to software and digital spares. Then it’s on to medical news with the commercial release of 3D printed interbody implants. We’ll finish with news about 3D printed shoes.
+Johannes Fooke (left), Nanci Hardwick, and Hendrik Fooke (Image: FOOKE)
+MELD Manufacturing Corporation recently announced that it was partnering with German mechanical engineering company FOOKE GmbH, a top supplier of high-precision 5-axis milling machines and FSW systems. With this collaboration, MELD has designated FOOKE an authorized integrator for its metal 3D printing technology. MELD’s proprietary, environmentally-friendly process doesn’t use melting, which reduces the risk of thermal stress and enables better material properties, and the technology is compatible with many commercially available metals, like titanium, stainless steel, and aluminum. FOOKE will introduce a range of machines, integrated with MELD’s technology, as part of a comprehensive OEM system. This will allow customers in industries like aerospace, automotive, railway, and shipbuilding to explore the possible adoption of metal AM for large parts.
+“This partnership aligns perfectly with our commitment to providing quality solutions to our customers. MELD’s technology will enable us to offer both additive and subtractive capability on our machines, opening doors to previously unattainable possibilities for large scale parts manufactured on site,” said Hendrik Fooke, Head of Sales & Business Development at FOOKE.
+AMFG, which provides MES software for manufacturing, announced a partnership with Portuguese company Varishapes. Specializing in on-demand industrial 3D printing and CNC services tailored to specific client requirements, Varishapes implemented AMFG’s MES software and Instant Quote tool to more quickly respond to the CNC and additive manufacturing needs of its customers. Varishapes needed a faster way to complete orders and provide quotes, and now operates using a streamlined workflow so clients can easily upload 3D models in a variety of file formats onto AMFG’s automatic quoting platform. The Instant Quote tool uses advanced algorithms that align with Varishapes’ existing quoting logic, and after integrating its email system with the tool, the company now enjoys an improved quoting capacity, while still offering high-quality customer interactions.
+“AMFG stood out as the all-in-one solution we needed for a streamlined and customer-friendly process. AMFG encompasses all the essential features for a front-facing app integration on our website. Its comprehensive capabilities not only enhance the user experience but also provide a seamless avenue for payments and order placement,” said João Tomás Afonso, the Founder of Varishapes.
+“Our business has experienced a significant improvement in handling direct orders from clients. The streamlined process has not only enhanced efficiency but also allowed us to more effectively promote our services. Now, we can seamlessly manage client orders and efficiently market our offerings.”
+Addparts has grand plans for the portal system. (Image: Addparts)
+Addparts, based at the Advanced Manufacturing Park Technology Centre in Rotherham, UK, is an exclusive service of Addition Design. The service uses 3D scanning, industrial 3D printing, and digital data management to supply digital spares on demand for automated production parts, and recently launched a new online portal for digital spare parts, which is searchable and organized by machine/plant list. The portal system offers a virtual stockroom of components, as well as in-production technology, to help manufacturing customers across multiple sectors keep their back-end processes running smoothly by reducing downtime. Each component stored by suppliers in the portal is shown by part number/unique reference, and Addparts says the portal has definitely improved communication with its customers. The company is even planning an expansion for downloadable regulatory statements for materials, live chats with engineers, higher emphasis on tracking design changes, and more.
+“Our Addparts service is based on three core modules — the scanning, the portal and the printing but, for us, it is actually the portal that brings it all together. As we were developing Addparts it became apparent that a lot of two-way communication was needed between us and the engineers and this was done using screen grabs, emails and Whats App messages,” said Tom Fripp, Director of Addition Design.
+“Once you click on the part, you can view the 3D data we have, basic dimensions, production cost, materials, any specifics for that part and geometric validation. You can also view previous orders for that part and download their certificates of conformity as well as order more replacements. The portal also allows you to upload information like photos and descriptions about parts that are not on the portal, kickstarting the process to get that part on the system.”
+The Ventana 3D Printed Interbody Portfolio (Image: Business Wire)
+California-based Spinal Elements recently announced the full commercial release of its Ventana 3D Printed Interbody Portfolio, which includes the Ventana C Anterior Cervical Interbody System, Ventana P/T Posterior Lumbar Interbody System, and Ventana L Lateral Lumbar Interbody System. Featuring a unique implant architecture that uses a specialized 3D printing process to maximize bone graft volume and containment, the Ventana portfolio is the latest in Spinal Elements’ MIS Ultra platform of products and procedural solutions. 3D printing also reduces the amount of titanium used to improve radiographic visualization, which makes things clearer during imaging. Spinal Elements received guidance from multiple spine surgery thought leaders while developing its Ventana 3D printed interbody portfolio, which is available in varying degrees of lordosis (exaggerated inward curve of the spine that typically affects the lower back) for restoration of sagittal balance.
+“The Spinal Elements team is dedicated to bringing innovative products to market that when combined with our Orbit discectomy instrument set and our fixations systems, like Karma®, Overwatch® or Sapphire X®, they successfully work together to achieve spinal fusion. Ventana represents another major milestone in our mission to redefine spinal healthcare,” said Ron Lloyd, CEO of Spinal Elements.
+At The Running Event (TRE) 2023 in Austin, Texas, advanced manufacturer ARRIS highlighted its technology collaboration with Brooks Running—the first footwear brand to go to market with running shoes featuring a continuous fiber-reinforced thermoplastic composite plate created with its Additive Molding technology. This patented manufacturing method combines the best of additive technologies, high-volume production molding methods, and fiber-reinforced composites to make stronger, lighter, and more sustainable mass-market products. These two partners both want to reach new heights in comfort, fit, speed, and aesthetics for next-gen running shoes, and created the prototype together, combining Brooks’ experience in biomechanics and performance with ARRIS’s novel design software, materials, and manufacturing methods to develop the advanced carbon plate. The prototype running shoe with this plate was tested by athletes in major marathons, and the resulting Hyperion Elite 4 is scheduled for broader availability this spring.
+“With ARRIS as a partner, we’re able to build a plate that mirrors our commitment to biomechanical expertise and engineering,” said Lee Sackett, Footwear Product Line Manager at Brooks Running. “We work together with ARRIS to simulate, test, and optimize this plate to innovate the entire shoe’s propulsion system. ARRIS’ manufacturing and simulation technology helps us take years’ worth of prototyping and lets us execute innovative designs in months, with geometries we were unable to use in the past – a massive step forward for footwear innovation.”
+Singer, songwriter, and rapper Pharrell Williams is also the men’s artistic director for French luxury fashion house Louis Vuitton, and during its  Pre-Fall 2024 runway in Hong Kong, he sent down the LV Cobra—a 3D printed slip-on sneaker. Made with technology by shoe 3D printing marketplace and manufacturer Zellerfeld, the silhouette and design language of the LV Cobra are similar to some of Zellerfeld’s other collaborative footwear, but the Louis Vuitton branding, complete with the signature LV Monogram flower logo, sets it apart from the rest.
+The LV Cobra features a mixed-texture finish that blends smooth panels and soft mesh, as well as several upper air vents for breathability. So far, the 3D printed sneaker has been revealed in only off-white and black, and after looking at pictures, I’d have to say I prefer the latter. The shoes look fairly chunky from the side, like more stylish clogs or Crocs, and they appear fairly comfortable. In addition to Pharell, Zellerfeld, which prides itself on its low-waste, recyclable footwear, has partnered with several other celebrities on 3D printed shoes, including sandals with Chris Brown and boots with Ye, formerly known as Kanye West. As of today, there are still no release details available for the 3D printed LV Cobra slip-on sneaker.
+Stay up-to-date on all the latest news from the 3D printing industry and receive information and offers from third party vendors.
+Upload your 3D Models and get them printed quickly and efficiently.
+Share this Article
+
+3D Printing News Briefs, May 3, 2025: Executives, Awards, & a 3D Printing Factory
+
+
+After Failed Sale, voxeljet Turns to Germany’s Rescue Law
+
+
+3D Design
+
+
+3D Printed Art
+
+
+3D Printed Food
+
+
+3D Printed Guns
+
+US Army officials recently told military news outlet Task & Purpose that, at an exercise in Poland this month, the branch will test small 3D printed drones for surveilling potential threats...
+Additive Manufacturing Strategies (AMS) will return to New York City in February 2026, bringing together leaders, innovators, and investors in 3D printing for the ninth edition of our flagship business...
+This week, RAPID + TCT, the largest additive manufacturing trade show in North America, returned to Detroit, Michigan. As always, many AM companies take advantage of the opportunity by announcing...
+The global economy is currently undergoing a reshuffling in terms of what gets manufactured where. In large part, this trend is being driven by new geopolitical alliances and the need...
+Site Sponsor
+Events
+Additive Manufacturing Strategies
+Networking Business Summit February 24-26, 2026
+Jobs
+3D Printing jobs around the world.
+
+        Subscribe to Our Email Newsletter
+    
+Stay up-to-date on all the latest news from the 3D printing industry and receive information and offers from third party vendors.
+
+3D Printing Guides
+
+© 2016 - 2025 3DR HOLDINGS. ALL RIGHTS RESERVED.
+Privacy Policy | Cookie Policy
+
+							Register to view and download proprietary industry data from AM Research and 3DPrint.com
+							
+							Questions? Contact info@3dprint.com
+
+
+							Already have an account?
+						
+
+
+								Log In

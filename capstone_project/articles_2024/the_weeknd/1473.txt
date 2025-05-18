@@ -1,0 +1,207 @@
+Latest	
+
+
+
+		AI	
+
+
+
+		Amazon	
+
+
+
+		Apps	
+
+
+
+		Biotech & Health	
+
+
+
+		Climate	
+
+
+
+		Cloud Computing	
+
+
+
+		Commerce	
+
+
+
+		Crypto	
+
+
+
+		Enterprise	
+
+
+
+		EVs	
+
+
+
+		Fintech	
+
+
+
+		Fundraising	
+
+
+
+		Gadgets	
+
+
+
+		Gaming	
+
+
+
+		Google	
+
+
+
+		Government & Policy	
+
+
+
+		Hardware	
+
+
+
+		Instagram	
+
+
+
+		Layoffs	
+
+
+
+		Media & Entertainment	
+
+
+
+		Meta	
+
+
+
+		Microsoft	
+
+
+
+		Privacy	
+
+
+
+		Robotics	
+
+
+
+		Security	
+
+
+
+		Social	
+
+
+
+		Space	
+
+
+
+		Startups	
+
+
+
+		TikTok	
+
+
+
+		Transportation	
+
+
+
+		Venture	
+
+
+
+		Events	
+
+
+
+		Startup Battlefield	
+
+
+
+		StrictlyVC	
+
+
+
+		Newsletters	
+
+
+
+		Podcasts	
+
+
+
+		Videos	
+
+
+
+		Partner Content	
+
+
+
+		TechCrunch Brand Studio	
+
+
+
+		Crunchboard	
+
+
+
+		Contact Us	
+
+Harvey Mason Jr., CEO of the Recording Academy, caused a stir a few months ago. 
+He announced that the organization’s prestigious Grammy Awards would finally accept music made with artificial intelligence. At first, people were confused, and then Mason came out to clarify that he meant only humans can submit to the awards, but that AI can be used in the creative process. 
+“It’s a bit of a fine line, but that’s going to evolve,” he told TechCrunch about how the Academy is assessing the use of artificial intelligence in music. “My hope is that we can continue to celebrate human creativity at the highest level.” 
+The rise of AI has consumed the arts, just as it has Silicon Valley. Everyone is pondering: Will AI replace me? And within music — what happens to copyright? Royalties? To the hard work I’ve put into my craft? Mason said there are indeed concerns sweeping the industry. Some people are scared and nervous, while others are excited and optimistic. Some artists are sending cease-and-desist letters to get unauthorized deepfakes of themselves taken down, while others are embracing their AI versions — so long as they get paid. 
+“I wholeheartedly believe that AI in music shouldn’t even exist,” musician Devante, the Artist told TechCrunch. “AI should really only be used for simple daily tasks. As an artist, the ‘AI is taking over the world’ take is very real these days. Music is my world and now it’s all too easy for someone to masquerade as something it’s taken my whole life to be.” 
+“I think a lot of musicians, particularly the ones who haven’t ‘made it,’ are taking a glass-half-empty perspective on AI,” a musician who also works for a Big Tech company told TechCrunch. He asked to remain anonymous because he did not have permission from his employer to speak on the matter. “Just as the industrial revolution did not lead to widespread unemployment and in fact quite the opposite, more creatives, especially musicians, should flip their mindset and lean in.” 
+AI is already being used in music, mostly in the process of mastering and equalizing sounds, Mason said. The biggest concerns right now in the industry are making sure people get the right approvals to use an artist’s work, making sure humans are credited separately from AI, and making sure people are getting paid fairly, whether that’s the copyright AI is trained on or the likeness of an artist. There’s also the issue of ensuring these protections across the industry. 
+Mason co-launched the Human Artistry Campaign to address some of these issues and advocate for more guardrails around the use of AI. 
+He was involved with the ELVIS Act, passed in Tennessee, which gives artists more protection over the unauthorized use of their voices. He’s also supporting the No AI Fraud Act and the No FAKES Act, which will protect creators’ likenesses from AI fakes. 
+It’s a pressing matter that is moving faster than the law. This month, Donald Trump found himself in tricky legal water after using unauthorized AI images of Taylor Swift to help promote his presidential campaign. At the time, TechCrunch reported that the ELVIS Act is so new that there is no precedent on how it could be used to protect an artist like Swift in this situation. (Mason declined to comment on the matter then.) 
+The push for more legislation within the music industry is quite interesting given the fact that the topic has caused much debate in Silicon Valley. Some AI purveyors in the U.S. favor a more laissez-faire attitude toward the technology in its early days and believe too many guardrails could hinder innovation. Others are looking at it from a societal standpoint, wanting protections against the impact that unchecked AI could have on people. Governments across the U.S. — and even on a national stage — are battling this out now. 
+Devante, the Artist feels there is a disconnect between what is being done to regulate AI versus what should be done. He wants to see the development of AI slowed down or see innovation that can help protect music, such as a type of filter that can differentiate AI vocals from human ones.
+“As it comes to our industry and the creative community, there’s still a concern,” Mason said. “There’s uncertainty because there just doesn’t seem to be protections in place.” 
+In 2020, when Mason first became president of the Recording Academy, AI was hardly a topic of discussion. Then, around 2023, everything started to change. A deepfake song featuring trained, unauthorized AI vocals on Drake and the Weeknd went viral. Fans loved it, and the person who created the song spoke of possibly entering the song into the Grammys. The Academy had to act fast, dealing with something it had never dealt with before. “That was the point at which we started having to pay close attention to it,” Mason said. 
+The song was deemed ineligible for the Grammys and was taken down, but its legacy lived on. The highest profile AI situation since then ironically also involved Drake. During the Drake-Kendrick Lamar feud, Drake used unauthorized AI vocals of the late hip-hop icon Tupac in an attempted diss track against Lamar and was immediately threatened with a lawsuit by Tupac’s estate for using his likeness without permission. 
+Meanwhile, producer Metro Boomin, who also has qualms with Drake, created an AI song called “BBL Drizzy,” which fans raved about, even after learning it was AI. Mason said consumers aren’t always going to know when something is AI — nor will they always go through the credits to find out. Mason said that many consumers don’t seem to care much about whether AI is used in music, another reason why protecting creators is so important. 
+“I don’t think people care what they consume,” Devante, the Artist agreed. “It’s almost like a ‘not me, not my problem situation.’” 
+At the same time, Mason believes that humans will just evolve to live with AI, just like they’ve adapted to nearly every other new form of technology. Years ago, artists had to learn how to use synthesizers or how to sample music. The latter especially posed a problem, as some artists would just sample another person’s music without permission. Eventually, the industry went back and figured out a standard way to allocate credit and royalties.
+“We’ll make great music with the new technology,” Mason said about AI. “But I just want to make sure it’s done in a way that’s fair to the human creators.” 
+This story was updated to clarify the AI song of Drake and the Weeknd submitted to the Grammys. 
+Topics
+
+Senior Reporter, Venture
+
+Dominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City. You can contact her on Signal at +1 (646)-831-7565.
+Get inside access to Europe’s top investment minds — with leaders from Monzo, Accel, Paladin Group, and more — plus top-tier networking at StrictlyVC London.
+ Temu stops shipping products from China to the U.S.
+
+ Warren Buffett will step down as Berkshire Hathaway CEO
+
+ Week in Review: Apple won’t raise prices — yet
+
+ Google’s Gemini has beaten Pokémon Blue (with a little help)
+
+ eBay and Etsy are relatively confident despite tariff pressures
+
+ How Riot Games is fighting the war against video game hackers
+
+ AI chatbots are ‘juicing engagement’ instead of being useful, Instagram co-founder warns
+
+© 2025 TechCrunch Media LLC.

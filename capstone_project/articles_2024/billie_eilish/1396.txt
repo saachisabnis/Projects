@@ -1,0 +1,22 @@
+OpenAI's chief technology officer Mira Murati says AI may help expand humans' creativity — but the technology could wipe out some creative jobs as well.
+On June 19, Dartmouth College's school of engineering held a discussion with Murati about the potential effects OpenAI's tools, such as ChatGPT, may have on different industries. During the conversation, the Dartmouth alum was asked if they would be capable of writing scripts and making films.
+Watch NBC 5 free wherever you are
+"It certainly can do that as a tool," she said. "I expect that we will collaborate with it and it's going to make our creativity expand."
+OpenAI's tools will "lower the barrier for anyone to think of themselves as creative," she added.
+Get top local stories delivered to you every morning with NBC DFW's News Headlines newsletter.
+However, she also said AI tools could have a potentially disruptive impact on creative industries. "Some creative jobs maybe will go away, but maybe they shouldn't have been there in the first place if the content that comes out of it is not very high quality," she said. 
+Ultimately, "I really believe that using it as a tool for education [and] creativity will expand our intelligence and creativity and imagination."
+When it comes to whether generative AI tools will be able to completely replace human creativity, the answer tends to be complicated for a few reasons.
+For one, generative AI learns differently than humans.
+Large language models, image generators and other generative AI tools use powerful algorithms to identify patterns in the datasets they're trained on and use that information to generate new image, text or audio outputs based on users' prompts.
+But humans still don't have a clear understanding of how we learn, retain knowledge and develop creativity, says Theo Omtzigt, chief technology officer at Lemurian Labs.
+"If we do not have a mathematical understanding, or a scientific understanding, of what creates consciousness or creativity, we have no mechanism to instill it in an artificial system," he told CNBC Make It in December.
+That's not to say generative AI tools won't cause any disruption.
+By 2030, nearly 12 million workers in the United States may need to find new jobs thanks to generative AI, according to a May report from McKinsey Global Institute. The main job categories predicted to be impacted are office workers, customer service representatives and production workers, such as those in manufacturing, per the study.
+But some members of the music industry are already trying to get ahead of AI's potential impact.
+In April, more than 200 music artists, including Billie Eilish and Nicki Minaj, signed an open letter calling for protections against the "predatory use of AI" within their industry.
+"Some of the biggest and most powerful companies are, without permission, using our work to train AI models," the letter states. "Unchecked, AI will set in motion a race to the bottom that will degrade the value of our work and prevent us from being fairly compensated for it."
+At Dartmouth, Dr. Joy Buolamwini, an AI expert and author of "Unmasking AI," asked Murati about the concerns many creatives have about their work being used to train AI models without their consent.
+OpenAI "gives people a lot of control on how their data is used" in its products and that users have the option to have their data removed from the training set, Murati said. The company is also "experimenting with methods to basically create tools that allow people to be compensated for data contribution."
+Want to be a successful, confident communicator? Take CNBC's new online course Become an Effective Communicator: Master Public Speaking. We'll teach you how to speak clearly and confidently, calm your nerves, what to say and not say, and body language techniques to make a great first impression. Preregister today and use code EARLYBIRD for an introductory discount of 30% off through July 10, 2024.
+Plus, sign up for CNBC Make It's newsletter to get tips and tricks for success at work, with money and in life.

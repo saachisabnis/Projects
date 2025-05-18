@@ -1,0 +1,17 @@
+Udio and Sunio's artificial intelligence-powered music generators are allegedly training on copyrighted work, according to the latest lawsuit by the Record Industry Association of America (RIAA), filed on behalf of Universal Music Group, Sony Music, and Warner Records.
+According to the RIAA, some tracks sound too similar to currently popular music. It claims that Udio's generator has tunes that are very similar to The Beach Boys' "I Get Around" and Abba's "Dancing Queen," while Suno has produced music that contains samples of Chuck Berry's "Johnny B." and Jerry Lee Lewis's "Great Balls of Fire." Alright.
+The RIAA demands $150,000 for every song that is infringed. Upon inquiring about the possible infringement, Suno and Udio asserted that the details were exclusive company data. Numerous artificial intelligence firms have maintained that training their models with data is not a copyright infringement but fair use.
+The RIAA is not convinced. The promise of truly revolutionary AI for all of us has been shattered, according to RIAA Chairman and CEO Mitch Glazier, who made this assertion in a statement. He adds that unlicensed firms like Suno and Udio assert that it is "fair" to replicate an artist's life's work and exploit it for their benefit without permission or payment.
+Read Also :
+AI Music Generator, Suno Hits High Note With $125 Million Funding Round
+Even the most well-known musicians struggle with AI music creation; hundreds have already asked to be shielded from the rapidly advancing technology. Recently, over 200 musicians and celebrities like Billie Eilish, Nicki Minaj, and Katy Perry signed a letter to AI developers requesting that they refrain from creating tools that "infringe" on artists' rights.
+According to their official website, the Artist Rights Alliance, a non-profit composed of performing artists, actors, and composers, published an open letter supporting a thriving creative economy and equitable treatment for all creators in the digital world.
+In the letter, digital music services, tech companies, and AI developers are urged to pledge not to develop or use AI tools, material, or technology that will diminish or replace songwriters' and musicians' human artistic ability or fail to compensate them for their work fairly.
+The list includes Smokey Robinson, Mumford & Sons, Imagine Dragons, Sheryl Crow, Frank Sinatra's estate, Rosanne Cash, Johnny Cash's daughter, and Zayn Malik, a former One Direction member.
+While not advocating for an absolute ban on technology's use in music production, the letter does point out that appropriate use of the technology might help the music business.
+Music producers have used AI methods in several ways in the past few years. One such use was constructing a "new" Beatles song published the year before by extracting John Lennon's vocals from an old demo file using artificial intelligence.
+Unions in the entertainment industry held several contract talks and walkouts in 2023, primarily over worries about AI being used to write songs and screenplays or produce images and videos of actors and entertainers.
+Related Article :
+Country Icon Randy Travis Returns With AI-Generated Single After Stroke Recovery
+ⓒ 2025 TECHTIMES.com All rights reserved. Do not reproduce without permission.
+Sign up for our free newsletter for the Latest coverage!

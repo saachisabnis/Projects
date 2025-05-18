@@ -1,0 +1,28 @@
+As artificial intelligence (AI) technology becomes ubiquitous, news stories regarding the use (and abuse) of deepfakes—that is, AI-generated media used to impersonate real individuals—are increasingly common.
+For example, in January, sexually explicit deepfakes of Taylor Swift proliferated on social media, prompting X (formerly Twitter) to temporarily lock all searches for the singer’s name on its platform to prevent user access to such deepfakes.
+A high school in Westfield, New Jersey, recently found itself in the middle of a deepfake porn scandal when a student used AI to paste the faces of 30 female students onto pornographic images and then uploaded those images to a website.
+In what is being called a record-breaking year for elections worldwide, deepfakes are being used in an effort to influence voting and election outcomes. For example, robocalls designed to sound like President Joe Biden urged New Hampshire voters not to cast their ballots in that state’s Democratic primary. The Federal Communications Commission swiftly declared the use of AI-generated voices in unsolicited robocalls illegal, and the League of Women Voters has since filed suit against the entities responsible for these robocalls under the Voting Rights Act, Telephone Consumer Protection Act, and New Hampshire state law.
+Further, deepfakes impersonating Tom Hanks, Gayle King, and other celebrities are being used in advertisements and media without authorization, and, as we explored in a recent blog post, reality TV star Kyland Young has sued the developer of an AI-fueled app allowing users to swap their faces for Young’s face within photos and videos featuring Young. Deceased celebrities are also being targeted; for example, George Carlin’s estate recently settled a lawsuit over a one-hour comedy special featuring an AI-generated imitation of the comedian.
+In the wake of these and other high-profile incidents, state and federal legislators are scrambling to address the unauthorized and nonconsensual use of deepfakes. Much of the current legislative activity regarding deepfakes focuses on specific sets of issues: (1) the nonconsensual dissemination of sexually explicit deepfakes; (2) the use of deepfakes to influence elections; and (3) the right of publicity as it relates to AI-generated digital replicas.
+Laws Addressing Nonconsensual Sexually Explicit Deepfakes
+While there is no U.S. federal legislation specifically addressing the nonconsensual dissemination of sexually explicit deepfakes, a minority of states have adopted such laws. However, following the Taylor Swift, Westfield High School, and other pornographic deepfake scandals (almost always targeting females), a flurry of proposed legislation at both the federal and state levels is taking aim at sexually explicit deepfakes.
+Even in the absence of laws specifically targeting pornographic deepfakes, other laws are in place—including privacy, defamation, and copyright laws—that provide tools for combatting such deepfakes. However, advocates have asserted that such existing laws are limited in their ability to effectively protect victims of obscene deepfakes.
+Laws Addressing Election-Specific Deepfakes
+With the approaching U.S. presidential election, the rise of deceptive political deepfakes, and general concerns around the integrity of elections, several states have implemented or are proposing legislation to tackle the spread of misleading election-related deepfakes. No federal law targeting election-related deepfakes has been enacted to date, but several bills have been proposed in Congress to address these issues.
+Although laws aimed at regulating political deepfakes may raise First Amendment issues, courts have yet to tackle such concerns in connection with the existing state laws targeting election-specific deepfakes—but those challenges are likely to come as such deepfakes become increasingly common. 
+Right of Publicity Laws Addressing Deepfakes
+Although much of the movement in deepfakes has centered specifically on deepfake porn and deepfake politics, some state and federal legislators have looked to expand right of publicity law to make clear that such rights extend to the use of unauthorized deepfakes more generally. The right of publicity is an intellectual property right that protects against the misappropriation of a person’s name, image, or likeness, as well as other indicia of identity such as nickname, pseudonym, voice, signature, or photographs, for commercial benefit. (For more on the right of publicity as it relates to deepfakes, see our prior blog post here.)
+Final Thoughts
+With AI-generated deepfakes becoming more common, more realistic, and more harmful, legislators will likely feel increased pressure to adopt laws regulating deepfakes. Although the likelihood of a comprehensive, omnibus deepfakes law at either the federal or state level in the near future seems low, we are already seeing, as discussed above, the adoption of state laws more narrowly focused on curbing deepfakes that are sexually explicit, seek to disrupt elections, or misappropriate celebrity voices or personas. Whether, in the absence of federal deepfakes legislation, these piecemeal state laws will be effective in curtailing problematic deepfakes remains to be seen. 
+[View source.]
+See more »
+DISCLAIMER: Because of the generality of this update, the information provided herein may not be applicable in all situations and should not be acted upon without specific legal advice based on particular situations.
+                    Attorney Advertising.
+© 
+                    Perkins Coie 
+                    
+
+Refine your interests »
+Back to Top
+Explore 2025 Readers' Choice Awards
+Copyright ©  JD Supra, LLC

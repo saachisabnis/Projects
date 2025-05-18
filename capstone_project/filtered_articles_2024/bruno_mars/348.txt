@@ -1,0 +1,160 @@
+In this edition:
+* 42nd Annual AMSAT Space Symposium to Proceed After Hurricane Milton
+* 2024 AMSAT-UK Colloquium: A Weekend of Satellite Innovation and Collaboration
+* SpaceX Achieves First Super Heavy Booster Catch in Landmark Starship Flight
+* NASA’s Europa Clipper Embarks on Epic Journey to Explore Alien Ocean World
+* European Spacecraft Launches to Investigate NASA’s Asteroid Defense Test
+* Changes to AMSAT-NA TLE Distribution for October 18, 2024
+* ARISS News
+* Upcoming Satellite Operations
+* AMSAT Ambassador Activities
+* Satellite Shorts From All Over
+The AMSAT News Service bulletins are a free, weekly news and information service of AMSAT, the Radio Amateur Satellite Corporation. ANS publishes news related to Amateur Radio in Space including reports on the activities of a worldwide group of Amateur Radio operators who share an active interest in designing, building, launching and communicating through analog and digital Amateur Radio satellites.
+The news feed on https://www.amsat.org publishes news of Amateur Radio in Space as soon as our volunteers can post it.
+Please send any amateur satellite news or reports to: ans-editor [at] amsat.org
+You can sign up for free e-mail delivery of the AMSAT News Service Bulletins via the ANS List; to join this list see: https://mailman.amsat.org/postorius/lists/ans.amsat.org/
+ANS-294 AMSAT News Service Weekly Bulletins
+To: All RADIO AMATEURS
+From: Radio Amateur Satellite Corporation
+712 H Street NE, Suite 1653
+Washington, DC 20002
+DATE 2024 Oct 20
+The 42nd Annual AMSAT Space Symposium and Annual General Meeting will take place from October 24-27, 2024, at the DoubleTree by Hilton Tampa Rocky Point Waterfront in Tampa, Florida. Originally at risk due to damage from Hurricane Milton, the hotel has completed repairs, allowing the event to proceed as scheduled. All Symposium activities, including presentations, social events, and the annual banquet, will be held in the same ballroom due to rescheduled events at the venue. While there may be minor schedule adjustments, AMSAT is confident the event will run smoothly.
+Registration for the Saturday banquet and Sunday breakfast has closed, but attendees who have secured their spots can look forward to a full weekend of activities. The Symposium kicks off with the AMSAT Board of Directors meeting on October 24-25, followed by paper sessions and the AMSAT Annual Meeting and Awards Ceremony on Saturday, October 26. The weekend will conclude with the AMSAT Ambassador Breakfast on Sunday, October 27, offering a relaxed setting for further networking and discussion.
+This year’s Symposium will focus on the latest developments in amateur radio satellite communications, with a variety of paper sessions and events throughout the weekend. The Friday night AMSAT Reception and Auction will provide an informal space for participants to connect and exchange ideas. If you have anything of interest that you can donate for the auction, please bring it along! AMSAT remains excited to host the event despite the challenges posed by Hurricane Milton and looks forward to celebrating the community’s passion for space-based communications. More information can be found at https://launch.amsat.org/event-5833792.
+[ANS thanks AMSAT for the above information]
+The AMSAT-UK Colloquium took place last weekend, bringing together enthusiasts and experts from the amateur satellite community. Held as a dedicated stream within the RSGB Convention, the event featured a range of presentations on the latest advancements in satellite technology and space-related topics. The Colloquium provided an invaluable opportunity for participants to engage with cutting-edge developments and network with fellow amateur radio operators.
+One of the highlights of the weekend was the AMSAT-UK Annual General Meeting, where key updates and future plans were discussed. In addition to the technical sessions, attendees enjoyed social gatherings, including the AMSAT Gala Dinner, which fostered further collaboration and exchange of ideas. The event continues to serve as a cornerstone for the amateur satellite community, offering both knowledge and inspiration for future projects.
+Presentations from the 2024 AMSAT-UK Colloquium are available on YouTube. Provided below are links to the individual topics from both Saturday and Sunday.
+[ANS thanks AMSAT-UK for the above information]
+SpaceX successfully launched its fifth Starship vehicle on October 13, 2024, marking a milestone with the unprecedented recovery of the Super Heavy booster at the launch site. The mission, dubbed “Flight 5” by SpaceX, lifted off from Starbase in Boca Chica, Texas, at 8:25 a.m. Eastern time. The launch represented a significant step in SpaceX’s long-term goal of achieving rapid reusability for its massive Starship/Super Heavy system.
+The key innovation in this test was the planned recovery of the Super Heavy booster, known as Booster 12. After liftoff, the booster performed a series of precise maneuvers to guide itself back to the launch site. The booster was caught by a pair of mechanical arms—often referred to as “chopsticks”—mounted on the launch tower. About seven minutes after liftoff, the arms closed around the top of the booster, just below its grid fins, successfully completing the first-ever “catch” of a returning booster.
+Final phases of Flight 5 Booster 12 catch as seen from the top of SpaceX’s second Starship tower at Starbase. [Credit: @SpaceX]SpaceX officials expressed excitement over the achievement, which is critical for the company’s vision of rapid reflight capability. The ability to land the booster directly on the launch pad and prepare it for another flight within days or even hours is a key component of SpaceX’s goal to make space travel more efficient. “I don’t know what to say!” Gwynne Shotwell, SpaceX president and chief operating officer, posted on social media along with a video of the landing, capturing the surprise and enthusiasm following the success.
+The mission’s second stage, Starship, flew on a suborbital trajectory, reaching a peak altitude of 212 kilometers before reentering the atmosphere. Unlike the booster, Starship was not intended to be recovered. It performed a controlled splashdown in the Indian Ocean, where it exploded several seconds after touchdown. SpaceX noted improvements to Starship’s heatshield from previous flights, which allowed it to survive reentry in better condition.
+Super Heavy used its three center Raptor engines to precisely steer into position between the Mechazilla arms. [Credit: SpaceX]The launch came just hours after the Federal Aviation Administration (FAA) granted SpaceX an updated launch license. The revised license, issued after concerns about environmental impacts, allows SpaceX to conduct the next flight—Flight 6—without needing a new authorization. The changes to the license included adjustments to the areas where debris, such as the interstage ring, might land, and an analysis of sonic boom impacts from the returning Super Heavy booster.
+The environmental analysis, a requirement for the revised license, determined that there would be no significant impacts from the mission. However, SpaceX is still required to conduct monitoring and take measures to protect the local wildlife surrounding the Boca Chica site. The FAA granted SpaceX the ability to proceed with Flight 6 under the same conditions, but the company must comply with strict regulations, including submitting monitoring data and environmental reports.
+[ANS thanks Jeff Foust, SpaceNews.com, for the above information]
+NASA’s highly anticipated Europa Clipper mission officially launched on Monday, October 14, 2024, embarking on a journey to explore Jupiter’s moon, Europa. The spacecraft lifted off at 12:06 p.m. Eastern Time aboard a SpaceX Falcon Heavy rocket from Pad 39A at NASA’s Kennedy Space Center in Florida. The launch, described by NASA commentator Derrol Nail as unveiling “the mysteries of an enormous ocean lurking beneath the icy crust of Jupiter’s moon Europa,” marks the beginning of an ambitious astrobiology mission.
+The Falcon Heavy’s 27 first-stage Merlin engines roared to life as the rocket ascended, with the two side boosters detaching about three minutes into flight. Separation of the second stage occurred shortly afterward, and Europa Clipper was deployed on its interplanetary trajectory nearly an hour later. Mission control successfully established communication with the probe, confirming that the spacecraft’s solar arrays had deployed as planned, signaling a smooth start to its mission.
+Artist’s illustration depicts NASA’s Europa Clipper spacecraft in orbit over Jupiter’s icy moon Europa. [Credit: NASA/JPL-Caltech]Monday’s launch faced a slight delay due to Hurricane Milton, which made landfall on Florida’s Gulf Coast last week, forcing NASA to close the Kennedy Space Center temporarily. Originally scheduled for October 10, the launch was pushed back while teams secured Europa Clipper inside a SpaceX hangar near Pad 39A. This marked the 11th Falcon Heavy launch and only the second time the rocket has been used for an interplanetary mission.
+The Europa Clipper mission has faced a long and complex path to the launchpad. Initially, NASA intended to launch the probe using its Space Launch System (SLS), a powerful moon rocket still in development in the mid-2010s. However, repeated delays in the SLS program, along with NASA’s commitment to using the early SLS vehicles for its Artemis moon missions, forced the agency to opt for a commercial alternative. A 2021 budget proposal allowed NASA to choose SpaceX’s Falcon Heavy, though the shift meant the mission’s journey to Jupiter would take nearly six years instead of three.
+Europa Clipper’s massive solar arrays have a span of more than 100 feet (30.5 meters) when unfolded. [Credit: NASA/Kim Shiflett]At the heart of the mission is Europa, a moon thought to harbor a vast subsurface ocean beneath its icy crust. Europa has long intrigued scientists as one of the best places in the solar system to search for signs of life. However, NASA emphasizes that Europa Clipper’s mission is not to find life directly but to assess the moon’s habitability. The spacecraft, carrying a suite of nine science instruments, will study the composition of Europa’s ocean, investigate its icy shell, and look for any signs of recent activity.
+After a journey of nearly six years, Europa Clipper is expected to enter orbit around Jupiter in April 2030, where it will begin an extended series of flybys of Europa. Over the course of its mission, the probe will make close passes to the moon, gathering data that could inform future missions, including a potential lander. The mission is set to conclude in 2034, with NASA planning to crash Europa Clipper into Jupiter’s moon Ganymede to avoid contaminating Europa’s pristine environment.
+[ANS thanks Josh Dinner, Space.com for the above information]
+A European spacecraft, along with two CubeSats, has launched to investigate the aftermath of NASA’s first planetary defense mission, known as DART. The European Space Agency’s Hera mission took off on October 7, 2024, aboard a SpaceX Falcon 9 rocket from NASA’s Kennedy Space Center. The mission aims to study the consequences of NASA’s 2022 mission, which deliberately crashed a spacecraft into the asteroid Dimorphos, changing its orbit.
+The Hera mission, slated to arrive at Dimorphos and its larger companion asteroid Didymos in 2026, is expected to offer a detailed “crash scene investigation,” according to European scientists. NASA’s DART mission had tested whether a kinetic impact, or crashing a spacecraft into a celestial body at high speeds, could alter the object’s trajectory. While neither asteroid poses a threat to Earth, Dimorphos was chosen for the experiment because of its size, which is comparable to asteroids that could potentially be hazardous in the future.
+Hera’s main spacecraft undergoes vibration testing at ESA’s ESTEC Test Centre in the Netherlands. [Credit: ESA/SJM Photography]Observations following DART’s collision with Dimorphos in September 2022 revealed that the spacecraft succeeded in altering the asteroid’s orbital period by about 32 to 33 minutes. However, many questions remain unanswered, such as whether the impact merely left a crater or completely reshaped Dimorphos. The Hera mission is tasked with solving these mysteries by providing detailed data on the structure and composition of both asteroids, which will further refine planetary defense strategies.
+Hera is scheduled to reach the Didymos system in late 2026, after a mid-March 2025 flyby of Mars to gain the necessary momentum. During the flyby, Hera will test its suite of instruments and observe Mars’ moon Deimos, capturing data that will support Japan’s upcoming Martian Moons eXploration mission. Once Hera arrives at the Didymos system, it will spend six weeks conducting surveys of both asteroids, using a variety of instruments to study their shapes, masses, and thermal properties.
+The Milani CubeSat will perform close-up mineral prospecting of the Dimorphos asteroid and survey its surrounding dust. [Credit: ESA]Hera will also release two CubeSats, Juventas and Milani, to conduct more specific investigations. Juventas will use radar to probe the interior of Dimorphos, while Milani will study the mineral composition and dust environment of both asteroids. These CubeSats will communicate their findings to Hera and relay the data back to Earth, providing scientists with unprecedented insights into the double-asteroid system.
+Ultimately, the Hera mission could end with experimental landings on either Didymos or Dimorphos, further extending its ability to study the asteroids up close. Scientists hope the data collected will deepen understanding of how asteroid deflection technology can be used to protect Earth from future threats. As Patrick Michel, principal investigator of the Hera mission, noted, while DART was a success, Hera will complete the story by offering crucial details that could inspire future planetary defense initiatives.
+[ANS thanks Ashley Strickland, CNN, for the above information]
+Two Line Elements or TLEs, often referred to as Keplerian elements or keps in the amateur community, are the inputs to the SGP4 standard mathematical model of spacecraft orbits used by most amateur tracking programs. Weekly updates are completely adequate for most amateur satellites. TLE bulletin files are updated daily in the first hour of the UTC day. New bulletin files will be posted immediately after reliable elements become available for new amateur satellites. More information may be found at https://www.amsat.org/keplerian-elements-resources/.
+The following satellites have been added to this week’s AMSAT TLE distribution:
+DORA NORAD Cat ID 61502 IARU coordinated downlink 436.825 MHz
+CySat-1 NORAD Cat ID 61501 IARU coordinated downlink 436.375 MHz
+[ANS thanks AMSAT Orbital Elements page for the above information]
+Amateurs and others around the world may listen in on contacts between amateurs operating in schools and allowing students to interact with astronauts and cosmonauts aboard the International Space Station. The downlink frequency on which to listen is 145.800 MHz worldwide.
++ Recently Completed Contacts
+Istituto Comprensivo “Elena Lucrezua Corner”, Fossò, Italy, direct via IQ3RW
+The ISS callsign was OR4ISS
+The scheduled crewmember was Sunita Williams KD5PLB
+The ARISS mentor was IZ2GOJ
+Contact was successful for: Fri 2024-10-18 09:09:46 UTC
+Colegio Cervantes, Torreon. Mexico, Telebridge via K6DUE
+The ISS callsign was NA1SS
+The scheduled crewmember was Don Pettit KD5MDT
+The ARISS mentor was VE3TBD
+Contact was successful for: Fri 2024-10-18 16:59:43 UTC
+TEACH-NW Charter School, Springfield, OR, direct via KJ7NLL
+The ISS callsign was NA1SS
+The scheduled crewmember was Sunita Williams KD5PLB
+The ARISS mentor was N7GZT
+Contact was successful for: Fri 2024-10-18 18:27:52 UTC
+Watch for Livestream at https://www.youtube.com/live/Yarcl0FgiA4?t=1860s
++ Upcoming Contacts
+The Robert Drake Primary School, Essex, UK, telebridge via K6DUE
+The ISS callsign is presently scheduled to be TBD
+The scheduled crewmember is Sunita Williams KD5PLB
+The ARISS mentor is MØXTD
+Contact is go for: Mon 2024-10-21 09:42:16 UTC
+Ceip San Ignacio Del Viar, Alcalá Del Rio, Spain, direct via EG7SIV
+The ISS callsign is presently scheduled to be OR4ISS
+The scheduled crewmember is Don Pettit KD5MDT
+The ARISS mentor is IK0USO
+Contact is go for: Mon 2024-10-21 11:33:54 UTC
+Magnet Innovation Center, Inlet Beach, FL, direct via WD9GIU
+The ISS callsign is presently scheduled to be NA1SS
+The scheduled crewmember is Nick Hague KG5TMV
+The ARISS mentor is AA4KN
+Contact is go for: Thu 2024-10-24 15:23:10 UTC
+The crossband repeater continues to be active (145.990 MHz up {PL 67} & 437.800 MHz down). If any crewmember is so inclined, all they have to do is pick up the microphone, raise the volume up, and talk on the crossband repeater. So give a listen, you just never know.
+The packet system is also active (145.825 MHz up & down).
+As always, if there is an EVA, a docking, or an undocking; the ARISS radios are turned off as part of the safety protocol.
+Note, all times are approximate. It is recommended that you do your own orbital prediction or start listening about 10 minutes before the listed time.
+The latest information on the operation mode can be found at https://www.ariss.org/current-status-of-iss-stations.html
+The latest list of frequencies in use can be found at https://www.ariss.org/contact-the-iss.html
+[ANS thanks Charlie Sufana, AJ9N, one of the ARISS operation team mentors for the above information]
+Guyana: Aldir, PY1SAD (ZZ1M), operates from Georgetown as 8R1TM between  Oct. 12 and Nov. 24 on 160-10m (CW, SSB, digital modes) and via satellites. QSL via LoTW, eQSL, qrz.com. (From DXNL 2427 – October 9, 2024)
+A growing number of satellite rovers are currently engaged in sharing their grid square activations on https://hams.at. By visiting the website, you gain easy access to comprehensive information about the operators responsible for activating specific grid squares. Additionally, you have the ability to assess the match score between yourself and a particular rover for a given pass, while also being able to identify the upcoming satellite passes that are accessible from your location.
+[ANS thanks Ian Parsons, K5ZM, AMSAT rover page manager, for the above information]
+AMSAT Ambassadors provide presentations, demonstrate communicating through amateur satellites, and host information tables at club meetings, hamfests, conventions, maker faires, and other events.
+AMSAT Ambassador Clint Bradford, K6LCS, says,
+AMSAT Ambassadors delight in spreading the word regarding AMSAT and satellite operations. Think a lively, informative – and FUN – 60-75-minute presentation would be appropriate for YOUR members?
+I have three Zoom presentations coming up: Southern CA, Maine, and Germany (!).
+175 presentations so far … and each is customized to my audiences. NEVER have I given the exact same show twice! Between 20 and 26 “slides” are unique to each presentation.
+Clint Bradford K6LCS
+AMSAT Ambassador
+ARRL Affiliated Club Coordinator, Legacy Circle member
+Work-Sat.com
++01 951-533-4984 (cell)
+Pacificon 2024, ARRL Pacific Division Conference – October 18th thru 20th, 2024
+San Ramon Marriott
+2600 Bishop Drive
+San Ramon, CA  94583
+https://www.pacificon.org/
+WU0I
+2024 AMSAT Space Symposium and Annual General Meeting – October 25th thru 27th, 2024
+Doubletree by Hilton Tampa Rocky Point Waterfront
+3050 N Rocky Point Drive West
+Tampa, FL 33607
+https://www.amsat.org/
+SmallSat Education Conference – October 26th thru 27th, 2024
+AMF Center for Space Education, Kennedy Space Center – Visitor Center
+M6-306 405 State Road
+Kennedy Space Center, FL 32899
+http://www.smallsateducation.org
+Fredric Raab, KK6NOW, will be presenting “Classroom Activities with the AMSAT CubeSat Simulator” showcasing the work by the CubeSatSim Educational Materials Team: Paul Graveline (sk), K1YUB, Alan Johnston, KU2Y, Fredric Raab, KK6NOW, Mark Samis, KD2XS and David White, WD6DRI.
+Stone Mountain Hamfest, ARRL State Convention – November 2nd and 3rd, 2024
+Gwinnett County Fairgrounds
+2405 Sugarloaf Parkway
+Lawrenceville, GA 30042
+https://stonemountainhamfest.com/
+K4RGK
+Oro Valley Amateur Radio Club – November 9th, 2024
+Marana Middle School
+11285 West Grier Road
+Marana, AZ 85653
+https://www.tucsonhamradio.org/copy-of-hamfest-2022
+N1UW
+Yuma HAMCON – February 20th thru 22nd, 2025
+Yuma, AZ
+N1UW
+[ANS thanks Bo Lowrey, W4FCL, Director – AMSAT Ambassador Program, for the above information]
++ On October 4, United Launch Alliance (ULA) successfully launched its second Vulcan rocket, despite one of the solid-propellant strap-on boosters encountering an anomaly 37 seconds after liftoff. The booster emitted sparks and debris, but the rocket continued its ascent and reached orbit. This mission is part of the certification process for the Vulcan rocket, which will soon carry national security payloads for the U.S. Space Force and the National Reconnaissance Office (NRO). ULA included a dummy payload and technology experiments to gather data and validate the rocket’s performance. The booster issue is under investigation, but the key mission objectives were met, according to ULA CEO Tory Bruno. The Vulcan rocket, powered by Blue Origin’s BE-4 engines, will replace ULA’s Delta 4 and Atlas 5 rockets, positioning the company for future success in the competitive space market. (ANS thanks Spaceflight Now for the above information)
++ Four astronauts aboard the International Space Station (ISS) are awaiting their return as mission managers monitor unfavorable weather conditions off the coast of Florida. The Crew-8 mission, which includes NASA astronauts Matthew Dominick, Mike Barratt, and Jeanette Epps, along with Roscosmos cosmonaut Alexander Grebenkin, is nearing its conclusion after seven months in space. While they prepare for their journey home, the crew spent the week relaxing and engaging in pre-departure activities. A weather briefing occurred on Wednesday, October 16, at 11 a.m. EDT, assessing conditions for their splashdown. Mission managers are now targeting a new undocking time of no earlier than 3:05 a.m. EDT on Sunday, October 20. (ANS thanks SciTechDaily for the above information)
++ The FAA authorized SpaceX to resume Falcon 9 flights on October 11, following a suspension caused by an upper stage anomaly during the Crew-9 mission on September 28. The anomaly occurred when the Merlin engine burned 500 milliseconds longer than planned, resulting in reentry outside its designated zone. SpaceX conducted an investigation, and the FAA approved their corrective actions, though neither disclosed specific details of the findings. A special exception had been made for the European Space Agency’s Hera mission on October 7, as it posed no public safety risk. With the issue resolved, Falcon 9 operations fully resumed on October 15. SpaceX marked its return with a double Starlink mission, launching from both Vandenberg and Cape Canaveral on the same day. (ANS thanks SpaceNews for the above information)
++ Following Hurricane Helene, T-Mobile and Starlink activated their satellite texting service in preparation for Hurricane Milton to ensure Florida residents could stay connected despite potential cellular outages. After the Federal Communications Commission granted emergency approval, the service enabled T-Mobile users to send and receive basic texts, including 911 messages, even if the network went down. Starlink’s Direct to Cell satellites were also employed to send emergency alerts to all phones and carriers in the affected areas. Users could determine if their phone connected to a Starlink satellite by the presence of one to two bars of signal and the network name displaying “T-Mobile SpaceX.” The satellite service worked best outdoors or near windows, although users sometimes had to retry sending messages if they didn’t go through on the first attempt. SpaceX has also delivered over 10,000 Starlink kits in response to Hurricane Helene, as part of ongoing recovery efforts. (ANS thanks Engadget for the above information)
+Join AMSAT today at https://launch.amsat.org/
+In addition to regular membership, AMSAT offers membership to:
+* Societies (a recognized group, clubs or organization).
+* Primary and secondary school students are eligible for membership at one-half the standard yearly rate.
+* Post-secondary school students enrolled in at least half-time status shall be eligible for the student rate for a maximum of 6 post-secondary years in this status.
+* Memberships are available for annual and lifetime terms.
+Contact info [at] amsat.org for additional membership information.
+73 and remember to help Keep Amateur Radio in Space!
+This week’s ANS Editor, Mitch Ahrenstorff, ADØHJ
+mahrenstorff [at] amsat.org
+AMSAT
+712 H Street NE, Ste 1653
+Washington DC  20002
+[email protected]

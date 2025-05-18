@@ -1,0 +1,39 @@
+“Some people are, understandably, a bit up in arms about this: [Suno] won't reveal what they trained it with, what songs, what audio they gave it. And I don't think it's a wild supposition to imagine that some copyrighted material was included, because one of the lead investors in Sumo told me that, ‘Hey, we might get sued,’” says Brian Hiatt, senior writer at Rolling Stone, about Suno, a new AI company.
+Photo by Shutterstock.
+
+A new AI company called Suno can generate entire songs from simple text prompts. The productions include all the basic elements – vocals, melody, chords, etc. – and feature lyrics and titles from ChatGPT. Even the accompanying album covers are AI-generated. Version three of Suno’s technology is now available publicly for free. 
+“They extensively trained an audio generation model. … Some people are, understandably, a bit up in arms about this: They won't reveal what they trained it with, what songs, what audio they gave it. And I don't think it's a wild supposition to imagine that some copyrighted material was included because one of the lead investors in Suno told me that, ‘Hey, we might get sued,’” says Brian Hiatt, senior writer at Rolling Stone.
+Hiatt recently visited the Suno offices in Cambridge, Massachusetts, and tried his hand at creating a song. Inputting the phrase “solo acoustic Mississippi Delta blues about a sad AI,” the program generated an entire tune within 15 seconds. 
+Hiatt says other music AI programs like Google LM had been good at creating instrumental, futuristic dance tracks that were artificial and synthetic in nature. He says he chose Mississippi Delta blues because it was something so human he didn’t think Suno could reproduce it.
+“This was the most organic thing I could think of. I think some people thought I was hyping my reaction. No hype at all. I was really amazed, disturbed, unsettled, freaked out. I still get goosebumps listening to it because it's an alien thing. It shouldn't exist.”
+He adds, “The other reason why I was so blown away by this is it's just way ahead of schedule.” Throughout his past year covering AI in music, leading experts had told Hiatt that it’ll be a long time before an interface exists where you could just type a description and then receive a full song. But with Suno he says, “I'll be damned…It's just way ahead of schedule.” 
+KCRW producer Zeke Reed also submitted his own prompt to Suno: “Make a soulful danceable R&B song.”
+As Hiatt notes, Suno may not be immune to legal action for its algorithmic training practices. OpenAI, the company behind ChatGPT, is currently facing multiple lawsuits for reportedly using copyrighted data to train their technology. 
+However, the legal precedent for copyright owners to take action against AI companies is still being developed. “I think people forget that there actually is not, to my knowledge, a legal precedent that you're not allowed to do that. That's still being established,” Hiatt notes. “There was one mention … from the [Suno] investor that maybe eventually there'll be some licensing system. So we'll see.”
+Hiatt points out that Suno will not make money if someone uses their tech to make a song and then uploads it to Spotify. Instead, the company says for now it intends to enable people to make songs to share with friends. Their ultimate goal is to turn music consumers into music producers en masse, like a personalized streaming service with all original, unique content. 
+“They think that it's so fun to play with that people will pay the $10 a month or whatever it is to play with it. And I have to say, although I'm still working out my own feelings about the ethics of this, it is really fun to play with.”
+So what does this all mean for human musicians? Hiatt mentions that a major manager of producers and songwriters told him that Suno could upend the market for songs in commercials and TV shows, known as sync licensing. For many indie artists, money from sync deals is a lifeline in a tough industry. The end of this revenue stream as we know it could be financially devastating. 
+On a more optimistic note, Hiatt and other AI music prognosticators imagine ways in which artists might use AI as a useful tool in their toolkit. For example, musicians might leverage AI programs like FADR to break Suno-generated songs into stems, a.k.a. their individual parts, and apply those elements to build something new. Hiatt suggests, “There's frankly a billion use cases that I haven't even gotten my head around. If you have a set of lyrics, you can generate infinite songs from that set of lyrics. And I can also imagine, if the songwriter was open to it, just using [the AI product] as an idea starter.”
+Even as music AI becomes more advanced, there’s no guarantee that it will replace the intangible things people love about their favorite artists. In response to a technologist’s prediction that there will be AI-generated artists as popular as Taylor Swift within 10 years, Hiatt scoffed. “I basically was like, ‘You are nuts, you don't understand people.’ Because people are so attached to the artists that it's almost like the audio product is just a part of what an artist does. And I think if you can't connect it to a human, it's not going to have the same thing.”
+In the coming months, Hiatt says he’ll be watching people’s evolving responses to AI-generated works. He points to how public opinion about the technology has shifted from wonder and awe to strong opposition.
+“There's a real anti-AI feeling that I completely understand. When Napster [the audio file-sharing platform] came out and people were downloading music for free, the overwhelming public mood was like, ‘Who cares about the record industry? Who cares about the artists? They’re ripping us off,’” Hiatt says. “Now, because AI feels threatening to everyone, I think there's an interesting new level of solidarity that I've never seen before…and if that leads people to care more about creators, that's great.”
+More from Press Play with Madeleine Brand
+Latest
+From this Episode:
+
+Will there be AI-generated artists as popular as Taylor Swift?
+
+The U.N. Security Council called for a ceasefire in Gaza, with the U.S. abstaining from the vote. Will it make a difference in the conflict?
+10 min
+The Supreme Court will hear arguments challenging the major abortion drug mifepristone, which is used in more than half of all abortions in the U.S.
+11 min
+A new AI company called Suno wants everyone to be able to produce their own pro-level songs. What does that mean for artists?
+13 min
+Alynda Segarra latest’s album, “The Past is Still Alive,” honors people, places, and moments from their travels. The songs also talk about substance addiction.
+16 min
+
+Get Involved
+
+Featured
+The best of what to see, hear, eat, do, and more.
+Get the latest from KCRW in your inbox 3x a week.

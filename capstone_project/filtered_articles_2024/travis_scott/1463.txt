@@ -1,0 +1,38 @@
+See comments
+
+
+
+
+
+
+
+Print
+
+
+No media source currently available
+An American country music star has used artificial intelligence to make music again, years after suffering a stroke.
+Randy Travis is 65 years old. He was a popular country music performer in the 1980s and 1990s and won several Grammy awards during his career. But in 2013, he went to the hospital with a heart problem and later had a stroke. The stroke made it hard for Travis to speak. He has not made music since his stroke – until now.
+On May 3, Travis released a new song with the help of artificial intelligence, or AI. It is called Where That Came From. Nashville, Tennessee songwriters Scotty Emerick and John Scott Sherrill wrote the song.
+Cris Lacy is co-president of Warner Music Nashville, the company that produces Travis’ music. Lacy said she contacted Travis’ wife Mary and asked “What if we could take Randy’s voice and recreate it using AI?”
+“We were all over that, so we were so excited,” Mary Travis said about the chance to hear her husband’s voice in a new song. “All I ever wanted since the day of the stroke was to hear that voice again.”
+Lacy talked with computer programmers in London about making an AI system that could recreate Travis’ voice. They produced two models. One model used 12 vocal samples from Travis’ career and the other used 42 samples. There was a lot of material to work with; the singer’s first big record, Storms of Life, came out in 1985.
+Travis’ long-time music producer is Kyle Lehning. He said Where That Came From was a song that fit Travis’ way of singing. When Travis was at the top of his career, he was known for a more traditional kind of country music. It was a contrast to the pop-country songs that were popular in the late 1980s.
+Lehning talked about the process of making the song. First, another singer recorded the song in what is known as a “demo.” Then the AI system analyzed the song and applied Travis’ voice to it.
+“I really wish somebody had been here with a camera,” Lehning said about the experience of watching the computer apply Travis’ voice to the song. “And it was stunning, to me, how good it was … right off the bat.”
+Lehning said some parts of the sound created by the computer were “not authentic to Randy’s performance.” Lehning worked with Casey Wood, a recording engineer who knew Travis well, to get it right.
+The two music professionals used sound parts from both vocal models. They made changes to the speed of some of the sounds. Lehning said Travis is “a laid-back singer,” so they had to slow down some parts. They wanted to keep an “old soul quality” in Travis’ voice.
+Lehning said they were able to improve on the AI version. And Mary Travis said the final version of her husband’s song is much different than what happens when a computer programmer uses AI to create something without permission.
+She called the producers’ and engineers’ work on the project “the human element.”
+She added that her husband had a thoughtful look on his face when he first heard the song. “I think he went through every emotion there was in those three minutes of just hearing his voice again,” Mary Travis said.
+I’m Dan Friedell.
+Dan Friedell adapted this story for Learning English based on a report by The Associated Press.
+_______________________________________________
+stroke –n. a blood clot or blockage that prevents oxygen from reaching the brain, often causing damage
+vocal –adj. having to do with the voice
+contrast –n. something that allows one to see the difference between two things
+analyze –v. to study or examine something
+apply –v. to put something on top of another surface
+stunning –adj. surprising
+right of the bat –expression. at the start, right away
+authentic –adj. exactly right, a correct representation
+We want to hear from you. How do you feel about the use of AI in this case?

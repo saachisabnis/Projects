@@ -1,0 +1,192 @@
+Latest	
+
+
+
+		AI	
+
+
+
+		Amazon	
+
+
+
+		Apps	
+
+
+
+		Biotech & Health	
+
+
+
+		Climate	
+
+
+
+		Cloud Computing	
+
+
+
+		Commerce	
+
+
+
+		Crypto	
+
+
+
+		Enterprise	
+
+
+
+		EVs	
+
+
+
+		Fintech	
+
+
+
+		Fundraising	
+
+
+
+		Gadgets	
+
+
+
+		Gaming	
+
+
+
+		Google	
+
+
+
+		Government & Policy	
+
+
+
+		Hardware	
+
+
+
+		Instagram	
+
+
+
+		Layoffs	
+
+
+
+		Media & Entertainment	
+
+
+
+		Meta	
+
+
+
+		Microsoft	
+
+
+
+		Privacy	
+
+
+
+		Robotics	
+
+
+
+		Security	
+
+
+
+		Social	
+
+
+
+		Space	
+
+
+
+		Startups	
+
+
+
+		TikTok	
+
+
+
+		Transportation	
+
+
+
+		Venture	
+
+
+
+		Events	
+
+
+
+		Startup Battlefield	
+
+
+
+		StrictlyVC	
+
+
+
+		Newsletters	
+
+
+
+		Podcasts	
+
+
+
+		Videos	
+
+
+
+		Partner Content	
+
+
+
+		TechCrunch Brand Studio	
+
+
+
+		Crunchboard	
+
+
+
+		Contact Us	
+
+Welcome to Startups Weekly — Haje‘s weekly recap of everything you can’t miss from the world of startups. Sign up here to get it in your inbox every Friday.
+Look, I know this is our startups weekly newsletter, and as the most valuable company in the world, Apple is kind of the ultimate “not a startup,” but judging by the traffic on the site, y’all are such rabid fans that it seems rude not to do a quick roundup: Apple ran a short, 40-ish minute event this week, where it showed off new iPad Airs, new iPad Pros (with a fancy new stacked screen technology), a new Magic Keyboard, a new Pencil Pro, brand-new M4 chips, and much more. Oh, and they finally “admitted” that iPads are more like little laptops than big iPhones, so the company moved the camera to the landscape edge — where it shoulda been all along, honestly.
+Ooh! And I have some fun personal news: I’m joining the TechCrunch Equity podcast as a co-host, alongside the formidably wonderful (and wonderfully formidable) Mary Ann Azevedo. You know, just in case you wanted my zany humor in your ear-holes, in addition to into your eye-holes.
+Buckle up for a wild ride as we delve into the saga of Newchip, an accelerator that promised startups a golden ticket to success, but instead led them straight to bankruptcy court. Lacey Hunter thought she’d hit the jackpot with her AI humanitarian aid startup TechAid when she joined Newchip’s program. Spoiler alert: She didn’t. Instead of accelerating to glory, Newchip filed for bankruptcy and auctioned off warrants from 1,000+ startups in an equity yard sale. And poor Hunter? She had no choice but to shut down TechAid amid this hot mess.
+In a spicy turn of events, Microsoft just hit CTRL + Z on U.S. police departments using its Azure OpenAI Service for facial recognition. This update to their T&Cs was as subtle as a rhino in a china shop. In a nutshell: If you have a badge, a handlebar mustache and a pair of mirror aviators, then no AI face games for you!
+Henrik Fisker’s EV startup, Fisker Inc., is having a bit of a midlife crisis. After launching two prototypes last August — the Pear and Alaska — it has allegedly stiffed the engineering firm that helped develop them. The firm, Bertrandt AG, filed a $13 million lawsuit claiming Fisker stopped payments and held on to their intellectual property like some jilted lover refusing to return your favorite sweatshirt. It seems it isn’t just a one-off: It’s more like an episode of “Judge Judy” with over 30 lawsuits alleging lemon law violations, claims for unpaid wages from former employees and suppliers suing for overdue bills. Even though Fisker’s VP of communications insists Bertrandt’s lawsuit is “without merit,” this smorgasbord of legal troubles suggests there may be more cracks in the company than in Humpty Dumpty after his unfortunate wall incident.
+Iconiq Capital, the private office that’s been babysitting Mark Zuckerberg’s and Jack Dorsey’s cash piles since 2011, has just raised a whopping $5 billion across two funds for its seventh flagship fund. This hefty fundraise puts them in the spotlight while other big players like Tiger Global tripped on their shoelaces with a mere $2.2 billion haul (their smallest since 2014, after attracting criticism that it was deploying its cash too fast).
+Every week, there’s always a few stories I want to share with you that somehow don’t fit into the categories above. It’d be a shame if you missed ’em, so here’s a random grab bag of goodies for ya:
+Topics
+At TechCrunch, Haje (He/Him) covered general tech news and focused mostly on hardware. He has founded several companies to varying degrees of success, spent a while in the VC world, and has been a journalist and TV producer since the dawn of his career. He is more-than-averagely interested in photography and can often be found with a camera slung over his shoulder. He wrote a book about pitching startups to investors, and you can find him on @Haje on Twitter, or at Haje.me for everything else. 	
+Get inside access to Europe’s top investment minds — with leaders from Monzo, Accel, Paladin Group, and more — plus top-tier networking at StrictlyVC London.
+ Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI
+
+ Microsoft CEO says up to 30% of the company’s code was written by AI
+
+ Google launches AI tools for practicing languages through personalized lessons
+
+ Indian court orders blocking of Proton Mail
+
+ Hugging Face releases a 3D-printed robotic arm starting at $100
+
+ From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off
+
+ Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla
+
+© 2025 TechCrunch Media LLC.

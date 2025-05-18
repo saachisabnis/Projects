@@ -1,0 +1,104 @@
+UPDATED 00:41 EDT / MARCH 22 2024
+
+
+
+THIS WEEK IN ENTERPRISE					        	                        by 
+Robert Hof
+
+
+AI continued to dominate the news this week, no more so than at Nvidia’s annual GTC conference in San Jose, which arguably kicked off the real start of the next era of artificial intelligence.
+“The conference for the Era of AI,” as the company called it, was jam-packed — so much so that CEO Jensen Huang (pictured) had to move his signature keynote to the nearby sports and concert venue SAP Center. The expo hall was gridlocked even by the third day, and one session, Huang’s fireside chat with seven of the eight authors of a seminal 2017 paper that launched generative AI into the tech mainstream, had to be capped at 1,800 people. Not least, Huang himself emerged as a major tech star, followed around for selfies by attendees and even, embarrassingly, some journalists.
+Much more on that below, but that wasn’t even the only AI news, as new models from Apple, Elon Musk’s x.AI and more were released and new funding rounds continued for startups — even as earlier startups such as Inflection AI and Stability AI look to be struggling.
+Meantime, it’s possible the initial public offering window is opening. Intel-backed Astera Labs and the social media site Reddit both saw their stock pop in their IPOs.
+Not least, the Department of Justice’s hammer came down on Apple as it sued the iPhone maker on antitrust grounds.
+This and other news, including the upshot of GTC, the rise of Broadcom as an AI powerhouse, and who’s going to create the leading AI factories, were discussed and analyzed in John Furrier’s and Dave Vellante’s weekly podcast theCUBE Pod, available now on YouTube. And catch Vellante’s weekly deep tech dive, Breaking Analysis, coming Saturday.
+Here are the news highlights from this week:
+OK, on to our coverage:
+Check out editorial interviews from Furrier, Vellante and others on theCUBE onsite this past week.
+Blackwell: Nvidia’s GPU architecture to power new generation of 1T-parameter generative AI models
+Keynote analysis from Nvidia GTC 2024: Spearheading AI and accelerated computing innovation
+Nvidia GTC 2024 day two analysis: Generative AI emerges as the new seed of innovation
+Nvidia releases Blackwell platform to go back to the future, extends partnership with AWS for scale
+Nvidia’s new microservices APIs promise to speed up AI development
+Nvidia unveils Project GR00T AI foundation model for humanoid robots
+Nvidia announces APIs for Omniverse Cloud to power digital twins for software tools
+Nvidia’s newest cloud service promises to accelerate quantum computing simulations
+Nvidia’s latest generative AI model LATTE3D can create 3D images and shapes in seconds
+Dell expands infrastructure portfolio with new Nvidia-powered AI platforms
+HPE debuts its Nvidia GPU-powered on-premises supercomputer for generative AI
+ServiceNow injects more generative AI capabilities into its workflow platform
+CrowdStrike and Nvidia form strategic partnership to enhance cybersecurity with AI
+Kinetica ramps up RAG for generative AI, empowering enterprises with real-time operational data
+Dataloop and Nvidia collaborate to enhance AI application development for businesses
+Meteomatics collaborates with Nvidia to enhance its hyper-local weather forecasts with AI
+Report: Nvidia could pay up to $1B to acquire AI infrastructure startup Run:ai
+Report: GPU cloud operator CoreWeave seeking new funding at $16B valuation
+Databricks acquires text dataset management startup Lilac
+Report: Apple in talks with Google to use Google Gemini AI model on iPhone
+Google fined $272M by French government over AI use of news content
+United Nations gives green light to first resolution on artificial intelligence
+Elon Musk’s xAI releases Grok-1 architecture, while Apple advances multimodal AI research
+Japanese startup Sakana releases AI models created through ‘evolutionary’ processes
+Stability AI launches new model that turns images into 3D videos
+Foundry launches with $80M in funding to build an AI-optimized public cloud
+Healthcare industry chatbot firm Hippocratic AI raises $53M at $500M valuation
+Startup Borderless AI nets $27M to bring generative AI to global hiring practices
+Balbix’s BX4 engine leverages Nvidia AI to transform cybersecurity risk management
+Google DeepMind develops an AI with Liverpool Football Club to predict plays in the game
+Snowflake documents huge growth in AI projects
+ClearML debuts open-source Fractional GPU tool and new monitoring features
+DHS introduces AI pilots to enhance public safety and immigration processes
+Catch theCUBE’s coverage of KubeCon+CloudNativeCon here, and there’s more to come. For the TL;DR, here’s a closing overview: Cloud-native community celebrates Kubernetes’ ‘Linux moment’ and its growing role in enterprise AI And a dive by Intellyx’s Jason Bloomberg into significant startups leading the way: Platform engineering, API platforms and intelligent agents dominate innovation at KubeCon Paris
+IPO winter ending? Astera Labs and Reddit surge in stock trading debuts Databricks, Arctic Wolf and a few others will be watching closely.
+Intel wins $19.5B in CHIPS Act funding and loans for fab network expansion
+Cisco completes its $28B acquisition of Splunk
+Micron’s stock posts huge gain after crushing forecasts in its latest earnings results
+Qualcomm’s new Snapdragon 7+ Gen 3 chip brings generative AI to midrange smartphones
+Microsoft debuts enterprise-focused Surface Pro 10 and Surface Laptop 6
+Redis acquires storage engine startup Speedb to enhance its open-source database
+Google releases second developer preview for Android 15
+Technology pioneer Mike Stonebraker raises $8.5M to launch DBOS and radically transform cloud computing
+Confluent simplifies integration between Kafka stream processing and Iceberg storage
+Sonatype debuts SBOM Manager to make enterprise software more transparent
+IBM acquires Pliant to boost network IT automation capabilities
+Jama Software to be acquired by Francisco Partners for $1.2B in significant exit for Portland-based company (from Geekwire)
+Exclusive: Dymium launches with platform that takes protection to the data
+Data security startup BigID valued at $1B+ following $60M round
+Cyber risk startup CyberSaint raises $21M for platform development and expansion
+Newcomer BlueFlag Security raises $11.5M for developer-centric security platform
+Researchers uncover unfixable vulnerability in Apple CPUs affecting cryptographic security
+Deloitte introduces CyberSphere to enhance cyber operational efficiency with automation and AI
+Darwinium introduces behavior identification to strengthen online transaction security
+DOJ sues Apple over antitrust violations related to iPhones
+Neuralink’s first brain implant patient says playing chess with his mind is like ‘using the force’
+Supreme Court tackles controversial topic of Biden administration-big tech cooperation
+Microsoft will reportedly debut new Qualcomm-powered Surface devices in May
+Figure Markets raises $60M to build crypto ‘everything marketplace’
+Morph raises $20M to build consumer-focused Ethereum scaling blockchain solution
+Microsoft appoints Inflection AI CEO Mustafa Suleyman to lead its consumer AI unit Despite speculation that this was a way for Microsoft to avoid antitrust scrutiny, I’m thinking this will do just the opposite.
+And that’s not the only departure from a high-profile AI company: Three of Stable Diffusion’s original developers reportedly leave Stability AI
+Paul Cormier, chairman and former CEO of Red Hat, is retiring. 
+Skyhigh Security appoints former Snow Software CEO Vishal Rao as new CEO Meantime, Amazon Web Services hired former Skyhigh CEO Gee Rittenhouse to be VP of enterprise security.
+Google shuffles search leadership: Liz Reid, who was heading up core search experiences, is now head of Search. Cheenu Venkatachary is new lead of Search quality and ranking, replacing Pandu Nayak, who becomes chief scientist of Search. Cathy Edwards is moving to the Long-term Bets team in Knowledge and Information (from Search Engine Land).
+Former Goldman Sachs executive Stephanie Cohen joined Cloudflare as chief strategy officer.
+THANK YOU
+Networking startup Tailscale raises $160M at $1.5B valuation
+What to expect at the AI Agent Builder Summit: Join theCUBE April 16
+Amazon debuts new Amazon Nova Sonic voice model
+Vectara launches open-source framework to evaluate enterprise RAG systems
+Exclusive: Data mesh creator brings first product to market
+Camunda adds AI agents to its process orchestration platform
+Networking startup Tailscale raises $160M at $1.5B valuation
+CLOUD - BY MARIA DEUTSCHER . 2 HOURS AGO
+What to expect at the AI Agent Builder Summit: Join theCUBE April 16
+AI - BY VICTORIA GAYTON . 2 HOURS AGO
+Amazon debuts new Amazon Nova Sonic voice model
+AI - BY MARIA DEUTSCHER . 4 HOURS AGO
+Vectara launches open-source framework to evaluate enterprise RAG systems
+AI - BY DUNCAN RILEY . 6 HOURS AGO
+Exclusive: Data mesh creator brings first product to market
+BIG DATA - BY PAUL GILLIN . 7 HOURS AGO
+Camunda adds AI agents to its process orchestration platform
+AI - BY MARIA DEUTSCHER . 8 HOURS AGO
+Forgot Password?
+Like Free Content? Subscribe to follow.

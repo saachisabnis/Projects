@@ -1,0 +1,141 @@
+A guide to the fast-growing world of song generators, voice filters, stem separators and other startups that artists and creators are using for their work.
+
+													By
+												
+
+	Kristin Robinson
+
+Senior Writer
+
+As more music industry entrepreneurs rush into the nascent AI sector, the number of new companies seems to grow by the day. To help artists, creators and others navigate the space, Billboard has compiled a directory of music-centric AI startups.
+
+	Given how quickly the sector is growing, this is not an exhaustive list, but it will continue to be updated. The directory also does not make judgment calls about the quality of the models’ outputs and whether their training process is “ethical.” It is an agnostic directory of what is available. Potential users should research any company they are considering.
+
+	Although a number of the following companies fit into more than one business sector, for the sake of brevity, no company is listed more than once.
+
+
+
+
+			Trending on Billboard		
+
+
+
+
+
+
+	To learn more about what is considered to be an “ethical” AI model, please read our AI FAQs, where key questions are answered by top experts in the field, or visit Fairly Trained, a nonprofit dedicated to certifying “ethical” AI music models.
+
+General Music Creation 
+
+AIVA: A music generator that also provides additional editing tools so that users can edit the generated songs and make them their own.
+
+Beatoven: A text-to-music generator that provides royalty-free music for content creators.
+
+Boomy: This music generator creates instrumentals using a number of controllable parameters such as genre and BPM. It also allows users to publish and monetize their generated works.
+
+CassetteAI: A music generator, allowing users to type out text prompts or pick from a number of options to start making songs. It also offers a stem separation tool.
+
+Create: A stem and sample arrangement tool created by Splice. This model uses AI to generate new arrangements of different Splice samples, which are intended to spark the songwriting process and help users find new samples.
+
+Gennie: A text-to-music generator created by Soundation that produces 12-second-long samples.
+
+Hydra II: A text-to-music generator created by Rightsify that aims to create royalty-free music for commercial spaces. It is trained on Rightsify’s owned catalog of songs.
+
+Infinite Album: A music generator that provides “fully licensed” and “copyright safe” AI music for gamers.
+
+Jen: A text-to-music generator created by Futureverse that was trained on 40 licensed music catalogs and uses blockchain technology to verify and timestamp its creations.
+
+Lemonaide: A “melodic idea” generator. This model creates musical ideas in MIDI form to help songwriters get started on their next idea.
+
+MusicGen: A text-to-music generator created by Meta.
+
+Music LM: A text-to-music generator created by Google.
+
+Ripple: A music generator created by ByteDance. This product can convert a hummed melody into an instrumental and can expand upon the result.
+
+Song Starter: A music generator created by BandLab that is designed to help young artists start new song ideas.
+
+Soundful: A music generator. This company has collaborated with Kaskade, Starrah and other artists and producers to create their own AI beat generators, a new play on the “type-beat.”
+
+SoundGen: A text-to-music generator that can also act as a “musical assistant” to help flesh out a creator’s music.
+
+Soundraw: A generator that creates royalty-free beats, some of which have been used by Trippie Redd, Fivio Foreign and French Montana.
+
+Stable Audio: A text-to-music generator created by Stability AI. This model also offers audio-to-audio generation, which enables users to manipulate any uploaded audio sample using text prompts.
+
+Suno: A text-to-music generator. This model can create lyrics, vocals and instrumentals with the click of a button. Suno and another generator, Udio, are currently being sued by the three major music companies for alleged widespread copyright infringement during the training process. Suno and Udio claim the training qualifies as fair use under U.S. copyright law and contend the lawsuits are attempts to stifle independent competition.
+
+Tuney: A music generator. This model is known for soundtracking brand advertisements and offering “adaptive music” to make a generated track better fit any given project.
+
+TwoShot: A music generator. This company hosts a number of AI-powered tools, including a model that creates royalty-free AI samples for producers, a customizable music model and a stem separation tool. 
+
+Udio: A text-to-music generator that can create lyrics, vocals and instrumentals with a keyboard stroke. This model is best known for generating “BBL Drizzy,” a parody song by comic Willonius Hatcher that was then sampled by Metro Boomin and became a viral hit. Udio, like Suno, is defending itself against a copyright infringement lawsuit filed by the three major music companies. Udio and Suno claim their training counts as fair use and accuse the label groups of attempting to stifle independent competition.
+
+Voice Conversion
+
+Covers.AI: A voice filter platform created by Mayk.It. The platform offers the ability to build your own AI voice, as well as try on the voices of characters like SpongeBob, Mario or Ash Ketcham.
+
+Elf.Tech: A Grimes voice filter created by CreateSafe and Grimes. This tool is the first major artist-voice converter, and Grimes debuted it in response to the virality of Ghostwriter977’s “Heart on My Sleeve,” which deepfaked the voices of Drake and The Weeknd.
+
+Hooky: A voice filter platform best known for its official partnership with Lauv, who used Hooky technology to translate his song “Love U Like That” into Korean.
+
+Kits.AI: A voice filter, stem separation and mastering platform. This company can provide DIY voice cloning as well as a suite of other generic types of voices. It is certified by Fairly Trained.
+
+Supertone: A voice filter platform, acquired by HYBE, that allows users to change their voice in real time. It also offers a tool called Clear to remove noise and reverb from vocal stems.
+
+Voice-Swap: A voice filter and stem separation platform. This company offers an exclusive roster of artist voices to choose from, including Imogen Heap, and it hopes to become an “agency” for artists’ voices.
+
+Vocoflex: A voice filter plug-in created by Dreamtonics that offers the ability to change the tone of a singer’s voice in real time.
+
+Stem Separation
+
+Audioshake: A stem separation and lyric transcription tool. This company is best known for its recent participation in Disney’s accelerator program.
+
+LALA.AI: A stem separation and voice conversion tool.
+
+Moises AI: A stem separation, pitch-changer, chord detection and smart metronome tool created by Music AI.
+
+Sounds.Studio: A stem separation tool created by Never Before Heard Sounds.
+
+Stem-Swap: A stem separation tool created by Voice-Swap.
+
+Dynamic Music
+
+Endel: A personalized soundscape generator that enhances activities including sleep and focus. The company also releases collaborations with artists like Grimes, James Blake and 6LACK.
+
+Lifescore: A personalized soundtrack generator that enhances activities like driving, working out and more.
+
+Plus Music.AI: A personalized soundtrack generator for video-game play.
+
+Reactional Music: A personalized soundtrack generator that adapts music with actions taken in video games in real time.
+
+Management 
+
+AIMS: An AI-powered music search, discovery and curation tool for catalog owners. Its clients include Universal Production Music, Hipgnosis and more. 
+
+Drop Track: An AI-powered music publicity tool.
+
+Figaro: A suite of AI-powered catalog management and metadata tagging tools.
+
+Musical AI: An AI-powered rights management tool that enables rights holders to manage their catalog and license their works for generative AI training as desired.
+
+Musiio: An AI music tagging and search tool owned by SoundCloud. This tool creates fingerprints to better track and search songs, and it automates tagging songs by mood, keywords, language, genre and lyrical content.
+
+Triniti: A suite of AI tools for music creation, marketing, management and distribution created by CreateSafe. It is best known for the AI voice application programming interface behind Grimes’ Elf.Tech synthetic voice model.
+
+Other
+
+Fadr: A suite of production tools, including stem separation, voice-to-instrument creation, and an easy-to-use remix tool.
+
+Hook: An AI music remix app that allows users to create mashups and edits with proper licensing in place.
+
+LANDR: A suite of plug-ins and producer services, many of which are powered by AI, including an AI mastering tool.
+
+Morpho: A timbre transfer tool created by Neutone.
+
+RoEx: AI-powered music production services, including mixing and mastering tools. 
+Daily newsletters straight to your inbox
+Send us a tip using our anonymous form.
+A daily briefing on what matters in the music industry
+Send us a tip using our anonymous form.
+Billboard is a part of Penske Media Corporation. © 2025 Billboard Media, LLC. All Rights Reserved.

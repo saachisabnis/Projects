@@ -1,0 +1,560 @@
+The shortlists for the Los Angeles Times Book Prizes have been revealed. The Book Prizes recognize 66 works in 13 categories. The sff category finalists are:
+Science Fiction, Fantasy & Speculative Fiction
+The category judges are Maurice Broaddus, Craig Laurance Gidney, and Lucy A. Snyder.
+This category was previously named the Ray Bradbury Prize for Science Fiction, Fantasy & Speculative Fiction category, sponsored by the Ray Bradbury Foundation. I asked judge Lucy A. Snyder if she knew the reason for the change and she explained: “My understanding is that the Bradbury estate recently changed ownership, and the new owners decided they didn’t want to sponsor the award any longer. (Sponsorship cost in the range of $22,000 a year to cover costs of the awards, flying the winners out, etc.)”
+The complete list of finalists follows the jump.
+(1) RIDING IT OUT. James Davis Nicoll points to stories involving an iconic bit of wishful thinking: “Take Cover: Five Cold War-Era Stories Featuring Fallout Shelters”.
+Few things are as emblematic of modern society as the nuclear family; nothing is as crucial to the nuclear family as the nuclear fallout shelter. Without a shelter, atomic war may bring swift incineration or painful death from radiation. With a shelter, one can survive with one’s loved ones…at least until the air and food runs out or the radiation finds its way in.
+Living as we do in an era of unparalleled international peace and cooperation, fallout shelters might seem a ludicrous expense. During the Cold War, when World War Three seemed a perpetual twenty minutes away, matters were quite different. Many SF authors found fallout shelters inspirational. Here are five examples….
+(2) DAHL COMPLAINTS ECHOED AT HIGHEST LEVEL. [Item by SF Concatenation’s Jonathan Cowie.] There’s this which is causing a small kerfuffle over here in Brit Cit: “Roald Dahl: Rishi Sunak joins criticism of changes to author’s books” at BBC News. PS. Rishi Sunak is our latest Prime Minister — I mention in case you’d lost track…
+Prime Minister Rishi Sunak has criticised changes to Roald Dahl books, after the removal of some references to things like characters’ appearance and weight sparked a fierce debate.
+Dahl’s estate and publisher said works including The BFG and Charlie and the Chocolate Factory had been updated to be more suitable for modern audiences.
+Some said they approved of the changes.
+But Mr Sunak’s spokesman said works of fiction should be “preserved and not airbrushed”….
+(3) DOUBLING DOWN. And who would have predicted this? “BBC Apologizes To J.K. Rowling For Second Time This Month After She Was Accused Of Transphobia” reports Deadline.  
+The BBC has apologized to JK Rowling for the second time in less than a month after she was accused of having transphobic views on a live current affairs show.
+In a discussion about Harry Potter video game Hogwarts Legacy on BBC Radio Scotland’s Good Morning Scotland show, a transgender woman said she had boycotted the game because it was being used to “fund the anti-trans movement.”
+Carrie Marshall, a writer and broadcaster, said: “This is having a measurable effect on trans people’s lives and potentially our safety too. I think that’s why so many trans people are concerned about this game.”
+The BBC said it reviewed audience complaints about the discussion, which broadcast on February 10. In a statement, it said the exchange did not meet editorial standards.
+“The debate got into the issue of gender identity and claims were made about JK Rowling’s views. We accept that the programme failed to challenge these claims and acknowledge that our contributors gave their opinion as fact,” the BBC said.
+“This fell below the rigorous editorial standards we’ve applied to our broad coverage of trans and gender recognition stories across BBC Scotland’s news and current affairs output, and we apologise for that.”
+The ruling came despite another gamer, Lee Rob, arguing in favor of purchasing Hogwarts Legacy, saying it was “possible to separate the artist from the art.”
+A similar discussion about the game on Radio 4’s PM show also failed to meet BBC standards after an attack on Rowling from transgender gamer Stacey Henley went unchallenged. The corporation received 200 complaints about the show and apologized earlier this month….
+(4) SOCIAL MEDIA GOES TO DEFCON FOUR. For a thorough breakdown of the Spoutible kefuffle, read Anne Marble’s article at Medium: “Is Spoutible Fighting With Romance Writers and Fans?”
+… This may have started with romance author Jackie Barbosa. She had questions about why one of her posts was removed. She was accused of “bullying and harassment” and banned from Spoutible. Her posts were removed by the site (hmm), so she can’t use them to prove her innocence.
+Romance and SFF author Olivia Waite also ran into similar problems — before being banned.
+Susannah Nix, the author of Pint of Contention, was also banned. She described some of her concerns in this post and in this post.
+Many others spoke forth on this, including SFF and romance reader Romancing the Nope, Zinnia Z, Alyssa, and author Beverley Kendall. Plus author Suzanne Brockmann in this post and author KJ Charles in this post.
+Romance author (and lawyer) Courtney Milan got involved in the debate. She makes great points in her Twitter thread (one of several)….
+(5) A BIG DEAL. “Magic: The Gathering Becomes a Billion-Dollar Brand for Toymaker Hasbro” and is celebrated in the New York Times.
+…On Thursday, the company announced that Magic had become its first billion-dollar brand in terms of annual sales, surpassing other toy lines in its stable, like Transformers and G.I. Joe.
+That milestone was achieved after 30 years of nurturing the game for longtime fans while finding ways to coax new players to pick it up. It was a “winning playbook,” as Chris Cocks, the chief executive of Hasbro, put it in an interview.
+Since it was introduced in the mid-1990s, more than 50 million people — including the rapper Post Malone and the actor Joseph Gordon-Levitt — have played Magic in hobby shops and around kitchen tables around the world. The game casts players as wizards who derive their powers by picking cards from the decks they have built, drawing from an ever-expanding universe of cards that are bought, sold and traded in a thriving secondary market. Magic’s popularity has spawned a cottage industry of video games, comic books, a Caribbean cruise and an animated series in development for Netflix.
+On Friday, Wizards of the Coast, the Hasbro unit that publishes the game, will kick off MagicCon in Philadelphia.
+After the initial buzz when it first appeared, Magic flew under the radar for many years, said Gerrick Johnson, an analyst at BMO Capital Markets who covers the toy industry. “Now you get to see how big it is,” he added. “I don’t think there is any toy brand that is even half that size.”
+But Hasbro faces challenges making Magic even bigger, particularly player fatigue brought on by the release of 39 new card sets last year, up from 15 in 2019, according to an analysis by Bank of America. New sets can start around $50….
+(6) SET A THIEF… The New York Times says “This Tool Could Protect Artists From A.I.-Generated Art That Steals Their Style”.
+…One artist noticed that the whimsical A.I. selfies that came out of the viral app Lensa had ghostly signatures on them, mimicking what the A.I. had learned from the data it trained on: artists who make portraits sign their work. “These databases were built without any consent, any permission from artists,” Mr. Rutkowski said.
+Since the generators came out, Mr. Rutkowski said he has received far fewer requests from first-time authors who need covers for their fantasy novels. Meanwhile, Stability AI, the company behind Stable Diffusion, recently raised $101 million from investors and is now valued at over $1 billion.
+“Artists are afraid of posting new art,” the computer science professor Ben Zhao said. Putting art online is how many artists advertise their services but now they have a “fear of feeding this monster that becomes more and more like them,” Professor Zhao said. “It shuts down their business model.”
+That led Professor Zhao and a team of computer science researchers at the University of Chicago to design a tool called Glaze that aims to thwart A.I. models from learning a particular artist’s style. To design the tool, which they plan to make available for download, the researchers surveyed more than 1,100 artists and worked closely with Karla Ortiz, an illustrator and artist based in San Francisco….
+(7) THE GOOD, THE BAD, AND THE FUNNY. Lucy A. Snyder discusses effective examples and others in “Building Worlds and Creating Mood and Atmosphere” at CrimeReads.
+…Creating a deliberately amusing description via exaggeration can pair well with a threatening one, particularly if you’re writing horror comedy or action comedy.
+There exists in this world a spider the size of a dinner plate, a foot wide if you include the legs. It’s called the Goliath Bird-Eating Spider, or the “Goliath Fucking Bird-Eating Spider” by those who have actually seen one. …
+I don’t know how they catch the birds. I know the Goliath Fucking Bird-Eating Spider can’t fly because if it could, it would have a different name entirely. We would call it “sir” because it would be the dominant species on the planet. None of us would leave the house unless a Goliath Fucking Flying Bird-Eating Spider said it was okay.
+—  from This Book Is Full of Spiders: Seriously, Dude, Don’t Touch It by David Wong
+(8) MEMORY LANE.
+1937 – [Compiled by Cat Eldridge.]
+J.R.R. Tolkien’s The Hobbit: Or There and Back Again has I think one of the most perfect Beginnings I’ve ever had the pleasure to read. It tells the hobbits are creature of comfort, while hinting that one, a Baggins by name, will have an adventure. 
+The Hobbit was published eighty six years ago first in the UK by  George Allen & Unwin. The cover which you see below was by Tolkien. 
+The first edition differs from latter editions as Tolkien made changes to it after writing the Lord of The Rings to bring into accomandation with those novels. 
+Need I see it is one of my favorite novels to read over and over? 
+And here is that wonderful Beginning… 
+AN UNEXPECTED PARTY 
+In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.
+It had a perfectly round door like a porthole, painted green, with a shiny yellow brass knob in the exact middle. The door opened on to a tube-shaped hall like a tunnel: a very comfortable tunnel without smoke, with panelled walls, and floors tiled and carpeted, provided with polished chairs, and lots and lots of pegs for hats and coats—the hobbit was fond of visitors. The tunnel wound on and on, going fairly but not quite straight into the side of the hill—The Hill, as all the people for many miles round called it—and many little round doors opened out of it, first on one side and then on another. No going upstairs for the hobbit: bedrooms, bathrooms, cellars, pantries (lots of these), wardrobes (he had whole rooms devoted to clothes), kitchens, dining-rooms, all were on the same floor, and indeed on the same passage. The best rooms were all on the left-hand side (going in), for these were the only ones to have windows, deep-set round windows looking over his garden, and meadows beyond, sloping down to the river.
+This hobbit was a very well-to-do hobbit, and his name was Baggins. The Bagginses had lived in the neighbourhood of The Hill for time out of mind, and people considered them very respectable, not only because most of them were rich, but also because they never had any adventures or did anything unexpected: you could tell what a Baggins would say on any question without the bother of asking him. This is a story of how a Baggins had an adventure, and found himself doing and saying things altogether unexpected. He may have lost the neighbours’ respect, but he gained—well, you will see whether he gained anything in the end.
+This is the presentation copy that was auctioned by Sotheby’s which is inscribed “Mr and Mrs Livesley | & Edgar | with best wishes | from | J.R.R. Tolkien.”
+(9) TODAY’S BIRTHDAYS.
+[Compiled by Cat Eldridge.]
+(10) COMICS SECTION.
+(11) AHH, THE CLASSICS! Last weekend’s Gallifrey One convention in LA made news in Radio Times: “Jodie Whittaker joined by classic companions at Doctor Who convention”.
+… As well as a jam-packed roster of programmes, events and incredible costumes, the special convention also saw Jodie Whittaker take to the stage for her first-ever appearance at a dedicated Doctor Who convention.
+It’s safe to say that the whole affair was very heartwarming, with Janet Fielding and Sophie Aldred joining the former Doctor on stage at the end of her panel talk….
+This is one of the best things I’ve ever experienced in all my years attending Gally. #gally1 pic.twitter.com/tLRRKLgl5F
+(12) WHEN YOU WISH UPON A FARR. Charlie Jane Anders Happy Dancing newsletter shares “7 Hot Takes About Star Trek”.
+3. The contradiction at the heart of Trek gives it a lot of its power.
+Starfleet is simultaneously a militaristic organization loosely modeled on the U.S. Navy, and also a peaceful scientific institution whose members are encouraged to think for themselves and to take up artistic hobbies — as long as they only perform Shakespeare plays or music that someone from the mid-twentieth century would immediately recognize. Some of the most memorable scenes in TNG involve crewmembers who’ve disobeyed orders and get dressed down by Picard or some other officer. That moment when someone reaches the limits of Starfleet tolerance, and discovers that individualism and kindness aren’t always the order of the day, is always super fascinating. This dichotomy also powers a lot of the best Trek dilemmas, which boil down to whether to respond to some new, dangerous phenomenon with curiosity or aggression.
+(13) STEAMPUNK DISNEY. Olivia Rutigliano remembers “That Time Disneyland Paris Built a Jules Verne-Themed Space Mountain Ride” at CrimeReads.
+…Even with the design retraction and financial constraints, lead imagineer Tim Delaney oversaw the building of a masterpiece. Inside, and out, the ride was a sight to behold. The aesthetic of the whole area was beaux-arts steampunk, both ornate and mechanical: the exterior was shiny copper and steel, with glistening gears. Along the side of the pavilion, there was a giant golden canon, which would shoot the guests “into space” to start the ride. The cars would slingshot forwards and upwards before ducking into the pavilion, zooming around (and upside-down) through space and eventually towards a smiling moon, before hurtling back to earth. It had a full narrative, and its own original score. The coaster was named “Space Mountain: From the Earth to the Moon.” And, for a time, it alone solved the financial problems suffered by EuroDisney (then called “Disneyland Paris”)….
+(14) THE STARS COME OUT. The Guardian presents a gallery of cosplay photos: “C-3POs, Wonder Women and a trio of Alices: the stars of cosplay – in pictures”.
+(15) WHEN DRACULA KICKED THE HABIT. “Bela Lugosi – His Triumph and Testimony Overcoming Drug Addiction – With Gary D. Rhodes” on YouTube.
+Author, film historian, and Bela Lugosi biographer Gary Don Rhodes introduces us to recently rediscovered (2023) footage of Bela Lugosi testifying on the horror of drug addiction in 1955. Bela Lugosi (October 20, 1882 – August 16, 1956), early in his Hollywood career in the 1930s, became addicted to narcotics to battle chronic pain in his legs, originating during his military service, and which had increased in severity over the years. For twenty years, use of morphine as a pain killer, and methadone to combat morphine addiction, with bouts of alcoholism, deteriorated his health and quality of life. In 1955, Lugosi, now in his early 70s, desperately sought help to shed these addictions. By court order in the State of California, Lugosi began treatment at The Metropolitan Hospital in Norwalk, California. The three-month treatment was successful, and Lugosi was “clean”. Lugosi was very keen and very candid about sharing his misfortunes with substance addiction, and was eager to warn the public and advocate for treatment at a time when the subject of drug addiction and treatment wasn’t openly discussed, but “swept under the rug”. We present recently rediscovered footage of Bela Lugosi testifying before a Senate Committee. He appears as a voluntary witness before Senator Price Daniels (D-Tex), a one-man Senate subcommittee, during a hearing on narcotics traffic in Los Angeles, November 16th, 1955. Said Bela Lugosi about his decades-long addiction, and especially the pain of withdrawal and rehabilitation, “…it was hell.”
+[Thanks to Mike Kennedy, John King Tarpinian, Chris Barkley, SF Concatenation’s Jonathan Cowie, Andrew Porter, Michael Toman, and Cat Eldridge for some of these stories. Title credit belongs to File 770 contributing editor of the day by OGH as inspired by Cat Eldridge.]
+(1) STAR WARS FAN. Craig Miller’s book, Star Wars Memories is now available in paperback
+and as an eBook on Amazon.
+Craig Miller was the original Director of Fan Relations at Lucasfilm, working on “Star Wars” and “The Empire Strikes Back”. As part of that, he was a publicist, a writer, an editor, and a producer. He wrote press material and articles, created and ran the Official Star Wars Fan Club, oversaw a staff who opened and responded to the seeming tons of fan mail the films received, worked with licensees, created a telephone publicity stunt that accidentally shut down the state of Illinois’ phone system, was the producer on projects ranging from episodes of “Sesame Street” to commercials for Underoos (“underwear that’s fun to wear”), operated R2-D2, and spent weeks hanging out on the set of “The Empire Strikes Back”. “…It’s a book of stories you haven’t heard before; an insider’s look from someone who, himself, is a fan and found the whole experience joyful and exciting. These stories are told in a way that brings you in and makes you feel like you were there.”
+(2) HOWLING AGAIN. Jim Freud’s long-running sff-themed radio
+show “Hour of the Wolf” on New York station WBAI was one of the casualties when
+Pacifica closed the station down, claiming
+the non-for-profit could no longer support WBAI and its multimillion-dollar
+debt. But a state court ruling has restored power to the people, so to speak: “‘A
+victory for free speech’: WBAI is back on air” – the Brooklyn Daily
+Eagle has the story.
+… Until Nov. 6, Pacifica had only complied with half of the ruling, keeping WBAI staffers on payroll. But after New York State Supreme Court Judge Melissa Crane ruled in favor of WBAI Wednesday, the Brooklyn-based station finally regained control of its own programming….
+One of the first programs back on air, White said, was the station’s science fiction talk show, “Hour of the Wolf.” Shortly after the shutdown, the show’s host Jim Freund vowed in an interview with the Eagle that he would dedicate his first show back to fielding questions from listeners about the shutdown.
+And that’s exactly what he did, White said. “We have a lot of work to do in dispelling some of the misinformation that’s out there,” he said.
+(3) MORE CHIZINE INFORMATION. Some deeper dives into ChiZine’s
+finances amplify things learned from the last two days’ revelations. 
+For those unfamiliar with the Canadian publishing industry, many publishers benefit from subsidies and grant money. For example, according to a 2013 article in the National Post between 50% and 60% of ChiZine’s operating budget comes from grants. And in 2016, the Ontario Arts Council gave a $20,262 block grant to ChiZine. 
+ChiZine has also received grants from the Canada Council for the Arts, such as a “Supporting Artistic Practice” grant for $42,000 for 2017-18 and the same amount for 2018-19 (note: link is a spreadsheet download from Canada Council for the Arts; all amounts are in Canadian dollars).
+… A publisher does not get every amount of grant money they vie for. BUT, in a year where you get OAC and Canada Council for the Arts block operating grants you can pull in something close to $60,000. CZP also vied for the OMDC Book Fund, though as far as I know was not successful in that aim – you know, that fund they kept promising I could get paid out of if they acquired it. They later sought additional aid from the OMDC (unsuccessfully as I recall, though others can speak to what happened after I left in 2015). I don’t know that CZP ever got Toronto Arts Council block operating grants. Though I know they were looking to apply at various points. But your revenue has to be up over $100,000/year as a threshold. I don’t know that CZP ever hit that.
+I recall a lot of the numbers because, along with others, wrote a lot of those arts council grant and other granting body applications. It was shared work. And multiple grant applications were successful.
+CZP also applied for, and on different fronts and in different years received, project-based operating grants for both the Chiaroscuro Reading Series, and the annual SpecFic Colloquium conference. And sought funds over the years for the CZP/Rannu Fund fiction contest (though I could not tell you without more digging into my emails whether that ever got grants).
+All of these grants, block operating and project-specific, require as part of ther fulfillment that publishers publicly disclose and acknowledge receipt of funds or face violation of terms, and the CCA, OAC, and TAC may request return of dispersed funds. That’s easy to do with books – you put the acknowledgement on the colophon page, which CZP did. But CZP wasn’t always so great with doing that around the other projects..
+I have withdrawn my contribution from the forthcoming ChiZine WAR ON CHRISTMAS anthology in support of Ed Kurtz, @BeverlyBambury, and other authors and former staff who have been harmed by that publishing company.
+(4) DOCTOR SLEEP REVIEW. NPR’s
+Scott Tobias finds that “‘Doctor Sleep’ Is Haunted By The Ghost Of Stanley
+Kubrick”.
+The screen history of Stephen King adaptations has for decades couched a peculiar irony: Namely, that of the dozens and dozens of films that have been produced from his work — many of them not-so-great — the author famously detested the most revered, Stanley Kubrick’s 1980 version of The Shining.
+…Over time, images from Kubrick’s The Shining have so dominated the culture that King’s efforts to redirect the public to the source, including the sequel novel Doctor Sleep, have fallen under its shadow. Director Mike Flanagan’s new adaptation represents near-total capitulation, lifting many of Kubrick’s familiar visual and aural cues to continue the story of Danny Torrance, the child whose psychic sensitivities are referred to as “the shining.” 
+Flanagan proved a gifted steward of King’s Gerald’s Game, a seemingly unadaptable book he pulled off for Netflix, and he has borrowed from Kubrick’s film with the author’s blessing. By King’s apparent calculation, it’s the finer points that count. 
+To that end, King and Flanagan have restored the legacy of alcoholism in the Torrance family, which ignited Jack’s madness like gasoline to flame, and has been passed along to a now-middle-aged Dan. In Dan’s case, however, alcohol muffles the traumas of the past and the voices that still echo in his head through his extrasensory perception. 
+Played by a sad-eyed Ewan McGregor, Dan is a loner who has bused his way to small-town New Hampshire on the modest hope of a steady job, a small apartment and a path to recovery. And he finds it, too, going a full eight years as a sober contributor to society. He even discovers the perfect application of his unique talent, sitting bedside at a hospice center and gently guiding patients into the hereafter. 
+But from there, Doctor Sleep gets complicated. Around the time the Torrances were battling ghosts in the Overlook Hotel, a hippieish death cult called the True Knot, led by Rose the Hat (Rebecca Ferguson), were traveling across the country, recruiting new members and feasting on the psychic energy (called “the steam”) of people like Danny. “The steam,” passed around and inhaled like pot smoke, gives Rose and company immense power and eternal life, and those with the shining radiate to them like a beacon of light. It’s only a matter of time before they catch up with Dan, but he finds an ally in Abra (Kyliegh Curran), a teenager who shines just as brightly. 
+(5) CAN’T WAIT TO SEE IT — ER. Universal
+Pictures has dropped a trailer for The Invisible Man, in theaters
+February 28.
+What you can’t see can hurt you. Emmy winner Elisabeth Moss (Us, Hulu’s The Handmaid’s Tale) stars in a terrifying modern tale of obsession inspired by Universal’s classic monster character. Trapped in a violent, controlling relationship with a wealthy and brilliant scientist, Cecilia Kass (Moss) escapes in the dead of night and disappears into hiding, aided by her sister (Harriet Dyer, NBC’s The InBetween), their childhood friend (Aldis Hodge, Straight Outta Compton) and his teenage daughter (Storm Reid, HBO’s Euphoria). But when Cecilia’s abusive ex (Oliver Jackson-Cohen, Netflix’s The Haunting of Hill House) commits suicide and leaves her a generous portion of his vast fortune, Cecilia suspects his death was a hoax. As a series of eerie coincidences turns lethal, threatening the lives of those she loves, Cecilia’s sanity begins to unravel as she desperately tries to prove that she is being hunted by someone nobody can see.
+(6) TODAY’S BIRTHDAYS.
+[Compiled by Cat Eldridge.]
+(7) KLINGON COVERS. This is timely, given the upcoming “Re-Frozen” movie:
+Klingon Pop Warrior – yIbuSQo’ (Let It Go) from
+Warrior Woman CD, “Pop songs translated into the Klingon language.”
+(8) IT’S THE LAW. “The ‘law’ that explains why you can’t get anything
+done”.
+A British historian famously wrote that work expands to fill available time – but what was he actually saying about inefficiency?
+“It is a commonplace observation that work expands so as to fill the time available for its completion.” British naval historian and author Cyril Northcote Parkinson wrote that opening line for an essay in The Economist in 1955, but the concept known as ‘Parkinson’s Law’ still lives on today.
+…But what fewer people know is that Parkinson’s original intent was not to take aim at old lady letter-writers or journalists like me, but at a different kind of inefficiency – the bureaucratisation of the British Civil Service. In his original essay he pointed out that although the number of navy ships decreased by two thirds, and personnel by a third, between 1914 and 1928, the number of bureaucrats had still ballooned by almost 6% a year. There were fewer people and less work to manage – but management was still expanding, and Parkinson argued that this was due to factors that were independent of naval operational needs.
+Get more subordinates, create more work
+One scholar who has taken a serious look at Parkinson’s Law is Stefan Thurner, a professor in Science of Complex Systems at the Medical University of Vienna. Thurner says he became interested in the concept when the faculty of medicine at the University of Vienna split into its own independent university in 2004. Within a couple years, he says, the Medical University of Vienna went from being run by 15 people to 100, while the number of scientists stayed about the same. “I wanted to understand what was going on there, and why my bureaucratic burden did not diminish – on the contrary it increased,” he says.
+He happened to read Parkinson’s book around the same time and was inspired to turn it into a mathematical model that could be manipulated and tested, along with co-authors Peter Klimek and Rudolf Hanel. “Parkinson argued that if you have 6% growth rate of any administrative body, then sooner or later any company will die. They will have all their workforce in bureaucracy and none in production.”
+(9) NANO NANO. SYFY Wire admits “Nanomedicine
+looks like a Borg implant but can save lives in space”.
+…Next for Grattoni’s team is something even more extraordinary and Borg-like; nano-telemedicine. An implant about the size of a grape (below), equipped with Bluetooth technology to consult doctors back on Earth, will rely on a remote control to tell it to store and release medication as needed. Remote doctor appointments will determine how an astronaut’s medicine is adjusted and enable the doctor to control the device by sending a command that makes it increase, decrease, or stop dosage. This unreal device will be tested on the ISS next year.
+(10) TWO EYES GOOD, FOUR EYES BAD. BBC finds that
+“Japan
+‘glasses ban’ for women at work sparks backlash”.
+Wearing glasses at work has become an emotive topic in Japan following reports that some firms have told female employees to remove them.
+Several local news outlets said some companies had “banned” eyewear for female employees for various reasons.
+Among them, some retail chains reportedly said glasses-wearing shop assistants gave a “cold impression”.
+That has sparked heated discussion on Japanese social media over dress practices and women in the workplace.
+The Nippon TV network and Business Insider were among the outlets to report on the issue, which looked at how firms in different industries prohibit women from wearing glasses.
+They included safety reasons for airline workers, or being unable to see make-up properly for women working in the beauty sector. 
+(11) FIRST, CATCH YOUR MAMMOTH. “Mexico
+mammoths: Human-built woolly mammoth traps found in Tultepec” — BBC’s
+article contains several photos (none taken at the time, naturally.)
+At least 14 woolly mammoth skeletons have been uncovered in Mexico in traps built by humans about 15,000 years ago.
+The two pits in Tultepec north of Mexico City are the first mammoth traps to be discovered, officials say.
+Early hunters may have herded the elephant-sized mammals into the traps using torches and branches.
+The recent discovery of more than 800 mammoth bones could change our understanding of how early humans hunted the enormous animals.
+Mexico’s National Institute of Anthropology and History (INAH) says more traps could be uncovered in the area north of Mexico City.
+Archaeologists thought early humans only killed mammoths if the animals were trapped or hurt.
+However, INAH’s discovery of the human-built traps could mean such hunts were planned.
+(12) A STORY THAT GROWS IN THE RETAILING. Just like every
+science fiction fan, I want to ask the author – “Where do you get your
+ideas?” Today it’s James Davis Nicoll I want to hear from – whatever made him
+think of “Adventures
+in Retail! SFF Stories Set in Department Stores” for Tor.com.
+Savertown USA in Erica L. Satifka’s Stay Crazy doesn’t offer protagonist Em much in the way of pay or happiness, but it’s not as if Em has options. Clear Falls, Pennsylvania is in the heart of the rust belt and Em herself is still dealing with the paranoid schizophrenia that ended her college days; a job at a soulless big box store is the best offer available.
+It’s just too bad that this particular Savertown USA was built over a dimensional rift. Thanks to her psychiatric history, Em isn’t inclined to take a voice in her head warning her about the fate of the world at face value. Nor would the people around Em place much faith in her claims if Em did reveal the dire warnings she is receiving. As is so often the case, it’s up to an expendable clerk and whatever allies she can scrounge to face down danger and save the world.
+(13) I’LL BE BACK. “How airships could return to our crowded skies” –
+let BBC tell you.
+Airships lost out to conventional aircraft after a series of disastrous crashes. But now safer technology could be the key to their return.
+Zeppelins fill the skies of Philip Pullman’s epic trilogy of fantasy novels, His Dark Materials. The giant airships of his parallel universe carry the mail, transport soldiers into battle and explorers to the Arctic. What was once my local post office in Oxford is in Pullman’s fantasy – a zeppelin station where I could catch the evening airship to London.
+When I put the books down the reality is rather disappointing. A handful of smaller airships can be found flying proudly across the United States on promotional tours for brands like Goodyear and Carnival Cruise Line. Last year, a blimp demeaned itself by setting two world records, including one for the fastest text on a touch screen mobile phone while water skiing behind a blimp. A few more are employed to fly well-heeled tourists on sight-seeing trips over the German countryside. Another can be found flying over the Amazon. And that’s about it.
+The good news is that soon, the real world may finally drift closer to Pullman’s fantasy. In four to five years, all being well, one of the first production models of the enormous Airlander airship dubbed “the flying bum” will be the first airship to fly to the North Pole since 1928. The men and women on board the Airlander are tourists on an $80,000 (£62,165) luxury experience rather than explorers. Tickets are on sale today
+The Airlander won’t be alone in the skies either. About the same time, a vast new airship the shape of a blue whale, at 150m the length of an A380 and as high as a 12-storey building should rise up above its assembly plant, out of the heat and humidity of Jingmen, China. Its job: heavy lifting in some of the toughest places on Earth. The manufacturers have some Boeing-sized ambitions for this new age of the airship. They expect there to be about 150 of these airships floating around the world within 10 years.
+In the history books, the crash of the Hindenburg in 1937 marked the end of the brief, glorious era of the airship – except it didn’t. The US Navy continued to use blimps for anti-submarine warfare during World War Two. The American Blimp Corporation manufactured airships for advertising. New, bigger, hi-tech airships were built by Zeppelin in Germany. Engineers and pilots have spent whole careers in an industry that wasn’t supposed to exist anymore.
+(14) VIDEO OF THE DAY. “Life of Brian 1979 Debate–Complete” on
+YouTube is an episode of Friday Night…and Saturday Morning from 1979
+in which John Cleese, Michael Palin, Malcolm Muggeridge, and Mervyn Stockwood,
+the Bishop of Southwark, discuss The Life of Brian, which had just been
+released.
+[Thanks to JJ, John King Tarpinian, Cat Eldridge, Mike Kennedy,
+Chip Hitchcock, Martin Morse Wooster, Daniel Dern, and Andrew Porter for some
+of these stories. Title credit belongs to File 770 contributing editor of the
+day Daniel Dern.]
+(1) EATING THE FANTASTIC. Scott Edelman invites listeners to share subcontinental cuisine with Lucy A. Snyder in episode 103 of his Eating the Fantastic podcast. 
+…Lucy A. Snyder’s a seven-time Bram Stoker Award finalist and a five-time winner, including for her first novel Spellbent in 2009, and most recently for her collection While the Black Stars Burn in 2016. She has published more than 80 short stories in Lady Churchill’s Rosebud Wristlet, Strange Horizons, Weird Tales, and more. Her nonfiction book Shooting Yourself in the Head for Fun and Profit: A Writer’s Survival Guide. was published in 2014. She was a Bram Stoker Award nominee at this year’s StokerCon for her collection Garden of Eldritch Delights.
+We took off for lunch one afternoon to Punjab Cafe, which has been operating in Quincy since 2000, and is by all accounts the best Indian restaurant in the area. They had a tasty looking buffet option available, but we ordered a la carte instead, because a buffet is definitely not the way you want to go when you’re trying to maintain the flow of a conversation and are both wired to a recorder.
+We discussed how Madeleine L’Engle’s A Wrinkle in Time made her want to become a writer, the rare bad advice she got from one of her Clarion instructors, the way Hunter S. Thompson and Truman Capote taught her about consensual truth, how she learned to embrace her uneasy relationship with horror, the time Tim Powers said of one of her early stories that “this is an example of everything that’s wrong with modern science fiction,” why if you want to write flash fiction you should learn to write poetry, what you should consider if you’re starting a new writing workshop, how best to prepare for public readings of emotionally difficult stories, the way she used Kickstarter to continue her Jessie Shimmer series (plus everything you need to know to start your own campaign), what it was like writing in the Doctor Who and X-Files universes, and much, much more.
+(2) CAT’S GOT HIS TONGUE. Another work of feline genius! “On
+Writing by Timothy the Talking Cat” at Camestros Felapton.
+…Being a writer is a lot like being on a roller coaster. For a start, if you are a small child or a cat some spotty gatekeeper won’t let you be a writer. “You have to be this tall to be a writer!” they say. “Keep you arms inside the carriage while writing is in motion” they say. Ignore these self-appointed petty tyrants in the fairground of publishing! You only need TWO things to be a writer 1. the willpower 2. the determination and 3. a valid ticket from the ticket booth….
+(3) KEEPS ON BURNIN’. Slate’s Evan Urquhart brings history
+up to date in “Gamergate
+Never Died”. 
+… Last but not least there’s Gamergate itself, which has survived not just as an influence on current events and a template for subsequent harassment campaigns, but in something close to its initial form: The Gamergate subreddit is still very active. Its participants still mob journalists who report critically on them and games. So “gamers” didn’t die, and neither did socially conscious games journalism, nor efforts to increase diversity in games. Even individual Gamergate targets like Quinn, Sarkeesian, and others continue to work in their respective fields. But neither, it seems, did Gamergate.
+Recent topics on the Gamergate subreddit—in 2019!—include lists of video games and game development studios to avoid because they pander to “social justice warriors” and complaints about Kotaku’s coverage of diversity in games and the industry. There are posts in the past month continuing to detail, and criticize, everything Quinn does. The lesson for all of us is that reactionary ideas and movements and cults of personality—ones that oppose progress and equality—won’t simply disappear even if they “lose,” even with the passage of time. Reporters who write about Gamergate—or any of the topics it reacted against—can still expect a brigade of hundreds of negative replies on social media. It hasn’t died. It never ends….
+(4) SF DISTINCTIVES. John Plotz interviews “Samuel
+Delany on Capitalism, Racism, and Science Fiction” at Public Books.
+JP: This focus on the technical aspects of writing reminds me of what you’ve said before about the sentence: that the sentence is the most important unit of writing for you.
+SD: For me, yes. I do go along with Gertrude Stein, in that the paragraph is the emotional unit of the English language. It’s also a point about the sentence instead of the word.
+JP: Is that how you think of your own writing? Do you think of it as sentence-making?
+SD: Basically, yes.
+JP: And is that different for science fiction, versus fantasy and other kinds of genres?
+SD: No, that’s not where the difference lies; I think all writing requires that. But I do think science fiction allows some unique combinations of words. It’s a genre that is distinguished, because certain things can happen in the language of science fiction that don’t happen anywhere else. Science fiction tends to take the literal meaning. If it has a choice between a figurative meaning and a literal meaning, the literal meaning is always available. Her world exploded. In science fiction, it’s not an emotionally fuzzy metaphor. Instead, it can literally mean a planet belonging to a woman blew up. As in, Princess Leia: Her world exploded.
+(5) TREND INTERRUPTED. NPR’s Glen Weldon says
+that  “In The Brisk Horror-Comedy ‘Ready Or Not,’ Bluebloods Are
+Out For Blood”.
+Call it The Film About Rich People Hunting Poor People … That Lived.
+But that’s a mouthful. Maybe The Hunt Strikes Back; it’s pithier.
+Just two weeks ago, Ready or Not seemed poised to represent a second data point in 2019’s “Murderous, Mansion-Dwelling One-Percenters In Film” trend graph, preceded by Craig Zobel’s “blue bloods vs. red staters” thriller The Hunt and followed in November by Rian Johnson’s latter-day Clue riff, Knives Out. 
+But with The Hunt withdrawn from release, Ready or Not assumes pride of place … albeit in the doggiest of days of the dead of August. And what should have blossomed into a delicate arc describing an emerging cinematic trend (and launching a thousand thinkpieces in the process) instead reverts to a flat line connecting two 2019 movies that both feature 1. rich jerks wielding bladed weapons in elegantly appointed rooms and 2. dumbwaiters, probably. One assumes.
+(6) CUTTING THE WEB. The Hollywood Reporter chronicles
+“How
+‘Spider-Man’ Divorce Shows Ugly Side of Fandom”. 
+…While both studios should be enjoying a victory lap after a successful summer, with Disney, hot off of their Marvel Studios Comic-Con announcements, set to make D23 this weekend’s event, and Sony releasing an extended cut of Far From Home over labor day weekend. Instead, Spider-Man has become victim of a messy custody battle that has dominated social media and shown just how ugly Disney fandom can get with #SaveSpiderMan and #BoycottSony hashtags trending this week.
+Battle lines have been drawn on social media, and by way of willful ignorance on the parts of adults online behaving like children, Sony has been made the bad guy for refusing to give up its asset. While details surrounding Disney and Sony’s split have varied, The Hollywood Reporter reported that the breakup comes down to money. Disney, already possessing the merchandizing rights for Spider-Man and benefiting from the use of the character in the MCU, sought at least a 30 percent stake in future Spider-Man grosses. Others have reported figures as high as 50 percent. However you cut it, those numbers are a significant uptick from Disney’s previous 5 percent stake. It’s also worth noting that while Sony’s Spider-Man films may receive an uptick in box office grosses for their MCU connection, the studio doesn’t receive a share of the grosses for the Marvel Studios films in which Holland’s Spider-Man appears.
+(7) ALL IN THE FAMILEE. TMZ, in “Stan Lee’s Daughter Sides W/Sony Over Disney in SPIDER-MAN/MCU SPLIT,” says that Stan Lee’s daughter, J.C. Lee, approves of Sony withdrawing Spider-Man because “Marvel and Disney seeking total control of my father’s creations must be checked and balanced by others.”
+…She goes on … “Whether it’s Sony or someone else’s, the continued evolution of Stan’s characters and his legacy deserves multiple points of view.”“When my father died, no one from Marvel or Disney reached out to me. From day one, they have commoditized my father’s work and never shown him or his legacy any respect or decency.” JC’s parting words … “In the end, no one could have treated my father worse than Marvel and Disney’s executives.” Ouch!!! 
+(8)
+AVENGERSLAND. Cnet took notes: “Disneyland’s
+‘Avengers Campus’ theme park unveiled at D23: Here’s everything we know”
+Tagline: “At least Spider-Man will definitely be involved with this one.” Disney’s
+Paris and Hong Kong parks also have MCU attractions on the way.
+Disney finally unveiled new details about its new Marvel Cinematic Universe (MCU)-themed area arriving at Disneyland at its D23 expo on Thursday. Disney had originally announced the new superhero areas coming to three Disney parks in March last year, dreamed up in partnership with Marvel Studios.
+Here’s what we know so far.
+Disneyland, California
+“We’re building an immersive super hero-themed land at Disney California Adventure to enable our guests to join the Avengers to save the world,” Bob Chapek, chairman of Disney Parks, Experiences and Products, said at D23 Expo, ComicBook reported.
+The Avengers Campus will open in summer, 2020.
+(9) TODAY IN
+HISTORY.
+(10) TODAY’S BIRTHDAYS.
+[Compiled by Cat Eldridge.]
+(11) COMICS SECTION.
+(12) WILSON LEAVES WW. ComicBook.com is there when “Wonder
+Woman Writer Announces She’s Leaving the Title”. 
+Today marks the end of an era for DC’s Wonder Woman, as G. Willow Wilson is set to exit the title in the coming months. On Thursday, Wilson took to Twitter to confirm the news, citing that the exit will be so she can schedule out time for a “bucket-list-dream-project”.
+Wilson also confirmed that Steve Orlando will be taking over the title, something that had previously been hinted at in DC’s solicitations….
+(13) SHIRLEY JACKSON. LitHub does a post of
+clippings of quotes from “11
+Famous Writers on the Genius and Influence of Shirley Jackson”. 
+Victor LaValle:
+I’ve probably reread The Haunting of Hill House by Shirley Jackson more than any other book. It’s not her greatest, that would be We Have Always Lived at the Castle, but I got to it when I was a teenager and so it entered my bloodstream early. I read it three or four times in high school alone.
+There are lots of reasons why I love it, Jackson is an underrated literary stylist, and I love the way she loathes human beings. It’s cruel, but it’s almost always funny, too. Misanthropy always goes down better with a sense of humor. But maybe the reason I most love that book is for the house itself. Jackson does a wondrous job of animating Hill House without ever really answering the question of whether its truly haunted or merely haunted by the imagination of a lonely young woman.
+(14) HISTORY. “Life of Brian: The most blasphemous film ever?” What
+are the other contenders?
+Forty years after Life of Brian was first released, Nicholas Barber looks at why the Monty Python film was banned – and went on to become a box office hit.
+It may not be true that all publicity is good publicity, but in the case of Monty Python’s Life of Brian, which was released 40 years ago, some of the bad publicity was heaven-sent. The comedy team’s irreverent Biblical romp had been due to open on 200 screens across the US, but after various religious groups protested against it, the number of screens was tripled. “They actually made me rich,” said John Cleese of the protesters on one American talk show. “I feel we should send them a crate of champagne or something.”
+The idea for Life of Brian came about when the team was promoting its previous film, Monty Python and the Holy Grail. Eric Idle joked that their next project would be called “Jesus Christ: Lust For Glory”, and his team-mates realised that no one had ever made a comedy about the Messiah. Initially, they planned to lampoon Jesus himself, but the more they read up on him, the less keen they were. “It was quite obvious that there was very little to ridicule in Jesus’s life, and therefore we were onto a loser,” said Michael Palin in 1979. “Jesus was a very straight, direct man making good sense, so we decided it would be a very shallow film if it was just about.” 
+They moved onto the character of Brian, a 13th disciple who never made it into the Bible because he always arrived five minutes late and missed the miracles. But they eventually settled on the premise that the hapless Brian (Graham Chapman) wouldn’t have any connection with Jesus at all; he would be someone who happened to live in Roman-occupied Judea at the same time, and who was mistaken for a Messiah by the fanatical masses.
+The Pythons’ satire wouldn’t target Jesus or his teachings, instead caricaturing political militants, credulous crowds, the appeal of throwing stones at people, the complexities of Latin grammar, and the difficulties of being a tyrant when you’ve got a speech impediment. “I thought we’d been quite good,” said Idle in Robert Sellers’ behind-the-scenes book, Very Naughty Boys. “We’d avoided being specifically rude to specific groups.”
+(15) PRESENT. “Hail
+Satan?: The Satanists battling for religious freedom” – BBC has the
+story.
+Everything you know about Satanism is wrong.
+At least that’s what a new documentary about the Satanic Temple could be about to prove.
+Despite the similarity of the name, the Temple is different to The Church of Satan, established in 1966 by chat show circuit celebrity Anton LaVey in San Francisco, California.
+Human sacrifice? Wrong. Blood drinking? Wrong. Black Mass? Well, sort of right.
+The Temple was founded in 2013 with a mission statement “to encourage benevolence and empathy among all people, reject tyrannical authority, advocate practical common sense and justice, and be directed by the human conscience to undertake noble pursuits guided by the individual will”.
+Hail Satan? directed by US film-maker Penny Lane, follows the Temple’s attempts to curtail what they see as the encroachment of Christianity on US life through its growing political influence….
+(16) UNDERWORLDS. Alix Nathan looks beneath the surface
+in “The
+Art of Subterranean Fiction” at CrimeReads.
+…Perhaps the most famous novel of the subterranean genre is Jules Verne’s Journey to the Centre of the Earth, in which Verne’s hero, Professor Lidenbrock, and his nephew, Axel, believe that there are volcanic tubes leading to the earth’s centre. Verne is a great story-teller and the adventures of these two very different characters and their guide Hans, involve natural dangers like running out of water and deadly storms as well as encounters with creatures from a far distant past.
+Although there’s no actual time travel, Verne’s underworld seems located in prehistory, where everything is gigantic, whether it be insects, mushrooms or petrified trees; where an Icthyosaurus wins a battle with a Plesioraurus. The travellers’ most terrifying experience is an encounter with an enormous prehistoric man, all of 12 feet tall, watching over a herd of huge mastodons….
+(17) D23 NEWS. SYFY Wire shares some of the exhibits
+from D23: “Disney
+unveils first look at Monsters at Work, Forky shorts, and new Phineas &
+Ferb film at D23”.
+…The monsters aren’t the only Pixar creations headed to Disney+ for new adventures. Toy Story 4‘s Forky, the fan-favorite piece of trash who became a toy, will return in a new series of short films called Forky Asks a Question, starring Tony Hale reprising his role from the film. Fans in attendance at the presentation got a sneak peek of the first short, which features Forky talking to Hamm the Piggy Bank about the concept of money. That clip hasn’t landed online yet, but we’ve got the poster for the shorts right here:
+Just announced at #D23Expo, Forky Asks A Question, a collection of shorts from @Pixar, only on Disney+. Start streaming November 12. pic.twitter.com/kgBlvM4DpG
+(18) MARVEL STUDIOS UNVEILINGS. The Hollywood Reporter also
+picked up some news at D23: “Marvel
+Unveils 3 New Disney+ Shows Including ‘She-Hulk’ and ‘Moon Knight'”. 
+Kevin Feige also revealed new details for ‘WandaVision’ and ‘Falcon & The Winter Soldier.’ Marvel Studios confirmed three new series in the works for Disney+ at D23: She Hulk, Moon Knight and Ms. Marvel.
+She-Hulk — AKA attorney Jennifer Walters, cousin to Bruce Banner, whose blood transfusion was responsible for her powers — first appeared in 1980’s The Savage She-Hulk No. 1, and was the last major Marvel character co-created by Stan Lee. After her original series ended after two years, she became a member of both the Avengers and the Fantastic Four as the character developed more of a distinct personality from her male counterpart, gaining a stronger sense of humor and intelligence and deciding that she preferred being super-strong and green permanently — or, at least, as much as possible. (Unlike the male Hulk, She-Hulk traditionally maintains her smarts and personality when Hulked out.)
+[Thanks to John King Tarpinian, Michael Toman, Alan Baumler, Cat
+Eldridge, Chip Hitchcock, JJ, Mike Kennedy, Martin Morse Wooster, and Andrew
+Porter for some of these stories. Title credit belongs to File 770 contributing
+editor of the day Lee Whiteside.]
+Odyssey Writing Workshops is offering three live, intensive online classes this winter. Odyssey’s nonprofit mission is to help writers of fantasy, science fiction, and horror, however, writers of all genres are welcome to apply. Courses will cover issues relevant to writers of adult, young adult, and middle grade fiction. Full information can be found at their website or by emailing jcavelos@odysseyworkshop.org.
+The three classes are:
+Emotional Truth: Making Character Emotions Real, Powerful, and Immediate
+Course Meets: January 10 – February 7, 2019
+Instructor: Award-winning editor and publisher Scott H. Andrews
+Level: Intermediate to Advanced
+Application Deadline: December 12, 2018
+Instructor Scott H. Andrews is the editor-in-chief and publisher of the fantasy magazine Beneath Ceaseless Skies, a six-time Hugo Award finalist and winner of the World Fantasy Award. When asked the most common weakness in the submissions he receives, Scott says, “Most writers fail to convey character emotions in a powerful way.”
+How do you convey a character’s emotion? You might just tell readers what the character is feeling (“He was afraid”), which can convey that information clearly but fail to make the emotion real and immediate. You might try an internal life sign (“His heart pounded”), which can be more immediate but often feels clichéd. Or you might try an external action (“His eyes widened”), but this can sometimes feel like overacting, or if we’re in the character’s point of view, it can feel like we’ve jumped to a point of view outside the character.
+Scott will explain the most effective techniques to convey character emotions realistically and powerfully on the page, so that moment by moment, you can create an authentic and evocative experience. He’ll show you which techniques work best for point-of-view characters, and which work best for non-point-of-view characters. He’ll also discuss how to handle multiple emotions, conflicting emotions, and complex emotions, because that’s when stories get really interesting.
+More than that, the course will cover strategies for developing situations and stories with strong potential for emotional resonance, and how to use character emotions to make every page a gripping read. You’ll dig deep into your own emotional reservoir to find that emotional truth that will give readers an authentic, powerful, involving experience.
+Riveting Descriptions: Bringing Your Story to Life in the Reader’s Mind
+Course Meets: January 3 – 31, 2019
+Instructor: Award-winnng author and editor Lucy A. Snyder
+Level: Beginner to Intermediate
+Application Deadline: December 5, 2018
+For most writers, crafting strong, effective description is a major struggle. Some avoid description, fearing they’ll lose the reader’s attention, and instead they leave the reader lost in a vast, white nothingness. Some embrace description, drowning the reader in details so important ones are lost and unimportant ones create expectations that will never be fulfilled. Some use a hit or miss approach, throwing in a detail here or there and hoping they’ve magically made the right choices.
+You don’t need to guess or struggle anymore. Award-winning fiction writer, poet, and editor Lucy A. Snyder will guide you through this critical and often-avoided subject. You’ll learn how to identify the key details that will immerse readers in your world, allow them to feel they know your characters, and put them in the middle of the action. Lucy will explain the qualities of strong description, how to know how much description is enough, which details to include, and where in the scene to include them. You’ll also learn how to use subtext so your description suggests deeper meanings, and how to write description with emotional impact.
+More than that, this course will explore the role of point of view in description. How a character sees and describes his world can deepen personality, convey motivation, increase tension, and drive plot. Lucy will also discuss how to use poetic techniques in your description, and how to avoid common descriptive pitfalls. You’ll finish this course feeling much more assured about your description and knowing how to use description to make your story more impactful.
+Getting the Big Picture: The Key to Revising Your Novel
+Course Meets: January 2 – February 13, 2019
+Instructor: Award-winning novelist Barbara Ashford
+Level: Intermediate
+Application Deadline: December 4, 2018
+In response to many requests, we’re bringing back this course, one of our most highly rated. There are few things more difficult than revising a novel. You’ve worked on it for months, or years, and you’re so immersed in it you can’t step back and see the big picture. You might polish the draft and make minor changes, but you don’t really know what to change to turn that rough draft into a powerful, unified novel. And chances are, major changes are necessary. In this course, Barbara Ashford, one of our most popular instructors, will guide you in a deep examination of the “big picture” elements of your novel–premise, promise, theme, world, character, plot. Analyzing each of these building blocks and how well they are working together can give you new perspective on your novel, reveal weaknesses, and provide direction for major changes that will help you to maximize your novel’s potential.
+Whether you’ve already completed your first draft, are still working on it, or are struggling with revisions, this course will provide invaluable insights into your novel through the lectures, assignments, and critiques. Barbara’s feedback on assignments has been widely praised for its depth and helpfulness.
+Barbara’s course will be longer than the standard Odyssey online class, with four class meetings rather than our usual three, so you’ll be able to fully process and incorporate the important concepts discussed. If you’re participating in #NaNoWriMo, this course can show you the path from rough draft to completed novel.
+In live class meetings, students learn specific, invaluable techniques, ask questions, and participate in discussions. Between meetings, they interact with each other and the instructor in a discussion group, complete demanding assignments, and give and receive in-depth feedback. Each student also has a one-on-one meeting with the instructor.
+Odyssey Online offers only three online classes each year and admits only fourteen students per class, to keep quality high and ensure each student receives individual attention.
+[Based on a press release.]
+(1) #METOO. Pat Cadigan opened up about her #metoo experiences in a public post on Facebook.
+Heard Germaine Greer on BBC Radio 4 this morning, disparaging #metoo
+Germaine should also talk about welding, engineering, astrophysics, and brain surgery, because she knows as much about them as #metoo
+And just for the record: #metoo
+I’ve talked about the first job I ever had after I graduated from high school. I lasted a week cold-calling people, trying to sell the photographic packages for a photography company. My supervisor was a woman struggling to be a single parent after her divorce. Her supervisor, who was onsite almost all the time literally chased me around the office, trying to get his hands on me.
+When I complained to my supervisor, she said, “You better keep running, because if he catches you, it will be your fault.”…
+(2) THE ROOM WHERE IT HAPPENED. National Air and Space Museum will mark the 50th Anniversary of 2001: A Space Odyssey with an immersive art exhibit celebrating the film’s impact on culture and technology.
+This spring, the Smithsonian’s National Air and Space Museum will host a special temporary exhibition of the immersive art installation “The Barmecide Feast,” a fully realized, full-scale reflection of the iconic, neo-classical hotel room from the penultimate scene of Stanley Kubrick’s and Arthur C. Clarke’s landmark film, 2001: A Space Odyssey. Open to the public April 8 – May 28, the installation will be the centerpiece of the Museum’s celebration of the film’s 50th anniversary. Museum visitors will be able to enter the re-created room in small groups for short periods to experience the surreal environment depicted in the film. The public will get its first chance to see the installation as part of the Museum’s Yuri’s Night celebration, a ticketed, 21-and-over evening event presented with Brightest Young Things Saturday, April 7…
+National Air and Space Society members will get a special sneak peak of the exhibition on April 5. There is no charge for this members-only event, but advance reservations are required.
+(3) SIAM SOUVENIRS. A Filer’s relative actually attended the Siam Sinfonetta concert!
+She said, “It was a great concert – ran about 3 hours. During the various pieces they had different characters wandering through the concert hall and sometimes lightsaber fighting. They all came out at the end (except the little ones who had probably already left to go home to bed).”
+(4) STEM, STEP BY STEP. BBC reports a study: “Children drawing more women in science”, from 1% in 1960’s and 70’s to 28% today.
+Children in the US are drawing more women scientists than in previous decades, according to a new study.
+The “Draw A Scientist” test has been administered by sociologists in various studies since the 1960s.
+Researchers at Northwestern University, US, analysed five decades of the test.
+When asked to draw a scientist, less than one per cent of children in the 1960s and 1970s drew a woman. This rose to 28% between the 1980s and present day.
+However, children are still far more likely to draw a traditionally male figure when asked to depict a scientist.
+…Yet, the study highlights, by 2013 women were 49% of biological scientists, 35% of chemists, and 11% of physicists and astronomers in the United States.
+(5) IN THE MIX. Camestros Felapton gives us a “Review: Black Lightning”.
+I’m up to episode 8 of a 13 episode season and I think I can pull apart what I like and don’t like about it.
+I’ll start negative. I don’t think it has yet managed to find the right mix of humour, gritty crime drama, family drama, superhero-antics. That’s not a surprise, as all superhero shows and movies struggle to find that sweet spot (and the right spot is going to vary among viewers). At times the show is quite violent (or suggestive of extreme violence) but within a show that feels more like it has been written for a more general audience. Like the Marvel Netflix shows, the central character regularly beats up criminals to get information but unlike those shows, the behaviour feels at odds with Black Lightning’s non-superhero persona.
+However, there is also a lot to like about this show. The central character, Jefferson Pierce, is unusual for a superhero. He is an older man with a successful career as a high school principal. He has a family and responsibilities and ‘Black Lightning’ is something from his past. By having him as a superhero who is coming out of retirement (due to gang violence initially) is a clever way of avoiding a protracted origin story, while giving viewers an introduction to the character. We have not, as yet, been given an explanation for the source of his electrical powers – although there are hints in a subplot around the death of his journalist father some years ago.
+(6) SENSITIVITY. The Washington Post’s Everdeen Mason looks at how Keira Drake changed her forthcoming Harlequin Teen novel The Continent in response to sensitivity readers, which included changing the name of one clan from “Topi” to “Xoe”  to remove any comparisons to the Hopi, making another clan less Asian-looking, and eliminating “savage,” “primitive,” and “native” from the text. The article includes many examples contrasting the original and revised text.
+Drake and Wilson maintain that the book was never supposed to be about race. “The main theme of ‘The Continent’ is how privilege allows us to turn a blind eye to the suffering of others,” Drake said in a phone interview in February.
+Wilson explained that when she originally edited the novel, she was looking for potential problems with pacing, plot and dialogue. “I was simply not thinking about things like racial stereotypes,” she said. “It’s almost mortifying to say that because it was so blatantly obvious when it was pointed out.”
+The Washington Post compared the old advance copy with a newly revised copy received in 2018 and spoke with Drake about changes she made.
+(7) BLOCK AROUND THE CLOCK. The Paris Review quotes Ray Bradbury: “On Writer’s Block: Advice from Twelve Writers”.
+“I have three rules to live by. One, get your work done. If that doesn’t work, shut up and drink your gin. And when all else fails, run like hell!” —Ray Bradbury
+(8) PARTY MAVEN. The website Gastro Obscura records Stephen Hawking’s champagne-laden effort to prove whether time travel exists or not:
+It was a little unusual that when he threw a party in 2009, not a single guest attended.
+A film of the event depicts a dismal cocktail party. Three trays of canapes sit uneaten, and flutes filled with Krug champagne go untouched. Balloons decorate the walls, and a giant banner displays the words “Welcome, Time Travellers.”
+…By publishing the party invitation in his mini-series Into the Universe With Stephen Hawking, Hawking hoped to lure futuristic time travelers. You are cordially invited to a reception for Time Travellers, the invitation read, along with the the date, time, and coordinates for the event. The theory, Hawking explained, was that only someone from the future would be able to attend.
+(9) COOLEY OBIT. Texas fan Earl Cooley III died March 20, his sister announced on Facebook:
+Earl Cooley III
+Earl Cooley III
+I am Earl’s sister, Dot Cooley. Earl left this world early this morning. He moved back to the San Antonio area 3 years ago when his health started getting worse and because of that Earl got to spend so much more time with me and our brother, Paul. Mom recently discovered Skype, so she got to visit with him more. We would love for you to share any thoughts or stories with us. Rock on ArmadilloCon!
+(10) COMICS SECTION.
+(11) MARVEL AT MOPOP. The Museum of Pop Culture in Seattle unveiled the official poster artwork for its upcoming exhibition Marvel: Universe of Super Heroes.
+Designed by Marvel artist Nick Bradshaw, the illustration depicts some of the most iconic characters created during Marvel’s nearly 80 year history including Spider-Man, Thor, Black Panther, Ms. Marvel, Hulk, Iron Man, Black Widow, Captain America, and others. Marvel: Universe of Super Heroes is the first and most extensive exhibition celebrating the visual and cultural impact of Marvel Entertainment. The exhibition will debut at MoPOP on April 21, 2018. Tickets are on sale now at MoPOP.org.
+Organized by the Museum of Pop Culture, SC Exhibitions and Marvel Entertainment, Marvel: Universe of Super Heroes will feature more than 300 original artifacts, including some of Marvel’s most iconic and sought-after pages, costumes and props, many of which have never-before been seen by the public. The exhibition will tell the Marvel story through comics, film and other media, taking place as it celebrates 10 years of the Marvel Cinematic Universe, and ahead of the 80th anniversary in 2019.  The exhibition will trace the story of the company and its influence on visual culture – including how it’s responded to historical events and addressed wider issues such as gender, race and mental illness – as well as uncovering the narratives of individual characters such as Captain America, Spider-Man, Black Panther and Doctor Strange. Immersive set pieces will bring the comic book world to life, and the exhibition will be accompanied by an immersive soundscape created by acclaimed composers Lorne Balfe and Hans Zimmer.
+(12) DO-IT-YOURSELF. Lucy A. Snyder’s satirical “Installing Linux on a Dead Badger: User’s Notes” appeared on Strange Horizons in 2004, but it’s news to me. Very funny!
+Reanimation puts most creatures in a foul mood, and the test badger woke up murderously angry, requiring a hasty launch of FleshGolem to get the beast under control. It is highly recommended to have the computer close at hand during the incantation.
+(13) VACUUMING UP THE BITS. Via today’s Boston Globe: “Data storage beyond the clouds: Wasabi promises a super-secure system in space”. “…Which sure sounds like the start of a ‘what where they thinking/yeah sure’ techno-heist thriller,” says Daniel Dern.
+In space, no one can steal your data.
+Well, that’s the theory, anyway — one that the Boston data storage company Wasabi Technologies Inc. hopes to help prove.
+Wasabi is partnering with a California company to create a database from outer space. The system, called SpaceBelt, will feature orbiting data centers capable of storing thousands of terabytes of information. SpaceBelt will be marketed to businesses and corporations that need instant access to their most valuable data, but who are also desperate to keep that data from being stolen or corrupted.
+(14) ALL STROSS CONSIDERED. Joe Sherry describes a mixed bag in “Microreview [book]: Dark State, by Charles Stross” at Nerds of a Feather.
+My experience of reading Charles Stross is a persistent struggle between the quality of his ideas and my perception of the quality of his writing, which is to say that I seldom find that the writing lives up to the promise of the ideas.
+When I wrote about Empire Games (my review), I noted “the level of Stross’s writing is actually beginning to rise to the level of his ideas” and that once Stross got the story rolling, nothing distracted from the cool ideas of the world walking between the worlds we’ve already known and the opening up of new worlds and the drama of the how the United States interacts with the world walkers from a parallel universe.
+Dark State picks up almost immediately after the conclusion of Empire Games, and despite the increasingly breakneck pace of the second half of that novel, Dark State suffers from some of the same issues that Empire Games did. Stross spends at least a third of Dark State resetting the playing field and planting the seeds for where the rest of the novel and trilogy will go. That’s fine, as far as narrative conventions go, but Stross is not at his best as a writer when working with a more deliberate pace.
+(15) CHARACTER IN CRISIS. Adrienne Martini reviews The Genius Plague by David Walton at Locus Online.
+In Walton’s hands, what could be a straight­forward “we must save humanity with science” thriller (not that there’s anything wrong with that), becomes, at times, a meditation on what makes us human and why that alone is a survival advan­tage. Those moments offer a chance to catch your breath before the next calamity, some of which our hero brings on himself. Walton makes Neil into a layered character, one who is frequently torn between family bonds and saving the world – and, frequently, making the situation worse because he is still working out that other people are also torn by their own layers. He’s also still learning that NSA security is never f-ing around.
+(16) JEOPARDY! Andrew Porter was gazing at the tube during Jeopardy! and spotted this stfnal clue:
+Answer: “Kardashians are reality TV stars; Cardassians are an alien culture in this sci-fi universe.”
+No one got the question, “What is Star Trek”?
+(17) YOU CAN GET THERE FROM HERE. You can now get to Gotham City, the Emerald City, Neverland, Middle Earth, and other places via roundabouts on the A4130 in Didcot, Oxfordshire reports the BBC.
+A county council statement read, in part:
+“We will investigate as soon as the weather improves. While on the surface amusing, it is vandalism and a potential distraction for drivers.”
+The story also mentions:
+Local resident Charlotte Westgate said she saw a hooded man in his 20s adding “Gotham City” to a sign on Friday afternoon.
+She said: “He was on his own, and didn’t seem worried that anyone might be looking at him, but no one driving past did anything to stop him.”
+(18) BARRAYAR BOY. Miles Vorkosigan posted the lyrics to “Dendarii’s Privateers” on Facebook. The first verse is —
+Oh the year was 2978
+(How I wish I’d stayed on Barrayar!)
+When I flunked my military test
+By breaking my legs, as I do best
+(19) HOW IT SHOULD HAVE BEEN PLAYED FOR LAUGHS. From the folks at HISHE, “A Comedy Recap / Review of Pacific Rim voiced by How It Should Have Ended.”
+[Thanks to JJ, Chip Hitchcock, Daniel Dern, John King Tarpinian, Cat Eldridge, Martin Morse Wooster, Michael J. Walsh, Carl Slaughter, and MT Davis for some of these stories. Title credit goes to File 770 contributing editor of the day Elisa.]
+(1) BATTERIES INCLUDED. The BBC reports plans for a short-distance electric passenger plane:
+A new start-up says that it intends to offer an electric-powered commercial flight from London to Paris in 10 years.
+Its plane, yet to go into development, would carry 150 people on journeys of less than 300 miles.
+Wright Electric said by removing the need for jet fuel, the price of travel could drop dramatically.
+British low-cost airline Easyjet has expressed its interest in the technology.
+“Easyjet has had discussions with Wright Electric and is actively providing an airline operator’s perspective on the development of this exciting technology,” the airline told the BBC.
+Chip Hitchcock adds: “Note the caveat of battery tech continuing to improve at its current rate. Reminds of the beginning of The Moon Is a Harsh Mistress, where the computer says there won’t be famine because matter transformation will be invented in a few years.”
+(2) AND THEN I WROTE. In “Using Twine @TwineThreads”, Camestros Felapton gives a demonstration of the interactive story-writing software, amply illustrated by screencaps.
+The software doesn’t present you with much: a simple screen with limited menu options. However, this really encourages you to jump straight in, start a story and start typing.
+(3) FEWER BOOKS, MORE BOOZE. No, I’m not talking about Raymond Chandler. I’m reporting the observations by Barry Hoffman, publisher of Gauntlet Press, in his March 22 newsletter —
+Late last year Barnes & Noble opened a new “superstore” in Eastchester, New York. The store features a full-service restaurant which serves alcohol. And, the store will be 20-25% smaller than its traditional superstores.
+Normally, this news would be taken with a yawn (there are other such B&N superstores). But the sad fact is that B&N is responding to Amazon.com by adding a restaurant and cutting the number of books that it will carry. As it is B&N stores in Colorado Springs (where our offices are located) already devote a lot of space to other items besides books. The two stores in Colorado Springs have a Starbucks (a smart idea, in my opinion and it doesn’t take up all that much space), a large display for their Nook device, games, toys and other non-book related items. Since the price of these non-book related items are just as or more expensive than at nearby competitors such as Best Buy, Target, Walmart and Toys R Us it makes little sense to squeeze out books for them.
+The B&N’s here used to sell CDs and DVDs but at a premium price which made no sense since there were competitors selling the same items at a greater discount. It seems that the B&N philosophy is to add these products and now large restaurants to their stores rather than come up with innovative approaches to selling books. To me this doesn’t seem the ideal approach to competing with Amazon.com.
+(4) PAY THE WRITER. Lucy A. Snyder aired a grievance about MARCon, the annual Columbus, OH convention, in a public Facebook post.
+Several people have asked me if I will be attending MARCon (Multiple Alternate Realities Convention) this year. I will not. As much as I would like to support one of the few remaining local Columbus conventions, I can no longer do so.
+Last year, Marcon staff contacted me about leading a couple of writing workshops. We negotiated the same kind of deal as I had arranged for instructors at Context: they would charge for the workshops, and I would get half the fees with a minimum of $50 per workshop.
+The convention completely failed to promote the workshops ahead of time, and didn’t even put an information page on their website so that I could promote them myself. They assured me that they would promote the workshops at the door and that I should plan to lead them, so I did my usual preparations.
+Unsurprisingly, nobody signed up for my first workshop; I arrived at the expected time and then left when it was clear nobody was coming. They did sell several seats to the second workshop, and so I led that as expected. Aside from my time, my own costs to offer the workshops included $30 in parking garage fees, which I had expected to cover with the $50 for the workshop.
+(I had expected a lot *more* than a net of $20, but I adjusted my expectations downward after I realized I wouldn’t be able to adequately promote my sessions. $20 was still better than nothing.)
+A few months after the convention was over, I queried the staff who had recruited me to see when payment would be forthcoming, and received no reply.
+Later, I forwarded the agreement to the programming email address with an inquiry, which also did not receive a reply.
+Most recently, I forwarded the agreement to the convention chairs’ address; it’s been over a week and I haven’t gotten a reply.
+So that’s three times I’ve emailed various staff, with zero replies from anyone. Not a “We’re working on it,” or a “The check’s in the mail,” or a “We’re kind of broke and need more time” or even a “Screw you, Snyder, we’re not paying you squat!” Nothing.
+I’ve also talked to a Marcon volunteer who spent $120 on convention supplies and was promised reimbursement; so far, the convention has blown off her queries, too.
+I would not be surprised to find out that other volunteers who were promised reimbursement of their registration fees have not received them.
+The upshot is that Marcon appears to have become the kind of convention that won’t always honor its financial commitments.
+There were other problems at last year’s convention that soured me on the experience, but failing to uphold business agreements and refusing to reply to communications is a definite deal breaker for me.
+(5) TODAY’S BIRTHDAY BOY
+(6) TODAY’S BIRTHDAY STARSHIP CAPTAIN
+(7) SCALZI INTERVIEW. The Verge asked the questions and got this answer: “Sci-fi author John Scalzi on the future of publishing: ‘I aspire to be a cockroach’”.
+With concerns about publishers dying off, it’s intriguing that Tor is making this long-term commitment.
+I think there’s a number of things going on there. I do think it was signaling. It is Tor and Macmillan saying: “We’re going to stay in business, and we’re going to do a good job of it.” This is part of an overall thing going on with Tor. Tor recently reorganized; brought in Devi Pillai [from rival publisher Hachette]; moved Patrick Nielsen Hayden, who’s my editor, from senior editor to associate publisher; brought in some new editors and some other new folks; and Macmillan basically gave it a huge vote of confidence.
+It’s been fun and fashionable to talk about the death of publishing, and certainly publishing has had “exciting times,” I think that’s the euphemism we want to use, over the last decade. But the people who are in it do feel optimistic that not only are they going to be around for the next 10 years, but that they are going to do what they have always done, which is to bring exciting stories and people into the market, to keep people engaged in the genre, and to be a presence….
+Did you just describe yourself as a cockroach?
+I am a cockroach. I aspire to be a cockroach. But in all honesty, what that means is that as a writer, you have to recognize that nothing lasts and things change, that there’s no one time in the history of publishing where everything was one way, and then all of a sudden there was change. It’s always changing. So we will definitely try new things to see if they work. And if they don’t, you don’t do them again, or you wait for the market to come around to them again, whatever. I’m totally open to that…
+(8) BOOK HEAVEN. Real Simple lists the best bookstore in every state.
+When you think of a great local bookstore, you probably single it out for its conscientious curation, enthralling events, and splendid staff. But what makes a bookstore go from great to one of the best in America? We partnered with Yelp to explore the best independent bookstores our country has to offer. There are no chains on this list. Using an algorithm that looks at the number of reviews and star rating for each business, Yelp singled out the top bookseller in each state.
+In California, it’s Century Books in Pasadena.
+(9) SAD PUPPY SADNESS. On Twitter, SF/F author Matthew W. Rossi thought Declan Finn was telling him that it’s not that big a deal he’s going blind. Apparently that’s not what Finn meant:
+Seriously the Sad/Rabid Puppies broke something in me. I've never felt so demoralized in my life.
+— Bat Rossi (@MatthewWRossi) March 21, 2017
+Yikes. If people are this easily broken …. come on, I ended high school under tougher conditions. https://t.co/EbyonddzE7
+— Declan Finn, editor/author #IronAge action novels (@DeclanFinnBooks) March 22, 2017
+And I released 7 last year, four of them in 6 weeks. Your point being? It's called dictation software. You'll make it@MatthewWRossi
+— Declan Finn, editor/author #IronAge action novels (@DeclanFinnBooks) March 22, 2017
+I'm saying that you'll learn to adapt. People do it every day. I"m an optimist.Original post didn't cite eyes, just Puppies
+— Declan Finn, editor/author #IronAge action novels (@DeclanFinnBooks) March 22, 2017
+Seriously who does this? Comes in to tell me to suck it up because I complained about losing my fucking eyesight like it's nothing? https://t.co/WGBzJFnhr4
+— Bat Rossi (@MatthewWRossi) March 22, 2017
+ACTUALLY I said "You'll live." B/c he will. People adapt. It's optimistic.Not my fault if he'd rather give up. Sorry for giving a crap. https://t.co/QPiZXRfoyz
+— Declan Finn, editor/author #IronAge action novels (@DeclanFinnBooks) March 22, 2017
+(10) INSIDE THE SHELL. Ghost in the Shell (2017) – “Creating The Shell” Featurette.
+[Thanks to John King Tarpinian, Cat Eldridge, JJ, rcade, and Chip Hitchcock for some of these stories. Title credit goes to File 770 contributing editor of the day Bill.]
+February is Women in Horror Month and every day the Horror Writers Association blog is running a Q&A with an award-winning woman member. Here are the highlights of the third week.
+Rain Graves –February 15
+Talk about winning the award – how surprised were you? Did winning pay off in any interesting ways?
+RG: I’ve never been a member of the HWA, so it’s always funny when people try to argue that they play favorites when giving the awards. They argue that people who campaign for the award – sending mass emails to friends and members offering free copies so that people will read it and recommend it for the Stoker – is a soul killing disease that paints the writer into that picture of favorite or pimp, depending on their involvement with the HWA. That hasn’t been my experience in terms of my work. I have never once campaigned. I have never once asked anyone to read it. I just do the work, and put it out there. My publishers offer free downloads or hard copies to reviewers. I think Roy may have offered a free download to HWA members when TFE made the final ballot. So I am always surprised to see my name on the preliminary ballot, and final ballot. Definitely surprised to ever win.
+Chelsea Quinn Yarbro – February 16
+Chelsea Quinn Yarbro. Photo by Charles Lucke.
+Chelsea Quinn Yarbro. Photo by Charles Lucke.
+What advice would you give to new female authors looking to break into horror?
+CQY: Don’t put all your eggs in one basket — write in more than one genre. That way, if one market collapses, you have a fall-back position.
+Lisa Morton – February 17
+Lisa Morton
+Lisa Morton
+Tell us a little about your Bram Stoker Award-winning work(s). Inspirations? Influences? Anecdotes about the writing or critical reaction?
+LM: I’ve won six times now, in five different categories (twice in Non-fiction, once each in First Novel, Graphic Novel, Long Fiction, and Short Fiction). However, I’m actually proudest of one loss – for my novel Malediction. That novel held significant personal meaning for me, it was a jury selection, and it lost out to Stephen King’s Doctor Sleep – overall it felt like the biggest win!
+I have to confess that I’m disappointed I couldn’t put my last non-fiction book Ghosts: A Haunted History in the running for the award, but when I took over as HWA’s President in 2014 I removed all my solo works from consideration as long as I’m in office.
+Allyson Bird – February 18
+Allyson Bird with daughter Sarah.
+Allyson Bird with daughter Sarah.
+Do you think women in horror face more difficulties than their male peers?
+AB: Yes. I’ve had much support from some great male writers but there are always a few who will try to bring you down if you do something they don’t agree with. That time I outed the fascist/racist David A. Riley caused me some problems. A few writers tried to cause trouble for me but it backfired on them. Speaking up is important as America faces the terrible years ahead with Trump dedicated to dividing the country. If you see hatred and racism, inequality regarding LGBTQ and women’s rights, discrimination against any minority ….SPEAK OUT…if you don’t who will? My advice to women is do what your conscience tells you to do. Write what you want to write not what you think others might want to read. If you ask yourself how will this affect your career….that is the wrong question to ask. Whether it is fiction or fact write it and those who are meant to be with you will support you.
+Yvonne Navarro – February 19
+Yvonne Navarro
+Yvonne Navarro
+What advice would you give to new female authors looking to break into horror?
+YN: I said it up there. Write like a writer. Don’t write like a woman, don’t write like a man. Write like a writer, like you. Write the absolute best that you can. And what I tell every writer trying to break into any genre: Read your stuff aloud, like you were an actor on the stage. If you’re self-conscious, then do it when no one else is home or lock the door. That’s the way you’ll get around your brain telling your eyes everything is good. That’s how you’ll find the weird wording, bad punctuation, too-long sentences, misspellings. Reading aloud is golden.
+Lucy Taylor – February 20
+Lucy Taylor
+Lucy Taylor
+About winning the award – how surprised were you? Did winning pay off in any interesting ways?
+LT: Good question. I wasn’t totally surprised, because I remember having a conversation with Harlan Ellison in which he ‘strongly’ advised me not to miss the World Horror Convention that year, so I admit I had my hopes up. Also very exciting was the fact that Joyce Carol Oates won a Stoker that year in the Best Novel category for ZOMBIE, so it was wonderful meeting her as well as Harlan Ellison.
+Nancy Holder – February 21
+Nancy Holder. Photo by John Urbancik.
+Nancy Holder. Photo by John Urbancik.
+What new works from you can we look forward to in the future?
+NH: I’m finishing the novelization of the new Wonder Woman film—very excited about that!—and co-writing a new Buffy Encyclopedia to celebrate the 20th anniversary. My co-contributor is my original Buffy editor, Lisa Clancy, so that’s a dream come true. I’m working on a Gothic project I am super excited about but I can’t talk about it much right now. I’m also working on some short stories.
+Lucy A. Snyder – February 22
+Lucy A. Snyder
+Lucy A. Snyder
+Do you think women in horror face more difficulties than their male peers?
+SL: I do, but these problems are not by any stretch limited to the horror field. While there are sub-genres of horror that employ tropes that are outright misogynistic (using rape as titillation, for instance) as a working professional writer, what I mostly see is an extension of the garden-variety bias you find everywhere. Namely, the perception that women’s work is going to be less vital, less edgy, less interesting than men’s work. And #notallmen, of course; some of my most loyal fans are male readers. But the general trend for a long time has been that female fiction writers are less likely to be published outside of romance, and when they are published, their books are less likely to be reviewed or noticed. Strange Horizons and Vida have gathered statistics on all this.
+But a bigger problem for all women artists is being able to preserve their time and energy to get their creative work done. In most communities and families, women are still expected to be the ones who largely take care of the kids, do the cooking, do the cleaning, care for aging parents and sick relatives. Women are still expected to put their husbands’ career aspirations and children’s needs first. The result is that women are often left with less time and energy and support for their writing.
+Even just getting ready in the morning — women are expected to sink more time and energy into our appearances, and we are criticized more harshly for looking unkempt or sloppy. I try to be as low-maintenance as I can, but I’m sure I spend a solid half-hour more per day on grooming and dressing than my husband does. That works out to over 180 hours per year! Most women spend a whole lot more time there than I do; I don’t even wear makeup every day. It’s very hard for us to set that time sink aside because we’ll be penalized socially and professionally for it.
+More men are pitching in on childcare and household chores than they did in past decades, but the cultural conditioning men and women both receive make it harder for women to preserve the time and energy they need to develop careers as writers and artists. It’s getting better, but there’s still a long way to go.
+Donna K. Fitch – February 23
+Do you think women in horror face more difficulties than their male peers?
+DKF: HWA is making great strides in changing the opportunities of women in horror, and I hope a question like this will be outmoded soon. I feel that women writing in horror were seen in the past as “writing outside their genre.” HWA’s scholarships and the amazing Seers’ Table column are encouraging a new generation of women as they see the possibilities.
+P.D. Cacek – February 24
+P.D. Cacek
+P.D. Cacek
+Tell us a little about your Bram Stoker Award-winning work(s). Inspirations? Influences? Anecdotes about the writing or critical reaction?
+PDC: I won a Bram Stoker in 1996 for my short story, Metalica: a “touching” story about a woman and her speculum. Yes, you read correctly: speculum. Now, in case you’re not sure what a speculum is, let me explain that it is a medical tool designed to investigate body orifices, most commonly gynecological orifices. I have often described it as a cross between salad tongs and the Jaws of Life. Talk about horror, right?
+So, if you ask about inspiration, I guess you can say that I had personal knowledge of the subject matter—but certainly not as well as my character had. And that’s where the horror came in. I took a common, if not pleasant experience may be, and twisted it out of all proportions.
+Pun intended, if you read the story.
+For me, that’s the secret of horror: take reality and give it a twist.
+That’s what I did with Metalica and it apparently worked better than I expected. I was asked by Jeff Gelb (one of the editors for FEAR THE FEVER—The Hot Blood Series, where the story was published) if I could use my gender specific real name.
+It seemed that the one of the editors for Pocket Books (a woman editor, I might add) was worried that the story might offend women readers if they thought a man wrote it. I’ve always thought that it was the story that mattered, not really the writer, so I agreed and you’ll notice that that byline reads Patricia D. Cacek.
+My dear friend and mentor, Edward Bryant (who just passed) told me I should never have given in, but it seemed like a small concession to me at the time and still does. As I said before, it’s the story that matters.
+Elizabeth Monteleone – February 25
+Elizabeth Monteleone
+Elizabeth Monteleone
+Talk about winning the award – how surprised were you? Did winning pay off in any interesting ways?
+EM: I feel like I cheated a little. I had as a co-editor the BRILLIANT Thomas F. Monteleone. Thank goodness he saw talent in me. Having been a life-long reader, and lover of books (I wish I could remember who said this but it applies to me “I’m a literary whore, I’ll read anyone.”) I started reading the slush pile and the stories I sent on to Tom seem to have impressed him because he told me I had an unerring instinct for what comprised a good story. High praise indeed!
+Winning gave me a confidence I didn’t know I lacked when it came to validating my ability to recognize good writing.
+(1) HARTWELL LIFE ACHIEVEMENT AWARD. Kathryn Cramer posted the speech she prepared for Gordon Van Gelder to deliver accepting David G. Hartwell’s posthumous World Fantasy Life Achievement Award.
+First of all, to the board, we are sorry David missed the meeting this morning. Almost nothing could stop him from showing up bright and early on the Sunday morning of World Fantasy to preside over the board meeting.
+Not late nights, high fevers, the birth of his children.
+This convention—and these awards—were very important to David. For him they were about the conversations we have about our genre and what the genre can do for the world. It makes us proud to think of you all in this room thinking about and talking about the fantasy and horror genres and what excites you about them.
+Take a moment, in his honor, and look around the room at the people you have connected with here.
+This is what he wanted for you.
+This Life Achievement award honors a life well-lived. Thank you all.
+(2) ROBERTA POURNELLE SUFFERS STROKE. Jerry Pournelle announced some “Bad News at Chaos Manor”.
+Sunday morning – this morning although it’s after midnight now so maybe I mean yesterday morning – I discovered that Roberta had suffered a stroke during the night. I called 911. The firemen responded almost instantly.
+We spent the day first at the St. Joseph’s Emergency Room (where the firemen took me after my stroke), then at the Kaiser Emergency Room where she was taken by ambulance arranged by Kaiser, then finally in the Kaiser main hospital. Alex was with me for essentially the entire time. My second son, Frank, who lives in Palm Springs, drove up as soon as he could. Our youngest son, Richard, flew in from DC and just got here.
+Roberta appears to be about where I was after my stroke. She can’t really talk yet, but she’s aware of what’s going on around her. We’re trying to arrange rehab at Holy Cross where I was retaught how to swallow, walk, and do all the other things people do.
+I’m trying to be calm, but I’m scared stiff.
+(3) MARATHON WOMAN. Pat Cadigan’s window isn’t closing this year but she remembers when that was the medical prediction — “Late 2016 Already – Where Does The Time Go”.
+…This is not silly wish-fulfilment fantasy optimism on my part. At the worldcon in Kansas City, a few of us fellow-travellers in Cancerland did a panel about living with cancer. One beautiful lady has stage-four lung cancer. You’d never know it, though, because she’s doing great––clinical trials pay off. In fact, over thirty years ago, my Aunt Loretta (one of my mothers) agreed to be in a clinical trial for a breast cancer drug. That drug is Tamoxifen. On her behalf, you’re welcome.
+Rational optimism notwithstanding, however, I still remember how the last months of 2016 were projected to be the last months of my life and…well, I can’t help gloating. Who am I gloating at? Cancer, of course. Who else?
+These days, I’m thinking not so much in terms of a singing horse as I am the story about the two people in the forest being chased by a bear. One of them stops and puts on fancy running shoes. The other person says, ‘Do you really think you can outrun a bear?’ And the first person says, ‘No, I only have to outrun you.’
+I picture me and cancer being chased by a bear called Annihilation. It’s going to get one of us first, and I’m hoping thanks to current clinical trials and the latest developments in immunotherapy, that will be cancer, not me. All I have to do is last long enough. All I have to do is outrun cancer.
+(4) TOLKIEN GETS AWARD. The Tolkien Society reports Christopher Tolkien has been awarded the Bodley Medal, given by the Bodleian Libraries at the University of Oxford to individuals who have made outstanding contributions to literature, culture, science, and communication.
+Tolkien Society chair Shaun Gunner said: “Christopher Tolkien is a very worthy recipient of the Bodley Medal not only for his own work but for the decades of tireless dedication he has shown in editing his father’s texts. From The Silmarillion to next year’s Beren and Lúthien, Christopher has opened up new vistas of Middle-earth that otherwise might never have seen the light of day. This award is a testament to Christopher’s quiet scholarship as an editor, and a symbol of the continuing significance of J.R.R. Tolkien’s legendarium.”
+Christopher Tolkien said: “Although I have never looked for anything remotely of such a kind, I find it especially welcome to receive the Bodley Medal in that it affirms the unique significance of my father’s creation and accords a worthy place in the Republic of Letters to Tolkien scholarship. It gives me particular pleasure that the award comes from and is conceived by the Bodleian, where a great part of my father’s manuscripts lie and where I have happy memories of the great library itself.”
+(5) HARASSMENT AT WFC. Jason Sanford revealed the committee was called upon to handle a harassment issue at this weekend’s World Fantasy Con.
+https://twitter.com/jasonsanford/status/793139159137415168
+https://twitter.com/jasonsanford/status/793139892939268096
+https://twitter.com/jasonsanford/status/793140425246859264
+Lucy A. Snyder also wrote a public Facebook post.
+So I just returned from WFC, where some women experienced harassment: street harassment from rando men that convention organizers had no control over, and at-con harassment courtesy of a local fan who has a documented history of bad behavior (the convention organizers appeared to take the harassment report seriously and appeared to handle it as per their policy, but I question why they’d sell a membership to someone who is known to be a problem.)…
+Snyder added in a comment:
+I know he harassed at least one woman, because she told me and I escorted her to con ops so she could make the report. In the instance I know about, he did it in front of a male witness (who filed a corroborating report), so I strongly suspect there were other instances that I don’t know about and/or didn’t get reported.
+(6) TODAY’S BIRTHDAY FANDOM
+On Monday October 27th, 1930, the Ilford Science Literary Circle held its inaugural meeting at 32 Thorold Road (which a check of contemporary electoral rolls shows to have been the home of George & Mary Dew), the first ever meeting of our first ever SF fan group. If British fandom has a birthday, this is it. Here is Gillings’ report on the outcome of the event. More details of how many were present and the like would have been useful, but Gillings’ primary intent is to proselytise:…
+(7) ESFS AWARDS NOMINEES. At Europa SF, Nina Horvath has listed the 2016 nominees for 14 annual awards presented by the European Science Fiction Society.
+I’m not excerpting any of the information here because a lot of the names include special characters that just turn into question marks on WordPress.  Boo!
+(8) SERIES OF INTEREST. Ed Zitron profiles the late, lamented show beloved by many fans: “Person Of Interest Was Anti-Prestige TV And Too Smart For Primetime”.
+First, let me tell you what Person of Interest is. Person of Interest is the inverse of Game of Thrones. For every shock death from the HBO’s version of George R.R. Martin’s book series, it had Kevin Chapman getting maced by a model and beaten up with a handbag. For every Game of Thrones setpiece that sent 49 bloggers into an ejaculatory frenzy over the ambiguous motives and bloodlines of royals, Person of Interest had a scene where Jim Caviezel kicks seven shades of shit out of the cardboard archetype of a bad person. It’s weird watching Jesus throttle people, but you know what, we’re all going to Hell anyway.
+[Warning, reading this may spoil the show. But really, you could read an entire synopsis and the show would still be fantastic.]
+Caviezel’s John Reese is a former CIA agent that you’re introduced to as a piss-stained, beardy hooch-swigging hobo sitting on a subway train. In one of the most satisfying scenes in TV history, a group of rich dickheads yell at him on the train and attempt to take his booze, which he clings to with an iron grip. He then proceeds to beat them up with his somehow-not-atrophied CIA skills before grabbing one around the throat and giving him the deep, angry stare of a man who uses his pants as a toilet and just wanted to enjoy his train booze in peace.
+It’s a great introduction to the show in its purest sense. Peel back the layers of intrigue, spywork and social commentary, and you’ll still find a TV show that brings back the pure joy of seeing people you don’t like getting beaten up. There are no pretenses to prestige here.
+(9) HE SCORES, HE WINS! James Davis Nicoll has the numbers to prove a point.
+The following review sources managed to review as many works by persons of colour in 2015 as I did in Oct 2016.
+Interzone 7
+LARB 7
+The following review sources failed to review as many works by persons of colour in 2015 as I did in Oct 2016. Note that the Big Three are listed.
+NYRSF 6
+F&SF 5
+Analog 3
+Asimov’s 3
+SFS 2
+Foundation 1
+Rising Shadows 1
+(10) SAY CHEESE! NPR reports “NASA’S New ‘Intruder Alert’ System Spots An Incoming Asteroid”.
+NASA pays for several telescopes around the planet to scan the skies on a nightly basis, looking for these objects. “The NASA surveys are finding something like at least five asteroids every night,” says astronomer Paul Chodas of JPL.
+But then the trick is to figure out which new objects might hit Earth.
+“When a telescope first finds a moving object, all you know is it’s just a dot, moving on the sky,” says Chodas. “You have no information about how far away it is. “The more telescopes you get pointed at an object, the more data you get, and the more you’re sure you are how big it is and which way it’s headed. But sometimes you don’t have a lot of time to make those observations.
+“Objects can come close to the Earth shortly after discovery, sometimes one day, two days, even hours in some cases,” says JPL’s Davide Farnocchia. “The main goal of Scout is to speed up the confirmation process.”
+(11) WHEN GENIUSES PLAY WITH SHARP OBJECTS. Here what NASA’s JPL brings to jack o’lantern design:
+Carving pumpkins may not be rocket science – but that hasn’t stopped Nasa engineers.
+Scientists at the space agency’s Jet Propulsion Lab held their annual contest to create the best pumpkin this week.
+Entries included a gourd inspired by Star Wars villain Darth Vader, and two pumpkins dressed as Donald Trump and Hillary Clinton being hit by a meteor.
+Motors, robotics and lights all featured heavily.
+(12) COSTUMES FOR WHEELCHAIRS. About half a dozen photos here illustrating how wheelchairs are converted to vehicles of kids’ dreams.
+Halloween is big business and when you use a wheelchair you want your outfit to pack a punch when you go trick-or-treating.
+In America, Ryan Weimer and his wife Lana, have tapped into that market by providing children with the 3D costumes of their imaginations.
+Costing between $2,000 and $4,000 each, a team of volunteers spend about 120 hours building the costumes which range from aeroplanes to dragons.
+(13) HALLOWEEN TREE. Ray Bradbury tells how the “Halloween Tree” novel and animated film came about.
+(14) RAY’S FAVORITE HOLIDAY. John King Tarpinian visited Ray Bradbury’s grave today, bringing some gifts and decorations.
+Every Halloween I pay a visit to the Westwood Cemetery where Ray Bradbury is at rest.  I had the custom trick or treat bag made and filled it with Clark Bars, Ray’s favorite.  The little pumpkin shaped stone I luckily found yesterday from a bead shop I was dragged to by a visiting out of town friend.  The pumpkins were brought by one of Ray’s theatrical actors, Robert Kerr.
+(15) BOO PLATE SPECIAL. Someone’s Cthulhu license plate attracted a crowd at World Fantasy Con.
+Dear whoever owns this car: you are awesome. #WorldFantasy2016 #WFC2016 pic.twitter.com/HDpsYfBwdX
+— Kat Otis | @katotis@wandering.shop | @katotis.bsky (@kat_otis) October 30, 2016
+(16) SILLY SYMPHONY. And here’s your musical accompaniment of the day:
+[Thanks to JJ, John King Tarpinian, James Davis Nicoll, and Chip Hitchcock for some of these stories. Title credit goes to File 770 contributing editor of the day Jack Lint.]
+Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+
+
+							Email Address						
+
+
+
+
+
+
+
+ 
+							Subscribe

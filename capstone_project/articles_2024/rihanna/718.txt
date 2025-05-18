@@ -1,0 +1,24 @@
+A recent study from whiskey brand Flask & Barrel pinpoints Ohio’s favorite drinking songs and artists. Credit: Allie Healy Howard via TNS [Original caption: A flight of beer at Woodland Farm Brewery in Marcy.]For Buckeyes of legal drinking age, a recently published study offers the so-called “perfect” playlist for drinking and dancing. 
+A recent study from whiskey brand Flask & Barrel pinpoints Ohio’s favorite drinking songs and artists. Credit: Allie Healy Howard via TNS [Original caption: A flight of beer at Woodland Farm Brewery in Marcy.]
+Flask & Barrel — a Tennessee-based whiskey brand, home to the largest free whiskey-and-distiller database — has uncovered each state’s 100 favorite drinking songs and top 50 artists to drink to, as announced June 13. 
+Nick Rizzo, Flask & Barrel’s research director, said the company gathered data from over 24,000 user-generated Spotify playlists — using drinking-related keywords found in playlists’ titles as a basis for the analysis —  to examine more than two million total tracks. 
+The study’s results found Ohio’s top five drinking artists are rapper Polo G, rock band Queen, rapper Kanye “Ye” West, pop-and-R&B-singer Rihanna and pop singer-songwriter Taylor Swift. 
+The study also revealed Ohio’s top five drinking songs are “Something in the Orange” by country singer-songwriter Zach Bryan, “Low” by R&B star SZA, “Lovin on Me” by rapper Jack Harlow, “Chop Suey!” by heavy metal band System of a Down and “Drip Too Hard” by rapper Lil Baby. 
+Rizzo said his own experiences with music and drinking originally inspired the study. 
+“When you think about drinking, it’s almost always drinking with people. It’s less about the actual drinking itself and is typically more about the environment and who you’re with,” Rizzo said. “For me, music has always been a big part of any kind of social setting, so it was just a natural connection.” 
+Rizzo said the Spotify Web Application Programming Interface — a computer system that allows programmers to access and manage Spotify’s data and services over the internet, also known as API — played a key role in the study by finding the user-generated Spotify playlists. 
+“By inputting keywords specific to drinking — including “drink,” “drinking,” “brews” and “brewskis” — we were able to extract 500-1,000 playlists,” Rizzo said. “We then extracted all the songs from each of those playlists — so about 24,000 playlists and over 2 million songs initially — and counted how many times each song appeared on all of these playlists, and that gives the overall drinking song popularity.” 
+To determine the state-specific favorite drinking songs and artists, Rizzo said he took the top 100 songs found across the 24,000-plus playlists, then accounted for the top three-to-five songs from those corresponding artists and combined them into one playlist. 
+The playlist, Rizzo said, was subsequently run through Google Trends to identify which songs were the most popular in each state. 
+“We were trying to be as objective, data-centric and user-centric as possible — using the actual searches from people in Ohio and other states,” Rizzo said. “That way the data comes from the users and the actual trends for the locations those users reside in.”
+Andrew Ansley, co-founder of Flask & Barrel, said the goal of this study — along with the rest of Flask & Barrel’s extensive database — is providing users with a more accessible, resource-based whiskey site. This includes articles about whiskey nutrition facts, recommendations, flavor profiles, recipes, pairings and more. 
+“Most whiskey websites look like they were built in the ‘90s, so we just wanted to make something that was more enjoyable to read,” Ansley said. 
+Ansley said while Flask & Barrel is just getting started, having published its first article in September 2023, he certainly feels excited about the brand’s future. 
+“We have been compiling our database for over a year, and we hope to be able to continue to cover stories about new whiskeys and things like that in the future,” Ansley said. “I also want to create an app that gives users new whiskey suggestions based on whiskeys they know they like, or based on their flavor profiles.” 
+Rizzo said he hopes to pursue more studies for Flask & Barrel going forward. 
+“For me, it was, ‘Can I do cool research that I think is interesting and share it with people that also think it is genuinely interesting or insightful?’” Rizzo said. “The goal is to eventually start doing one or two every few months.” 
+The complete “What Are Each State’s Favorite Drinking Songs?” study can be found on Flask & Barrel’s website. 
+View The Lantern’s archives here.
+The Lantern newsroom can be reached by email ([email protected]) or by telephone (614-292-5721).
+Interested in advertising with The Lantern? Visit our Advertising page for more information!
+Copyright 2024 The Lantern Media Group

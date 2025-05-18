@@ -1,0 +1,27 @@
+Advertisement
+
+                June 11, 2024 | 4 min read
+            
+
+
+                        Listen to article
+                    
+4 min
+
+Uber is welcoming programmatic media buying to its in-app ads platform for the first time.
+Uber will now allow programmatic buying via a number of leading DSPs / Charles Deluvio
+Uber Advertising is enabling programmatic media buying across the Uber Rides app as part of an expansion of its Journey Ads platform, the company announced Tuesday. 
+Journey Ads, debuted in 2022, is Uber’s proprietary advertising platform, embedded within the Uber Rides app, offering display and video ads paired with demographics-based and behavioral targeting, as well as campaign performance measurement. 
+To bring programmatic buying to life within Uber Rides, the ride-hailing company is working with Google’s Ad Manager as well as a slew of leading demand side platforms (DSPs), including Google’s Display & Video 360, The Trade Desk and Yahoo DSP. Through these partnerships, programmatic buyers in the US and in global markets can now buy inventory within the Uber Rides app using their preferred DSP.
+Google Ad Manager director of product management Peentoo Patel said in a statement that he believes Journey Ads “provides a new and engaging ad experience for people.” 
+Advertisement
+“Journey Ads have proven strength in driving results for the thousands of brands we've worked with since launch. We can now extend these benefits to the programmatic buyers who prefer to activate through their DSPs of choice,” said Jillian Kranz, general manager of rider ads at Uber Advertising, in a statement on Tuesday. 
+Uber's customer demographic, which is predominantly affluent and young, demonstrates relatively high openness to engaging with ads in general. A forthcoming Magna study finds that 80% of users said that ads catch their attention. Plus, leveraging historical first-party data from both Uber Rides and Uber Eats, Uber promises targeting of high-intent users, enabling advertisers to focus on specific audience segments – like Burger King superfans or Rihanna connoisseurs. 
+Advertisement
+Stressing the effectiveness of Journey Ads, Kranz pointed to Kantar data indicating that early campaigns on the platform resulted in increased favorability and purchase intent. “We’ve shown the strength of the Journey Ads format through outstanding performance across the funnel,” she added.
+Plus, to ensure the legitimacy of all ad buys and effectively measure their performance, Uber works with a handful of the ad industry’s leading measurement and research vendors, including Kantar, Integral Ad Science, DoubleVerify, LiveRamp, Attain, Comscore, Foursquare, iSpot, NCSolutions and AWS Clean Rooms. 
+The addition of programmatic buying is welcome news to some of the industry’s top media buyers. “We have seen tremendous value in partnering with Uber around their mobility ads offering thanks to their one-of-a-kind insights and targeting ability,” said Megan Pagliuca, chief activation officer at Omnicom Media Group, in a statement. “Activating our Omni audiences on Journey Ads through programmatic channels is a big step forward for the partnership to achieve significant outcomes for our clients.”
+For more, sign up for The Drum’s daily newsletter here.
+Marketing can change the world.
+
+        © Carnyx Group Ltd 2025 | The Drum is a Registered Trademark and property of Carnyx Group Limited. All rights reserved.

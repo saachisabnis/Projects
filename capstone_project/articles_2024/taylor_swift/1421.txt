@@ -1,0 +1,67 @@
+Art, Culture, News, and Opinion
+Welcome to the world of AI.
+In what may be a precedent-setting example of AI voice technology duping the media, the news site Mediaite published a pair of stories last month about audio it reported was the voice of Roger Stone, an influential advisor to Donald Trump and a frequent target of the outlet.
+AI detection software and several experts say the 19-second audio is AI-generated voice cloning, not Stone’s voice.
+Voice cloning is AI technology that creates synthetic copies of human voices after analyzing recordings of that person to mimic tone, pitch, and other vocal characteristics.
+Mediaite reporter Diana Falzone claims the audio is legitimate. She wrote that the audio reveals Stone discussing the assassination of Democratic Congressmen Jerry Nadler and Eric Swalwell in a Florida restaurant with friend and former NYPD police officer Sal Greco.
+Falzone said an anonymous source told her that Stone made the remarks on the audio at Caffé Europa in Fort Lauderdale, a restaurant Stone patronizes.
+In Falzone’s initial story about the audio, she does not release the actual audio, but instead provides a transcript of what she reports the audio says.
+According to the article, the audio has Stone saying:
+“It’s time to do it. Let’s go find Swalwell. It’s time to do it. Then we’ll see how brave the rest of them are. It’s time to do it. It’s either Swalwell or Nadler has to die before the election. They need to get the message. Let’s go find Swalwell and get this over with. I’m just not putting up with this shit anymore.”
+Falzone’s source for the audio is unnamed, but she quotes the source: “Stone had been at war with Nadler and Swalwell for years. He just hates them.”
+Falzone also dates the unpublished audio as October 2020 — the weeks just before the last presidential election.
+Before publishing the story, Falzone requested comment and provided Stone with a written transcript of the supposed recording, but declined to share a copy of the audio, tell Stone how she obtained it, or who gave it to her.
+Stone replied to Mediaite, “Total nonsense. I’ve never said anything of the kind; more AI manipulation. You asked me to respond to audios that you don’t let me hear and you don’t identify a source for. Absurd.”
+Stone added that if Mediaite did post an audio, it would have to be AI-generated, since he had never said the words attributed to him.
+After the story was published, numerous mainstream media outlets reported the story, including CNN, MSNBC, The Messenger, Salon, The Daily Beast, and The Independent, all left-leaning and ardent critics of Trump and Stone. Most adopted the slant that the audio is authentic, and that Stone might be in legal trouble – without authenticating the audio.
+After the publication of the Mediaite story, Stone responded to the UK Daily Mail’s request for comment, “If there is such audio, why don’t they post it? Why won’t they send it to me? If there is such an audio, it would have to be illegally obtained, and if there is such an audio, it would have to be an AI-generated fraud, since I never said any of the words attributed to me.”
+If the audio were authentic, Stone could be right. Florida is a two-party consent state, and illegally recording a person without their consent is a third-degree felony under Florida Statute 934.03, with up to five years in prison.
+Despite the potentially illegal nature of the recording, Mediaite published a second story including a 19-second audio on January 12, 2012.
+The audio Mediaite published reveals that the alleged Stone’s voice says something different than the original story.
+Actual Transcript of audio:
+“[Inaudible…] we’ll go find Swalwell and get this over with. It’s time to do it. Then we’ll see how brave the rest of them are. Either Swalwell or Nadler has to die before the election. They need to get the message. I’m just not putting up with this shit anymore.”
+In her introduction to the audio, Falzone admitted in a YouTube video that the audio was “lightly edited.”
+She did not explain the nature of the editing, who edited it, or why it needed to be edited lightly or otherwise. Nor has she explained why the words she claims Stone said differ in her initial story, published before the audio was released from the actual audio  published four days later.
+In a posting on her X feed, Falzone changed her position on whether the audio is edited or not, writing that the audio had not been edited at all. Falzone later deleted that post.
+Regardless of the circumstances surrounding the audio, the two alleged targets of the allegedly three-year-old audio stated they believed it was genuine.
+On CNN’s Anderson Cooper 360, Swalwell (CA) said, “I was stunned that he (Stone) was so brazen about it.”
+Rep. Nadler (NY) wrote, “I am alarmed by Roger Stone’s threats against my life.”
+Common sense suggests the authenticity of the audio is suspect.
+For one thing, the speaker speaks with a monotone characteristic of AI generated voices — about assassinating Congressmen.
+The second issue is the voice is heard distinctly above the background voices nearby, which were possibly added to give the audio authenticity, as if the setting was a crowded restaurant.
+However, for the voice to be heard distinctly above the din of restaurant patrons engaged in conversation, the speaker would likely have to talk fairly loudly with a microphone nearby.
+Caffé Europa is comparatively small, and the acoustics are such that you can overhear people talking at other tables if one cares to listen.
+We are asked to believe that Roger Stone, who would be known by many if not most patrons of the restaurant by sight, would be talking about killing two Congressmen in a tone loud enough to be overheard by anyone nearby.
+There are AI detection tools to analyze audio for artifacts like missing frequencies left behind when audio is programmatically generated.
+The detection software is trained with machine learning to identify existing deepfake algorithms and state its determinations with the probability that the audio is AI or human generated.
+FR employed software offered by AI Voice Detector (http://aivoicedetector.com) to analyze the Mediaite audio.
+The software found a 92.6 percent probability that AI generated the audio.
+The software however concluded that one section of the audio where the voice says “has to die before the election” had a slightly higher probability of being generated by AI.
+AI Voice Detector expressed its confidence in its findings, pinning their post at the top of its X feed, publicly confirming the company concluded a 92.6% chance that the recording was not Stone, but an AI-generated voice clone.
+The company also offered credit to the person behind the audio in its X post.
+“They included background music and noise to bypass the other AI Detectors. However, our http://aivoicedetector.com detected that this recording was produced using an AI voice. Nice Try!”
+The suspect audio attracted the interest of European music producer Hitesh Ceon.
+Ceon has written and produced hit records featuring artists such as Cee Lo Green, Musiq Soulchild, Daley, Alexandra Burke, Michael Jackson, Madcon, Snoop Dogg, Jill Scott, Taylor Dayne, Rick Ross, Madcon, and Joe.
+His sound engineering work involves editing audio signals, specifically voice pitch, timing, and tempo.
+In an interview, Ceon says that “AI audio can already be used in quite convincing ways, like this fake recording of Roger Stone.”
+Ceon demonstrated how easy it is to create an AI-generated “recording” choosing Joe Biden’s cloned voice, adding a similar background noise, and “a similarly, rather dull, frequency response and mono audio, like the ‘recording’ of Roger Stone.”
+Ceon published his clone of Biden, saying, “Let’s go find Swalwell and get it over with. And yes, I stole the 2020 election.”
+Ceon said it was “easy to do and took me only around five minutes—demonstrating how easily a fake ‘recording’ like this can be produced.”
+Ceon spoke to Rare.US about his analysis:
+“When I heard the recording of Roger Stone, there was something that immediately struck me as unnatural about the tonal flow, especially on the part that starts just after ‘how brave the rest of them are’ on the recording. The background noise and the filtered/low-quality sound of the recording are very useful for masking any very obvious flaws in the AI-generated voice.”
+Stone is not backing down that this audio is a fake. He analyzed the Mediaite audio using software from DeepFakeDetector.ai and published the screenshots on X.
+DeepFake software determined a 95.80 percent likelihood that the audio was AI-generated.
+Hopefully, this episode will help the media understand the ease with which people with an agenda can target media with known political leanings to unwittingly participate in the deception of their audience.
+Some suggest the media should employ AI detection tools for controversial audios. According to CBS, its parent company is investing in the development of new tools to keep pace with the advancing AI industry.
+Common sense could also be added to the mix of detection tools.
+Sometimes it is easy to assess.
+In January, a robocall featuring President Biden targeted Democratic voters in New Hampshire, telling them not to vote.
+Or the late comedian George Carlin doing a new comedy routine, “I’m glad I’m dead.”
+Taylor Swift telling people that she’s giving away cookery.
+Roger Stone talking about an assassination attempt in a crowded restaurant in a voice loud enough for anyone to hear.
+Common sense goes a long way.
+Your email address will not be published.
+ Save my name, email, and website in this browser for the next time I comment.
+The Frank Report
+The Niagara Falls Reporter
+© 2025 All rights reserved.

@@ -1,0 +1,87 @@
+For the last week, I’ve been testing the new Apple Watch — mostly by sleeping. That’s because Apple Watch Series 10 is capable of detecting signs of sleep apnea.
+I’ll need a few more weeks of sleep before possible sleep apnea can be flagged. In the meantime, there’s plenty to admire in the waking hours of the day.
+Apple Watch Series 10 has a larger screen and a thinner design. It also gains new tricks like always displaying seconds and speaker media playback.
+Of course, the new hardware includes all the Apple Watch features introduced in recent years. These include Crash Detection, the double tap gesture, and better performance just to name a few. 
+Apple Watch Series 10 is the design I think we’ll see for Series 11 and Series 12. Apple Watch Series 10 is clearly an evolution of the original Apple Watch. It’s not a radical new design branch like Ultra and Ultra 2. Still, the new design is a milestone in thinness. Series 10 marks the fourth case design in the Series line. Each case design has evolved after three product release cycles:
+Apple Watch Series 10 is still instantly recognizable as an Apple Watch. Casual observers may not even recognize it as a new design at a glance. Hold it in your hand, however, and the thinness is quite noticeable. There’s no confusing which is old and which is new when viewing from the side.
+The benefit of an internal redesign that affords a thinner Apple Watch is how it wears. Apple Watch Series 10 sits more flush to your wrist. This results in a watch that feels more modern, more premium, and just nicer. Even the Digital Crown has shrunk to fit the slim profile. This contrasts with the Digital Crown on Apple Watch Ultra that has gear-like ridges and a surrounding crown guard.
+I’ve only briefly handled the new titanium Apple Watch Series 10 models. If you like the glossy look of stainless steel, the lighter titanium frame with the same reflectivity will feel welcome. That’s especially true for customers upgrading to larger cases compared to older watches.
+The model I’ve been testing is the new black aluminum Series 10. Not space gray. Not midnight. Actual black. Apple calls it jet black. I call it friggin’ awesome.
+It’s not just black either. It’s the first aluminum Apple Watch with a glossy finish. 
+Before now, aluminum watches have all had matte finishes. There was one aluminum iPhone that managed to pull off a glass-like black surface.
+The jet black Apple Watch Series 10 is a call back to that jet black iPhone 7 Plus from 2016. 
+For a deeper reach in history, the jet black Series 10 finish is like the 2013 Mac Pro.
+The Ion-X screen lacks the scratch resistance of the more expensive sapphire display models. However, it’s a really sharp look with the starter Apple Watch Series 10 price.
+I’m also pleased that you can pair the first-ever gold color-matching stainless steel Link Bracelet to the gold-colored titanium Apple Watch without being Beyoncé in 2015. Technically hers was 18k gold and one of like three (including the late designer Karl Lagerfeld and a former shoemaker). Still, the Series 10 can run watchOS 11 so pick your fighter.
+Speaking of bands, many existing Apple Watch customers will be happy to know that existing bands continue to be compatible. For example, the band from my 42mm Apple Watch Series 2 works with the 46mm Apple Watch Series 10.
+Customers want sleep tracking features, and Apple Watch Series 10 takes it to the next level with sleep apnea monitoring. Sleep apnea monitoring is also available on Apple Watch Series 9 and Ultra 2 in watchOS 11.
+Where Apple Watch Series 10 beats Apple Watch Series 9 and Ultra 2 is fast charging. Series 10 is rated for fast charging from 0 to 80% in just 30 minutes. That’s up from 45 minutes on the Series 9 and 60 minutes on the Ultra 2. 
+When you want to wear your watch throughout the day and each night, every second counts. Series 10 can also charge enough to track sleep after just eight minutes of charging.
+Apple ships Series watches with 18-hour battery life. It could have kept the Apple Watch Series 9 dimensions and probably delivered a little more battery life. Apple Watch Ultra exists as the thicker watch with a 36-hour battery life rating though. Ultra’s place in the line affords Apple Watch Series 10 the luxury of going thinner. That’s welcome as long as it’s maintaining the same battery life as the watch it replaces.
+I also think improving charging speeds for Series watches is more practical than packing in more battery. Adding a few extra hours of battery life won’t change the way you use your watch. Doubling battery life with Apple Watch Ultra can. Faster charging speeds, though, limits the time the watch needs to be off-wrist.
+As for the impact of sleep apnea monitoring, stay tuned. The feature requires data from at least 30 sleep sessions to provide insight. 
+Sleep apnea monitoring won’t be explicitly determinative. Instead, Apple Watch will notify users about the possibility of sleep apnea. The data provided by Apple Watch is intended to be a helpful signal. Apple hopes it leads people to follow up with a medical professional. From there, a medical professional will recommend a traditional sleep test.
+Hopefully more people are alerted to the possibility to sleep apnea. This can reach customers who otherwise may not know to consult their doctor about the condition.
+We regularly see Apple Watch customers use heart health alerts as the first signal before consulting a medical professional. These alerts often lead to life-saving discoveries. If sleep apnea monitoring can lead to quality-of-life improvements, then the Apple Watch purchase will be worth it. 
+Customers can learn more about the sleep condition in the Health app on iPhone.
+Apple is relying on the Apple Watch accelerometer, processing power of the chip inside, and extensive research into studying sleep.
+The company is confident in this accelerometer-based method of detecting breathing disturbances while sleeping. The United States Food and Drug Administration agrees.
+Sleep apnea monitoring, which requires regulatory approval, eschews the blood oxygen sensor that first shipped with Apple Watch Series 6.
+That could be due in part to ongoing patent litigation between Apple and Masimo over the technology. However, the blood oxygen sensor is only disabled for new models sold in the United States since last year. 
+Customers in the US and abroad will all use the same sleep apnea monitoring methodology.
+The only information to know for customers in the United States is that the blood oxygen sensor is currently inactive. For some upgrades, this will mean losing access to that data point after coming from a Series 6 or later. 
+Apple Watch Series 10 is so not the Apple Watch Ultra, but in some ways it’s similar.
+One embraces a sleek design that maintains battery life standards. The other is a rugged sports watch that can last for days.
+When Apple Watch Ultra was introduced two years ago, I saw it as a preview of the Series roadmap. The Ultra wouldn’t need to change for some time. A speed boost, double tap gesture, and (a year later) darker finish are enough to warrant a second version. Now we’ve reached the point where Ultra can go unchanged without seeming dated. 
+At the same time, the Series line has picked up a few things from the Ultra line.
+Apple Watch displays have grown over the years. We’re at the point now where the smaller Series 10 is the same size as the larger Series 3. It must be an appetite for a larger display that made the larger Series 10 compete with Apple Watch Ultra.
+Apple surely has data that shows some Ultra customers placing more importance on screen size than extreme sports capabilities. The larger Apple Watch Series 10 is the result.
+Perhaps we’ll see an Apple Watch Ultra with slimmer bezels and more screen real estate in a year or two. For now, we have the Apple Watch Series 10 with an Ultra-like display size. It also gains the previously Ultra-only Dive app (for snorkeling, not diving), and titanium replaces stainless steel. 
+In some ways, Apple Watch Series 10 is the Ultra for the rest of us, and that’s rad. I am fond of the Ultra as an endurance watch. However, the Series line is unmatched when it comes to being an attractive object you wear. That’s even more true now with the Series 10 design.  
+The original Apple Watch wasn’t a great watch. It made up for that with features like Apple Pay, workout tracking, and notifications. 
+Apple worked around battery life constraints. It only turned on the display when a wrist raised, a button was pressed, or the screen was tapped. This is how the current Apple Watch SE models continue to work.
+Five years on, Apple Watch Series 5 introduced Apple’s first always-on display (years before coming to iPhone). Glancing at the time without requiring another action brought the Apple Watch closer to how ordinary watches work.
+Another five years on and Series 10 brings two changes that make it a better watch for telling time. The first is better viewing angles. Apple Watch Series 10 is the first to use OLED technology optimized for viewing from the sides.
+Viewing angles didn’t matter when the Apple Watch needed to be directly in front of you to be engaged. Now viewing the display with our wrists lowered is a norm for the Series line. The display appearing 40% brighter at more viewing angles is especially appreciated on watch faces with lower contrast.
+The other improvement to the time-telling experience with Apple Watch Series 10 is support for displaying seconds in always-on mode.
+Series 5 through Series 9 only refresh the time once per minute when the display is dimmed. A  nurse friend of mine once explained that they preferred wearing a basic watch. The reason is that they could reliably count seconds during certain patient routines. 
+Apple Watch Series 10 solves that problem, starting with three watch faces.
+The new Flux and Reflections faces show ticking seconds even when the watch face is dimmed. Flux uses a vertically rising line to denote ascending seconds through each minute. Reflections provides analog watch hands. It includes a seconds hand that sweeps when the display is lit and ticks when the display is dimmed.
+The third option is an update to an existing watch face: Activity Digital. Tempo developer Rahul Matta has described this face to me as the de facto fitness face, and I agree. Activity Digital kept me accountable when I first dived into workouts with Series 2 and Series 3.
+(If you’re logging runs or walks with Apple Watch, use Tempo to make sense of it all.)
+Activity Digital includes the option to show seconds. They vanish when the watch face is in always-on mode though . For me, this was visually jarring.
+However, Series 10 updates the watch face once per second in always-on mode. This means the digital seconds keep counting up in either display state. I absolutely love this. It’s visually pleasing for me, and it has utility for tasks that benefit from counting seconds. 
+I would guess that more watch faces will work this way over time. Brighter viewing angles and displaying seconds in always-on mode is unique to the Series 10 hardware for now.
+Apple Watch has always been able to play spoken word and musical audio without headphones. You just have to be on a phone call with call waiting music. Admittedly, that’s a pretty big catch.
+Apple Watch customers have long wondered why podcasts and music can’t play from the built-in speaker like phone calls. The answer probably has more to do with Apple’s audio quality standards around music than anything.
+However, Apple is using the redesigned speaker system as a reason to enable media playback sans headphones. The feature is also now available on Apple Watch Ultra 2 with watchOS 11.
+So how is this feature? Probably better for spoken audio than music in most situations. I appreciate it more for being a feature that should exist than being a feature I’ll want to use often.
+I’ve found media playback through the speaker useable sometimes. For example, taking the dog for a quick walk on a very quiet street. I was also impressed when media playback worked to livestream Accidental Tech Podcast in Steve Troughton-Smith’s Broadcasts app. You know, for science. 
+In regular use, I think speaker media playback will be most useful in a pinch. Forget to charge your AirPods before you go for a run? Apple Watch media playback through the speaker is better than nothing when your headphones die before you make it home.
+Also, the feature made Jeff Benjamin’s day when it was announced. Maybe Apple Watch speaker media playback will make your day too.
+There is one certain thing that I’ve tested each year since my Apple Watch Series 3 review in 2017:
+In terms of performance and experience, my one complaint in testing over the last few days was being locked into the Phone app during a call. This means you can’t reference a message in Mail or a location in Maps when you’re on a call over cellular which I imagine is a processing limitation.
+Technically, this is true when using the Phone app on Apple Watch even when your iPhone is nearby.
+However, it’s the situations when you leave your phone behind altogether that you notice this limitation. If you want to reference your calendar during a call, you’ll need to hang up and call back.
+And so we have the timeless questions about existence that have fascinated humanity for millennia, crossing cultures and philosophies:
+I can’t even come close to answering the first three questions. I can report, though, that the answer to the final question is still a nope.
+I’m well aware that no one, myself included, is all that bothered. Anyway, thanks for indulging me, back to Earth now.
+There’s plenty of runway for future innovations to Apple Watch.
+A potential roadmap should include bringing blood pressure monitoring, Apple Intelligence-powered Siri, and someday video calling.
+I would love to see Apple Watch be able to charge using MagSafe like the iPhone. It could then go further and be able to take a charge from the back of the iPhone.
+For now, Apple Watch Series 10 is in a healthy space for a decade old product category. (See my review of the original Apple Watch from 2015 if you want to feel old.)
+Apple Watch Series 10 achieves equilibrium. It does so by exceeding the display size of the Apple Watch Ultra by 3% while going thinner than ever.
+It does this while packing in:
+Series 10 raises the bar for what we can expect from the Apple Watch going forward. That makes it far exceed good before you ever compare it to prior generations.
+Apple Watch Series 10 is a ridiculous update over Apple Watch Series 3 and earlier. If you bought a Series 3 during its third year because it was $200, it’s time to let it go. You won’t regret it.
+Series 10 also makes for an incredible first Apple Watch. It has a design, processor, and feature list that will age well over the next few years.
+Is there enough here to impress Apple Watch Series 4 and SE customers? I think so. Between the larger screen, thinner design, and always-on display, there’s a lot to notice immediately. Apple Watch Series 5 customers also gain access to watchOS 10 when upgrading to Apple Watch Series 10. 
+It’s the Apple Watch Series 7 through Series 9 crowd that may need more reason to upgrade. Buying a new band may be enough to keep your watch feeling fresh for another year or two. 
+However, Series 10 is a great reason to upgrade if you want to move to a model with cellular. You may also switch to a different size display or try a new color or case material. The new shiny black aluminum finish and thinner design would be enough to make me envious.
+Apple Watch Series 10 is available in 42mm and 46mm case heights. It comes in aluminum or titanium cases and GPS-only or cellular configurations. Pricing starts from $399 with availability from Friday, September 20.
+Aluminum colors include polished jet black, matte rose gold, and matte silver. Polished titanium  colors include slate, natural, gold, and Hermès silver. Either Apple Watch Series 10 material can be configured to be carbon natural as part of the Apple 2030 initiative.
+Shop Apple on Amazon to support my work 🙏
+FTC: We use income earning auto affiliate links. More.
+Check out 9to5Mac on YouTube for more Apple news:
+Apple Watch is Apple's wearable is designed to h…
+Zac covers Apple news, hosts the 9to5Mac Happy Hour podcast, and created SpaceExplored.com.

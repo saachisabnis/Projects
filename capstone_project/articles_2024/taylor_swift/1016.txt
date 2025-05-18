@@ -1,0 +1,29 @@
+e-Edition
+Get the latest news delivered daily!
+Get the latest news delivered daily!
+e-Edition
+
+			Trending:		
+Elon Musk’s social media platform X has blocked some searches for Taylor Swift as pornographic deepfake images of the singer have circulated online.
+Attempts to search for her name without quote marks on the site Monday resulted in an error message and a prompt for users to retry their search, which added, “Don’t fret — it’s not your fault.”
+However, putting quote marks around her name allowed posts to appear that mentioned her name.
+Also see: 13 Golden Globes 2024 moments: Taylor Swift, Lily Gladstone, Bill Hader and more
+Sexually explicit and abusive fake images of Swift began circulating widely last week on X, making her the most famous victim of a scourge that tech platforms and anti-abuse groups have struggled to fix.
+“This is a temporary action and done with an abundance of caution as we prioritize safety on this issue,” Joe Benarroch, head of business operations at X, said in a statement.
+Unlike more conventional doctored images that have troubled celebrities in the past, the Swift images appear to have been created using an artificial intelligence image-generator that can instantly create new images from a written prompt.
+More on Swifties: Photos: Taylor Swift fans ‘Shake It Off’ in Garden Grove
+After the images began spreading online, the singer’s devoted fanbase of “Swifties” quickly mobilized, launching a counteroffensive on X and a #ProtectTaylorSwift hashtag to flood it with more positive images of the pop star. Some said they were reporting accounts that were sharing the deepfakes.
+The deepfake-detecting group Reality Defender said it tracked a deluge of nonconsensual pornographic material depicting Swift, particularly on X, formerly known as Twitter. Some images also made their way to Meta-owned Facebook and other social media platforms.
+The researchers found at least a couple dozen unique AI-generated images. The most widely shared were football-related, showing a painted or bloodied Swift that objectified her and in some cases inflicted violent harm on her deepfake persona.
+Also see: 36 of the biggest concerts and tours coming to Southern California in 2024
+The Swift images first emerged from an ongoing campaign that began last year on fringe platforms to produce sexually explicit AI-generated images of celebrity women, said Ben Decker, founder of the threat intelligence group Memetica. One of the Swift images that went viral last week appeared online as early as Jan. 6, he said.
+Most commercial AI image-generators have safeguards to prevent abuse, but commenters on anonymous message boards discussed tactics for how to circumvent the moderation, especially on Microsoft Designer’s text-to-image tool, Decker said.
+Microsoft said in a statement Monday that it is “continuing to investigate these images and have strengthened our existing safety systems to further prevent our services from being misused to help generate images like them.”
+Decker said “it’s part of a longstanding, adversarial relationship between trolls and platforms.”
+“As long as platforms exist, trolls are going to try to disrupt them,” he said. “And as long as trolls exist, platforms are going to be disrupted. So the question really becomes, how many more times is this going to happen before there is any serious change?”
+X’s move to reduce searches of Swift is likely a stopgap measure.
+“When you’re not sure where everything is and you can’t guarantee that everything has been taken down, the simplest thing you can do is limit people’s ability to search for it,” he said.
+Researchers have said the number of explicit deepfakes have grown in the past few years, as the technology used to produce such images has become more accessible and easier to use.
+In 2019, a report released by the AI firm DeepTrace Labs showed these images were overwhelmingly weaponized against women. Most of the victims, it said, were Hollywood actors and South Korean K-pop singers.
+In the European Union, separate pieces of new legislation include provisions for deepfakes. The Digital Services Act, which took effect last year, requires online platforms to take measures to curb the risk of spreading content that breaches “fundamental rights” like privacy, such as “non-consensual” images or deepfake porn. The 27-nation bloc’s Artificial Intelligence Act, which still awaits final approvals, will require companies that create deepfakes with AI systems to also inform users that the content is artificial or manipulated.
+Copyright © 2025 MediaNews Group

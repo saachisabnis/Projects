@@ -1,0 +1,31 @@
+Benzinga Rankings give you vital metrics on any stock – anytime.
+In a recent development, Amazon.com Inc. AMZN is introducing an artificial intelligence tool to respond to customer queries about products. The AI tool is embedded in the Amazon mobile app and aims to simplify the shopping experience.
+What Happened: When users ask a question about a specific product, the AI tool quickly returns a summarized answer, drawing from the product’s reviews and listing. The tool will not engage in conversations but can respond to creative prompts, CNBC reported on Tuesday.
+It can also generate content in different styles, such as writing a haiku or emulating Yoda’s speech. If the tool encounters a query it cannot handle, it returns an error message.
+Amazon spokesperson Maria Boschetti said, “We’re constantly inventing to help make customers’ lives better and easier, and are currently testing a new feature powered by generative AI to improve shopping on Amazon by helping customers get answers to commonly asked product questions.”
+See Also: WYNN Vs. Dogecoin Vs. Shiba Inu: Can Drake’s Coin Beat The Dogecoin Superstars?
+This new feature is the latest in a series of AI tools Amazon has been implementing. The company began testing AI-generated summaries of product reviews in June and has since launched AI features for third-party sellers to assist in writing listings and generating ad photos. Amazon has also introduced “Q,” an AI chatbot for companies, and Bedrock, a generative AI service for Amazon Web Services customers.
+Andy Jassy, Amazon’s CEO, noted in the company’s recent earnings call that generative AI is being used to forecast inventory and optimize last-mile routes for drivers. He believes that generative AI will revolutionize the customer experience and make it more accessible to developers and business users.
+Why It Matters: This move by Amazon is a significant step in the company’s AI strategy. Despite some hiccups, such as the recent launch of the AI chatbot Q, which faced criticism for producing incorrect outputs, Amazon has been actively pursuing AI integration across its platforms. Insiders at Amazon attributed these issues to a rushed launch and the deployment of a less proficient version of Anthropic's Claude AI model. In response, Amazon is expanding its team of human reviewers to manually fine-tune the chatbot's outputs.
+Amazon's Chief Security Officer Stephen Schmidt has also been at the forefront of this integration, seeing generative AI as a crucial tool in cybersecurity and supporting human staff. These tools, developed internally, include Code Whisperer, which identifies potential software vulnerabilities and suggests corrections.
+Amazon has been ramping up its AI game for a while now. At its AWS re: Invent event in 2023, the company showcased a range of AI innovations to tackle Microsoft Corp MSFT and Alphabet Inc‘s GOOG GOOGL rise in the field. 
+Read Next: WYNN For The Win: Drake’s Memecoin Up 152% In 24 Hours, Puts Shiba Inu, Dogecoin In Their Places
+Amazon Image created using AI on DALL-E
+
+        Engineered by
+        Benzinga Neuro, Edited by
+        
+
+              Kaustubh Bagalkote
+
+
+
+        The GPT-4-based Benzinga Neuro content generation system exploits the
+        extensive Benzinga Ecosystem, including native data, APIs, and more to
+        create comprehensive and timely stories for you.
+        Learn more.
+
+Benzinga Rankings give you vital metrics on any stock – anytime.
+© 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.
+A newsletter built for market enthusiasts by market enthusiasts. Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes.

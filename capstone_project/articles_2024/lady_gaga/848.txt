@@ -1,0 +1,25 @@
+By D. Griffin Jones • 11:50 am, November 26, 2024
+
+Apple Music has a karaoke mode for people who love to sing along as they listen. Apple Music Sing lets you turn down the lyrics so you can karaoke to your favorite hits with just one tap.
+In fact, I’m using it right now to listen to some of my favorite music without the lyrics distracting me from reading and writing. Let me show you how it works!
+This feature is available on the iPhone and iPad running iOS 16.2 or later. You can even have a karaoke party with your Apple TV — but only if you have the third-generation model from November 2022.
+There’s no love for the Mac or Vision Pro; maybe Apple doesn’t want you singing at your desk. (iTunes for Windows? As if.)
+You also need a subscription to Apple Music. Songs in your library that you’ve ripped from CDs (or downloaded from other unscrupulous places) won’t have lyrics or the karaoke-like feature. Songs that you’ve bought on iTunes the old-fashioned way might have live lyrics but will not work with Apple Music Sing.
+Now, you just need to find a song that supports the new feature.
+Turn on Lyrics by tapping the ” button in the bottom-left. If the song supports lyrics, tap the microphone icon above the progress bar. The song will pause for just a second, then it’ll continue playing with quieter lyrics.
+You can slide up and down on the microphone icon to raise or lower the vocals separately from the music. You can’t turn the vocals completely off, but you can get them pretty dang quiet.
+Tap the microphone icon at any time to bring the vocals back up to full volume.
+You’ll notice something new if you play the right song. Not only does it show the right line at the right time, but it also does the classic karaoke machine thing where it brightens the words as they’re being spoken — down to the sound.
+If you’re playing music that contains a duet, the companion part will show with the lyrics pushed to the right side. You and your partner can confidently belt out the words without getting confused about who does which part. I’m really looking forward to more lyrics being updated with this functionality.
+I’ve found that if you’re singing in the car — and you have an older Bluetooth sound system, not CarPlay — the lyrics will be a little slow. Many Bluetooth speakers have a one- or two-second delay. In my wife’s car, annoyingly, it’s laggy enough that most lyrics are already offscreen by the time you hear them over the speakers.
+I have a voice for reading Wikipedia articles, not a voice for singing. Many of my favorite albums are instrumental. I don’t know much about music. I don’t really pay attention to lyrics; it took me way too long to notice that half the lyrics of “Sour Candy” by Lady Gaga are in Japanese.
+All of those disclaimers are to say that even though I have objectively terrible taste, I really loved singing along to my favorites in the car with Apple Music in karaoke mode.
+When I’m reading or writing, listening to some music can be very distracting. If I can turn down the vocal tracks, I can continue listening to my favorite pop albums. (Even if I have to listen through my phone instead of the computer sitting right in front of me. Please bring this to the Mac!)
+Lyrics support has always been a bit spotty in Apple Music. I have an old library with a hearty, balanced mix of music I imported to iTunes, music I bought on the iTunes Music Store and music I’ve added through Apple Music.
+It’s extremely frustrating when Apple knows I paid for a song but doesn’t enable the lyrics or Sing features. On the left, I’m playing one of my favorite songs that I bought on iTunes about 10 years ago with hundreds of recorded plays — and I can’t use Sing. On the right is the same song after I searched for it and played it from Apple Music instead of my Music Library.
+Are you confused? Yeah, that’s my point.
+These types of fractured features prove annoying. Yes, I could delete every album from my library and add the Apple Music version, but ordinary people shouldn’t have to think about these arbitrary differences. Yes, I am a pedantic nerd who is tempted to do that much work because I genuinely love the lyric features. But the thought of deleting the version I already have, including my play history and star ratings, makes me really sad.
+I love music, but sometimes it’s hard to love Apple Music.        
+Daily round-ups or a weekly refresher, straight from Cult of Mac to your inbox.
+Our daily roundup of Apple news, reviews and how-tos. Plus the best Apple tweets, fun polls and inspiring Steve Jobs bons mots. Our readers say: "Love what you do" -- Christi Cardenas. "Absolutely love the content!" -- Harshita Arora. "Genuinely one of the highlights of my inbox" -- Lee Barnett.
+The week's best Apple news, reviews and how-tos from Cult of Mac, every Saturday morning. Our readers say: "Thank you guys for always posting cool stuff" -- Vaughn Nevins. "Very informative" -- Kenly Xavier.

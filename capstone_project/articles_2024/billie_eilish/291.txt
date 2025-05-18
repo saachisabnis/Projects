@@ -1,0 +1,17 @@
+Menu
+Congratulations, grumps of the world! Turns out you’re right: According to a just-published study, modern music is simpler and more repetitive than it used to be.
+It’s also getting increasingly angry and self-obsessed, if that bothered you as well.
+The new study, a collaboration between computer scientists and music experts, analyzed data collected from Last.fm, a music-focused social media site, and Genius, an online compendium of song lyrics. The researchers pulled out the general themes of popular music’s lyrical and musical content.
+Their method also examined the complexity of the lyrics, assessing the diversity of vocabulary and structural characteristics.
+The result: over time, pop music has become thematically darker and more simplistic.
+“There’s more rhyming lines and also more chorus,” Eva Zangerle, the study’s senior author and a computer scientist at the University of Innsbruck in Austria, told Scientific American. “We basically found that lyrics [have gotten] easier to understand.”
+But before you get too smug, you should know that the study’s sample was wide. It looked at more than 350,000 songs and crossed several popular music genres, from country to rap and hip-hop. The music was released between 1970 and 2020.
+This isn’t a recent development. Those golden “oldies” aren’t necessarily exempt.
+More than 200 musicians signed an open letter calling on tech and music companies to protect them from the irresponsible use of AI.
+LEARN MORE
+Some more key details to consider: All of the song data was from English-language music. The study takes care to mention that most users of Last.fm are concentrated in the United States, Europe, Russia and Brazil. It isn’t a complete picture of worldwide musical content; it skews to Western-influenced content.
+Also, less complicated wording doesn’t mean other elements of modern songs — such as texture and rhythm — are also becoming simpler. Researchers and critics also say that there are additional aspects at play, including the evolution of certain genres, trends in the recording industry, and the sheer amount of music that is available today. When people find it difficult to process all the choices they have, they go for more easily digestible options.
+As one professor noted to Scientific American, simplicity isn’t always a bad thing.
+“Complex music isn’t necessarily better music,” said Wellesley College ethnomusicologist Kaleb Goldschmitt, who wasn’t involved with the study. “If that were the case, we’d all be listening to prog rock.”
+After all, Zangerle told The Guardian, music is a “mirror of society.” Sometimes a catchy, anthemic tune with emotional lyrics is just what we all need.
+This story was originally published by Kathleen St. John at Simplemost.

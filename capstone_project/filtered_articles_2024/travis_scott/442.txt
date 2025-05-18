@@ -1,0 +1,437 @@
+Richmond BizSense November 20, 2024 0
+
+Control Of Network Systems For Automatic Assessment And Remediation Of Processing Anomalies
+Patent No. 12141809
+A remote deposit capture (RDC) processing anomaly detection and remediation tool that can communicate with the RDC system over a network, and determine whether a RDC transaction is missing from the RDC system by comparing created and assigned unique identifiers represented in RDC transaction data received at a selected RDC system location or component with unique identifiers represented in RDC transaction data received at a RDC system location or component that is upstream thereof. In response to finding a missing RDC transaction, the tool can determine one or more RDC system remediation actions, execute the one or more RDC system remediation actions on the RDC system, and report the missing RDC transaction and any RDC system remediation actions executed on the RDC system.
+Inventors: Omganesh Teekaramsighn (Johns Creek, Ga.); Louis Allin (Richmond); Jonathan Topp (Montpelier, Va.); Madhu Babu Martheneni (Cumming, Ga.); Lenin Kumar Pagidipala (Atlanta, Ga.)
+Assignee: Truist Bank (Charlotte, N.C.)
+Nov. 12, 2024
+Fluid Permeable Heater Assembly For Aerosol-generating Systems
+Patent No. 12137739
+A fluid permeable heater assembly for aerosol-generating systems includes an electrically conductive flat filament arrangement and a first contact point and a second contact point for electrically contacting the flat filament arrangement. A longitudinal axis is defined between the first contact point and the second contact point. A center resistance Rc is the electrical resistance between two points situated on the longitudinal axis. One of the two points is situated at a distance from the first contact point equal to about 40 percent and the other one of the two points being situated at a distance from the first contact point equal to about 60 percent.
+Inventors: Oleg Mironov (Cudrefin, Switzerland); Ihar Nikolaevich Zinovik (Peseux, Switzerland)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+Systems And Methods For Transaction Card-based Authentication
+Patent No. 12143515
+A method is provided for communicating with a transaction card having a card data processor, a near card field communication (NFC) interface, and a card memory having a unique card identifier stored therein. In this method, a user communication device establishes an NFC session with the transaction card and transmits to the transaction card an NFC data exchange format (NDEF) WRITE TAG command including session-specific challenge information. The user communication device transmits to the transaction card an NDEF READ TAG command and receives from the transaction card, card-specific challenge response information. The challenge response information is then used to authenticate the transaction card.
+Inventors: Kevin Osborn (Newton Highlands, Mass.); Vincent Vy Ngo (McLean, Va.): Samuel Patrick Edwards (Richmond)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 12, 2024
+Method Of Making Blank
+Patent No. 12139309
+The method includes establishing a blank with a bottom wall, the blank including a first sidewall and a second sidewall on opposing ends of the bottom wall and a lid panel and a top panel on opposing sides of the bottom wall, first folding the first sidewall and the second sidewall to be perpendicular to the bottom wall such that an end panel of a ramp contacts the bottom wall, the ramp being directly connected to a first edge of the first sidewall, second folding the top panel into a first closed position such that a first top wall of the top panel is parallel to the bottom wall as the first top wall at least partially covers the ramp, and third folding the lid panel into a second closed position such that a second top wall of the lid panel covers the first top wall.
+Inventors: Luiz Andre Rodrigues (Neuchatel, Switzerland); Onesio Luis Thesing (Ecublens, Switzerland)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+E-vapor Device Including A Compound Heater Structure
+Patent No. 12144066
+An e-vapor device may include a pre-vapor sector and a heater structure arranged in thermal contact with the pre-vapor sector. The pre-vapor sector includes a reservoir and a dispensing interface. The pre-vapor sector is configured to hold and dispense a pre-vapor formulation. The heater structure is configured to vaporize the pre-vapor formulation to generate a vapor. The heater structure includes a base wire and a heater wire coiled around the base wire. The base wire is insulated from the heater wire. As a result of the heater design, the heater structure is stiffer and more robust than other related heaters in the art, thus allowing more options for its implementation.
+Inventor: Peter Lipowicz (Midlothian, Va.)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+Gas-based Material Compression And Portioning
+Patent No. 12138881
+An apparatus includes a fixed assembly and a reciprocating assembly. The fixed assembly includes a hopper, a first gas manifold, and a dispensing chamber, and the reciprocating assembly includes a channel assembly defining a channel conduit, a shield plate vertically aligned therewith, and a second gas manifold. The reciprocating assembly may move, in relation to the fixed assembly, to a first position to enable the channel conduit to be filled with bulk compressible material from the hopper, a second position to enable compressible material to be pushed from the channel conduit to the dispensing conduit and to be compressed in the dispensing chamber according to a first gas directed through the channel conduit by the first gas manifold, and a third position to enable the compressed material to be pushed out of the dispensing conduit according to a second gas directed through the dispensing conduit by the second gas manifold.
+Inventors: Thien Nguyen (Glen Allen, Va.); Sean Sundberg (Richmond); Jeremy Straight (Midlothian, Va.); Berina Yerkic-Husejnovic (Richmond); Jarrod W. Chalkley (Mechanicsville, Va.); James D. Evans (Chesterfield, Va.); Christopher R. Newcomb (Powhatan, Va.): Robert V. Powell Jr. (Midlothian, Va.); Gregory L. Nelson (Chester, Va.)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+Non-combustible Tobacco Vaping Insert, And Cartridge With Non-combustible Tobacco Vaping Insert
+Patent No. 12137726
+The non-combustible tobacco vaping insert includes a filter having a first diameter, and a tobacco element with a first end contacting the filter, the tobacco element having a second diameter that is smaller than the first diameter of the filter. The cartridge includes a housing, where the cartridge defines an air passage within the housing, and a vaping insert is positioned in at least one first portion of the air passage. The vaping insert is non-combustible and is configured to allow vapor to pass through the vaping insert prior to exiting the cartridge. The vaping insert includes a filter having a first diameter, and a tobacco element with a first end contacting the filter, the tobacco element having a second diameter that is smaller than the first diameter of the filter.
+Inventors: Ali A. Rostami (Glen Allen, Va.); San Li (Midlothian, Va.); Yezdi B. Pithawalla (Midlothian, Va.)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+System And Method For Service Synchronization
+Patent No. 12141166
+The approaches described herein provide synchronization of data files across different databases used by different services and platforms. The services may be cloud-based services and include databases that include various types of data.
+Inventors: Ashutosh D. Modi (Rochester, Minn.); Marcelin M. Lovismartin (Glen Allen, Va.); Satish Mohan (San Ramon, Calif.); Nayana Garaga Krishnamurthy (San Jose, Calif.)
+Assignee: Walmart Apollo (Bentonville, Ark.)
+Nov. 12, 2024
+Bowling Center System
+Patent No. 12138527
+A bowling centre system (100) comprises: a bowling lane (1); a plurality of pins (2) positionable at predetermined points on the bowling lane (1); a plurality of strings (3), associated at one end, with a corresponding pin (2); for each string (3), a constrain system (4) positioned above the bowling lane (1) and having the other end of each string (3) connected to it; a pulley system (5) for managing the strings (3), positioned between the connecting system (4) and the pins (2) and comprising a motor-driven drawbar (6) operatively configured to manage a predetermined length of each string (3) present along the pulley system (5); the drawbar (6) is movable between a first position, allowing the pins (2) to be lifted from the bowling lane (1), and a second position, allowing not only the pins (2) to be lowered onto the bowling lane (1) into the predetermined position but also each string (3) to be slackened by the release of a further first working length so that the pins (2) can fall freely when struck by a ball (7) thrown along the lane (1) or by other pins struck by the ball (7) during play; a control device (8) for controlling the position of the movable drawbar (6); and a drive and selection system (9) connected to the movable drawbar (6) and to the control device (8) and configured to allow the movable drawbar (6) to move, when required, to at least a further, third operating position allowing the string (3) to be slackened by the release of a second working length different from the first working length of string (3) released when the second operating position is reached.
+Inventor: Roberto Vaiolli (Ozzano dell’Emilia, Italy)
+Assignee: QUBICAAMF (Mechanicsville, Va.)
+Nov. 22, 2024
+Systems And Methods For Extracting In-video Moving Text In Live Video Streams
+Patent No. 12148231
+In some embodiments, user extraction of in-video text may be facilitated. In some embodiments, a video associated with a video communication session may be processed to detect moving text to which a first user is referring in the video. Based on the detection of the moving text, location information associated with the moving text may be determined. For example, the location information may indicate spatial locations of the moving text. Based on the text location information, a graphical text location indicator may be overlayed on the video (e.g., on a first portion of a user interface of a user device) where the graphical text location indicator is presented proximate the moving text. Selectable text corresponding to the moving text and an auxiliary indicator corresponding to the graphical text location indicator may be presented on a second portion of the user interface.
+Inventors: Vamsi Kavuri (Glen Allen, Va.); Jignesh Rangwala (Glen Allen, Va.); Santhi Sridharan (Glen Allen, Va.); Muthukumaran Vembuli (Glen Allen, Va.); Lee Adcock (Midlothian, Va.); Mehulkumar Jayantilal Gamara (Glen Allen, Va.); Srikanth Reddy Sheshaiahgari (Richmond)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Apparatus For Applying A Multi-can Engagement Collar To A Group Of Beverage Cans
+Patent No. 12145757
+An apparatus for applying an engagement collar to a group of articles, which includes an application area defining a horizontal support surface for receiving a group of articles, a horizontal press plate positioned above the support surface and mounted for vertical movement relative to the support surface, and an actuation assembly operatively connected to the press plate for moving the press plate relative to the support surface to apply an engagement collar to the group of articles positioned on the support surface within the application area, wherein the actuation assembly includes an actuation lever that is located below the press plate and in front of the application area to provide an ergonomic work environment.
+Inventors: Linh L. Kooc (Richmond); Matthew E. Zacherle (Moseley, Va.)
+Assignee: WestRock Packaging Systems (Atlanta, Ga.)
+Nov. 19, 2024
+Laboratory Well Plate Washing Device And Associated Method
+Patent No. 12145145
+A device for cleaning items comprises an enclosure defining a wash chamber, a rotor positioned within the wash chamber and selectively rotatable about an axle, a motor for selectively rotating the axle, a dispenser, and a drain. The rotor comprises a plurality of holders spaced about the axle and adapted to selectively receive and hold a respective item to be cleaned. The dispenser at least one liquid input and at least one liquid output and is positioned such that the at least one liquid output directs cleaning fluid at one of the items to clean material out of the cavities. The drain is for draining the cleaning fluid out of the chamber. The rotor is selectively rotatable at a predefined rotational speed for a predefined amount of time to expel cleaning fluid from the cavities of each item to be cleaned.
+Inventors: Nolan Benner (Richmond); Ali Safavi (Richmond); Taylor Anderson (Henrico, Va.); John Turner III (Henrico, Va.); Brennan Chaloux (Henrico, Va.); Raphael Santore (Richmond)
+Assignee: Grenova (Richmond)
+Nov. 19, 2024
+Method Of Forming Blank With Platform Panel, First Foot Panel And Second Foot Panel
+Patent No. 12145778
+The method includes first defining a plurality of fold lines that divide the blank into a plurality of sidewall panels, forming a platform panel on a bottom end of the plurality of sidewall panels, the platform panel having a first foot panel and a second foot panel on first opposing sides of the platform panel, the first foot panel directly connecting the platform panel to a first sidewall panel, of the plurality of sidewall panels, and second defining a tab near the bottom end of the plurality of sidewall panels, the tab being configured to retain a bottom edge of the second foot panel, upon an assembly of the blank into a package.
+Inventor: Travis Garthaffner (Midlothian, Va.)
+Assignee: Altria Client Services (Richmond)
+Nov. 19, 2024
+Semantic Entity Search Using Vector Space
+Patent No. 12147433
+A method may include storing a vector space representation of a set of concepts in a semantic ontology, wherein locations of the set of concepts in the vector space are based on weights of a neural network trained using triples from the semantic ontology; presenting a semantic search user interface including: a text input portion to receive a search query from an input device; a suggested search portion; and a search results portion; receiving, from a user computing device, the search query; converting, using at least one processor, the search query into a vector; computing, using the at least one processor, a set of possible concepts related to the search query based on a distance between the vector and other concepts in the vector space representation; and presenting the set of possible concepts related to the search query in the suggested search portion of the semantic search user interface.
+Inventors: David Newman (Walnut Creek, Calif.); Omar B. Khan (Richmond); Alexander Joseph Kalinowski (Philadelphia, Penn.)
+Assignee: Wells Fargo Bank (San Francisco, Calif.)
+Nov. 19, 2024
+Automated Database Provisioning And Methods Thereof
+Patent No. 12147561
+Systems and methods of the present disclosure enable the automated provisioning of security and compliance policies and onboarding to identity governance solutions. The systems and methods include processors to receive a database provisioning request associated with at least one entity and accessing at least one identity data record via an identity management mechanism associated with the at least one entity. The processors automatically access the database via a secured port; automatically cause to generate in the database, at least one privilege account and at least one access credential rule based on the at least one identity data record. The database is configured to utilize the at least one access credential rule to automatically manage access credentials for accessing the database via the at least one privilege account. The processors automatically disconnect from the secured port of the database.
+Inventors: Nagesh Gummadivalli (Chantilly, Va.); Aniket Sinkar (Glen Allen, Va.); Arindam Chakraborty (Glen Allen, Va.); Norflet Bailey (Woodford, Va.); Clayton Mottley (Alexandria, Va.); Arthur Maltson (Maple, Canada); Elijah Sattler (Richmond); Gregory Moczygemba (Quinton, Va.); Nitin Sharma (Glen Allen, Va.); Empress Marcelin (Glen Allen, Va.); Bryan Barton (McLean, Va.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Systems And Methods For Post-acquisition Assessment Matching
+Patent No. 12148018
+A computer-implemented method for post-acquisition assessment matching may include: receiving interaction information associated with a completed interaction involving an item acquired for a first assessment, the interaction information including an item identifier associated with the acquired item and the first assessment; in response to receiving the interaction information, determining whether the item is available for a second assessment based on the item identifier; in response to determining the second assessment for the item, comparing the first assessment with the second assessment; and in response to determining that the first assessment is higher than the second assessment based on the comparison: adjusting the first assessment based on the second assessment; determining a finalized amount for the interaction based on the adjusted first assessment for the item; and causing completion of the interaction based on the finalized amount.
+Inventors: Anthony Reynolds (Richmond, Va.); Amitav Parida (Arlington Heights, Ill.); Daniel Kelly (Chicago, Ill.); Jason Samuels (Ladera Ranch, Calif.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Methods Of Protecting Furnace Electrodes With Cooling Liquid That Contains An Additive
+Patent No. 12150230
+A method for forming a protective antioxidative barrier on the furnace electrodes using a chemically altered cooling liquid containing an antioxidant additive. This method can be applied to electrodes used in electric arc furnaces and ladle metallurgy furnaces. The method can involve spraying the cooling liquid onto the electrode, thereby forming the protective antioxidative barrier and reducing the oxidation of the electrode.
+Inventors: Joseph S. Strasser (Evergreen, Colo.); Joseph M. Hamnik (Willis, Texas); James R. Lawson (Louisville, Tenn.); Alan J. Feller (Macy, Ind.)
+Assignee: Chemtreat (Glen Allen, Va.)
+Nov. 19, 2024
+Automatic Optimal Payment Type Determination Systems
+Patent No. 12147965
+A system for providing a payment includes a processor and a memory configured to cause the system to receive a payment request representative of a payment amount, a payor identification, and a payee identification. The system includes means for determining payor cash holdings and payor available credit as well as authenticating the validity of a payment request and identity of the payor via received biometric data from a payor device. The system may further receive data representative of payee approved payment methods and determine a payment composition based on the payment amount, payor payment preferences, payor cash holdings and payor available credit. Based on the payee approved payment methods, the system may determine one or more payment types. The system may convey the payment amount to the payee in the form of one or more payment types and may fund the payment amount according to the payment composition.
+Inventors: Andrew Cohn (Bethesda, Md.); Katelyn Schultz (New York, N.Y.); Fouad Alkisswani (New York, N.Y.); Richard Elliott (Glen Allen, Va.); Kylen Dau (Maidens, Va.); Rajsaday Dutt (Vienna, Va.); Marcelo Jabif Epsztejn (Reston, Va.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Systems And Methods For Cryptographic Authentication Of Contactless Cards
+Patent No. 12147977
+Example embodiments of systems and methods for data transmission system between transmitting and receiving devices are provided. In an embodiment, each of the transmitting and receiving devices can contain a master key. The transmitting device can generate a diversified key using the master key, protect a counter value and encrypt data prior to transmitting to the receiving device, which can generate the diversified key based on the master key and can decrypt the data and validate the protected counter value using the diversified key. Example embodiments of systems and methods can be used to provide further authentication and added levels of security for transactions.
+Inventors: Kevin Osborn (Newton, Mass.); Jeffrey Rule (Chevy Chase, Md.); James Ashfield (Midlothian, Va.); Srinivasa Chigurupati (Long Grove, Ill.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Chat Communication Support Assistants
+Patent No. 12149488
+Disclosed in some examples are methods, systems, and machine-readable mediums which provide for an agent support application with a plurality of plug-in communication support assistants. Each of the plurality of plug-in communication support assistants monitors communications between the agents and customers for different conversational triggers. Conversational triggers may be any conversation, either by the agent or the customer, that the communication support assistant is trained to detect. Upon detecting one of these conversational triggers, the plug-in communication support assistant provides one or more suggestions to the agent.
+Inventors: Kimarie Pike Matthews (Burlingame, Calif.); Richard Castanho (Rutherfordton, N.C.); Germaine S. Chee (Mill Valley, Calif.); Robin J. Cusimano (San Francisco, Calif.); Brett D. Ehrlich (San Carlos, Calif.); Tyua Larsen Fraser (Livermore, Calif.); Colleen Reardon Graham (Mooresville, N.C.); Gregory Scott Hill (Midlothian, Va.); James W. Pedersen (Gilbert, Ariz.); Timothy J. Shipman (San Francisco, Calif.)
+Assignee: Wells Fargo Bank (San Francisco, Calif.)
+Nov 19, 2024
+Computer-based Systems Of Microservice Orchestration Based On Bounded Contexts And Methods Of Use Thereof
+Patent No. 12148042
+In order to provide agile and dynamic portfolio management, systems and methods for underwriting and portfolio management include an ecosystem including a platform, including processing devices, communication interfaces, runtime environments, and databases, where the databases are configured to store ecosystem data, where the ecosystem data includes data associated with a plurality of systems. A service layer is in communication with the platform, the service layer including containers executed in the runtime environment and configured to implement microservices, where each of the containers include: at least one microservice and a datastore device configured to store domain-specific data. An orchestrator is in communication with the service layer, the orchestrator to schedule execution of the microservices according to bounded contexts coordinated with composite application programming interfaces (API) interfacing with a microservice specific API.
+Inventors: Jim Brocato (McLean, Va.); Alberto Silva (McLean, Va.); Victor Lombardi (McLean, Va.); Christopher Bowers (Midlothian, Va.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Low Ash Lubricating Compositions For Controlling Steel Corrosion
+Patent No. 12146115
+This disclosure describes low ash lubricating composition achieving passing steel corrosion, passing high temperature deposit formation, and emulsion stability. The lubricating compositions include one or more select corrosion or rust inhibitor chemistries having an oil-soluble acyclic structure with acidic, hydroxy, or amine moieties but being free of imine, imide, and/or amidine moieties.
+Inventor: Kenneth Garelick (Mechanicsville, Va.)
+Assignee: Afton Chemical Corp. (Richmond)
+Nov. 19, 2024
+Method For Managing Curbside Use By Vehicles
+Patent No. 12147969
+A method for managing curbside use by connected and/or autonomous vehicles that includes executing instructions of one or more computing devices having a processor that integrates at least a navigation component, an asset verification component, and a curbside management component, that generate recommended curbside access destinations for a vehicle associated with the customer and one of which is selected as the final curbside destination for the vehicle.
+Inventors: Michael Sawyer (Chester, Va.); Lawrence J. Marcus (Falls Church, Va.)
+Matthew Roe (Brooklyn, N.Y.)
+Assignee: N/A
+Nov. 19, 2024
+
+Control Of Network Systems For Automatic Assessment And Remediation Of Processing Anomalies
+Patent No. 12141809
+A remote deposit capture (RDC) processing anomaly detection and remediation tool that can communicate with the RDC system over a network, and determine whether a RDC transaction is missing from the RDC system by comparing created and assigned unique identifiers represented in RDC transaction data received at a selected RDC system location or component with unique identifiers represented in RDC transaction data received at a RDC system location or component that is upstream thereof. In response to finding a missing RDC transaction, the tool can determine one or more RDC system remediation actions, execute the one or more RDC system remediation actions on the RDC system, and report the missing RDC transaction and any RDC system remediation actions executed on the RDC system.
+Inventors: Omganesh Teekaramsighn (Johns Creek, Ga.); Louis Allin (Richmond); Jonathan Topp (Montpelier, Va.); Madhu Babu Martheneni (Cumming, Ga.); Lenin Kumar Pagidipala (Atlanta, Ga.)
+Assignee: Truist Bank (Charlotte, N.C.)
+Nov. 12, 2024
+Fluid Permeable Heater Assembly For Aerosol-generating Systems
+Patent No. 12137739
+A fluid permeable heater assembly for aerosol-generating systems includes an electrically conductive flat filament arrangement and a first contact point and a second contact point for electrically contacting the flat filament arrangement. A longitudinal axis is defined between the first contact point and the second contact point. A center resistance Rc is the electrical resistance between two points situated on the longitudinal axis. One of the two points is situated at a distance from the first contact point equal to about 40 percent and the other one of the two points being situated at a distance from the first contact point equal to about 60 percent.
+Inventors: Oleg Mironov (Cudrefin, Switzerland); Ihar Nikolaevich Zinovik (Peseux, Switzerland)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+Systems And Methods For Transaction Card-based Authentication
+Patent No. 12143515
+A method is provided for communicating with a transaction card having a card data processor, a near card field communication (NFC) interface, and a card memory having a unique card identifier stored therein. In this method, a user communication device establishes an NFC session with the transaction card and transmits to the transaction card an NFC data exchange format (NDEF) WRITE TAG command including session-specific challenge information. The user communication device transmits to the transaction card an NDEF READ TAG command and receives from the transaction card, card-specific challenge response information. The challenge response information is then used to authenticate the transaction card.
+Inventors: Kevin Osborn (Newton Highlands, Mass.); Vincent Vy Ngo (McLean, Va.): Samuel Patrick Edwards (Richmond)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 12, 2024
+Method Of Making Blank
+Patent No. 12139309
+The method includes establishing a blank with a bottom wall, the blank including a first sidewall and a second sidewall on opposing ends of the bottom wall and a lid panel and a top panel on opposing sides of the bottom wall, first folding the first sidewall and the second sidewall to be perpendicular to the bottom wall such that an end panel of a ramp contacts the bottom wall, the ramp being directly connected to a first edge of the first sidewall, second folding the top panel into a first closed position such that a first top wall of the top panel is parallel to the bottom wall as the first top wall at least partially covers the ramp, and third folding the lid panel into a second closed position such that a second top wall of the lid panel covers the first top wall.
+Inventors: Luiz Andre Rodrigues (Neuchatel, Switzerland); Onesio Luis Thesing (Ecublens, Switzerland)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+E-vapor Device Including A Compound Heater Structure
+Patent No. 12144066
+An e-vapor device may include a pre-vapor sector and a heater structure arranged in thermal contact with the pre-vapor sector. The pre-vapor sector includes a reservoir and a dispensing interface. The pre-vapor sector is configured to hold and dispense a pre-vapor formulation. The heater structure is configured to vaporize the pre-vapor formulation to generate a vapor. The heater structure includes a base wire and a heater wire coiled around the base wire. The base wire is insulated from the heater wire. As a result of the heater design, the heater structure is stiffer and more robust than other related heaters in the art, thus allowing more options for its implementation.
+Inventor: Peter Lipowicz (Midlothian, Va.)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+Gas-based Material Compression And Portioning
+Patent No. 12138881
+An apparatus includes a fixed assembly and a reciprocating assembly. The fixed assembly includes a hopper, a first gas manifold, and a dispensing chamber, and the reciprocating assembly includes a channel assembly defining a channel conduit, a shield plate vertically aligned therewith, and a second gas manifold. The reciprocating assembly may move, in relation to the fixed assembly, to a first position to enable the channel conduit to be filled with bulk compressible material from the hopper, a second position to enable compressible material to be pushed from the channel conduit to the dispensing conduit and to be compressed in the dispensing chamber according to a first gas directed through the channel conduit by the first gas manifold, and a third position to enable the compressed material to be pushed out of the dispensing conduit according to a second gas directed through the dispensing conduit by the second gas manifold.
+Inventors: Thien Nguyen (Glen Allen, Va.); Sean Sundberg (Richmond); Jeremy Straight (Midlothian, Va.); Berina Yerkic-Husejnovic (Richmond); Jarrod W. Chalkley (Mechanicsville, Va.); James D. Evans (Chesterfield, Va.); Christopher R. Newcomb (Powhatan, Va.): Robert V. Powell Jr. (Midlothian, Va.); Gregory L. Nelson (Chester, Va.)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+Non-combustible Tobacco Vaping Insert, And Cartridge With Non-combustible Tobacco Vaping Insert
+Patent No. 12137726
+The non-combustible tobacco vaping insert includes a filter having a first diameter, and a tobacco element with a first end contacting the filter, the tobacco element having a second diameter that is smaller than the first diameter of the filter. The cartridge includes a housing, where the cartridge defines an air passage within the housing, and a vaping insert is positioned in at least one first portion of the air passage. The vaping insert is non-combustible and is configured to allow vapor to pass through the vaping insert prior to exiting the cartridge. The vaping insert includes a filter having a first diameter, and a tobacco element with a first end contacting the filter, the tobacco element having a second diameter that is smaller than the first diameter of the filter.
+Inventors: Ali A. Rostami (Glen Allen, Va.); San Li (Midlothian, Va.); Yezdi B. Pithawalla (Midlothian, Va.)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+System And Method For Service Synchronization
+Patent No. 12141166
+The approaches described herein provide synchronization of data files across different databases used by different services and platforms. The services may be cloud-based services and include databases that include various types of data.
+Inventors: Ashutosh D. Modi (Rochester, Minn.); Marcelin M. Lovismartin (Glen Allen, Va.); Satish Mohan (San Ramon, Calif.); Nayana Garaga Krishnamurthy (San Jose, Calif.)
+Assignee: Walmart Apollo (Bentonville, Ark.)
+Nov. 12, 2024
+Bowling Center System
+Patent No. 12138527
+A bowling centre system (100) comprises: a bowling lane (1); a plurality of pins (2) positionable at predetermined points on the bowling lane (1); a plurality of strings (3), associated at one end, with a corresponding pin (2); for each string (3), a constrain system (4) positioned above the bowling lane (1) and having the other end of each string (3) connected to it; a pulley system (5) for managing the strings (3), positioned between the connecting system (4) and the pins (2) and comprising a motor-driven drawbar (6) operatively configured to manage a predetermined length of each string (3) present along the pulley system (5); the drawbar (6) is movable between a first position, allowing the pins (2) to be lifted from the bowling lane (1), and a second position, allowing not only the pins (2) to be lowered onto the bowling lane (1) into the predetermined position but also each string (3) to be slackened by the release of a further first working length so that the pins (2) can fall freely when struck by a ball (7) thrown along the lane (1) or by other pins struck by the ball (7) during play; a control device (8) for controlling the position of the movable drawbar (6); and a drive and selection system (9) connected to the movable drawbar (6) and to the control device (8) and configured to allow the movable drawbar (6) to move, when required, to at least a further, third operating position allowing the string (3) to be slackened by the release of a second working length different from the first working length of string (3) released when the second operating position is reached.
+Inventor: Roberto Vaiolli (Ozzano dell’Emilia, Italy)
+Assignee: QUBICAAMF (Mechanicsville, Va.)
+Nov. 22, 2024
+Systems And Methods For Extracting In-video Moving Text In Live Video Streams
+Patent No. 12148231
+In some embodiments, user extraction of in-video text may be facilitated. In some embodiments, a video associated with a video communication session may be processed to detect moving text to which a first user is referring in the video. Based on the detection of the moving text, location information associated with the moving text may be determined. For example, the location information may indicate spatial locations of the moving text. Based on the text location information, a graphical text location indicator may be overlayed on the video (e.g., on a first portion of a user interface of a user device) where the graphical text location indicator is presented proximate the moving text. Selectable text corresponding to the moving text and an auxiliary indicator corresponding to the graphical text location indicator may be presented on a second portion of the user interface.
+Inventors: Vamsi Kavuri (Glen Allen, Va.); Jignesh Rangwala (Glen Allen, Va.); Santhi Sridharan (Glen Allen, Va.); Muthukumaran Vembuli (Glen Allen, Va.); Lee Adcock (Midlothian, Va.); Mehulkumar Jayantilal Gamara (Glen Allen, Va.); Srikanth Reddy Sheshaiahgari (Richmond)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Apparatus For Applying A Multi-can Engagement Collar To A Group Of Beverage Cans
+Patent No. 12145757
+An apparatus for applying an engagement collar to a group of articles, which includes an application area defining a horizontal support surface for receiving a group of articles, a horizontal press plate positioned above the support surface and mounted for vertical movement relative to the support surface, and an actuation assembly operatively connected to the press plate for moving the press plate relative to the support surface to apply an engagement collar to the group of articles positioned on the support surface within the application area, wherein the actuation assembly includes an actuation lever that is located below the press plate and in front of the application area to provide an ergonomic work environment.
+Inventors: Linh L. Kooc (Richmond); Matthew E. Zacherle (Moseley, Va.)
+Assignee: WestRock Packaging Systems (Atlanta, Ga.)
+Nov. 19, 2024
+Laboratory Well Plate Washing Device And Associated Method
+Patent No. 12145145
+A device for cleaning items comprises an enclosure defining a wash chamber, a rotor positioned within the wash chamber and selectively rotatable about an axle, a motor for selectively rotating the axle, a dispenser, and a drain. The rotor comprises a plurality of holders spaced about the axle and adapted to selectively receive and hold a respective item to be cleaned. The dispenser at least one liquid input and at least one liquid output and is positioned such that the at least one liquid output directs cleaning fluid at one of the items to clean material out of the cavities. The drain is for draining the cleaning fluid out of the chamber. The rotor is selectively rotatable at a predefined rotational speed for a predefined amount of time to expel cleaning fluid from the cavities of each item to be cleaned.
+Inventors: Nolan Benner (Richmond); Ali Safavi (Richmond); Taylor Anderson (Henrico, Va.); John Turner III (Henrico, Va.); Brennan Chaloux (Henrico, Va.); Raphael Santore (Richmond)
+Assignee: Grenova (Richmond)
+Nov. 19, 2024
+Method Of Forming Blank With Platform Panel, First Foot Panel And Second Foot Panel
+Patent No. 12145778
+The method includes first defining a plurality of fold lines that divide the blank into a plurality of sidewall panels, forming a platform panel on a bottom end of the plurality of sidewall panels, the platform panel having a first foot panel and a second foot panel on first opposing sides of the platform panel, the first foot panel directly connecting the platform panel to a first sidewall panel, of the plurality of sidewall panels, and second defining a tab near the bottom end of the plurality of sidewall panels, the tab being configured to retain a bottom edge of the second foot panel, upon an assembly of the blank into a package.
+Inventor: Travis Garthaffner (Midlothian, Va.)
+Assignee: Altria Client Services (Richmond)
+Nov. 19, 2024
+Semantic Entity Search Using Vector Space
+Patent No. 12147433
+A method may include storing a vector space representation of a set of concepts in a semantic ontology, wherein locations of the set of concepts in the vector space are based on weights of a neural network trained using triples from the semantic ontology; presenting a semantic search user interface including: a text input portion to receive a search query from an input device; a suggested search portion; and a search results portion; receiving, from a user computing device, the search query; converting, using at least one processor, the search query into a vector; computing, using the at least one processor, a set of possible concepts related to the search query based on a distance between the vector and other concepts in the vector space representation; and presenting the set of possible concepts related to the search query in the suggested search portion of the semantic search user interface.
+Inventors: David Newman (Walnut Creek, Calif.); Omar B. Khan (Richmond); Alexander Joseph Kalinowski (Philadelphia, Penn.)
+Assignee: Wells Fargo Bank (San Francisco, Calif.)
+Nov. 19, 2024
+Automated Database Provisioning And Methods Thereof
+Patent No. 12147561
+Systems and methods of the present disclosure enable the automated provisioning of security and compliance policies and onboarding to identity governance solutions. The systems and methods include processors to receive a database provisioning request associated with at least one entity and accessing at least one identity data record via an identity management mechanism associated with the at least one entity. The processors automatically access the database via a secured port; automatically cause to generate in the database, at least one privilege account and at least one access credential rule based on the at least one identity data record. The database is configured to utilize the at least one access credential rule to automatically manage access credentials for accessing the database via the at least one privilege account. The processors automatically disconnect from the secured port of the database.
+Inventors: Nagesh Gummadivalli (Chantilly, Va.); Aniket Sinkar (Glen Allen, Va.); Arindam Chakraborty (Glen Allen, Va.); Norflet Bailey (Woodford, Va.); Clayton Mottley (Alexandria, Va.); Arthur Maltson (Maple, Canada); Elijah Sattler (Richmond); Gregory Moczygemba (Quinton, Va.); Nitin Sharma (Glen Allen, Va.); Empress Marcelin (Glen Allen, Va.); Bryan Barton (McLean, Va.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Systems And Methods For Post-acquisition Assessment Matching
+Patent No. 12148018
+A computer-implemented method for post-acquisition assessment matching may include: receiving interaction information associated with a completed interaction involving an item acquired for a first assessment, the interaction information including an item identifier associated with the acquired item and the first assessment; in response to receiving the interaction information, determining whether the item is available for a second assessment based on the item identifier; in response to determining the second assessment for the item, comparing the first assessment with the second assessment; and in response to determining that the first assessment is higher than the second assessment based on the comparison: adjusting the first assessment based on the second assessment; determining a finalized amount for the interaction based on the adjusted first assessment for the item; and causing completion of the interaction based on the finalized amount.
+Inventors: Anthony Reynolds (Richmond, Va.); Amitav Parida (Arlington Heights, Ill.); Daniel Kelly (Chicago, Ill.); Jason Samuels (Ladera Ranch, Calif.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Methods Of Protecting Furnace Electrodes With Cooling Liquid That Contains An Additive
+Patent No. 12150230
+A method for forming a protective antioxidative barrier on the furnace electrodes using a chemically altered cooling liquid containing an antioxidant additive. This method can be applied to electrodes used in electric arc furnaces and ladle metallurgy furnaces. The method can involve spraying the cooling liquid onto the electrode, thereby forming the protective antioxidative barrier and reducing the oxidation of the electrode.
+Inventors: Joseph S. Strasser (Evergreen, Colo.); Joseph M. Hamnik (Willis, Texas); James R. Lawson (Louisville, Tenn.); Alan J. Feller (Macy, Ind.)
+Assignee: Chemtreat (Glen Allen, Va.)
+Nov. 19, 2024
+Automatic Optimal Payment Type Determination Systems
+Patent No. 12147965
+A system for providing a payment includes a processor and a memory configured to cause the system to receive a payment request representative of a payment amount, a payor identification, and a payee identification. The system includes means for determining payor cash holdings and payor available credit as well as authenticating the validity of a payment request and identity of the payor via received biometric data from a payor device. The system may further receive data representative of payee approved payment methods and determine a payment composition based on the payment amount, payor payment preferences, payor cash holdings and payor available credit. Based on the payee approved payment methods, the system may determine one or more payment types. The system may convey the payment amount to the payee in the form of one or more payment types and may fund the payment amount according to the payment composition.
+Inventors: Andrew Cohn (Bethesda, Md.); Katelyn Schultz (New York, N.Y.); Fouad Alkisswani (New York, N.Y.); Richard Elliott (Glen Allen, Va.); Kylen Dau (Maidens, Va.); Rajsaday Dutt (Vienna, Va.); Marcelo Jabif Epsztejn (Reston, Va.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Systems And Methods For Cryptographic Authentication Of Contactless Cards
+Patent No. 12147977
+Example embodiments of systems and methods for data transmission system between transmitting and receiving devices are provided. In an embodiment, each of the transmitting and receiving devices can contain a master key. The transmitting device can generate a diversified key using the master key, protect a counter value and encrypt data prior to transmitting to the receiving device, which can generate the diversified key based on the master key and can decrypt the data and validate the protected counter value using the diversified key. Example embodiments of systems and methods can be used to provide further authentication and added levels of security for transactions.
+Inventors: Kevin Osborn (Newton, Mass.); Jeffrey Rule (Chevy Chase, Md.); James Ashfield (Midlothian, Va.); Srinivasa Chigurupati (Long Grove, Ill.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Chat Communication Support Assistants
+Patent No. 12149488
+Disclosed in some examples are methods, systems, and machine-readable mediums which provide for an agent support application with a plurality of plug-in communication support assistants. Each of the plurality of plug-in communication support assistants monitors communications between the agents and customers for different conversational triggers. Conversational triggers may be any conversation, either by the agent or the customer, that the communication support assistant is trained to detect. Upon detecting one of these conversational triggers, the plug-in communication support assistant provides one or more suggestions to the agent.
+Inventors: Kimarie Pike Matthews (Burlingame, Calif.); Richard Castanho (Rutherfordton, N.C.); Germaine S. Chee (Mill Valley, Calif.); Robin J. Cusimano (San Francisco, Calif.); Brett D. Ehrlich (San Carlos, Calif.); Tyua Larsen Fraser (Livermore, Calif.); Colleen Reardon Graham (Mooresville, N.C.); Gregory Scott Hill (Midlothian, Va.); James W. Pedersen (Gilbert, Ariz.); Timothy J. Shipman (San Francisco, Calif.)
+Assignee: Wells Fargo Bank (San Francisco, Calif.)
+Nov 19, 2024
+Computer-based Systems Of Microservice Orchestration Based On Bounded Contexts And Methods Of Use Thereof
+Patent No. 12148042
+In order to provide agile and dynamic portfolio management, systems and methods for underwriting and portfolio management include an ecosystem including a platform, including processing devices, communication interfaces, runtime environments, and databases, where the databases are configured to store ecosystem data, where the ecosystem data includes data associated with a plurality of systems. A service layer is in communication with the platform, the service layer including containers executed in the runtime environment and configured to implement microservices, where each of the containers include: at least one microservice and a datastore device configured to store domain-specific data. An orchestrator is in communication with the service layer, the orchestrator to schedule execution of the microservices according to bounded contexts coordinated with composite application programming interfaces (API) interfacing with a microservice specific API.
+Inventors: Jim Brocato (McLean, Va.); Alberto Silva (McLean, Va.); Victor Lombardi (McLean, Va.); Christopher Bowers (Midlothian, Va.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Low Ash Lubricating Compositions For Controlling Steel Corrosion
+Patent No. 12146115
+This disclosure describes low ash lubricating composition achieving passing steel corrosion, passing high temperature deposit formation, and emulsion stability. The lubricating compositions include one or more select corrosion or rust inhibitor chemistries having an oil-soluble acyclic structure with acidic, hydroxy, or amine moieties but being free of imine, imide, and/or amidine moieties.
+Inventor: Kenneth Garelick (Mechanicsville, Va.)
+Assignee: Afton Chemical Corp. (Richmond)
+Nov. 19, 2024
+Method For Managing Curbside Use By Vehicles
+Patent No. 12147969
+A method for managing curbside use by connected and/or autonomous vehicles that includes executing instructions of one or more computing devices having a processor that integrates at least a navigation component, an asset verification component, and a curbside management component, that generate recommended curbside access destinations for a vehicle associated with the customer and one of which is selected as the final curbside destination for the vehicle.
+Inventors: Michael Sawyer (Chester, Va.); Lawrence J. Marcus (Falls Church, Va.)
+Matthew Roe (Brooklyn, N.Y.)
+Assignee: N/A
+Nov. 19, 2024
+
+Control Of Network Systems For Automatic Assessment And Remediation Of Processing Anomalies
+Patent No. 12141809
+A remote deposit capture (RDC) processing anomaly detection and remediation tool that can communicate with the RDC system over a network, and determine whether a RDC transaction is missing from the RDC system by comparing created and assigned unique identifiers represented in RDC transaction data received at a selected RDC system location or component with unique identifiers represented in RDC transaction data received at a RDC system location or component that is upstream thereof. In response to finding a missing RDC transaction, the tool can determine one or more RDC system remediation actions, execute the one or more RDC system remediation actions on the RDC system, and report the missing RDC transaction and any RDC system remediation actions executed on the RDC system.
+Inventors: Omganesh Teekaramsighn (Johns Creek, Ga.); Louis Allin (Richmond); Jonathan Topp (Montpelier, Va.); Madhu Babu Martheneni (Cumming, Ga.); Lenin Kumar Pagidipala (Atlanta, Ga.)
+Assignee: Truist Bank (Charlotte, N.C.)
+Nov. 12, 2024
+Fluid Permeable Heater Assembly For Aerosol-generating Systems
+Patent No. 12137739
+A fluid permeable heater assembly for aerosol-generating systems includes an electrically conductive flat filament arrangement and a first contact point and a second contact point for electrically contacting the flat filament arrangement. A longitudinal axis is defined between the first contact point and the second contact point. A center resistance Rc is the electrical resistance between two points situated on the longitudinal axis. One of the two points is situated at a distance from the first contact point equal to about 40 percent and the other one of the two points being situated at a distance from the first contact point equal to about 60 percent.
+Inventors: Oleg Mironov (Cudrefin, Switzerland); Ihar Nikolaevich Zinovik (Peseux, Switzerland)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+Systems And Methods For Transaction Card-based Authentication
+Patent No. 12143515
+A method is provided for communicating with a transaction card having a card data processor, a near card field communication (NFC) interface, and a card memory having a unique card identifier stored therein. In this method, a user communication device establishes an NFC session with the transaction card and transmits to the transaction card an NFC data exchange format (NDEF) WRITE TAG command including session-specific challenge information. The user communication device transmits to the transaction card an NDEF READ TAG command and receives from the transaction card, card-specific challenge response information. The challenge response information is then used to authenticate the transaction card.
+Inventors: Kevin Osborn (Newton Highlands, Mass.); Vincent Vy Ngo (McLean, Va.): Samuel Patrick Edwards (Richmond)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 12, 2024
+Method Of Making Blank
+Patent No. 12139309
+The method includes establishing a blank with a bottom wall, the blank including a first sidewall and a second sidewall on opposing ends of the bottom wall and a lid panel and a top panel on opposing sides of the bottom wall, first folding the first sidewall and the second sidewall to be perpendicular to the bottom wall such that an end panel of a ramp contacts the bottom wall, the ramp being directly connected to a first edge of the first sidewall, second folding the top panel into a first closed position such that a first top wall of the top panel is parallel to the bottom wall as the first top wall at least partially covers the ramp, and third folding the lid panel into a second closed position such that a second top wall of the lid panel covers the first top wall.
+Inventors: Luiz Andre Rodrigues (Neuchatel, Switzerland); Onesio Luis Thesing (Ecublens, Switzerland)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+E-vapor Device Including A Compound Heater Structure
+Patent No. 12144066
+An e-vapor device may include a pre-vapor sector and a heater structure arranged in thermal contact with the pre-vapor sector. The pre-vapor sector includes a reservoir and a dispensing interface. The pre-vapor sector is configured to hold and dispense a pre-vapor formulation. The heater structure is configured to vaporize the pre-vapor formulation to generate a vapor. The heater structure includes a base wire and a heater wire coiled around the base wire. The base wire is insulated from the heater wire. As a result of the heater design, the heater structure is stiffer and more robust than other related heaters in the art, thus allowing more options for its implementation.
+Inventor: Peter Lipowicz (Midlothian, Va.)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+Gas-based Material Compression And Portioning
+Patent No. 12138881
+An apparatus includes a fixed assembly and a reciprocating assembly. The fixed assembly includes a hopper, a first gas manifold, and a dispensing chamber, and the reciprocating assembly includes a channel assembly defining a channel conduit, a shield plate vertically aligned therewith, and a second gas manifold. The reciprocating assembly may move, in relation to the fixed assembly, to a first position to enable the channel conduit to be filled with bulk compressible material from the hopper, a second position to enable compressible material to be pushed from the channel conduit to the dispensing conduit and to be compressed in the dispensing chamber according to a first gas directed through the channel conduit by the first gas manifold, and a third position to enable the compressed material to be pushed out of the dispensing conduit according to a second gas directed through the dispensing conduit by the second gas manifold.
+Inventors: Thien Nguyen (Glen Allen, Va.); Sean Sundberg (Richmond); Jeremy Straight (Midlothian, Va.); Berina Yerkic-Husejnovic (Richmond); Jarrod W. Chalkley (Mechanicsville, Va.); James D. Evans (Chesterfield, Va.); Christopher R. Newcomb (Powhatan, Va.): Robert V. Powell Jr. (Midlothian, Va.); Gregory L. Nelson (Chester, Va.)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+Non-combustible Tobacco Vaping Insert, And Cartridge With Non-combustible Tobacco Vaping Insert
+Patent No. 12137726
+The non-combustible tobacco vaping insert includes a filter having a first diameter, and a tobacco element with a first end contacting the filter, the tobacco element having a second diameter that is smaller than the first diameter of the filter. The cartridge includes a housing, where the cartridge defines an air passage within the housing, and a vaping insert is positioned in at least one first portion of the air passage. The vaping insert is non-combustible and is configured to allow vapor to pass through the vaping insert prior to exiting the cartridge. The vaping insert includes a filter having a first diameter, and a tobacco element with a first end contacting the filter, the tobacco element having a second diameter that is smaller than the first diameter of the filter.
+Inventors: Ali A. Rostami (Glen Allen, Va.); San Li (Midlothian, Va.); Yezdi B. Pithawalla (Midlothian, Va.)
+Assignee: Altria Client Services (Richmond)
+Nov. 12, 2024
+System And Method For Service Synchronization
+Patent No. 12141166
+The approaches described herein provide synchronization of data files across different databases used by different services and platforms. The services may be cloud-based services and include databases that include various types of data.
+Inventors: Ashutosh D. Modi (Rochester, Minn.); Marcelin M. Lovismartin (Glen Allen, Va.); Satish Mohan (San Ramon, Calif.); Nayana Garaga Krishnamurthy (San Jose, Calif.)
+Assignee: Walmart Apollo (Bentonville, Ark.)
+Nov. 12, 2024
+Bowling Center System
+Patent No. 12138527
+A bowling centre system (100) comprises: a bowling lane (1); a plurality of pins (2) positionable at predetermined points on the bowling lane (1); a plurality of strings (3), associated at one end, with a corresponding pin (2); for each string (3), a constrain system (4) positioned above the bowling lane (1) and having the other end of each string (3) connected to it; a pulley system (5) for managing the strings (3), positioned between the connecting system (4) and the pins (2) and comprising a motor-driven drawbar (6) operatively configured to manage a predetermined length of each string (3) present along the pulley system (5); the drawbar (6) is movable between a first position, allowing the pins (2) to be lifted from the bowling lane (1), and a second position, allowing not only the pins (2) to be lowered onto the bowling lane (1) into the predetermined position but also each string (3) to be slackened by the release of a further first working length so that the pins (2) can fall freely when struck by a ball (7) thrown along the lane (1) or by other pins struck by the ball (7) during play; a control device (8) for controlling the position of the movable drawbar (6); and a drive and selection system (9) connected to the movable drawbar (6) and to the control device (8) and configured to allow the movable drawbar (6) to move, when required, to at least a further, third operating position allowing the string (3) to be slackened by the release of a second working length different from the first working length of string (3) released when the second operating position is reached.
+Inventor: Roberto Vaiolli (Ozzano dell’Emilia, Italy)
+Assignee: QUBICAAMF (Mechanicsville, Va.)
+Nov. 22, 2024
+Systems And Methods For Extracting In-video Moving Text In Live Video Streams
+Patent No. 12148231
+In some embodiments, user extraction of in-video text may be facilitated. In some embodiments, a video associated with a video communication session may be processed to detect moving text to which a first user is referring in the video. Based on the detection of the moving text, location information associated with the moving text may be determined. For example, the location information may indicate spatial locations of the moving text. Based on the text location information, a graphical text location indicator may be overlayed on the video (e.g., on a first portion of a user interface of a user device) where the graphical text location indicator is presented proximate the moving text. Selectable text corresponding to the moving text and an auxiliary indicator corresponding to the graphical text location indicator may be presented on a second portion of the user interface.
+Inventors: Vamsi Kavuri (Glen Allen, Va.); Jignesh Rangwala (Glen Allen, Va.); Santhi Sridharan (Glen Allen, Va.); Muthukumaran Vembuli (Glen Allen, Va.); Lee Adcock (Midlothian, Va.); Mehulkumar Jayantilal Gamara (Glen Allen, Va.); Srikanth Reddy Sheshaiahgari (Richmond)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Apparatus For Applying A Multi-can Engagement Collar To A Group Of Beverage Cans
+Patent No. 12145757
+An apparatus for applying an engagement collar to a group of articles, which includes an application area defining a horizontal support surface for receiving a group of articles, a horizontal press plate positioned above the support surface and mounted for vertical movement relative to the support surface, and an actuation assembly operatively connected to the press plate for moving the press plate relative to the support surface to apply an engagement collar to the group of articles positioned on the support surface within the application area, wherein the actuation assembly includes an actuation lever that is located below the press plate and in front of the application area to provide an ergonomic work environment.
+Inventors: Linh L. Kooc (Richmond); Matthew E. Zacherle (Moseley, Va.)
+Assignee: WestRock Packaging Systems (Atlanta, Ga.)
+Nov. 19, 2024
+Laboratory Well Plate Washing Device And Associated Method
+Patent No. 12145145
+A device for cleaning items comprises an enclosure defining a wash chamber, a rotor positioned within the wash chamber and selectively rotatable about an axle, a motor for selectively rotating the axle, a dispenser, and a drain. The rotor comprises a plurality of holders spaced about the axle and adapted to selectively receive and hold a respective item to be cleaned. The dispenser at least one liquid input and at least one liquid output and is positioned such that the at least one liquid output directs cleaning fluid at one of the items to clean material out of the cavities. The drain is for draining the cleaning fluid out of the chamber. The rotor is selectively rotatable at a predefined rotational speed for a predefined amount of time to expel cleaning fluid from the cavities of each item to be cleaned.
+Inventors: Nolan Benner (Richmond); Ali Safavi (Richmond); Taylor Anderson (Henrico, Va.); John Turner III (Henrico, Va.); Brennan Chaloux (Henrico, Va.); Raphael Santore (Richmond)
+Assignee: Grenova (Richmond)
+Nov. 19, 2024
+Method Of Forming Blank With Platform Panel, First Foot Panel And Second Foot Panel
+Patent No. 12145778
+The method includes first defining a plurality of fold lines that divide the blank into a plurality of sidewall panels, forming a platform panel on a bottom end of the plurality of sidewall panels, the platform panel having a first foot panel and a second foot panel on first opposing sides of the platform panel, the first foot panel directly connecting the platform panel to a first sidewall panel, of the plurality of sidewall panels, and second defining a tab near the bottom end of the plurality of sidewall panels, the tab being configured to retain a bottom edge of the second foot panel, upon an assembly of the blank into a package.
+Inventor: Travis Garthaffner (Midlothian, Va.)
+Assignee: Altria Client Services (Richmond)
+Nov. 19, 2024
+Semantic Entity Search Using Vector Space
+Patent No. 12147433
+A method may include storing a vector space representation of a set of concepts in a semantic ontology, wherein locations of the set of concepts in the vector space are based on weights of a neural network trained using triples from the semantic ontology; presenting a semantic search user interface including: a text input portion to receive a search query from an input device; a suggested search portion; and a search results portion; receiving, from a user computing device, the search query; converting, using at least one processor, the search query into a vector; computing, using the at least one processor, a set of possible concepts related to the search query based on a distance between the vector and other concepts in the vector space representation; and presenting the set of possible concepts related to the search query in the suggested search portion of the semantic search user interface.
+Inventors: David Newman (Walnut Creek, Calif.); Omar B. Khan (Richmond); Alexander Joseph Kalinowski (Philadelphia, Penn.)
+Assignee: Wells Fargo Bank (San Francisco, Calif.)
+Nov. 19, 2024
+Automated Database Provisioning And Methods Thereof
+Patent No. 12147561
+Systems and methods of the present disclosure enable the automated provisioning of security and compliance policies and onboarding to identity governance solutions. The systems and methods include processors to receive a database provisioning request associated with at least one entity and accessing at least one identity data record via an identity management mechanism associated with the at least one entity. The processors automatically access the database via a secured port; automatically cause to generate in the database, at least one privilege account and at least one access credential rule based on the at least one identity data record. The database is configured to utilize the at least one access credential rule to automatically manage access credentials for accessing the database via the at least one privilege account. The processors automatically disconnect from the secured port of the database.
+Inventors: Nagesh Gummadivalli (Chantilly, Va.); Aniket Sinkar (Glen Allen, Va.); Arindam Chakraborty (Glen Allen, Va.); Norflet Bailey (Woodford, Va.); Clayton Mottley (Alexandria, Va.); Arthur Maltson (Maple, Canada); Elijah Sattler (Richmond); Gregory Moczygemba (Quinton, Va.); Nitin Sharma (Glen Allen, Va.); Empress Marcelin (Glen Allen, Va.); Bryan Barton (McLean, Va.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Systems And Methods For Post-acquisition Assessment Matching
+Patent No. 12148018
+A computer-implemented method for post-acquisition assessment matching may include: receiving interaction information associated with a completed interaction involving an item acquired for a first assessment, the interaction information including an item identifier associated with the acquired item and the first assessment; in response to receiving the interaction information, determining whether the item is available for a second assessment based on the item identifier; in response to determining the second assessment for the item, comparing the first assessment with the second assessment; and in response to determining that the first assessment is higher than the second assessment based on the comparison: adjusting the first assessment based on the second assessment; determining a finalized amount for the interaction based on the adjusted first assessment for the item; and causing completion of the interaction based on the finalized amount.
+Inventors: Anthony Reynolds (Richmond, Va.); Amitav Parida (Arlington Heights, Ill.); Daniel Kelly (Chicago, Ill.); Jason Samuels (Ladera Ranch, Calif.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Methods Of Protecting Furnace Electrodes With Cooling Liquid That Contains An Additive
+Patent No. 12150230
+A method for forming a protective antioxidative barrier on the furnace electrodes using a chemically altered cooling liquid containing an antioxidant additive. This method can be applied to electrodes used in electric arc furnaces and ladle metallurgy furnaces. The method can involve spraying the cooling liquid onto the electrode, thereby forming the protective antioxidative barrier and reducing the oxidation of the electrode.
+Inventors: Joseph S. Strasser (Evergreen, Colo.); Joseph M. Hamnik (Willis, Texas); James R. Lawson (Louisville, Tenn.); Alan J. Feller (Macy, Ind.)
+Assignee: Chemtreat (Glen Allen, Va.)
+Nov. 19, 2024
+Automatic Optimal Payment Type Determination Systems
+Patent No. 12147965
+A system for providing a payment includes a processor and a memory configured to cause the system to receive a payment request representative of a payment amount, a payor identification, and a payee identification. The system includes means for determining payor cash holdings and payor available credit as well as authenticating the validity of a payment request and identity of the payor via received biometric data from a payor device. The system may further receive data representative of payee approved payment methods and determine a payment composition based on the payment amount, payor payment preferences, payor cash holdings and payor available credit. Based on the payee approved payment methods, the system may determine one or more payment types. The system may convey the payment amount to the payee in the form of one or more payment types and may fund the payment amount according to the payment composition.
+Inventors: Andrew Cohn (Bethesda, Md.); Katelyn Schultz (New York, N.Y.); Fouad Alkisswani (New York, N.Y.); Richard Elliott (Glen Allen, Va.); Kylen Dau (Maidens, Va.); Rajsaday Dutt (Vienna, Va.); Marcelo Jabif Epsztejn (Reston, Va.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Systems And Methods For Cryptographic Authentication Of Contactless Cards
+Patent No. 12147977
+Example embodiments of systems and methods for data transmission system between transmitting and receiving devices are provided. In an embodiment, each of the transmitting and receiving devices can contain a master key. The transmitting device can generate a diversified key using the master key, protect a counter value and encrypt data prior to transmitting to the receiving device, which can generate the diversified key based on the master key and can decrypt the data and validate the protected counter value using the diversified key. Example embodiments of systems and methods can be used to provide further authentication and added levels of security for transactions.
+Inventors: Kevin Osborn (Newton, Mass.); Jeffrey Rule (Chevy Chase, Md.); James Ashfield (Midlothian, Va.); Srinivasa Chigurupati (Long Grove, Ill.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Chat Communication Support Assistants
+Patent No. 12149488
+Disclosed in some examples are methods, systems, and machine-readable mediums which provide for an agent support application with a plurality of plug-in communication support assistants. Each of the plurality of plug-in communication support assistants monitors communications between the agents and customers for different conversational triggers. Conversational triggers may be any conversation, either by the agent or the customer, that the communication support assistant is trained to detect. Upon detecting one of these conversational triggers, the plug-in communication support assistant provides one or more suggestions to the agent.
+Inventors: Kimarie Pike Matthews (Burlingame, Calif.); Richard Castanho (Rutherfordton, N.C.); Germaine S. Chee (Mill Valley, Calif.); Robin J. Cusimano (San Francisco, Calif.); Brett D. Ehrlich (San Carlos, Calif.); Tyua Larsen Fraser (Livermore, Calif.); Colleen Reardon Graham (Mooresville, N.C.); Gregory Scott Hill (Midlothian, Va.); James W. Pedersen (Gilbert, Ariz.); Timothy J. Shipman (San Francisco, Calif.)
+Assignee: Wells Fargo Bank (San Francisco, Calif.)
+Nov 19, 2024
+Computer-based Systems Of Microservice Orchestration Based On Bounded Contexts And Methods Of Use Thereof
+Patent No. 12148042
+In order to provide agile and dynamic portfolio management, systems and methods for underwriting and portfolio management include an ecosystem including a platform, including processing devices, communication interfaces, runtime environments, and databases, where the databases are configured to store ecosystem data, where the ecosystem data includes data associated with a plurality of systems. A service layer is in communication with the platform, the service layer including containers executed in the runtime environment and configured to implement microservices, where each of the containers include: at least one microservice and a datastore device configured to store domain-specific data. An orchestrator is in communication with the service layer, the orchestrator to schedule execution of the microservices according to bounded contexts coordinated with composite application programming interfaces (API) interfacing with a microservice specific API.
+Inventors: Jim Brocato (McLean, Va.); Alberto Silva (McLean, Va.); Victor Lombardi (McLean, Va.); Christopher Bowers (Midlothian, Va.)
+Assignee: Capital One Services (McLean, Va.)
+Nov. 19, 2024
+Low Ash Lubricating Compositions For Controlling Steel Corrosion
+Patent No. 12146115
+This disclosure describes low ash lubricating composition achieving passing steel corrosion, passing high temperature deposit formation, and emulsion stability. The lubricating compositions include one or more select corrosion or rust inhibitor chemistries having an oil-soluble acyclic structure with acidic, hydroxy, or amine moieties but being free of imine, imide, and/or amidine moieties.
+Inventor: Kenneth Garelick (Mechanicsville, Va.)
+Assignee: Afton Chemical Corp. (Richmond)
+Nov. 19, 2024
+Method For Managing Curbside Use By Vehicles
+Patent No. 12147969
+A method for managing curbside use by connected and/or autonomous vehicles that includes executing instructions of one or more computing devices having a processor that integrates at least a navigation component, an asset verification component, and a curbside management component, that generate recommended curbside access destinations for a vehicle associated with the customer and one of which is selected as the final curbside destination for the vehicle.
+Inventors: Michael Sawyer (Chester, Va.); Lawrence J. Marcus (Falls Church, Va.)
+Matthew Roe (Brooklyn, N.Y.)
+Assignee: N/A
+Nov. 19, 2024
+This story is for our paid subscribers only. Please become one of the thousands of BizSense Pro readers today!
+Your subscription has expired. Renew now by choosing a subscription below!
+For more informaiton, head over to your profile.
+
+Profile
+
+TERMS OF SERVICE:
+ALL MEMBERSHIPS RENEW AUTOMATICALLY. YOU WILL BE CHARGED FOR A 1 YEAR MEMBERSHIP RENEWAL AT THE RATE IN EFFECT AT THAT TIME UNLESS YOU CANCEL YOUR MEMBERSHIP BY LOGGING IN OR BY CONTACTING SUPPORT@BUSINESSDEN.COM.
+ALL CHARGES FOR MONTHLY OR ANNUAL MEMBERSHIPS ARE NONREFUNDABLE.
+EACH MEMBERSHIP WILL ONLY FUNCTION ON UP TO 3 MACHINES. ACCOUNTS ABUSING THAT LIMIT WILL BE DISCONTINUED.
+FOR ASSISTANCE WITH YOUR MEMBERSHIP PLEASE EMAIL SUPPORT@BUSINESSDEN.COM
+Δ
+Δ
+© 2025 Richmond BizSense - All Rights Reserved
+Update your browser to view this website correctly. Update my browser now 
+×

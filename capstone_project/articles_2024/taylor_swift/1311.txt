@@ -1,0 +1,16 @@
+Manage your account
+An employee at the Hong Kong office of a multinational company transferred nearly $26 million to scammers last month after unwittingly attending a video call with deepfakes of their co-workers ― including the company’s chief financial officer.
+The employee was the only human attending the video call, while the fake participants were impersonated with the help of artificial intelligence, a member of the Hong Kong police told reporters Sunday.
+“Scammers found publicly available video and audio of the impersonation targets via YouTube, then used deepfake technology to emulate their voices ... to lure the victim to follow their instructions,” said Baron Chan, who did not provide the name of the company.
+According to the South China Morning Post, that even included asking the victim to introduce themselves to the rest of the (AI-generated) group.
+“Because the people in the video conference looked like the real people,” Chan continued, “[the employee] made 15 transactions as instructed to five local bank accounts” — totaling 200 million Hong Kong dollars.
+After the initial video conference, which included a convincing facsimile of the company’s U.K.-based CFO, the scammers followed up via instant messages, email, and additional one-on-one video calls.
+The employee only realized it was a scam after independently contacting the company’s head office about a week later.
+Hong Kong police were notified Jan. 29. No arrests have been made so far, and the investigation is ongoing, police said.
+The elaborate scam coincides with an alarming increase in the online circulation of nonconsensual pornographic images produced with AI.
+X, formerly Twitter, struggled to contain a number of fake, sexually explicit images of Taylor Swift last month. The social media site ultimately resorted to blocking searches for the singer’s name.
+Opinion: From AI To ChatGPT To Deepfakes: Are We Losing Our Grasp On Reality?
+Deepfakes From The Israel-Hamas War Increase Fears About AI's Power To Mislead
+X Pauses Some Taylor Swift Searches As Deepfake Explicit Images Spread
+Democrat Urges Action After Fake, Sexually Explicit Taylor Swift Images Go Viral
+A Powerful New Deepfake Tool Has Digitally Undressed Thousands Of Women

@@ -1,0 +1,44 @@
+Name:
+
+
+                    Street Address:
+
+
+« Back | Forward »
+
+
+« Back
+
+
+« Back | Forward »
+
+NEW YORK (AP) — No, Katy Perry and Rihanna didn't attend the Met Gala this year. But that didn't stop AI-generated images from tricking some fans into thinking the stars made appearances on the steps of fashion's biggest night.
+Deepfake images depicting a handful of big names at the Metropolitan Museum of Art's annual fundraiser quickly spread online Monday and early Tuesday.
+Some eagle-eyed social media users spotted discrepancies — and platforms themselves, such as X's Community Notes, soon noted that the images were likely created using artificial intelligence. One clue that a viral picture of Perry in a flower-covered gown, for example, was bogus is that the carpeting on the stairs matched that from the 2018 event, not this year's green-tinged fabric lined with live foliage.
+Still, others were fooled — including Perry's own mother. Hours after at least two AI-generated images of the singer began swirling online, Perry reposted them to her Instagram, accompanied by a screenshot of a text that appeared to be from her mom complimenting her on what she thought was a real Met Gala appearance.
+"lol mom the AI got to you too, BEWARE!" Perry responded in the exchange.
+Representatives for Perry did not immediately respond to The Associated Press' request for further comment and information on why Perry wasn't at the Monday night event. But in a caption on her Instagram post, Perry wrote, "couldn't make it to the MET, had to work." The post also included a muted video of her singing.
+Meanwhile, a fake image of Rihanna in a stunning white gown embroidered with flowers, birds and branches also made its rounds online. The multihyphenate was originally a confirmed guest for this year's Met Gala, but Vogue representatives said that she would not be attending before they shuttered the carpet Monday night.
+People magazine reported that Rihanna had the flu, but representatives did not immediately confirm the reason for her absence. Rihanna's reps also did not immediately respond to requests for comment in response to the AI-generated image of the star.
+While the source or sources of these images is hard to lock down, the realistic-looking Met Gala backdrop seen in many suggests that whatever AI tool was used to create them was likely trained on some images of past events.
+The Met Gala's official photographer, Getty Images, declined comment Tuesday.
+Last year, Getty sued a leading AI image generator, London-based Stability AI, alleging that it had copied more than 12 million photographs from Getty's stock photography collection without permission. Getty has since launched its own AI image-generator trained on its works, but blocks attempts to generate what it describes as "problematic content."
+This is far from the first time we've seen generative AI, a branch of AI that can create something new, used to create phony content. Image, video and audio deepfakes of prominent figures, from Pope Francis to Taylor Swift, have gained loads of traction online before.
+Experts note that each instance underlines growing concerns around the misuse of this technology — particularly regarding disinformation and the potential to carry out scams, identity theft or propaganda, and even election manipulation.
+"It used to be that seeing is believing, and now seeing is not believing," said Cayce Myers, a professor and director of graduate studies at Virginia Tech's School of Communication — pointing to the impact of Monday's AI-generated Perry image. "(If) even a mother can be fooled into thinking that the image is real, that shows you the level of sophistication that this technology now has."
+While using AI to generate images of celebs in make-believe luxury gowns (that are easily proven to be fake in a highly-publicized event like the Met Gala) may seem relatively harmless, Myers and others note that there's a well-documented history of more serious or detrimental uses of this kind of technology.
+Earlier this year, sexually explicit and abusive fake images of Swift, for example, began circulating online — causing X, formerly Twitter, to temporarily block some searches. Victims of nonconsensual deepfakes go well beyond celebrities, of course, and advocates stress particular concern for victims who have little protections. Research shows that explicit AI-generated material overwhelmingly harms women and children — including disturbing cases of AI-generated nudes circulating through high schools.
+And in an election year for several countries around the world, experts also continue to point to potential geopolitical consequences that deceptive, AI-generated material could have.
+"The implications here go far beyond the safety of the individual — and really does touch on things like the safety of the nation, the safety of whole society," said David Broniatowski, an associate professor at George Washington University and lead principal investigator of the Institute for Trustworthy AI in Law & Society at the school.
+Utilizing what generative AI has to offer while building an infrastructure that protects consumers is a tall order — especially as the technology's commercialization continues to grow at such a rapid rate. Experts point to needs for corporate accountability, universal industry standards and effective government regulation.
+Tech companies are largely calling the shots when it comes to governing AI and its risks, as governments around the world work to catch up. Still, notable progress has been made over the last year. In December, the European Union reached a deal on the world's first comprehensive AI rules, but the act won't take effect until two years after final approval.
+_____________
+AP Reporters Matt O'Brien in Providence, Rhode Island and Kelvin Chan in London contributed to this report.
+
+Help | 
+                    Customer Service
+
+
+                    Copyright 1995 -
+                2025
+                by The Nashville Ledger - All Rights Reserved - Privacy Policy - About

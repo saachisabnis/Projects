@@ -1,0 +1,16 @@
+Nvidia's (NVDA.O) stock went up after the big chipmaker said its new top-of-the-line AI processor would be shipping later this year. CEO Jensen Huang said he is targeting a data center market that could be worth more than $250 billion.
+Huang and Chief Financial Officer Colette Kress heard remarks from investors at Nvidia's annual developer meeting in San Jose, California. This caused the stock to rise almost 2% to $901. Before the end of the day, the shares had dropped almost 4%.
+Nvidia, an established chip designer, introduced its latest artificial intelligence chip, the "Blackwell" B200, at its annual developer conference in San Jose, California. Colette Kress, the Chief Financial Officer, exuded belief when discussing the chip's upcoming release, highlighting its significant potential to make a mark in the market.
+CEO Jensen Huang specified the major dedication of data center operators to enhance their systems with accelerated computing components, which aligns with Nvidia's expertise. This investment is projected to exceed $250 billion annually.
+This company is strategically changing its focus from giving individual processors to offering comprehensive systems in an effort to secure a greater portion of the expenditure related to data centers. Huang underscored this transition by asserting, "Nvidia doesn't build chips, it builds data centers."
+The Blackwell processor, which serves as evidence of this method, incorporates an innovative setting that substantially improves performance by combining two squares of silicon.
+In addition to hardware, Nvidia has also unveiled a range of software tools dedicated to reducing the process of offering artificial intelligence models to businesses that utilize its technology.
+According to ZeeBusiness, the move demonstrates Nvidia's dedication to offering comprehensive solutions to its customers.
+Read Also: Judge Drops 2 Kidnapping Charges Against Delphi Murder Suspect Richard Allen
+Nvidia is working with contract chip maker Taiwan Semiconductor Manufacturing Company (TSMC) to ensure the Blackwell chip launches smoothly. Huang talked about past difficulties with chip packaging and expressed optimism about preventing similar obstacles in the future.
+Regarding the market demand, Huang witnessed a substantial rise in visibility, and he anticipated a more predictable growth in volume compared to the launches that came before it.
+Nvidia continues to maintain a positive outlook about the potential of the Blackwell chip despite the fact that some experts feel that the market has already taken into account its introduction.
+According to the manufacturer, the B200 Blackwell chip is up to thirty times quicker than its predecessor, which improved performance across a variety of jobs.
+CEO Jensen Huang made additional information on the cost of the Blackwell B200 processor public in a recent interview with CNBC.
+Reuters reported that he said the chip is anticipated to fetch a price ranging from $30,000 to $40,000, which will establish it as a premium product in the artificial intelligence chip market.
+Related Article: MGM Denies Bruno Mars Owes $50M Gambling Debt, Says Allegations "Completely False"

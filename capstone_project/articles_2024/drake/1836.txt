@@ -1,0 +1,48 @@
+For desktops and servers
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+Ubuntu 24.10 marks 20 years since the first version of Ubuntu (4.10 “Warty Warthog”) was released in October 2004. I joined the Ubuntu train at 5.10 “Breezy Badger” but it was Ubuntu 6.06 which caused the biggest stir. You see, this was the first Long Term Support (LTS) Ubuntu release and it garnered plenty of interest from users wanting to move from Windows, but who also wanted a stable platform to work from.
+Ubuntu is a Linux distribution (often referred to as a distro) which is derived from Debian. It has proven popular with users who like the Debian way of doing things, but want a more cutting edge distro. 
+An Ubuntu LTS release is published every two years and is classed as “Enterprise grade”, meaning they are fit for business critical use. Canonical, the makers of Ubuntu estimate that 95% of Ubuntu installs are LTS releases. An LTS release sees five years of support in the form of security maintenance releases (this can be boosted to 10 years with an Ubuntu Pro subscription) and an LTS will also receive point release that upgrade the kernel and other critical applications. The rest of the applications and packages are updated as and when new packages are released, for example when Blender, GIMP or Inkscape create a new release.
+Interim releases typically occur in October of each year (six months between LTS versions), and are production quality releases intended for users who want the latest Ubuntu release and all of the bells and whistles associated with it. The key difference between an interim and an LTS release is that an interim release only receives nine months of support. After that you are expected to upgrade to the next release. Think of an interim has Canonical’s way of introducing new features before committing them to an LTS. 
+Typically, a user would update from one LTS to another, skipping the interim releases. Note that you cannot do a direct upgrade from releases before 24.04. You must upgrade to 24.04 and then upgrade to 24.10.
+But what if you are running 24.04 and wanted to update to an interim release? In this how to we will demonstrate how to update two systems. One running Ubuntu 24.04 Desktop, and the other running Ubuntu 24.04 Server, to Ubuntu 24.10.
+We’re not going to go down the “Upgrade versus fresh install” road. Suffice to say, do what you are comfortable with. I’ve personally done both, usually favoring a fresh install if I have completely broken my install (and that is how I learnt to use Python virtual environments to prevent me destroying the OS Python install.)
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+For this how-to, you will need a computer running Ubuntu 24.04 LTS. Before taking any of these steps, ensure that you have backed up all of your data as there is a risk of data loss.
+1. From the Ubuntu desktop, press the super key (Windows key) and search for Software and Updates.
+2. Select the Updates tab from the Software and Updates application. This may take a little while to load as it checks for updates before launching. If this happens to you, complete any updates before moving on to the next step.
+3. Select “For any new version” from the “Notify me of a new Ubuntu version” dropdown menu and click Close.
+4. From the Ubuntu desktop, press the super key (Windows key) and search for Software Updater.
+5. Click on Upgrade and enter your password to authenticate.
+6. Read the Release Notes and then click Upgrade.
+7. Sit back and relax as the upgrade preparations begin. There may be times where user interaction is required, for example to confirm that third party sources are disabled, check before taking action.
+8. When asked “Do you want to start the upgrade?”, check the details box before clicking Start Upgrade. Some parts of the previous installation will be removed or their configurations changed, so make sure you are happy to proceed.
+9. Sit back and relax while the upgrade updates your system to 24.10.
+10. When asked to “Remove obsolete packages?” Click on Details and review the packages to be removed. You can choose to keep or remove. We chose to remove the packages.
+11. Click on Restart Now to power cycle your computer. Note the new 20 Years Ubuntu splash screen.
+You’re now running Ubuntu 24.10 but if you yearn for the “brown” of Ubuntu 4.10, then fear not as in the Settings menu (top right of the screen), under Appearance, we can set the background to something similar to those halcyon days.
+And yes, we did give it a try.
+First of all remember that Ubuntu 24.10 only has nine months of support, versus the 5 years afforded to Ubuntu 24.04. These steps can also be followed for desktop users wishing to upgrade via the terminal. 
+If you really want to upgrade then you will need to do the following.
+1. Update and upgrade the software repositories to ensure that you are running the latest software. This isn’t strictly necessary, but by ensuring that we have the latest software, we can reduce the chance of any issues when upgrading to 24.10.
+2. Open the release-upgrades file using nano.
+3. Change the Prompt line from lts to normal and press CTRL+O, then CTRL+X, Y, and Enter to save and close nano. By default, LTS upgrades happen from one LTS to another, by changing this we are enabling the installer to use non-LTS Ubuntu releases.
+4. Run the upgrade installer.
+5. Press Y and enter to start the process. 
+6. Press Y to download the packages for the installation.
+7. Set your language and keyboard layout and select OK.
+Your server is now running Ubuntu 24.10!
+We’ve included a list of all the Ubuntu releases, their codenames (used in development) and their release dates.This should come in handy for the SysAdmin pub quiz.
+Les Pounder is an associate editor at Tom's Hardware. He is a creative technologist and for seven years has created projects to educate and inspire minds both young and old. He has worked with the Raspberry Pi Foundation to write and deliver their teacher training program "Picademy".
+Developer gets Linux running inside Microsoft Excel, 'mostly for fun'
+How To Dual Boot Linux and Windows on any PC
+Nvidia RTX 5060 Ti 8GB loses up to 10% performance when using PCIe 4.0
+
+Tom's Hardware is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+
+©
+Future Publishing Limited Quay House, The Ambury,
+Bath
+BA1 1UA. All rights reserved. England and Wales company registration number 2008885.

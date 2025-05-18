@@ -1,0 +1,136 @@
+Menu
+
+
+Search
+
+
+
+Menu
+
+
+Search
+
+
+
+
+                                                                                        Taylor Swift's 'Eras Tour Book' Sparks Chaos! Fans Slam ‘Unfair Battle’ for Swiftie Gold in Minutes                                        
+
+
+                                                                                        Nigerian TikTok star Charity Ekezie uses hilarious skits to dispel ignorance about Africa                                        
+
+
+                                                                                        Scott Jennings Stuns Media World: Conservative Firebrand Joins Liberal Los Angeles Times Editorial Board—'The Debate Just Got Hotter!                                        
+
+                                                                                        The chilling crime spree of The Order – and its lasting effect on today’s white supremacists                                        
+
+                                                                                        From breakbeats to the dance floor: How hip-hop and house revolutionized music and culture                                        
+
+
+                                                                                        The book that sparked a revolution: One Hundred Years of Solitude, the literary masterpiece now adapted for TV                                        
+
+
+                                                                                        BLACKPINK's Rosé Stuns with ‘Rosie’: Nine Tracks Take Over Global Spotify Charts—Fans Declare ‘Queen of the Charts’                                        
+
+                                                                                        Breaking up the band: why solo artists have come to dominate the music charts                                        
+
+                                                                                        In the $250B influencer industry, being a hater can be the only way to rein in bad behavior                                        
+
+
+                                                                                        BTS Jungkook Smashes Spotify Records: ‘GOLDEN’ Reigns Supreme Over K-Pop Charts, Fans Say ‘Unstoppable!’                                        
+
+
+                                                                                        The quest to extend human life is both fascinating and fraught with moral peril                                        
+
+                                                                                        Kendrick Lamar’s big Super Bowl moment                                        
+
+
+                                                                                        Some ‘Star Wars’ stories have already become reality                                        
+
+
+                                                                                        Masked Intruders Storm Royal Estate: Princes Kate and Prince William’s Terrifying Night Exposed in Shocking New Details                                        
+
+
+                                                                                        Mariah Carey’s Holiday Hit ‘All I Want For Christmas Is You’ Soars Again—‘Christmas Queen Is Back!’ Fans Declare                                        
+
+
+                                                                                        Ontario’s high-stakes bet on iGaming: Province profiting from online betting but at what cost to problem gambling?                                        
+
+
+                                                                                        Surge in U.S. RedNote Users Ahead of TikTok Ban                                        
+ By                                    Jabari M. Evans 
+Monday, June 3, 2024 11:13 AM UTC 
+In April 2023, a song titled “Heart on My Sleeve,” written and produced by a mysterious producer named Ghostwriter, went viral on TikTok and briefly became the most popular song on both YouTube and Spotify.
+But just as quickly as “Heart on My Sleeve” took off, Spotify and YouTube removed it from their libraries. The producer and songwriter had used artificial intelligence to create vocals on the track that sounded like Drake and The Weeknd. Universal Music Group, which represents both artists, had threatened legal action.
+Though Drake was surely aware of the kerfuffle, he didn’t seem fazed by it.
+In fact, just over a year later, he was the one incorporating AI-generated vocals into his music during his ongoing feud with rapper Kendrick Lamar.
+I’ve been closely following these developments – which strike at the heart of technology, music and the law – both as a scholar of digital media and as a rap artist who was among the first to interpolate rap lyrics with samples of previously released vocals.
+As Drake showed in his diss track, AI can help artists produce music. But the technology exists in a legal gray area – particularly when it comes to vocals.
+AI Tupac’s brief moment in the sun
+On April 19, 2024, Drake released a song, “Taylor Made Freestyle,” that used AI-generated vocals of Tupac Shakur and Snoop Dogg.
+On the track, the AI voice of Shakur – who died in 1996 – addresses Lamar, skewering his silence in the feud between the two rap giants:
+“Kendrick we need ya, the West Coast savior / Engraving your name in some hip-hop history,” raps the artificial Shakur. “Call him a b—h for me / Talk about him liking young girls as a gift for me.”
+Unsurprisingly, Shakur’s estate threatened legal action against Drake for his unauthorized incorporation of Tupac’s voice and persona, which, they claimed, violated the deceased artist’s rights to control the commercial use of his identity.
+Howard King, the estate’s attorney, noted in a letter that the estate would never have approved this use. Drake soon pulled the diss track from streaming platforms and YouTube.
+Rights versus what AI writes
+It’s important to distinguish copyright from someone’s right to publicity.
+Because copyright laws use the term “author,” they’ve traditionally been interpreted to exclusively refer to the creative work of a human being. In other words, according to statutory copyright provisions, only humans can qualify as authors. And their writing, art, photographs and music cannot be used without their permission.
+When it comes to AI and copyright, one of the core legal issues is the extent to which copyrighted material can be used to train the models. That’s why The New York Times has sued OpenAI and Microsoft: The companies trained their models using articles that ran in the publication without the permission of the newspaper.
+Someone’s right to publicity, on the other hand, refers to their ability to make money off their name, image, likeness, voice or signature.
+Arguably, the most famous right of publicity case is one Bette Midler brought against the Ford Motor Co. in 1988. After Midler turned down the car company’s offer to appear in one of their television commercials, Ford used one of her former backup singers to impersonate her singing voice within the ad.
+Ford was forced to pay Midler US$400,000 for violating her right of publicity. That judgment by the state of California will now prove vital in the ways AI can be used to clone the voice of a celebrity.
+However, litigating rights of publicity in cases involving AI won’t be simple.
+That’s what actor Scarlett Johannson will discover if she sues OpenAI for releasing a new AI voice assistant technology that uses a voice that sounds just like hers.
+Because AI large language models are designed to be trained on a wide range of sources for original work, it is still difficult to determine, without proof of intent, what is outright theft and what is simply a product of this range of influences. In Johannson’s case, OpenAI invited her to be the voice of its AI assistant technology. She declined, and the company says it went on to create a voice on its own. Even though that voice sounds eerily similar to Johnannson’s, the company claims it never intended to replicate the actress’s voice.
+Scarlett Johansson’s feud with OpenAI centers on whether it’s OK to use technology to mimic someone’s voice.
+When impersonation is infringement
+Either way, current federal copyright law doesn’t specifically address cloned vocals or when someone’s voice is used in a new or different context.
+When it comes to songwriting, because these voice clones often introduce original lyrics and musical elements from musicians prompting the AI, they’re somewhat distinct from existing copyrighted material.
+In contrast, precedents in California and other states assert that impersonating a famous musician in music can infringe upon that musician’s right of publicity.
+The publicity rights referenced by Shakur’s estate are probably a more suitable avenue for litigation: They protect a person’s likeness itself – their face, voice or signature phrases – even if they’re used in a totally new context.
+Famously, in the 1990s, there were injunctions against musicians using samples of boxing ring announcer Michael Buffer’s trademark catchphrase of “Let’s Get Ready to Rumble!” But historically, these rights have been primarily invoked in lawsuits concerning advertisements and commercial uses, rather than newly generated works, such as songs.
+Where do we go from here?
+Faced with legal uncertainty, the recording industry and other top creatives have pushed for new legislation to address the problem.
+Recently, Tennessee passed a statute called the ELVIS Act that aims to crack down on voice cloning by expanding the state’s publicity rights laws beyond just advertisements. This statute can protect artists from unauthorized voice cloning, ensuring that their vocal expressions are not used without their consent. Federal lawmakers are also considering similar bills that would create new, broader definitions of publicity rights
+With advancements in AI, I think everyone can agree that it’s important to safeguard the role of humans in making art.
+While AI can generate impressive imitations, it lacks the soul and spontaneity that human artists infuse into their work. In my view, AI’s role in songwriting should not merely involve replicating human talent. Instead, AI should enhance and support the work of artists, allowing them to leverage the technology without being overshadowed by it.
+The AI train has left the station. Now, the guardrails need to be hastily built to keep the technology from running the music industry off the tracks.
+Breathing through your nose when you exercise may make your runs easier
+Entrepreneurs are facing a mental health crisis — here's how to help them
+Are fish oil supplements as healthy as we think? And is eating fish better?
+Will AI kill our creativity? It could – if we don’t start to value and protect the traits that make us human
+Does AI have a right to free speech? Only if it supports our right to free thought
+How can I lower my cholesterol? Do supplements work? How about psyllium or probiotics?
+Why we need to set limits on sperm donation
+Aging with a healthy brain: How lifestyle changes could help prevent up to 40% of dementia cases
+Seven techniques to avoid weight regain, approved by experts
+ 
+                                                                                                Zelenskiy, Trump Discuss Ceasefire, Air Defense, and Critical Minerals Deal at Vatican
+ 
+                                                                                                Tesla Positioned to Lead U.S. Efforts in Autonomous AI Race with China
+ 
+                                                                                                Texas Enacts Historic School Voucher Law, Expanding Private Education Access
+ 
+                                                                                                Jaguar Land Rover Resumes U.S. Shipments Amid Trump’s Tariff Easing
+ 
+                                                                                                OPEC+ Boosts Oil Output Again Despite Price Drop and Demand Concerns
+ 
+                                                                                                Albanese Secures Second Term as Trump Factor Shakes Australian Conservatives
+ 
+                                                                                                Appeals Court Halts Ruling to Reinstate Voice of America Staff Amid Trump-Era Shutdown
+ 
+                                                                                                Trump Sparks Backlash with AI Pope Image Amid Vatican Conclave
+ 
+                                                                                                Sheinbaum Rejects Trump’s Proposal to Deploy U.S. Troops in Mexico
+ 
+                                                                                                Russia’s MOEX Index Falls as Oil, Mining, and Telecom Stocks Decline
+
+Back to Top ▲
+
+
+                        
+
+                        
+                        ©PUBLISH Holdings . All Rights Reserved. By using this site, you agree to the Terms of Service, Privacy Policy, and Cookie Policy.                    
+Disclaimer: EconoTimes provides references and links to selected blogs and other sources of economic and market information as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and EconoTimes specifically advises clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Brokerage. Any news, opinions, research, data, or other information contained within this website is provided as general market commentary and does not constitute investment or trading advice. EconoTimes expressly disclaims any liability for any lost principal or profits without limitation which may arise directly or indirectly from the use of or reliance on such information. As with all such advisory services, past results are never a guarantee of future results.
+Sign up for daily updates for the most important
+            stories unfolding in the global economy.

@@ -1,0 +1,60 @@
+Authored by Yohan Yun via CoinTelegraph.com,
+Ethereum’s rollup-centric layer-2 roadmap has successfully tamed the congestion and ludicrous gas fees on the base layer - but at the cost of creating a fragmented ecosystem.
+Designed to scale the network, L2s have become little islands on their own, each with its own rules, systems and barriers.
+Liquidity is siloed, users are stuck navigating bridges between L2s, and developers are forced to choose whether they want to build on Base, Arbitrum or Starknet.
+But in the past year or so, the community has begun to talk more and more about based rollups as a potential answer to the problem. According to reputation, based rollups will bring back interoperability and composability and enable DeFi Summer’s “Money Legos” concept to be resurrected on L2s (this refers to DeFi protocols that can seamlessly interact with one another). In short, if they achieve everything they promise, based rollups will make the Ethereum ecosystem feel like Ethereum again.
+The essential problem that based rollups try to address is the use of individual sequencers on L2s — sequencers are the engines that order transactions on blockchains.
+“When I first learned about the L2 scaling roadmap from Vitalik [Buterin’s] blog post, it was somewhat difficult for me to accept because it came with trade-offs,” blockchain engineer Teddy Knox tells Magazine.“Unlike an L1, where you have a very large committee of nodes that are validating Ethereum, L2s in their original form have centralized sequencers that have special permission to sequence L2 blocks.”
+Ethereum’s The Surge roadmap to achieve 100,000 TPS. (Vitalik Buterin)
+While centralized sequencers can run very fast and make their operators a lot of money, they contribute to the isolation of different L2s. Transactions processed by one of the L2’s sequencers can’t easily be matched to interact with other L2s, and this lack of interoperability has been a major factor in the Ethereum roadmap FUD this year. (Interoperability between L2s can still be achieved via other methods without shared sequencers, but this would be “asynchronous,” meaning not real-time).
+Based rollups (not to be confused with Coinbase’s L2 Base), proposed by Ethereum researcher Justin Drake, promise a solution to this fragmentation issue.
+Unlike traditional rollups, based rollups push transaction sequencing back to the Ethereum L1, which was the case before L2s propped up.
+“The based sequencing approach not only leverages Ethereum’s security but also contributes to its revenue and ecosystem cohesion, ensuring deeper alignment with Ethereum’s mainnet and fostering cheaper, faster transactions while directly supporting the network’s sustainability,” says Daniel Wang, co-founder of Taiko Labs, which has the first based rollup in production.
+Taiko is returning about five times as much revenue to Ethereum as other rollups with centralized sequencers.
+Taiko becomes the first based rollup Ethereum scaler. (Justin Drake)
+This sounds very promising, but as with anything, there are a bunch of problems.
+For users to enjoy the benefits of based rollups, other L2s must adopt them, too. In Taiko’s case, they are working with Nethermind’s rollup Surge chain, which will be specifically designed to allow users to bridge back and forth with Taiko without having to go through Ethereum.
+But despite being based on the same tech, the two rollups will still not be synchronously composable, Wang told Cointelegraph at Devcon.
+“You need to have almost real-time validity proofs to prove both change at the same time,” he said. “I think we’re just not there yet, and we, as a project, we cannot afford to wait for that to happen before we launch.”
+When operated by a single entity or a small group, sequencers can order transactions without the delays associated with decentralized consensus or Ethereum’s 12-second block times.
+The blockchain trilemma illustrates the challenge of optimizing decentralization, scalability and security simultaneously.
+For many L2 networks, sacrificing decentralization was worth it to offer throughput that the Ethereum L1 cannot match, though it raises risks of its own.
+“If the sequencer has to go down … there would be an impact to performance, or they could very much succeed in censoring your transaction absent any other feature,” Knox explains.
+Using a centralized sequencer brings back many of the issues decentralization and blockchain attempted to fix in the first place, such as censorship and single points of failure — with MEV (maximal extractable value) exploitation being a big issue.
+But while those sorts of concerns only keep Ethereum idealists up at night, for ordinary users, the big problem is switching between L2s.
+Duncan Townsend, smart contract engineer at 0x, says the current process of bridging funds from one Ethereum L2 to another “is not a great experience.”
+“Unless you’re using a chain abstraction protocol, the crosschain user experience in DeFi is bad,” he explains. “If you have basedness, you have composability. It doesn’t really matter what chain your tokens are on; you can get them on whatever chain you need cheaply and on demand.”
+If rollups share this based sequencing framework, tokens and assets should be able to directly interact with one another without relying on a separate bridging mechanism, enabling native interoperability between rollups.
+Based rollups bring back decentralized transaction sequencing by leveraging Ethereum’s validator network to sequence transactions across multiple L2s, creating a more unified and efficient ecosystem. Developers can develop DApps that operate across all participating L2s. 
+Ethereum has over 1 million validators as of Nov. 20. (Dune Analytics)
+However, getting existing L2s to agree to give up sequencer revenue will not be simple.
+“The move to based sequencing has a major hurdle to overcome, which is that all of these L2 sequencers are making a ton of money,” Townsend says.
+Sequencer revenue in ETH for some of Ethereum’s top L2 networks.
+According to Dune Analytics data, ZKsync, a ZK-rollup, has earned a cumulative sequencer fee of almost 40,500 ETH ($125.5 million) as of Nov. 20. Optimistic rollup competitor Base has earned 20,904 ETH ($64.7 million), Arbitrum has 62,001 ETH ($192 million), while Optimism has earned 6,916 ETH ($21.5 million).
+Are they really going to want to give up that revenue out of idealism?
+Although Wang is certainly idealistic, he says that based rollups help contribute toward securing Ethereum’s base layer because L2 activity reduces L1 activity, in turn reducing revenue for validators.
+“Based rollups do offer additional fees, tips and MEV opportunities to L1 validators, which will encourage more validators to secure the Ethereum chain. This will eventually make all based rollups more secure,” Wang of Taiko says.
+Taiko is the top fee payer to the Ethereum chain among rollups, according to Growthepie data. In the 30 days leading up to Nov. 21, Taiko paid $1.29 million in gas fees, almost five times more than Arbitrum One, which is in second place.
+Taiko is Ethereum’s rent payer among rollups. (Growthepie)
+This makes being a validator more lucrative and encourages staking, which reduces the circulating ETH supply and could help the price long term. 
+Based rollups present a possible solution to unify the Ethereum ecosystem, but returning to the mainchain for sequencing can bring back old problems as well. 
+The key tradeoff for based rollups is they are limited by Ethereum’s current 12-second block time, Wang says. Arbitrum operates at less than one second.
+“We are working with partners on preconfirmation (of transactions), which will no longer depend on short L1 block time to provide users the best transacting experience. Users will see their transactions are included in a block in almost real-time,” Wang says.
+The Ethereum network is bound to remain fragmented without proposals to enhance interoperability, like based rollups, while DeFi challengers like Solana continue to make strides as one unified layer-1, providing a more seamless experience for users.
+Solana has returned to the DeFi scene in 2024.
+“It’s essentially ‘How big can we make individual chains and individual rollups in terms of transaction throughput, and how quickly can we have them settle so that when liquidity needs to move from A to B?’ It can get there really fast, and the user doesn’t have to wait,” Knox states.
+Based rollups need to be adopted to succeed, but not everyone’s sold. (Charlie Noyes)
+Townsend says that based rollups are “certainly” a solution to unifying the ecosystem, but it’s still a novel concept, and an active ecosystem doesn’t exist yet.
+“You have this hurdle of convincing these L2 sequencers to give up part of their revenue stream to become based and to participate in this interoperability ecosystem,” Townsend says.
+Assistance and Requests: Contact Us
+Tips: tips@zerohedge.com
+General: info@zerohedge.com
+Legal: legal@zerohedge.com
+Advertising: Contact Us
+Abuse/Complaints: abuse@zerohedge.com
+Make sure to read our "How To [Read/Tip Off] Zero Hedge Without Attracting The
+                        Interest Of [Human Resources/The Treasury/Black
+                        Helicopters]" Guide
+It would be very wise of you to study our privacy policy and our (non)policy on conflicts / full disclosure.Here's our Cookie Policy. 
+How to report offensive comments
+Notice on Racial Discrimination.

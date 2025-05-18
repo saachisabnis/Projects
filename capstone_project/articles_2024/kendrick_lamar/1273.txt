@@ -1,0 +1,220 @@
+All products are independently selected and reviewed by CNN Underscored editors. When you buy through links on our site, we may earn a commission. Learn more
+
+            The Surface Pro 10 we expected this year didn’t arrive, as Microsoft instead erased the number from the end of its flagship detachable with the new Microsoft Surface Pro — a serious challenger for the best tablet throne. Why throw out the numbers you might ask? Well, the 2024 Surface Pro is out in front of a new generation of PCs aiming to deliver better battery life and performance. Sure, there’s a whole lot of conversation about the rise of the AI PC, but the real big story is the potentially big gains made possible from the new processors inside these machines.
+    
+
+            But you shouldn’t need to know what an Arm-based computer is, or think about the fact that Microsoft pushed Intel outside for the Qualcomm chips inside these new Surfaces. In a perfect world, you’d just buy the new Surface Pro for its improved performance and endurance. But we live in a famously imperfect reality, and there are some early hiccups out of the gate, which may or may not matter to you. So, let’s dive into everything you need to know about the new Surface Pro.
+    
+The new Microsoft Surface Pro lasts longer on a charge than its predecessors and other pricey tablets, and its optional keyboard is better than ever.
+
+            The Surface Pro I wrote this review on is armed with a Snapdragon X Elite processor that enabled a lot of snappy multitasking during my testing. That meant my passion for hoarding dozens of Chrome tabs while I juggle conversations in Outlook, Slack and Discord throughout the day went off without a hitch. This is likely thanks in part to the fact that Google’s browser (my preferred choice on Windows) is actually optimized for Arm, which hasn’t always been the case in previous attempts to put Windows on Arm. While Slack and Outlook also both run natively in the new infrastructure, some are still late to the party. It’s okay, though, that Discord is still built for the previous (x86) world, as it runs seamlessly via Microsoft’s Prism emulation tool.
+    
+
+            That said, benchmarking tells an interesting story when it comes to how the new Snapdragon X Elite chips stack up to the competition. The new Surface Pro and Surface Laptop did well on Geekbench 6 multi-core tests that measure how the processors handle more-strenuous tasks, but failed to keep up with the MacBook Air M3 (itself an Arm-based laptop) on the single-core tests that tackle lighter work.
+    
+Snapdragon X Elite X1E80100 (12 CPU cores)
+Snapdragon X Elite X1E80100 (12 CPU cores)
+Intel Core Ultra 7 155H
+Apple M3 (8 CPU cores)
+Apple M3 (8 CPU cores)
+16GB
+32GB
+32GB
+8GB
+16GB
+2,310
+2,365
+2,300
+3,108
+3,066
+13,104
+13,219
+13,074
+12,081
+11,650
+18,980
+19,104
+66,121
+25,861
+30,308
+
+            Apple also took a win on the graphics-based Geekbench 6 Compute test, with the M3 MacBooks beating their PC counterparts by substantial margins.
+    
+
+            That said, even our benchmarking exposed an Arm-based compatibility issue, as the PCMark 10 benchmark failed to run on the Surface Pro. The utility simply said it’s not designed to run on Arm systems, and that’s how I learned Microsoft’s Prism tool for software emulation can’t do everything.
+    
+
+            Our looping 4K video test, which sets each tablet or laptop to Airplane mode and disables ambient lighting settings for uniformity, took a whopping 13 hours and 13 minutes to drain the Surface Pro of its charge. That’s 1.5 hours longer than the rate from the previous Arm processor-based Surface Pro we tested, and over 6 hours longer than the time from the last Intel-based Surface Pro we tested, the Surface Pro 8. We also saw much shorter times from the 13-inch iPad Pro M4 and 13-inch MacBook Air M3.
+    
+13:13
+17:55
+9:25
+8:48
+7:29
+Snapdragon X Elite X1E80100
+Snapdragon X Elite X1E80100
+Intel Core Ultra 7 155H
+Apple M3
+Apple M4
+
+            That said, the regular Copilot+ PC laptops actually beat the Surface Pro, with the new Surface Laptop hitting nearly 18 hours and the Lenovo Yoga Slim 7x going over 19 hours. As for anecdotal battery life? Pushing the Surface Pro as hard as I could with my normal routine of work, I started the day with 88% battery life, and through working and video conferencing, that charge ran out at 3:36 p.m. — less than seven hours after I sat down to get things done. That’s a little short of what I’d been hoping for.
+    
+
+            No matter which genre I blasted through the Surface Pro’s speakers, I continued to bop my head with a delight that this sweltering summer demands. Charli XCX’s vocals on “365” sounded correct and clear at full volume, and the beat and bass of Kendrick Lamar’s “Not Like Us” hit with the familiar exuberance.
+    
+
+            That said, its maximum volume doesn’t get that high, so don’t expect it to fill a larger space. And when I hit play on Trent Reznor and Atticus Ross’ soundtrack for “Challengers,” I noticed that the bass was slightly less than I’d heard on the iPad Pro M4.
+    
+
+            Then, I loaded up the film “Dune: Part Two,” and saw plenty of detail in the arid desert surrounding Timothee Chalamet as he summoned a massive sand worm. Javier Bardem’s eyes popped with the accurate blue too. Later, I was delighted by the contrast of the Surface Pro’s OLED display, which emphasized the dark inky blacks of the brutalist planet of Giedi Prime. The Surface Pro’s 13-inch screen size, though, may not be big enough for multitaskers, and it makes me wish there were a 15-inch option.
+    
+
+            There’s just one oddity. When I switched to a brighter Windows 11 theme late in my testing, I began to notice a sort of visual grain in the Taskbar and in white backgrounds, such as the blank part of a Google Doc when I struggled to write. The grain almost looks like a pebbled texture, and while it’s something I could get over, it feels anomalous with regard to the rest of the screen’s quality. I didn’t notice it while watching Hugh Jackman and Ryan Reynolds exchange quips and strikes in the “Deadpool & Wolverine” trailer, but I couldn’t ignore it when my eyes were too close to the screen (to the optometrists out there, I hear your screaming).
+    
+
+            When I brought the Surface Pro outside with me on a gorgeous summer day, I was happy to see its screen was bright enough for text to be legible even in direct sunlight. That said, this panel is glossy enough that reflections soon annoyed me into opting for the shade when the opportunity presented.
+    
+
+            I’ve long thought the Surface Pro was an imperfect laptop alternative, but this year’s model is sold alongside the new Surface Pro Flex Keyboard, Microsoft’s best swing at the challenge yet. A new detached wireless mode lets you use it like your average Bluetooth keyboard, and Microsoft improved its stability — fixing my eternal issue with the Surface Pro Keyboard.
+    
+
+            For years, tablets have been sold as laptop-replacement devices alongside plenty of accessories, such as the optional keyboard cases that have the keyboard and wrist-rest extending outward like a duck’s bill. But typing on these keyboards often feels like I’m clicking against a bouncy surface.
+    
+
+            The Surface Pro Flex Keyboard reduces this issue greatly, as I barely thought about that jittery typing issue when sitting at my desk. I also discovered how the Surface Pro (with keyboard) makes for a decent laptop alternative when I went to the park, sat cross-legged and balanced the kickstand against the top of my knee.
+    
+
+            I quickly realized the wireless mode is not for me, as I don’t want a keyboard that sits flat on a desk (bad ergonomics) or to hold and type on a keyboard in my lap on the couch while the display is farther away and harder to read. Both these issues may be more personal than universal, so I’m inclined to compliment Microsoft for adding the additional option. The touchpad is slightly larger than those on prior Surface Pro keyboards (14% larger, to be precise), and it also provides haptic feedback instead of a physical click. Neither of these changes proved very noteworthy in my testing.
+    
+
+            Oh, and one other thing. PC folks can’t say “Apple tax” as loudly anymore when the Surface Pro Flex keyboard with Slim Pen costs $450, which is right in the middle of the price range of the combined cost of the Apple Pencil Pro and Magic Keyboard ($428 to $478, depending on the size of your iPad).
+    
+
+            The Surface Pro’s easel-style kickstand is still one of the best I’ve ever rotated, and serves as a reminder that — unlike Dell with the new XPS 14 — Microsoft knows better than to fix something that isn’t broken. No matter how I prop the Surface Pro, it stands strong, and never wavers.
+    
+
+            In terms of general connectivity, the Surface Pro’s dual USB-C ports are more than capable, unless you’re the kind of person wondering why a tablet this thick doesn’t have a headphone jack or a USB-A port. These reversible ports offer charging, data transfer and even the ability to expand your screen to up to three 4K external displays.
+    
+
+            Also, I always love to see the option to add 5G connectivity, so you’re not solely reliant on Wi-Fi. Apple’s still yet to add cellular connectivity to its MacBooks.
+    
+
+            It’s rare that I get an impressive front-facing camera in something that isn’t a phone, so the Surface Pro’s quad-HD, 8.3-megapixel webcam truly made me take notice when I looked crystal-clear on a Slack huddle.
+    
+
+            When I took a later video call with my colleague Mike Andronico, he observed my call quality looked better than what you get with most other internal webcams in laptops and tablets. He also agreed that most people won’t ever need to connect one of the best webcams, provided they’re not content creators looking to craft 4K video.
+    
+
+            Conversations about why people buy PCs generally gravitate to two answers: “it’s what I know,” and “gaming, duh.” And, no, I’m not talking about the value-less games such as Words Detective, Flappy Chicken and Deal or No Deal advertised in the Windows 11 widget drawer. I’m talking about more demanding games.
+    
+
+            Unfortunately, the new Surface Pro even struggles with Shadow of the Tomb Raider, which came out five years ago. First off, it can’t even run the title’s benchmark, which crashes when I try to load it. When I try to just play the game at full HD resolution and highest graphics, it struggles to get near or stay at 30 frames per second (our playability threshold), all the while exhibiting visual stutters and screen-tearing.
+    
+
+            Can this be defended? That depends on your expectations. Microsoft does not mention a GPU in the Surface Pro’s website, nor does it position this detachable as a gaming machine, but there are certain gaming expectations with the best Windows laptops that you don’t think about on other operating systems. Dell doesn’t put its XPS laptops out there as gaming beasts, but those laptops still ran Shadow of the Tomb Raider. And even though the MacBook Air wasn’t seen as a gaming machine when Apple relaunched the laptop with the Arm-based M1 chip in 2020, that laptop ran the similarly old Rise of the Tomb Raider.
+    
+
+            More people will expect their older printers and scanners to run on these new Windows-on-Arm machines, though, and that’s not always the case. As I discovered when trying to add an older combination printer-scanner from HP, some devices simply don’t have the right drivers to run on Arm-based systems. I was able to eventually find an HP program that let me print and scan, but I seriously recommend checking with the websites of the companies that make the accessories you rely on. And if they don’t support Arm systems yet, definitely consider the XPS 14 and other x86-based systems.
+    
+
+            But not all is lost. Rocket League, a game as easy to run as Spotify is to load, managed to play smooth enough for me to blame myself and not the system for a 5-2 blowout that reminded me how little I know about soccer and driving.
+    
+
+            Speaking of Apple, the Apple Music subscription service is one of the only apps I tried to open that just doesn’t have an Arm-compatible version yet — an issue I hope is rectified soon. Creativity apps also have limited support, as Adobe After Effects and Adobe Premiere Pro have TBA availability dates, while beta versions of versions of Adobe Illustrator and InDesign arrived since we originally published this review. Photoshop and Acrobat, though, already run on Copilot+ PCs.
+    
+
+            As you may have been told by a breathless expert, generative AI is supposedly a game-changing technology that’s going to lead to a new industrial revolution. Well, even though every tech product launch has had a hefty dollop of AI mentions, that’s not the case yet, especially when it comes to Copilot+ PCs.
+    
+
+            These laptops and tablets were meant to debut with Recall, an AI-based feature that would “recall” what you had been doing on that device when you asked about a recipe or website you visited. In an ironic twist, Recall got recalled before the Surface Pro and Surface Laptop could ship, due to concerns based around privacy, security and its implementation. Now, it’s going to debut as an opt-in feature in the Windows Insider program for folks eager to beta test new functionality.
+    
+
+            Instead, the Surface Pro launches with some AI-based tricks that might seem familiar, including the latest iteration of image generative technology. In Paint, you’ll find Image Creator and Cocreator tools, with the former building images from scratch based off of your written prompts and the latter working alongside your own attempts to draw. The former didn’t work for me at first with the “Create” button grayed out, and the latter just gave me varying degrees of interesting imagery when I was drawing a plane with the word “why” on it. Don’t believe anyone who calls these AI tools a superpower, these tools feel beneath even Spider-Man’s least convincing foes.
+    
+
+            And when AI tools actually work? Well, they’re still unconvincing, as I saw my colleague Mike Andronico generate lifeless images of french bulldogs in basketball jerseys in Paint and get outdated advice on the best laptop to buy from Copilot. Call me a skeptic whose want to actually create and be imaginative influences my opinion; I’m completely proud of it. I know people who love this stuff, and rely on it for their work. And that really makes me hope they’re good at copyediting and fine with unoriginal-looking results.
+    
+
+            When I started testing the Surface Pro, its $130 Slim Pen stylus was tucked safely in that groove above the keyboard. Before I knew it, though, I couldn’t find it. Sure, I’ll take some of the blame for this missing accessory, but this failing on my part also revealed a notable flaw.
+    
+
+            While the Windows 11 Surface app shows you the location of your stylus on a map in case you can’t find it, that’s all it will do to help you track down the lost accessory. The Apple Pencil Pro (which costs the same as the Slim Pen) offers Find My tracking that shows you how close you are to the tool, while the Surface app just places the pen on an incorrect corner of my block. That said, the Surface app notes that this feature is in the “preview” stage, which is basically akin to beta-level readiness.
+    
+
+            OK, I know this is in the “What I don’t like” section, but I won’t claim Windows 11 is all bad. Despite its flaws, it’s still a great platform for being productive on a tablet. In fact, I’d say it’s far better than iPadOS when it comes to window management for multitasking. That’s thanks to Snap layouts, which gives you many ways to properly organize programs. I frequently split the Surface Pro’s screen into halves and quadrants, and felt glad I wasn’t using the iPad’s Stage Manager solution, which recently got tweaked and improved but still makes me feel like I’m fighting against the interface.
+    
+
+            But then there’s the actual stuff that Windows 11 promotes and pushes inside that skeleton, which is enough to alienate me to stick with MacBooks for another generation or few. Running the Surface Pro with default Windows 11 settings, like I know most people will, gave me an experience bloated with so much unnecessary and irritating cruft that I had to get my thoughts out. Setting up the Surface Pro, I had to dodge offers for Microsoft 365 and Xbox Game Pass that would eventually bill me once I forgot to cancel them.
+    
+
+            Then, once I was in Windows 11 proper, I kept getting distracted by the widgets panel in the lower left corner, either by accidentally opening it in tablet mode or because of its constantly-changing icon (a car crash, a soccer ball, a sun and other glyphs seem intent on pulling me from my task) and absolute garbage news stories. Just because I selected “entertainment” while setting this device up, Windows 11 thinks I want to know about Jenna Ortega’s edgy red dress (I do not). Then, there’s that section of the widgets screen that’s just ads for games from msn.com (not even the Microsoft app store!) like Bubble Shooter HD and a Tetris knockoff called Blockbuster Puzzle. Yes, you can disable all this stuff, but it feels disrespectful to the customer that Microsoft would even think this is worth including as default options.
+    
+
+            I also can’t forget the other default to disable upon receipt of a new Windows 11 device: that weird suggested search image that always pops up in the taskbar’s search field. Sure, in the abstract I bet people care about the “summer solstice,” but what on Earth would command me to search for that phrase? And as annoying as Apple’s Tips notifications are, Windows 11’s spammy notifications to try the Edge web browser (sorry, never gonna happen) are just as bad, if not worse.
+    
+Snapdragon X Plus / Snapdragon X Elite
+Snapdragon X Plus / Snapdragon X Elite
+Intel Core Ultra 7
+Apple M3
+16GB / 32GB (OLED model only)
+16GB / 32GB / 64GB
+16GB / 32GB / 64GB
+8GB / 16GB / 24GB
+256GB / 512GB (standard) 512GB/1TB (OLED model)
+256GB / 512GB / 1TB
+512GB / 1TB / 2TB / 4TB
+256GB / 512GB / 1TB / 2TB
+13-in., 2880 x 1920 PixelSense Flow display, OLED optional
+13.8-in., 2304 x 1536 PixelSense Flow touch display
+14.5-in., 1920 x 1200 non-touch / 3200 x 2000 OLED touch display
+13.6-in., 2560 x 1664 Liquid Retina display
+Quad HD Surface Studio Camera
+1080p Surface Studio Camera
+1080p camera
+1080p FaceTime HD camera
+Thunderbolt 4 USB-C (2), Surface Pro Keyboard port, Surface Connect port
+Thunderbolt 4 USB-C (2), USB-A, headphone jack, Surface Connect port
+Thunderbolt 4 USB-C (3), headphone jack
+Thunderbolt 4 USB-C (2), headphone jack, MagSafe charging port
+11.3 x 8.2 x 0.37 in., 1.97 lbs.
+11.85 x 8.67 x 0.69 in., 2.96 lbs.
+12.6 x 8.5 x 0.7 in., from 3.7 lbs.
+12 x 8.5 x 0.4 in., 2.7 lbs.
+Sapphire, Dune, Black, Platinum
+Sapphire, Dune, Black, Platinum
+Platinum, Graphite
+Silver, Starlight, Space Gray, Midnight
+
+            After years of small updates that had us wondering what’s going on over at Microsoft, the Surface Pro is reborn and it feels so good to use. Having tested this model out for two weeks, I’m of the strong opinion that this is an excellent device for those who want a laptop with the option for a tablet. Sure, it gets expensive, with a $1,428 starting price when tricked out with the new Surface Pro Flex Keyboard and Slim Pen. Many will be better off with the longer-lasting Surface Laptop, but that doesn’t have an OLED display option, which is a curious omission.
+    
+
+            For now, the big questions for prospective Surface Pro buyers is “do you want to play video games?” and “do you know if your favorite applications will load on an Arm-based PC?” Yes, the likes of Chrome, Slack, Spotify, Zoom and the Microsoft 365 programs run on these machines, but you don’t want to buy a new laptop just to discover you’re relying on app emulation or waiting for an update. So, if you’re buying a Surface Pro and don’t exclusively run the above applications or live inside of the Microsoft ecosystem, a quick online search may be required before you commit to a purchase.
+    
+
+            Still, though, phenomenal battery life and snappy performance on improved hardware make the new Surface Pro one of the best tablets and detachable 2-in-1s there is. All while full-fledged Windows 11 gives iPad Pro owners some envy when it comes to window management.
+    
+
+            A keyboard is not included by default, but the Surface Pro Keyboard is an add-on that starts at $170.
+    
+
+            Microsoft sells the Surface Pro in Sapphire (blue), Dune (bronze), black and Platinum (silver).
+    
+
+            The Surface Pro packs a 13-inch (2880 x 1920) display, and you can upgrade it to an OLED panel for higher contrast and inkier black tones.
+    
+
+            CNN Underscored has a team of writers and editors who have many years of experience testing, researching and recommending products, and they ensure each article is carefully edited and products are properly vetted. Electronics writer Henry T. Casey has been covering computers and gadgets over a decade, writing product reviews for laptops, tablets and much more. He’s attended everything from Microsoft Copilot announcements to Apple’s annual iPhone reveal.
+    
+Henry T. Casey is a writer for CNN Underscored covering electronics. He reviews hardware and accessories to help Underscored audiences make the right purchases for their needs. Something of a movie buff himself, he's a member of multiple movie theater membership programs and collects physical media.
+
+Read our review
+
+Read our review
+
+Read our review
+Note: The prices above reflect the retailers' listed price at the time of publication.
+Receive product recommendations, reviews and deals three times a week.
+
+                By signing up, you agree to our Terms of Use and Privacy Policy.
+            
+© 2025 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

@@ -1,0 +1,36 @@
+A Journal of Analysis and News							
+Taylor Swift. Photo Credit: Ronald Woan, Wikipedia Commons
+By Eurasia Review 
+Seattle may have experienced its own Swift Quake last July, but at an August 2023 concert Taylor Swift’s fans in Los Angeles gave scientists a lot of shaking to ponder.
+After some debate, a research team led by Gabrielle Tepp of Caltech concluded that it was likely the dancing and jumping motions of the audience at SoFi Stadium—not the musical beats or reverberations of the sound system—that generated the concert’s distinct harmonic tremors.
+In their study in Seismological Research Letters, Tepp and colleagues show how they were able to identify the seismic signature of individual songs and determine the strength of each song’s tremor.
+They even have a little bit of data on how Swift’s concert stacks up—seismically, that is—against other Summer of 2023 SoFi concerts, including Metallica, Beyoncé and Morgan Wallen.
+The Seattle Swift quake prompted the California Office of Emergency Services to ask seismic network operators in the state to see if any interesting research might be generated at Swift’s August concert dates in Los Angeles. Tepp’s colleagues set up strong motion sensors at SoFi Stadium, analyzing data collected by those devices along with data from nearby permanent regional seismic network stations.
+Previous research shows that “concert tremor” can be recorded as long-duration signals with narrowband, harmonic frequency peaks between 1 and 10 hertz. This kind of low-frequency signal looks like the harmonic tremor recorded from natural sources like volcanoes and human sources like trains.
+One of the goals of the research team was to find a way to extract the concert’s tremor signals from spectrograms. Spectrograms are graphs that display the strength of various signal frequencies over time. They are often used to display frequencies of sound waves, but they can also help seismologists visualize signals recorded by seismometers and other instruments.
+For Tepp, who has studied volcanoes and is also a musician, the concert data was a great opportunity to test methods for detecting seismic signals in spectrograms. “For earthquakes, most of the time they’re pretty sharp and easy to identify with waveforms, but when you have something like volcanoes where you have such a wide variety of signals, spectrograms can be really handy in helping to identify the different types of signals,” she explained.
+Each Swift song had a distinctive tremor signal, the researchers found. For Swift’s August 5, 2023 concert, Tepp and colleagues were able to identify 43 of the 45 songs played within the recorded spectrograms.
+They also calculated the radiated energy of each song and interpreted that number in terms of the local magnitude of an earthquake that would have radiated the same energy. The songs varied considerably in magnitude, with “Shake It Off” coming in at the largest local magnitude of 0.851. “Keep in mind this energy was released over a few minutes compared to a second for an earthquake of that size. Based on the maximum strength of shaking, the strongest tremor was equivalent to a magnitude -2 earthquake,” Tepp said.
+But where did all that harmonic tremor come from? “My gut feeling was that if you have a harmonic signal that is nice like these, it had to be from the music or the instruments or something,” Tepp said.
+Instead, the researchers found that the best explanation of their data was that the movement of the 70,000-plus crowd caused the harmonic tremor. To confirm this, the scientists performed a few experiments of their own. They played songs on a portable PA speaker next to a strong motion sensor. Tepp also plugged in her bass guitar to the speaker and played a simple repetitive beat. She even jumped up and down next to the sensor while rocking out to Swift’s “Love Story.”
+The experimental data confirmed that it was motion and not music that was creating the harmonic tremor. “Even though I was not great at staying in the same place—I ended up jumping around in a small circle, like at a concert—I was surprised at how clear the signal came out,” Tepp said.
+Tepp was surprised that the bass beats “didn’t make a harmonic signal, even though they were more accurately on the beat than my jumping.”
+She thinks that might have more to do with the signal shape—the bass beats have a rounder, more emergent shape than the “spike” of a jump—relative to the space between each beat or jump. This relationship “could have implications for why some seismic signals show up as harmonic in spectrograms while other similar ones do not.”
+The researchers used data pulled from the regional seismic network stations to look at the tremor created by the summer’s other headliners at SoFi. Some of the most interesting data came from the Metallica concert.
+“Other concerts had nice straight-line harmonic signals, but the signals from the Metallica concert were slanted and kind of weird looking,” Tepp said. “We don’t have a great explanation for that yet.”
+One explanation might be found in the fact that the beat rate for Swift’s songs doesn’t vary much between live and album performances, but Metallica’s beat rates “are all over the map,” she noted. Videos of the concerts also highlight differences between Swift’s highly choreographed shows and Metallica’s members wandering the stage.
+“The tremor signals themselves are likely coming from the audience, but if the band is varying the beat or speed of songs as they go, maybe the audience is reacting differently,” Tepp suggested.
+Metallica also “had the weakest signals in terms of the strongest magnitude from each concert,” she said.
+“Metal fans like to headbang a lot, so they’re not necessarily bouncing,” Tepp added. “It might just be that the ways in which they move don’t create as strong of a signal.”
+Eurasia Review is an independent Journal that provides a venue for analysts and experts to disseminate content on a wide-range of subjects that are often overlooked or under-represented by Western dominated media.
+Your email address will not be published. Required fields are marked *
+Comment * 
+Name * 
+Email * 
+Website 
+The statement by Croatian Prime Minister Andrej Plenković (HDZ), declaring that the Republic of Croatia would not impose sanctions on the President
+Good analysis, thanks for a honest article, with softer much fake news going on.
+Are sponsored Terrorist attacks on innocent Hindu Tourists in Pahalgam NOT violation of international norms? Pakistan need to follow the…
+North Korea ostensibly has a GDP around that of Zimbabwe, furthermore if one believes the official statistics South Korea has…
+I would certainly request all stake holders who are running affairs of the country whether they are in government or…
+In Pakistan, the state tightly controls the national narrative, promoting a singular Islamic identity. This creates fertile ground for militant…

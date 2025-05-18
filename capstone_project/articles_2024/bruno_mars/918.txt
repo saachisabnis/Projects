@@ -1,0 +1,160 @@
+Click here to sign in with
+                  
+
+
+                  or
+                  
+
+
+
+
+
+Forget Password?
+
+
+Learn more
+
+share this!
+7
+Tweet
+Share
+Email
+
+														July 5, 2024
+														
+													
+
+														This article has been reviewed according to Science X's 
+														editorial process
+														and policies.
+														Editors have highlighted
+														the following attributes while ensuring the content's credibility:
+													
+
+ fact-checked
+															
+
+ reputable news agency
+															
+
+ proofread
+															
+
+										 by Richard Tribou, Orlando Sentinel										 										 									
+As Jeff Bezos' Blue Origin prepares for the first launch of its New Glenn rocket from Cape Canaveral this year, the company has taken time to voice concerns over future launches of competitor SpaceX's massive Starship and Super Heavy, also planning to launch from the Space Coast.
+Elon Musk's company continues development of the most powerful rocket ever to reach orbit from its test site in Texas, but has plans for launch pads at both Cape Canaveral Space Force Station and neighboring Kennedy Space Center.
+The Department of the Air Force is the midst of an Environmental Impact Statement (EIS) for the new rocket to launch from Canaveral's Space Launch Complex 37 aiming to take over the space that was used by United Launch Alliance until its final launch of the Delta IV Heavy earlier this year.
+Meanwhile, the Federal Aviation Administration is performing a similar environmental impact assessment on a Starship launch pad from KSC's Launch Complex 39-A where SpaceX currently flies its Falcon 9 and Falcon Heavy rockets.
+The period for public comment on the FAA's assessment continued through June 24 before the EIS moved into its next phases.
+Blue Origin took the opportunity to log its concerns and among its suggestions were limiting the number of launches SpaceX can perform from Florida.
+Noting its more than $1 billon investment at Canaveral's Space Launch Complex 36, Blue Origin points out it employs 2,700 full-time employees in Brevard County including 449 at Canaveral "that are directly impacted by local launch activities."
+Blue Origin's interests in the FAA's assessment include "the safe and effective preservation and transportation of real and personal property and personnel that will be impacted" by the introduction of Starship launches, which produce around 17 million pounds of thrust on launch—more than twice the power of the Saturn V rockets from the Apollo program.
+Among the concerns from launching such a large rocket are launch pad anomalies, debris dispersion, blast overpressure, sonic boom overpressure, explosion, fire, air quality, noise or other effects during launch, landing or other operations.
+Blue Origin also raised concerns over "the preservation of historical and environmental resources at or around KSC under Blue Origin's control, including those owned by USSF, NASA or other U.S. government entities."
+And the company voiced concerns about its "safe and continuous access to the limited airspace and maritime resources necessary for Blue Origin to operate; and the safe and continuous access to common-use infrastructure and utilities."
+This latter is potentially at risk as SpaceX has deemed plans to launch its Starship from KSC up to 44 times per year with booster landings that could include Landing Zones 1 and 2 at Canaveral.
+Musk has said Starship launches could over the years increase from all of its launch sites to number in the thousands every two years to push through SpaceX's ultimate goal of building out a Mars colony.
+"Starship-Super Heavy operations are expected to have a greater environmental impact than any other launch system currently operating at KSC or CCSFS," Blue Origin noted in its comment pointing out the rocket "can hold up to an unprecedented 5,200 metric tons of liquid methane for propulsion, resulting in qualified distances for safety margins that potentially overlap the operational sites of other companies, the government and the public."
+
+        Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys.org for daily insights.
+        Sign up for our free newsletter and get updates on breakthroughs,
+        innovations, and research that matter—daily or weekly.
+    
+Because of that, Blue Origin suggests the FAA's EIS (environmental impact statement) "should thoroughly evaluate the considerable risks, alternatives, mitigations and resources" it points out.
+That includes capping the number of launch, landings and other operations such as test fires Starship can perform; government investment in more launch infrastructure that would reduce Starship impacts on other launch companies such as more launch pads; and allotting other launch providers "the right-of-first refusal or schedule priority for certain conflicting launch or other operational opportunities."
+Other suggestions include requiring SpaceX or the government to "indemnify third parties for any losses caused by" Starship operations "including commercial disruption incurred," and mandatory penalties for SpaceX "for conducting operations not included in an active EIS or other environmental restriction, violating a launch license, or any other laws, regulations or other rules for operating."
+Blue Origin will be competing with SpaceX and ULA for time on the range, and also with SpaceX for use of maritime assets such as booster recovery vessels out of Port Canaveral.
+Already in 2024, SpaceX has launched 46 times compared to ULA's three launches, part of what is expected to be a record year that could see more than 100 launches. That total is forecast to grow to 200 launch and recovery missions annually by 2028, and could balloon to more than 1,250 missions in the next five decades, according to a Space Florida report this year on support infrastructure needs.
+The company has targeted the rocket's first launch before the end of the year with the Space Force having in January earmarked an opening on the range as early as September.
+This week Blue Origin posted video of test operations at LC-36 showing what it said was a successful simulation of the launch tower's rapid retract system needed during rocket liftoff.
+"The retract system ensures the transporter erector is quickly positioned away from New Glenn at liftoff to provide flyout clearance," Blue Origin posted. "We've been out on the pad testing since late May and plan to roll back to the integration facility in a few days."
+One pacing item for New Glenn's launch is its need for seven of the company's BE-4 engines. Blue Origin also provides BE-4 engines to ULA for its Vulcan rockets, but those only use two.
+ULA President and CEO Tory Bruno said last week Blue Origin had delivered all six needed for ULA's next three Vulcan launches planned for 2024 and had now switched to production for New Glenn.
+For New Glenn, the engines can produce 3.9 million pounds of thrust at liftoff and will burn blue as they use liquefied natural gas (LNG) mixed with liquid oxygen.
+Blue Origin has dozens of launches under contract including NASA's ESCAPADE mission to study solar wind energy around Mars, launches to support future Artemis human landing missions, flights for telecom satellite companies Telesat and Eutelsat, and up to up to 27 launches over the next several years to support Bezos' Amazon and its Project Kuiper program.
+It also last month joined SpaceX and ULA as one of three providers under the lucrative National Security Space Launch Phase 3 Lane 1 launch services procurement, which will dole out contracts for launches over the next five years worth up to $5.6 billion.
+Similar to SpaceX Falcon 9 rockets, the New Glenn first stage is designed for a recovery landing on a sea-based platform 620 miles downrange in the Atlantic after launch. They will then be returned to nearby Port Canaveral, where Blue Origin recently installed its a 375-foot-tall tower crane. The company aims to use the first stage for up to 25 missions.
+The rocket's size, though, sets it apart from its competitors in that its payload space is large enough to fit three school buses, the company said. That's because of a nearly 23-foot diameter fairing compared to the roughly 17- to 18-foot diameter fairings found on Falcon 9, Falcon Heavy and Vulcan Centaur.
+Blue Origin took over the lease for LC-36 in 2015. It was previously used for government launches from 1962 to 2005, including lunar lander Surveyor 1 in 1967 and some of the Mariner probes.
+
+												  2024 Orlando Sentinel. Distributed by Tribune Content Agency, LLC.
+											 
+Explore further
+Facebook
+Twitter
+Email
+ Feedback to editors
+9 hours ago
+0
+11 hours ago
+0
+11 hours ago
+0
+May 2, 2025
+0
+May 2, 2025
+0
+5 minutes ago
+8 hours ago
+9 hours ago
+11 hours ago
+11 hours ago
+May 2, 2025
+May 2, 2025
+May 2, 2025
+May 2, 2025
+May 2, 2025
+Apr 29, 2025
+Apr 28, 2025
+Apr 26, 2025
+Apr 25, 2025
+Apr 24, 2025
+Apr 24, 2025
+
+							More from Astronomy and Astrophysics
+
+Apr 24, 2024
+Jun 27, 2024
+May 28, 2024
+Apr 23, 2024
+Jun 21, 2024
+Jan 11, 2024
+Apr 29, 2025
+Apr 22, 2025
+Apr 20, 2025
+Apr 18, 2025
+Apr 15, 2025
+Apr 9, 2025
+
+
+								This summary was automatically generated using LLM. 
+								Full disclaimer
+
+
+
+											Use this form if you have come across a typo, inaccuracy or would like to send an edit request for the content on this page.
+											For general inquiries, please use our  contact form.
+											For general feedback, use the public comments section below (please adhere to guidelines).
+										
+Please select the most appropriate category to facilitate processing of your request
+Thank you for taking time to provide your feedback to the editors.
+Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages. 
+
+                                            Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose.
+											The information you enter will appear in your e-mail message and is not retained by Phys.org in any form. 
+                                        
+
+					Get weekly and/or daily updates delivered to your inbox.
+					You can unsubscribe at any time and we'll never share your details to third parties.
+				
+
+More information
+Privacy policy
+
+
+                    We keep our content available to everyone.
+                    Consider supporting Science X's mission by getting a premium account.
+				
+Medical research advances and health news
+The latest engineering, electronics and technology advances
+The most comprehensive sci-tech news coverage on the web

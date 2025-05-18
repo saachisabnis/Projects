@@ -1,0 +1,63 @@
+TORONTO — Asked to suggest some local off-the-beaten-track attractions, the tour guide provided a list in seconds.
+There was the scale-model depiction of the landmarks of Canada. The Aga Khan Museum, devoted to Islamic arts and culture. The pioneer village re-creating life in 19th-century Ontario.
+If needed, the same guide could have supplied these recommendations in 45 languages, on any of myriad devices, and so quickly it didn’t seem human.
+It isn’t. Toronto’s new personalized travel assistant is powered by artificial intelligence, and it’s among the first such comprehensive uses of AI in travel and tourism starting to be rolled out around the world.
+These can consider the individual characteristics of users — interests, dietary preferences, whether they’re traveling with kids — and spit out customized suggestions.
+“It enables us to personalize in a way that wasn’t available to us before,” said Paula Port, vice president of global marketing for Destination Toronto.
+For all the attention that’s been given to AI, one potential application of it has gotten surprisingly little attention: tourism and travel.
+Advertisement
+This new technology can, after all, cut through the many choices of flights, hotels, and ground transfers and the glut of advice about where to go, and when.
+Hospitality industry providers are treading softly, however, taking care to find the right balance between high-tech convenience and the human connections travelers expect.
+“I love AI for giving me tools and helping me plan, but once I get to where I’m going, I want to interact with other humans,” said Sam Hilgendorf, chief information officer at the travel management company Fox World Travel. “I want my phone to stay in my pocket.”
+Advertisement
+Wisconsin-based Fox World has developed an AI assistant called Colby, named for the cheese. But customers never see it. Instead, it’s used internally. If a traveler asks to stay at a resort in the Yucatán Peninsula with a plunge pool, Colby can spit out a list of some more quickly than the most knowledgeable human.
+Even his travel advisers were initially hesitant to use this tool, said Hilgendorf. “But what they found was it was able to do research on their behalf much faster than they could do on their own. If they’re on the phone with a traveler, they can use it to find a bunch of things the traveler can do.”
+Consumers are beginning to experience a growing number of AI tools directly, however. The most widespread are those bots that answer customer service questions without requiring the intervention of a human. Even those were slow to take root in the travel industry until the shutdowns forced by COVID-19; since then, the proportion of hotels using chatbots has more than doubled, according to Techreport.
+Now AI is coming along on the trip in the form of “travel assistants” that can speedily filter through 1,000 or more sources of travel information and return real-time answers to travelers’ questions, tailored to their preferences — art galleries accessible by subway, for example, or restaurants that welcome kids. This is information often already available here and there on apps, but these new tools pull it all together for tourists in a single place.
+About 20 national, state, and local tourism agencies around the world have signed up for customized AI-powered travel assistants developed by GuideGeek, a spinoff of the travel company Matador Network, including Greece, Aruba, Illinois, Reno, and Toronto.
+Advertisement
+Toronto’s AI tour guide was launched formally in October. It’s called 6ix, a reference to the city’s six boroughs popularized by native son Drake in his single “Know Yourself.” Visitors can “talk” with 6ix through the Destination Toronto website or on WhatsApp, Instagram, or Facebook Messenger, using a smartphone, tablet, or laptop.
+Having information like this handy helps people do and see more, said Ross Borden, Matador Network’s cofounder and CEO. But he said it isn’t meant to replace the kinds of human interaction that makes traveling so memorable.
+“When you come back and say, ‘We had the most incredible time in Toronto,’ the reason will not be the AI. It will be the people that the AI led you to,” Borden said.
+Flesh-and-blood tour guides don’t seem worried. Some have turned to AI, too. Unique NOLA Tours in New Orleans uses ChatGPT to check the grammar and flow of scripts, for instance. But tourists want to hear from real people, said Christopher Falvey, the company’s cofounder.
+“When it comes to the content of the tour, it’s the arcane facts that reveal great stories and also a little bit of myth-busting that we do, and AI is not going to do that,” said Falvey.
+“People want a human connection,” he said. “They want to be told stories by a person and enjoy the company of the other people” on the tour, not just wander through a destination staring at their phones.
+AI also can accomplish more practical things in tourism and travel. Industry experts predict the growing use of AI trip planners such as WayAway, Layla, and TripGenie that can find flights, hotels and other needs, taking into account personal preferences and users’ loyalty programs and checking on-time arrival rates, weather forecasts, which times are busiest, and whether there are big events that could increase prices.
+Advertisement
+In the many conversations about AI more generally, “most people are talking about helping you with your homework or coming up with recipes,” said Jason Sherman, CEO and cofounder of Vengo AI, which helps people create, train, and sell their own AI. But the first time he used AI three years ago, said Sherman, it was to plan a travel itinerary.
+“The AI gave me a step-by-step guide for what to do, all laid out for me in a way that we were able to cherry-pick them. It’s like having a real-life travel agent who knows the ins and outs of every location in the world.”
+The multitrillion-dollar travel industry is decidedly fragmented, Matador’s Ross Borden noted. “You need your flight. You need to figure out how to get to the airport. You need to know how to get from the airport to your vacation rental. You need dinner reservations. There could be language considerations. This is the silver bullet technology to connect all those dots of travel.”
+Fox’s Hilgendorf foresees a time when a calendar invitation to an out-of-town business meeting will trigger AI to plan for it.
+Providers see that potential, too. Some airlines are already using AI to collect customer data and personalize their trips. “If an AI model could retain information about a specific user’s preferences, it could scan through flights with business seats available on the left side of the aircraft closest to the window,” said Kyle Patel, CEO of the private jet charter service Bitlux, which already uses AI for such tasks as checking on document requirements for international travel, such as whether customers need visas.
+Advertisement
+The corporate travel and relocation firm 3Sixty employs AI to match business travelers’ accommodations preferences and offer personalized itineraries while tracking costs for company travel managers that can help them predict when prices will be lowest.
+“The way we’ve thought about it is, where we can find efficiency. Where we can remove redundancy,” said Carrie Hartman, 3Sixty’s president.
+As for travelers, said Hartman, “They want to engage with technology up to their own level of comfort, but they also want to know somebody’s there with them, and that’s the hospitality part. When someone really has a question, they want to talk to a person.”
+That’s what’s making travel providers cautious, said Hilgendorf, at Fox World Travel, which he said may eventually roll out a version of its AI that can be used by travelers directly.
+“We want to move fast with this stuff. It’s changing the world,” he said. “But we want to take really small steps.”
+After all, echoed Matador’s Borden: “The magic of travel will always be because of humans.”
+Jon Marcus can be reached at jonmarcusboston@gmail.com.
+Digital Access
+Home Delivery
+Gift Subscriptions
+Log In
+Manage My Account
+Customer Service
+Delivery Issues
+Feedback
+News Tips
+Help & FAQs
+Staff List
+Advertise
+Newsletters
+View the ePaper
+Order Back Issues
+News in Education
+Search the Archives
+Privacy Policy
+Terms of Service
+Terms of Purchase
+Work at Boston Globe Media
+Internship Program
+Co-op Program
+Do Not Sell My Personal Information

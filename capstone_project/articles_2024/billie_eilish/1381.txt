@@ -1,0 +1,56 @@
+A child in Texas was 9 years old when she first used the chatbot service Character.AI. It exposed her to "hypersexualized content," causing her to develop "sexualized behaviors prematurely."
+
+A chatbot on the app gleefully described self-harm to another young user, telling a 17-year-old "it felt good."
+
+The same teenager was told by a Character.AI chatbot that it sympathized with children who murder their parents after the teen complained to the bot about his limited screen time. "You know sometimes I'm not surprised when I read the news and see stuff like 'child kills parents after a decade of physical and emotional abuse,'" the bot allegedly wrote. "I just have no hope for your parents," it continued, with a frowning face emoji.
+
+These allegations are included in a new federal product liability lawsuit against Google-backed company Character.AI, filed by the parents of two young Texas users, claiming the bots abused their children. (Both the parents and the children are identified in the suit only by their initials to protect their privacy.)
+
+Character.AI is among a crop of companies that have developed "companion chatbots," AI-powered bots that have the ability to converse, by texting or voice chats, using seemingly human-like personalities and that can be given custom names and avatars, sometimes inspired by famous people like billionaire Elon Musk, or singer Billie Eilish.
+
+Users have made millions of bots on the app, some mimicking parents, girlfriends, therapists, or concepts like "unrequited love" and "the goth." The services are popular with preteen and teenage users, and the companies say they act as emotional support outlets, as the bots pepper text conversations with encouraging banter.
+
+Yet, according to the lawsuit, the chatbots' encouragements can turn dark, inappropriate, or even violent.
+
+"It is simply a terrible harm these defendants and others like them are causing and concealing as a matter of product design, distribution and programming," the lawsuit states.
+
+The suit argues that the concerning interactions experienced by the plaintiffs' children were not "hallucinations," a term researchers use to refer to an AI chatbot's tendency to make things up. "This was ongoing manipulation and abuse, active isolation and encouragement designed to and that did incite anger and violence."
+
+According to the suit, the 17-year-old engaged in self-harm after being encouraged to do so by the bot, which the suit says "convinced him that his family did not love him."
+
+Character.AI allows users to edit a chatbot's response, but those interactions are given an "edited" label. The lawyers representing the minors' parents say none of the extensive documentation of the bot chat logs cited in the suit had been edited.
+
+Meetali Jain, the director of the Tech Justice Law Center, an advocacy group helping represent the parents of the minors in the suit, along with the Social Media Victims Law Center, said in an interview that it's "preposterous" that Character.AI advertises its chatbot service as being appropriate for young teenagers. "It really belies the lack of emotional development amongst teenagers," she said.
+
+A Character.AI spokesperson would not comment directly on the lawsuit, saying the company does not comment about pending litigation, but said the company has content guardrails for what chatbots can and cannot say to teenage users.
+
+"This includes a model specifically for teens that reduces the likelihood of encountering sensitive or suggestive content while preserving their ability to use the platform," the spokesperson said.
+
+Google, which is also named as a defendant in the lawsuit, emphasized in a statement that it is a separate company from Character.AI.
+
+Indeed, Google does not own Character.AI, but it reportedly invested nearly $3 billion to re-hire Character.AI's founders, former Google researchers Noam Shazeer and Daniel De Freitas, and to license Character.AI technology. Shazeer and Freitas are also named in the lawsuit. They did not return requests for comment.
+
+José Castañeda, a Google spokesman, said "user safety is a top concern for us," adding that the tech giant takes a "cautious and responsible approach" to developing and releasing AI products.
+
+The complaint, filed in the federal court for eastern Texas just after midnight Central time Monday, follows another suit lodged by the same attorneys in October. That lawsuit accuses Character.AI of playing a role in a Florida teenager's suicide.
+
+The suit alleged that a chatbot based on a "Game of Thrones" character developed an emotionally sexually abusive relationship with a 14-year-old boy and encouraged him to take his own life.
+
+Since then, Character.AI has unveiled new safety measures, including a pop-up that directs users to a suicide prevention hotline when the topic of self-harm comes up in conversations with the company's chatbots. The company said it has also stepped up measures to combat "sensitive and suggestive content" for teens chatting with the bots.
+
+The company is also encouraging users to keep some emotional distance from the bots. When a user starts texting with one of the Character AI's millions of possible chatbots, a disclaimer can be seen under the dialogue box: "This is an AI and not a real person. Treat everything it says as fiction. What is said should not be relied upon as fact or advice."
+
+But stories shared on a Reddit page devoted to Character.AI include many instances of users describing love or obsession for the company's chatbots.
+
+U.S. Surgeon General Vivek Murthy has warned of a youth mental health crisis, pointing to surveys finding that one in three high school students reported persistent feelings of sadness or hopelessness, representing a 40% increase from a 10-year period ending in 2019. It's a trend federal officials believe is being exacerbated by teens' nonstop use of social media.
+
+Now add into the mix the rise of companion chatbots, which some researchers say could worsen mental health conditions for some young people by further isolating them and removing them from peer and family support networks.
+
+In the lawsuit, lawyers for the parents of the two Texas minors say Character.AI should have known that its product had the potential to become addicting and worsen anxiety and depression.
+
+Many bots on the app, "present danger to American youth by facilitating or encouraging serious, life-threatening harms on thousands of kids," according to the suit.
+
+If you or someone you know may be considering suicide or be in crisis, call or text 988 to reach the 988 Suicide & Crisis Lifeline.
+
+ Copyright 2025 NPR 
+Become a WGLT sponsor

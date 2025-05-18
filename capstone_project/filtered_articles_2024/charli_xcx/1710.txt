@@ -1,0 +1,68 @@
+Labels and artists are still searching for ways to use the popular platform to their advantage — while also getting paid if their music gets played.
+
+													By
+												
+
+	Elias Leight
+
+
+The gaming platform Roblox announced on Friday (Sept. 6) that it will roll out music charts early in 2025, bringing songs a new level of potential visibility for its nearly 80 million daily active users.
+
+	At the Roblox Developer Conference, the company also said it was entering a new partnership with DistroKid, allowing the distributor’s acts to make their music available in the Roblox ecosystem, which consists of millions of games. This marks the platform’s first partnership with a major rightsholder in the music business. However, the independent artists who avail themselves of this opportunity won’t make any money from Roblox when their songs are used, underscoring the thorny relationship between the music and gaming industries. 
+
+	Artists and labels are dying for better ways to reach gamers — a hefty chunk of the world’s population, many of them young, who often get just as enthusiastic about music as they do about the games they love. But artists and labels also want to be paid for their work. 
+
+
+
+
+			Trending on Billboard		
+
+
+
+
+
+
+	Across the aisle, games would love to benefit from artists’ credibility and add pizzazz to their soundtracks. But they often have little patience for the music industry’s licensing system, which they view as old-fashioned and overly complicated, and its interest in steep up-front fees. And games’ success usually does not depend on music industry involvement.
+
+	The chasm between these views has limited the opportunities for artists in gaming — especially those who aren’t already stars — outside of a few titles. 
+
+	But the music industry would still like to bridge the gap, and Roblox’s virtual universe is a particularly tempting target. That’s because it has a tantalizing number of users whose avatars are wandering around, hanging out with friends, or flocking to games like Adopt Me!, where they raise virtual pets. Labels would love to reach these crowds. 
+
+	Roblox chief product officer Manuel Bronstein says the platform wants to help. To drive more music discovery, it will add a sort of audio player that can show users what track is playing in the Roblox experience they are enjoying. 
+
+	As a result, “users are going to be able to see the name of the song, the artist [behind it], and even like the song,” Bronstein says. That information will then flow into the platform’s music charts, which will rank tracks according to engagement. In an ideal world, charts function like a two-way mirror — they reflect listening habits but also facilitate discovery for curious listeners. (Roblox will also set up a separate ranking that tallies the popularity of music experiences on the platform to help players seeking out what are known as “rhythm games,” where activity is usually linked with playing an instrument or dancing.) 
+
+	The music industry’s approach to Roblox has evolved gradually in the last few years. Initially, stars like Lil Nas X made headlines with one-off concerts. However, these are expensive and time-consuming to put together, and the payoff is short-lived. They have largely gone out of vogue. 
+
+	Artists and labels have also built their own Roblox experiences. But it’s tough to stand out in the land of a million-plus games, and a big name does not ensure a big audience. 
+
+	On Aug. 29, for example, the electronic producer Zedd announced that he was taking over Universal Music Group’s Roblox experience, Beat Galaxy. Visits jumped up from around 4,000 on the 28th to around 10,000 a day later, according to the site RoMonitor, which tracks Roblox activity. Not bad, except that that amounts to a drop in the platform’s ocean-sized audience. Piggy, where players try to escape a homicidal swine wielding a baseball bat, attracted more than 2.7 million visits the same day. And RoMonitor’s data indicates that there are over 30 Roblox experiences earning more daily visitors than Piggy. 
+
+	“There are so many games on the platform,” says Mat Ombler, who works as a music and gaming consultant while also editing MusicEXP, a newsletter about the intersection of the two worlds. “There is absolutely no guarantee that launching an activation will get artists in front of those 80 million players.” 
+
+	Some artists have had success “activating in already thriving experiences,” according to Jesse Wylde, senior director of artist and business development at Artist Partner Group (APG). “And short-form Roblox UGC edits across socials” — clips of Roblox activity posted on TikTok and elsewhere — “continue to be a key driver for consumption across APGs roster.” (In the future, Wylde would love to see “more native means for players to save songs and/or follow artists on streaming services while remaining in Roblox.”)
+
+	For Ombler, Charli XCX’s recent collaboration with the wildly popular game Dress to Impress represents a new high-water mark for artists in Roblox. In his newsletter, he noted that “daily visits for Dress to Impress jumped from 22.49 million on Aug. 16 to 34.09 million on [the collaboration’s Aug. 17] launch, an increase of 41%.” Concurrent users also jumped from a peak of 290,000 to a peak of 641,000.
+
+	But Charli XCX, a well-known artist with major hits, doesn’t need Roblox to break through. The Holy Knives are interested in the platform’s partnership with DistroKid because it could afford smaller acts like them a chance to find new listeners. “Majors probably don’t need more exposure,” says Kody Valentine, a member of the duo along with his brother Kyle. “As independent artists, that’s the number one thing we need. If that can come through Roblox, that is amazing.”
+
+	The band opted to make their music available on Roblox so that game developers can put it into experiences. (DistroKid artists must opt in to be part of the program.) The hope is that they will gain enough fans to offset the fact that they won’t be directly compensated for any use of their songs. 
+
+	Bronstein points out that if artists like The Holy Knives are discovered on Roblox, “they also have means to monetize outside of the platform” — if players go stream the band elsewhere, for example. (It’s also easy for artists to start selling virtual merch on Roblox, which has been lucrative for some stars; Ombler believes more artists should try this.) But Roblox is “starting as a promotional vehicle to begin with,” Bronstein notes. 
+
+	Artists only have one career, so they will often trade royalty income for exposure. DistroKid earns money when artists sign up to distribute their music and doesn’t share in the royalties they make, so it doesn’t have a dog in the fight. For the major labels, on the other hand, giving away music for free is a tough pill to swallow, especially recently. 
+
+	UMG CEO Lucian Grainge made this clear during a speech in 2022. Initially, “[we] were given a lot of reasons why our artists shouldn’t get paid” by MTV and YouTube, Grainge recalled. “People said, ‘It’s great promotion,’ or ‘you can use it as a platform for discovering new artists.’ Technology platforms were built on the backs of the artists’ hard work.”
+
+	When asked about the potential for future monetization opportunities, Bronstein says, “We want to get there. Once you get the momentum, you have the opportunity to think about creative ways in which artists can monetize.” (Karibi Dagogo-Jack, who previously served as Roblox’s head of music partnerships, is no longer with the company.) But the music industry’s fear is that the opposite thing happens: Platforms get momentum and then use that leverage to argue they should pay even less for music.
+
+Alex Tarrand, COO/co-founder of STYNGR, has tried to come up with a way for rightsholders to get their music played on Roblox but also get paid for it. STYNGR has licenses with all the major labels and publishers; game developers can then use that music without paying up-front. 
+
+	In the Roblox universe, this music comes out of a boombox — old-school radio in a newfangled virtual world. Users either shell out for listening time, or developers can put an ad-funded version of the product into their experiences. The revenue from user payments and advertisements is then shared between major labels, publishers, game developers and STYNGR. “Session lengths go up for the people who are actively engaging with the music player,” according to Tarrand. “And we see session frequency go up.”
+
+	Despite some of the ongoing friction between the music industry and Roblox, the search for common ground continues. This week, Tarrand flew to the Roblox Developer Conference to meet with more developers. “Music is a big topic of conversation at this RDC,” he says. “That’s promising.” 
+Daily newsletters straight to your inbox
+Send us a tip using our anonymous form.
+A daily briefing on what matters in the music industry
+Send us a tip using our anonymous form.
+Billboard is a part of Penske Media Corporation. © 2025 Billboard Media, LLC. All Rights Reserved.

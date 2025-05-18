@@ -1,0 +1,29 @@
+Microsoft has updated its free, online Designer AI image generator to prevent users from creating more images resembling celebrities in explicit scenarios, according to independent media outlet 404 Media.
+The updates came after an explicit series of deepfakes of musician Taylor Swift, which 404 also traced back to Microsoft’s Designer AI, began circulating on X, Reddit, and various other websites and social platforms last week, in violation of Microsoft’s Services Agreement, which states “Don’t publicly display or use the Services to generate or share inappropriate content or material (involving, for example, nudity, bestiality, pornography, offensive language, graphic violence, self-harm, or criminal activity).”
+OpenAI’s DALL-E 3, which powers the tool, and Microsoft Designer itself also had built-in technical prohibitions against users asking the AI tool to generate explicit imagery. 
+Nonetheless, some users were clearly able to get around these prohibitions using prompt engineering techniques, leading to the creation and spread of the Swift images.
+Asked by VentureBeat about the updates, a spokesperson for Microsoft provided the following statement to me over email: “We are committed to providing a safe and respectful experience for everyone. We are continuing to investigate these images and have strengthened our existing safety systems to further prevent our services from being misused to help generate images like them.”
+The spread of the images prompted outrage from fans online, as well as a call for new legislation from U.S. lawmakers, the White House, and SAG-AFTRA, the U.S. union representing actors. 
+Microsoft sought to reassure the public it was on the case. As CEO Satya Nadella on Friday told NBC News Anchor Lester Holt:
+ “Yes, we have to act,” Nadella said in response to a question about the deepfakes of Swift. “I think we all benefit when the online world is a safe world. And so I don’t think anyone would want an online world that is completely not safe for both content creators and content consumers. So therefore, I think it behooves us to move fast on this.”
+He additionally signaled some lukewarm support for collaborating with lawmakers around the issue of AI deepfakes, though stopped short of calling for a new bill or new laws. 
+“But it is about global, societal, you know, I’ll say convergence on certain norms,” he continued. “Especially when you have law and law enforcement and tech platforms that can come together, I think we can govern a lot more than we give ourselves credit for.”
+SAG-AFTRA is endorsing a new bill, the Preventing Deepfakes of Intimate Images Act introduced by Democratic Congressman Joe Morelle of New York state back in May 2023, which would make the dissemination of explicit deepfakes without the consent of the source a federal crime punishable by fines and a decade in prison. 
+The bill remains in committee and would need to be passed by both the House of Representatives (of which Morelle is a member) and the Senate and signed by the U.S. President to become law.
+As for what specific updates were made to the Designer AI service, 404 reported that it previously was possible to prompt the service with “slightly misspelling the name of celebrities, and describing images that don’t use any sexual terms but result on sexually suggestive images,” but that these techniques no longer work. 
+Yet the question remains if motivated users will keep testing and find workarounds to the new restrictions. 
+Swift has also reportedly considered taking legal action over the images, though if and who would be named in a lawsuit is still unanswered for now.
+Some critics of AI such as former Recording Industry Association of America (RIAA) executive vice president Neil Turkewitz have opined that the moves from Microsoft don’t go far enough because they are designed to prohibit AI deepfakes of celebrities, but may still allow the creation of deepfakes of less famous figures.
+Microsoft addressing output depicting celebrities isn’t the flex it thinks it is. What about the millions of women & children who don’t have platforms to raise their concerns? MS needs to address input—allowing images/text only on the basis of consent. https://t.co/E4Qdh3GsWf
+The news comes at a bad time for Microsoft, as the U.S. regulatory agency the Federal Trade Commission (FTC) just announced it was probing Microsoft’s investment into OpenAI (as well as other deals between Anthropic and Amazon and Alphabet). 
+If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.
+Read our Privacy Policy
+
+					Thanks for subscribing. Check out more VB newsletters here.
+				
+An error occured.
+© 2025 VentureBeat. All rights reserved.
+
+										Thanks for subscribing. Check out more VB newsletters here.
+									
+An error occured.

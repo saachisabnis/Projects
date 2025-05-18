@@ -1,0 +1,46 @@
+How to use Google Assistant in all kinds of ways
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+This article is part of TechRadar's Smart Home Week 2024, featuring a series of articles in which we'll give you all the latest product news, reviews, and tips to help you build the smart home of your dreams. 
+Google Assistant is now built into billions of smart speakers, smart home devices, headphones, and smartphones across the world, making its mark on the modern home – and there are lots of good reasons for it.
+The things Google Assistant can do are incredibly varied: the powerful voice assistant is capable of anything from answering your general knowledge questions to checking your emails and appointments – and just about everything in between. If you have a Tile tracker, Google Assistant can even help you find your lost keys, wallet, or phone. 
+Google Assistant is getting smarter all the time too, using machine learning to adapt and mature, becoming more useful with every passing day. Now you can even teach the voice assistant to better recognize your voice so you can receive personalized results to your commands and queries.
+Plus, with more and more smart devices adding Google integration to their spec-list, it’s easier than ever to control your smart home using the clever voice assistant. Whether you're new to Google Assistant (or just want to brush up on its latest capabilities), read on for our comprehensive guide on how to use Google Assistant in every situation.
+Google Assistant is Google's voice assistant, launched in May 2016, and it's available on smartphones, tablets, Chromebooks, and smart home devices. Powered by artificial intelligence, it's Google's answer to Amazon Alexa and Apple Siri.
+While you might be most familiar with the assistant on Android, it's also available in all of Google's smart speakers and smart displays: the Nest Hub, the Nest Hub Max, the Nest Mini, and the Nest Audio.
+You'll also find it in a variety of non-Google speakers and devices, as well as on Wear OS smartwatches. Through Google Home, you can use Google Assistant to control a host of smart home devices, even if they don't support Google Assistant directly.
+Sign up for breaking news, reviews, opinion, top tech deals, and more.
+In other words, it's available all over.
+It's easiest to use Google Assistant on Android: if you're using a Pixel phone, just press and hold the power button, and Google Assistant pops up. You can also choose Apps and Assistant from Settings to enable the "hey Google" voice activation.
+On a Samsung Galaxy phone, you can install the Google Assistant app for Android. If you want to use Google Assistant instead of Bixby, open Settings and pick Apps, Choose default apps, and Digital Assistant app.
+Unsurprisingly, Apple won't let you swap Siri for Google Assistant on the iPhone. There is an official Google Assistant for iOS, which you can install and use, but you won't be able to launch it with a "hey Google" command – you just need to use it like any other app.
+From checking the events in your calendar to making shopping lists, Google Assistant is able to act as your personal PA – and you don’t have to pay it for the privilege, either. 
+Not sure what your day looks like? Ask Google Assistant to take a look at your calendar and give you an overview of your events for the day by asking questions like "hey Google, when's my next event?", or "what's on my calendar for next Tuesday?".
+You can also schedule appointments, and ask Google to tell you about your upcoming day when you wake up in the morning. 
+Another cool Google Assistant feature is the ability to make lists, hands-free – and it can even read them back to you when you’re done. 
+Setting reminders is also super useful: all you have to do is say something like "hey Google, remind me to call Mom at seven pm tonight", and it will give you a nudge ahead of time. You can also set location-based reminders, as well as recurring reminders – just include those details in your instructions.
+Perhaps one of the best ways to use Google Assistant is to get it to control your smart home devices: it can be a single voice-activated hub for your smart light bulbs, smart thermostats, and even your security cameras.
+You'll need to use a smartphone or tablet to set up your smart home devices to work with Google Assistant, via the Google Home app for Android or iOS. Once you've done this you can set nicknames for your devices and assign them to different rooms in your house – helpful if you have a lot of different smart devices.  
+Once that's done, you can then ask Google Assistant to do tasks like "turn off the lights in the bedroom" or "turn down the thermostat". If you have a Google Assistant smart display or TV, and a compatible security camera, another option is to say "show the front door camera" for a livestream.
+Lots of brands and gadgets now work with Google Assistant, including Philips Hue lightbulbs, Neato robot vacuums, and of course, products from Google-owned company Nest, which includes devices like the Nest Thermostat, and the Google Nest Cam.
+To play music using Google Assistant, you’ll need a smart speaker or smart display with Google Assistant built-in, like the Nest Audio, Nest Hub or Nest Mini. Google Assistant also comes built into a number of third-party speakers, including offerings from Sonos, Marshall, and JBL.
+To listen to music on your Google Assistant smart speaker, you simply need to say "hey Google", and give the voice assistant a command. You can be specific in terms of artist and song name, or ask to hear something more general, like a genre.
+For example, you ask Google to "play Waterloo Sunset by The Kinks on Spotify", or "play Ariana Grande on YouTube Music". You can also ask Google Assistant to play music for a particular mood: music for cooking, for example, or for a party.
+If you have more than one Google Assistant-compatible smart speaker, you can fill your entire home with sound by playing music on each speaker simultaneously – your speakers just need to be connected to the same WiFi network.
+Google Assistant will use YouTube Music by default, but you can connect other audio services to it as well: On a Pixel phone, choose Apps, Assistant, and Music.
+Whether you're streaming into your favorite Netflix series or watching a film you rented from YouTube, you can use Google Assistant to control your TV hands-free – as long as it's running Google TV or Android TV, or has a Chromecast connected to it.
+If Google software is built right into your television, you should be able to speak into your remote control to give Google Assistant commands. Otherwise, you'll have to give these commands to the Google Assistant built into your smartphone, or a Google Home speaker.
+As well as giving Google Assistant commands such as "play Stranger Things on my TV", you can also turn your Google TV or Android TV on and off, open apps like Netflix and YouTube, and play, pause, resume, and stop the playback.
+An easy way to use Google Assistant to help you on your travels is to use it with Google Maps. iPhone user? Just download the app from the App Store first.
+For example, if you want Google Assistant to help you find the best way to get home from work, first enter your home address in the settings for Google Maps: tap your profile picture (top right), then Settings, and Edit home or work.
+Once that's done, you can say "take me home" to Google Assistant, and it will retrieve information from Google Maps to show or verbally explain the best route based on your current location.
+You can also check for traffic updates and get the latest information about redirects and closed roads, which is especially useful if you're driving and you can't look at your phone. Google Assistant is also able to book flights and accommodation hands-free, as well as convert currencies and translate languages.
+Dave is a freelance tech journalist who has been writing about gadgets, apps and the web for more than two decades. Based out of Stockport, England, on TechRadar you'll find him covering news, features and reviews, particularly for phones, tablets and wearables. Working to ensure our breaking news coverage is the best in the business over weekends, David also has bylines at Gizmodo, T3, PopSci and a few other places besides, as well as being many years editing the likes of PC Explorer and The Hardware Handbook.
+
+TechRadar is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+
+©
+Future Publishing Limited Quay House, The Ambury,
+Bath
+BA1 1UA. All rights reserved. England and Wales company registration number 2008885.

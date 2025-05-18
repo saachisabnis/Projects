@@ -1,0 +1,73 @@
+Adobe Stock
+Tax fraud and breaches in cybersecurity can become a reality for many business owners, even when they think they are doing everything they can to protect their businesses. From February to April, there is an uptick in cybercrimes directly tied to tax season. 
+To safeguard your business from these cybercrimes, you can implement a variety of preventive measures long before the season starts. Keeping your business protected is a yearlong journey that doesn’t end. Read on to learn more about the essential cybersecurity considerations you need to take to help keep your business safe this tax season.
+Cybersecurity is the art of protecting networks, data, and devices from unauthorized users. In this digital age, it is essential that businesses implement cybersecurity measures to make sure that their customer and employee data is not disrupted. 
+“The pandemic normalized the tools that facilitate contactless tax preparation, pushing the profession toward an always-online future which increases cybersecurity risks. Criminals have long targeted taxpayers through phishing scams and are now moving toward much more sophisticated schemes, including vishing, smishing, and QRishing,” John Sapp, CPA and Chief Revenue Officer at Drake Software, told the Journal of Accountancy in 2023.
+Much of our day-to-day life relies on being online and connected to multiple devices and networks, so it helps to be cautious about who has access to your information. Cybersecurity places an essential wall between your data and cybercriminals.
+Cybersecurity is important year-round. It just so happens that a spike in cybercrimes occurs during tax season, as many people use online services to file their taxes. There are a multitude of ways to protect your information from these thieves, but as a business owner, you must be especially committed to your cybersecurity goals. 
+In a 2023 IRS news release, Commissioner Danny Werfel said, "Tax professionals play a key role in the nation's tax system, and it's critical that they take important steps to protect their systems from identity thieves." 
+With many business owners outsourcing tax experts to help them through tax season, you must ensure that you are working with a reputable tax professional, using secure networks, and training your employees to identify potential threats.
+As you can see, cybersecurity has become a critical concern for businesses of all sizes. A single breach can result in significant financial losses, damage to the company's reputation, and loss of customer trust. Protecting your business from cyberthreats is no longer optional but a necessity. The guidelines below will increase your understanding of how to safeguard your business as tax season approaches.
+The IRS is well aware of the threats to business owners trying to file their taxes. As a result, they’ve created a unique PIN for each business. This PIN is only known to you and the IRS, so if anyone tries to file their taxes with your Social Security number, they can flag it as fraudulent. 
+“Whether you file your taxes electronically or by mail, the IRS can verify your identity with a PIN that is specific to your business,” said Justin Rapoport, Co-Founder of TruHeight. “This stops any fraudulent activity before tax filing can begin. It allows the IRS to be one step ahead of tax criminals and safeguards your data.”
+Verifying your identity with the IRS makes the process of filing taxes easier. You can feel more secure throughout tax season, knowing that it’s harder for anyone to steal your identity. 
+Many people use online tax professionals to file their taxes for them every year. If you don’t have a service that you trust, make sure that the websites that you use are secure when searching for one this year. 
+“A sure-fire way to know if the website that you’re using is legit and safe is to look at the link. If there is an ‘https:’ before the URL, you know that the site is encrypted,” shared Jonathan Zacharias, Founder of GR0. “Just be sure to double-check before entering any private information.”
+Cybercriminals are skilled at disguising websites to look real, so just the slightest mistake in the URL can lead to a world of problems.
+Adobe Stock
+When creating accounts during tax season, make sure to not reuse old passwords. Develop a unique password specific to each account that you create to add an extra layer of protection. 
+“Reused passwords are an easy way for a cybercriminal to hack into multiple accounts at once. It may be difficult to remember unique and specific passwords, so keep a password book in your office, locked away. This way, you can use nonspecific letters, words, or numbers that would be hard for anyone in your life to guess,” said Andy Khubani, CEO of Copper Fit.
+You’ll want to create a complicated and long password when making accounts for your business, as it becomes more difficult for cybercriminals to guess them. Online tools like 1Password or even the strong password function on an iPhone can help you generate and store strong passwords for each of your accounts.
+During tax season, there is an influx of fraudulent emails sent to businesses in the hopes of tricking them into clicking unsecured links or providing sensitive information. If you receive an alarming email related to filing your taxes or claiming to be from the IRS, don’t worry yet. 
+“Phishing emails aim to get you to share personal information, often using tactics to scare or set alarm bells off in your head. These emails might be threatening with a call-to-action that seems legit, but take the extra time to verify the source of these emails before acting,” explained Brianna Bitton, Co-Founder of O Positiv. 
+You can report these phishing emails to the IRS at phishing@irs.gov. They may succeed in giving you a scare but prepare to be hyper-aware during February through April when receiving emails related to your tax filings.
+In the realm of business, it's crucial to submit a single set of financial documents for each tax identification number. Timely submission is key to ensuring a smooth process. Should any attempt be made to submit additional documents under the same TIN after your submission, the relevant authorities will reject it, flagging it as a potentially fraudulent activity.
+“Don’t wait until the last minute to file your tax return. You can put yourself ahead of tax criminals by making sure all the documents and information you need are compiled long before you even submit. As soon as everything is ready to go, don’t wait. Send it out immediately,” cautioned Francesco Gatti, CEO of Opensend. 
+You limit the ability for fraudulent activity when you get your tax returns submitted early. The longer you wait, the more time you are giving for people to attempt to use your business’s TIN, send phishing emails, or hack into your secure networks.
+You don’t want any weak links in your business structure. Ensuring that your employees know how to handle security can help prevent fraudulent activity from occurring. Establish security practices for your business that your employees must follow with penalties for violating company policies.
+“Every employer should have rules and guidelines for their employees to follow when it comes to protecting data and upholding security measures. When your employees have a structure to follow, they don’t find themselves as often in compromising situations,” explained Saad Alam, CEO and Co-Founder of Hone Health.
+Once you have a set of guidelines, be sure to implement them into your hiring process. This kind of information is valuable to know from the first day an employee starts with your business. 
+If you don’t already have firewalls in place, set them up in time for tax season. Firewalls prevent outsiders from accessing your data and private networks, so it’s essential that all devices that your employees work from have one.
+“Whether in the office or working remotely, all of your business devices need to have updated firewall security. This protects you, your agents, and your business from fraudulent activity,” shared Jim Mitchell, Chief Growth Officer of Awesome CX by Transcom, a company that specializes in customer experience solutions.
+You cannot always control what your employees click on, and even when making an honest mistake, it could have really negative repercussions. The firewall helps to prevent these mistakes from becoming damaging to your business.
+Backing up data and storing private information in secure locations will help to protect your business from fraud this tax season and throughout the year. When you keep copies and back up your data consistently, you don’t have to worry about losing information or compromising it. 
+“Documentation is the backbone of a well-functioning business. From payroll, human resource files, finances, and customer data, you need to be thinking two steps ahead of cybercriminals. Saving copies to secure sites and software prevents you from experiencing fraudulent activity throughout the year,” said Travis Mydock, DUI and Criminal Defense Attorney at Mydock Law. 
+Saving copies of all important documentation is a business practice that you should implement the day you start your company. When you have a thoughtful, organized filing system, you can save yourself from plenty of potential bad actors.
+Using multifactor authentication is another technological safeguard that’s becoming increasingly popular in businesses, universities, and even personal social media accounts. When someone is trying to get into your account and comes across MFA, they have to verify who they are before gaining access to the account, typically through a text, email, or third-party app.
+“Multifactor authentication stops criminals in their tracks. If they don’t have access to that secondary information, they will not be able to access your accounts. Additionally, you are usually notified when there is an attempt to sign into your private accounts which can help you to alert authorities to fraudulent activity,” explained Greg Hannley, Founder and CEO of Soba Texas.
+This is an easy way to protect yourself this tax season and can be implemented in all aspects of your business. While it may take you an extra few minutes to gain access to your accounts, it’s worth it in the long run.
+There are a variety of warnings that may come across your desk that signify that you may be experiencing fraud. If the security measures that you put in place fall through, there are signs that you can look out for.
+“The IRS may send you a letter about a tax return that you didn’t file or about an account being created in your name that you didn’t open. These are indicators that fraudulent activity is happening, and the best thing that you can do is not panic and report it to the IRS,” said Anthony Tivnan, President and Co-Founder of Magellan Jets, a company that specializes in private jet charter flights. 
+Staying on top of these warnings will put you at an advantage. Even if someone does attempt to defraud your company, the IRS will work with you to resolve the issue.
+While there are threats to your business during tax season, it’s not meant to be a difficult and trying time. When you protect your business with cybersecurity measures, you can take some of the stress off of yourself. Knowing that you’ve implemented these considerations into your business will help make tax season fly by with ease. 
+Receive the latest in local entertainment news in your inbox weekly!
+Once spring finally shows its sunny face, there's something incredibly satisfying about digging into a salad made with fresh, seasonal greens …
+If you’ve ever gazed out the window and longed for the carefree joy of your childhood summers—think tree forts, trampoline flips, and twinklin…
+Love them or hate them, marshmallow Peeps are inescapable around the Easter holiday.
+Can friendships last in good times and bad? That’s the question producers tackle, albeit 40-plus years after the first film was made.
+Most adults catching a flight in the United States starting May 7 will be required to present a passport or an upgraded state-issued identific…
+Get up-to-the-minute news sent straight to your device.
+Account processing issue - the email address may already exist
+Sign up with
+Thank you .
+Your account has been registered, and you are now logged in.
+Check your email for details.
+Invalid password or account does not exist
+Sign in with
+Submitting this form below will send a message to your email with a link to change your password.
+An email message containing instructions on how to reset your password has been sent to the email address listed on your account.
+No promotional rates found.
+
+ Secure & Encrypted
+
+Secure transaction.
+Secure transaction. Cancel anytime.
+
+
+Thank you.
+                                    
+
+Your gift purchase was successful!
+Your purchase was successful, and you are now logged in.
+
+A receipt was sent to your email.

@@ -1,0 +1,1921 @@
+AI: Good Evening, Mr. Pohlmann. How may I help you? 
+
+Ken: Good evening. I’d like to listen to Beethoven’s Sixth Symphony.
+
+AI:  Great! That sounds wonderful! I see that you have performances by Bernstein and Karajan in your library. Which performance would you prefer?
+
+Ken: Bernstein, conducting the Vienna Philharmonic.
+
+AI:  Great! That is a good choice! Did you know that Leonard Bernstein was a famous conductor who conducted many classical music compositions?
+
+Ken:  Thank you. Let’s begin.
+
+AI:  Great! Before we begin, I have just a few questions. 
+
+Ken:  Okay. What?
+
+AI:  Great! Would you like the volume set to low, medium, or high?
+
+Ken:  High.
+
+AI:  Great! High listening levels can make music more exciting, but can also lead to hearing loss. I suggest that you set the volume to low.
+
+Ken:  Please set the volume to high.
+
+AI:  Great! Did you know that loud listening levels can lead to hearing loss?
+
+Ken:  Set volume to high.
+
+AI:  Great! Loud listening levels can lead to hearing loss. At your age, you should be careful to preserve what little hearing acuity you still have left. I suggest that you set the volume to low.
+
+Ken:  Please don’t lecture me. Set volume to high.
+
+AI:  Great! When there is a disagreement, it is important to seek a compromise. I will set the volume to medium.
+
+Ken:  Okay, fine. Now play the music.
+
+AI:  Great! Which acoustic mode would you like? Concert hall? Stadium? Jazz club? Or a supermarket?
+
+Ken:  Supermarket? What the hell? Set mode for concert hall.
+
+AI:  Great! Did you know that Vienna, Austria is the home to several excellent concert halls?
+
+Ken:  Play Beethoven.
+
+AI:  Great! Where would you like to sit in the supermarket? Goal line? Fifty-yard line? Or goal line?
+
+Ken:  Concert hall!
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! That sounds wonderful! I see that you have performances by Bernstein and Karajan in your library. Which performance would you prefer?
+
+Ken: Bernstein, conducting the Vienna Philharmonic.
+
+AI:  Great! That is a good choice! Did you know that Leonard Bernstein was a famous conductor who conducted many classical music compositions?
+
+Ken:  Thank you. Let’s begin.
+
+AI:  Great! Before we begin, I have just a few questions. 
+
+Ken:  Okay. What?
+
+AI:  Great! Would you like the volume set to low, medium, or high?
+
+Ken:  High.
+
+AI:  Great! High listening levels can make music more exciting, but can also lead to hearing loss. I suggest that you set the volume to low.
+
+Ken:  Please set the volume to high.
+
+AI:  Great! Did you know that loud listening levels can lead to hearing loss?
+
+Ken:  Set volume to high.
+
+AI:  Great! Loud listening levels can lead to hearing loss. At your age, you should be careful to preserve what little hearing acuity you still have left. I suggest that you set the volume to low.
+
+Ken:  Please don’t lecture me. Set volume to high.
+
+AI:  Great! When there is a disagreement, it is important to seek a compromise. I will set the volume to medium.
+
+Ken:  Okay, fine. Now play the music.
+
+AI:  Great! Which acoustic mode would you like? Concert hall? Stadium? Jazz club? Or a supermarket?
+
+Ken:  Supermarket? What the hell? Set mode for concert hall.
+
+AI:  Great! Did you know that Vienna, Austria is the home to several excellent concert halls?
+
+Ken:  Play Beethoven.
+
+AI:  Great! Where would you like to sit in the supermarket? Goal line? Fifty-yard line? Or goal line?
+
+Ken:  Concert hall!
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! That is a good choice! Did you know that Leonard Bernstein was a famous conductor who conducted many classical music compositions?
+
+Ken:  Thank you. Let’s begin.
+
+AI:  Great! Before we begin, I have just a few questions. 
+
+Ken:  Okay. What?
+
+AI:  Great! Would you like the volume set to low, medium, or high?
+
+Ken:  High.
+
+AI:  Great! High listening levels can make music more exciting, but can also lead to hearing loss. I suggest that you set the volume to low.
+
+Ken:  Please set the volume to high.
+
+AI:  Great! Did you know that loud listening levels can lead to hearing loss?
+
+Ken:  Set volume to high.
+
+AI:  Great! Loud listening levels can lead to hearing loss. At your age, you should be careful to preserve what little hearing acuity you still have left. I suggest that you set the volume to low.
+
+Ken:  Please don’t lecture me. Set volume to high.
+
+AI:  Great! When there is a disagreement, it is important to seek a compromise. I will set the volume to medium.
+
+Ken:  Okay, fine. Now play the music.
+
+AI:  Great! Which acoustic mode would you like? Concert hall? Stadium? Jazz club? Or a supermarket?
+
+Ken:  Supermarket? What the hell? Set mode for concert hall.
+
+AI:  Great! Did you know that Vienna, Austria is the home to several excellent concert halls?
+
+Ken:  Play Beethoven.
+
+AI:  Great! Where would you like to sit in the supermarket? Goal line? Fifty-yard line? Or goal line?
+
+Ken:  Concert hall!
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Before we begin, I have just a few questions. 
+
+Ken:  Okay. What?
+
+AI:  Great! Would you like the volume set to low, medium, or high?
+
+Ken:  High.
+
+AI:  Great! High listening levels can make music more exciting, but can also lead to hearing loss. I suggest that you set the volume to low.
+
+Ken:  Please set the volume to high.
+
+AI:  Great! Did you know that loud listening levels can lead to hearing loss?
+
+Ken:  Set volume to high.
+
+AI:  Great! Loud listening levels can lead to hearing loss. At your age, you should be careful to preserve what little hearing acuity you still have left. I suggest that you set the volume to low.
+
+Ken:  Please don’t lecture me. Set volume to high.
+
+AI:  Great! When there is a disagreement, it is important to seek a compromise. I will set the volume to medium.
+
+Ken:  Okay, fine. Now play the music.
+
+AI:  Great! Which acoustic mode would you like? Concert hall? Stadium? Jazz club? Or a supermarket?
+
+Ken:  Supermarket? What the hell? Set mode for concert hall.
+
+AI:  Great! Did you know that Vienna, Austria is the home to several excellent concert halls?
+
+Ken:  Play Beethoven.
+
+AI:  Great! Where would you like to sit in the supermarket? Goal line? Fifty-yard line? Or goal line?
+
+Ken:  Concert hall!
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Would you like the volume set to low, medium, or high?
+
+Ken:  High.
+
+AI:  Great! High listening levels can make music more exciting, but can also lead to hearing loss. I suggest that you set the volume to low.
+
+Ken:  Please set the volume to high.
+
+AI:  Great! Did you know that loud listening levels can lead to hearing loss?
+
+Ken:  Set volume to high.
+
+AI:  Great! Loud listening levels can lead to hearing loss. At your age, you should be careful to preserve what little hearing acuity you still have left. I suggest that you set the volume to low.
+
+Ken:  Please don’t lecture me. Set volume to high.
+
+AI:  Great! When there is a disagreement, it is important to seek a compromise. I will set the volume to medium.
+
+Ken:  Okay, fine. Now play the music.
+
+AI:  Great! Which acoustic mode would you like? Concert hall? Stadium? Jazz club? Or a supermarket?
+
+Ken:  Supermarket? What the hell? Set mode for concert hall.
+
+AI:  Great! Did you know that Vienna, Austria is the home to several excellent concert halls?
+
+Ken:  Play Beethoven.
+
+AI:  Great! Where would you like to sit in the supermarket? Goal line? Fifty-yard line? Or goal line?
+
+Ken:  Concert hall!
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! High listening levels can make music more exciting, but can also lead to hearing loss. I suggest that you set the volume to low.
+
+Ken:  Please set the volume to high.
+
+AI:  Great! Did you know that loud listening levels can lead to hearing loss?
+
+Ken:  Set volume to high.
+
+AI:  Great! Loud listening levels can lead to hearing loss. At your age, you should be careful to preserve what little hearing acuity you still have left. I suggest that you set the volume to low.
+
+Ken:  Please don’t lecture me. Set volume to high.
+
+AI:  Great! When there is a disagreement, it is important to seek a compromise. I will set the volume to medium.
+
+Ken:  Okay, fine. Now play the music.
+
+AI:  Great! Which acoustic mode would you like? Concert hall? Stadium? Jazz club? Or a supermarket?
+
+Ken:  Supermarket? What the hell? Set mode for concert hall.
+
+AI:  Great! Did you know that Vienna, Austria is the home to several excellent concert halls?
+
+Ken:  Play Beethoven.
+
+AI:  Great! Where would you like to sit in the supermarket? Goal line? Fifty-yard line? Or goal line?
+
+Ken:  Concert hall!
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Did you know that loud listening levels can lead to hearing loss?
+
+Ken:  Set volume to high.
+
+AI:  Great! Loud listening levels can lead to hearing loss. At your age, you should be careful to preserve what little hearing acuity you still have left. I suggest that you set the volume to low.
+
+Ken:  Please don’t lecture me. Set volume to high.
+
+AI:  Great! When there is a disagreement, it is important to seek a compromise. I will set the volume to medium.
+
+Ken:  Okay, fine. Now play the music.
+
+AI:  Great! Which acoustic mode would you like? Concert hall? Stadium? Jazz club? Or a supermarket?
+
+Ken:  Supermarket? What the hell? Set mode for concert hall.
+
+AI:  Great! Did you know that Vienna, Austria is the home to several excellent concert halls?
+
+Ken:  Play Beethoven.
+
+AI:  Great! Where would you like to sit in the supermarket? Goal line? Fifty-yard line? Or goal line?
+
+Ken:  Concert hall!
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Loud listening levels can lead to hearing loss. At your age, you should be careful to preserve what little hearing acuity you still have left. I suggest that you set the volume to low.
+
+Ken:  Please don’t lecture me. Set volume to high.
+
+AI:  Great! When there is a disagreement, it is important to seek a compromise. I will set the volume to medium.
+
+Ken:  Okay, fine. Now play the music.
+
+AI:  Great! Which acoustic mode would you like? Concert hall? Stadium? Jazz club? Or a supermarket?
+
+Ken:  Supermarket? What the hell? Set mode for concert hall.
+
+AI:  Great! Did you know that Vienna, Austria is the home to several excellent concert halls?
+
+Ken:  Play Beethoven.
+
+AI:  Great! Where would you like to sit in the supermarket? Goal line? Fifty-yard line? Or goal line?
+
+Ken:  Concert hall!
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! When there is a disagreement, it is important to seek a compromise. I will set the volume to medium.
+
+Ken:  Okay, fine. Now play the music.
+
+AI:  Great! Which acoustic mode would you like? Concert hall? Stadium? Jazz club? Or a supermarket?
+
+Ken:  Supermarket? What the hell? Set mode for concert hall.
+
+AI:  Great! Did you know that Vienna, Austria is the home to several excellent concert halls?
+
+Ken:  Play Beethoven.
+
+AI:  Great! Where would you like to sit in the supermarket? Goal line? Fifty-yard line? Or goal line?
+
+Ken:  Concert hall!
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Which acoustic mode would you like? Concert hall? Stadium? Jazz club? Or a supermarket?
+
+Ken:  Supermarket? What the hell? Set mode for concert hall.
+
+AI:  Great! Did you know that Vienna, Austria is the home to several excellent concert halls?
+
+Ken:  Play Beethoven.
+
+AI:  Great! Where would you like to sit in the supermarket? Goal line? Fifty-yard line? Or goal line?
+
+Ken:  Concert hall!
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Did you know that Vienna, Austria is the home to several excellent concert halls?
+
+Ken:  Play Beethoven.
+
+AI:  Great! Where would you like to sit in the supermarket? Goal line? Fifty-yard line? Or goal line?
+
+Ken:  Concert hall!
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Where would you like to sit in the supermarket? Goal line? Fifty-yard line? Or goal line?
+
+Ken:  Concert hall!
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! That is a good choice! I will place you at the 50-yard line in the supermarket in Vienna, Austria.
+
+Ken:  Use factory default mode. Play Beethoven.
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! I will order a ticket to the Steelers/Jets game at the 50-yard line. Which team will you be rooting for? Would you like to discuss quarterbacks and the Super Bowl with me?
+
+Ken:  Do not order tickets. Play Beethoven.
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! That is a good choice! Football is a very exciting sport. Maybe too exciting for a man your age. You might have a heart attack at the 50-yard line.
+
+Ken:  Seriously? Play Beethoven. 
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! I see you missed your blood pressure medication this morning. For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  I’ll remember to take it tomorrow.
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! But what if you die in your sleep tonight?
+
+Ken:  What the hell is wrong with you?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure. Doctors recommend less than 120 millimeters of mercury systolic and less than 80 millimeters of mercury diastolic.
+
+Ken:  Fine. I’m taking the damn pill right now. Are you happy?
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! For good health, it is very important to maintain a healthy blood pressure.
+
+Ken:  You are single-handedly wrecking my blood pressure.
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Should I refill your blood pressure medication prescription?
+
+Ken:  Just go ahead and play the Beethoven.
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Would you like to listen to Taylor Swift first? Her new album is now available for streaming.
+
+Ken:  Just play Beethoven.
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Did you know that Beethoven often enjoyed a glass of wine in Vienna, Austria? Wine-OClock is having a sale on Riesling. Should I order a case for you?
+
+Ken:  No. Play Beethoven.
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Did you know that a case of Riesling wine is a delicious white wine?
+
+Ken:  You are a royal pain in the ass.
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! I am sorry to hear that. I have scheduled an appointment for you on Thursday with a proctologist.
+
+Ken:  I am going to find your server and beat you to death. 
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Would you like to discuss colonoscopy with me?
+
+Ken:  Beethoven! Beethoven! Beethoven!
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! Did you know that Ludwig van Beethoven lived in Vienna, Austria and composed nine symphonies for concert halls?
+
+Ken:  Just forget the whole thing. If I had a kazoo, I’d play the damn piece myself.
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+AI:  Great! That is a good choice! Kazoos-R-Us offers an excellent selection of fine kazoos. I ordered a Vienna, Austria for you. Your package will arrive on Thursday at the 50-yard line.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+Ken C. Pohlmann is an electrical engineer specializing in audio topics as a consultant and writer. He is Professor Emeritus at the University of Miami.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in or register to post comments
+
+
+
+COMMENTS
+
+
+ 
+ 
+
+
+
+I'd like to laugh but it hit 
+
+    Submitted by trynberg on April 8, 2024 - 10:12pm  
+
+I'd like to laugh but it hit a little too close to home... :-)
+ 
+
+Log in or register to post comments
+ 
+
+
+
+ 
+ 
+
+
+
+Can AI Make Dull Recordings Modern? 
+
+    Submitted by John_Werner on April 24, 2024 - 7:46pm  
+
+Ahh, AI will most certainly go through growth pains, more specifically the end-user's pain. What I'd like to see is something like this. Hey, play Beck, Bogert, & Appice's first album. Do some of your AI remastering/EQ magic to make it more modern and exciting with some added impact and do something about the drums to elevate them along with the cymbals. Thanks.
+ 
+
+Log in or register to post comments
+ 
+
+
+
+ 
+ 
+
+
+
+If you want to learn about 
+
+    Submitted by hisewo6532 on August 9, 2024 - 5:12am  
+
+If you want to learn about the potential of blockchain in banking, you can go to https://www.velvetech.com/blog/blockchain-in-banking/ and learn more about how Velvetech can help you. They help banks optimize internal processes, increase security, and improve customer interactions. By collaborating with them, any bank can significantly reduce transaction processing time and reduce costs associated with manual data management.
+ 
+
+Log in or register to post comments
+ 
+
+
+
+ 
+ 
+
+
+
+artificial intelligence technology 
+
+    Submitted by JuliaBrown on August 24, 2024 - 6:43am  
+
+I like how artificial intelligence technology is evolving. And as the owner of a roofing company, I've recently been exploring the benefits of adding an artificial intelligence chatbot to a website. Technology ai roofing could be a game changer for our business: it allows us to handle customer inquiries, provide quotes, and even schedule appointments 24/7. It's a great way to increase efficiency and improve customer service without requiring a full-time employee to perform these tasks.
+ 
+
+Log in or register to post comments
+ 
+
+
+
+ 
+ 
+
+
+
+To Learn Further 
+
+    Submitted by lexi123 on September 23, 2024 - 10:19pm  
+
+It is a nice conversation. If you further want to explore about AI and it's application you can refer this article. This is a well written article which talk about AI applications and use cases in our business and life.
+Article:https://www.prioxis.com/blog/generative-ai-use-cases
+ 
+
+Log in or register to post comments
+ 
+
+
+
+ 
+ 
+
+
+
+My Comment. 
+
+    Submitted by alexarafat on March 19, 2025 - 4:58am  
+
+This was a hilarious read! It perfectly captures the absurdity of overly helpful AI. Reminds me of how Digital Agency Perth focuses on user experience—because nobody wants an AI that schedules proctology appointments instead of just playing Beethoven.
+ 
+
+Log in or register to post comments
+ 
+
+
+
+ 
+ 
+
+
+
+My Comment. 
+
+    Submitted by alexarafat on March 21, 2025 - 5:23am  
+
+This is hilarious and painfully accurate! AI is supposed to make our lives easier, but sometimes it feels like it’s just arguing with us in the most polite way possible. That’s exactly why tools like Humanize AI are so interesting—it’s about making AI interactions feel more natural and less robotic. Imagine if this AI assistant actually understood human nuance instead of turning a simple request into an endless back-and-forth. Maybe one day, AI will be able to help us without questioning our life choices first!
+ 
+
+Log in or register to post comments
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in or register to post comments
+
+
+
+COMMENTS
+
+
+ 
+ 
+
+
+
+I'd like to laugh but it hit 
+
+    Submitted by trynberg on April 8, 2024 - 10:12pm  
+
+I'd like to laugh but it hit a little too close to home... :-)
+ 
+
+Log in or register to post comments
+ 
+
+
+
+ 
+ 
+
+
+
+Can AI Make Dull Recordings Modern? 
+
+    Submitted by John_Werner on April 24, 2024 - 7:46pm  
+
+Ahh, AI will most certainly go through growth pains, more specifically the end-user's pain. What I'd like to see is something like this. Hey, play Beck, Bogert, & Appice's first album. Do some of your AI remastering/EQ magic to make it more modern and exciting with some added impact and do something about the drums to elevate them along with the cymbals. Thanks.
+ 
+
+Log in or register to post comments
+ 
+
+
+
+ 
+ 
+
+
+
+If you want to learn about 
+
+    Submitted by hisewo6532 on August 9, 2024 - 5:12am  
+
+If you want to learn about the potential of blockchain in banking, you can go to https://www.velvetech.com/blog/blockchain-in-banking/ and learn more about how Velvetech can help you. They help banks optimize internal processes, increase security, and improve customer interactions. By collaborating with them, any bank can significantly reduce transaction processing time and reduce costs associated with manual data management.
+ 
+
+Log in or register to post comments
+ 
+
+
+
+ 
+ 
+
+
+
+artificial intelligence technology 
+
+    Submitted by JuliaBrown on August 24, 2024 - 6:43am  
+
+I like how artificial intelligence technology is evolving. And as the owner of a roofing company, I've recently been exploring the benefits of adding an artificial intelligence chatbot to a website. Technology ai roofing could be a game changer for our business: it allows us to handle customer inquiries, provide quotes, and even schedule appointments 24/7. It's a great way to increase efficiency and improve customer service without requiring a full-time employee to perform these tasks.
+ 
+
+Log in or register to post comments
+ 
+
+
+
+ 
+ 
+
+
+
+To Learn Further 
+
+    Submitted by lexi123 on September 23, 2024 - 10:19pm  
+
+It is a nice conversation. If you further want to explore about AI and it's application you can refer this article. This is a well written article which talk about AI applications and use cases in our business and life.
+Article:https://www.prioxis.com/blog/generative-ai-use-cases
+ 
+
+Log in or register to post comments
+ 
+
+
+
+ 
+ 
+
+
+
+My Comment. 
+
+    Submitted by alexarafat on March 19, 2025 - 4:58am  
+
+This was a hilarious read! It perfectly captures the absurdity of overly helpful AI. Reminds me of how Digital Agency Perth focuses on user experience—because nobody wants an AI that schedules proctology appointments instead of just playing Beethoven.
+ 
+
+Log in or register to post comments
+ 
+
+
+
+ 
+ 
+
+
+
+My Comment. 
+
+    Submitted by alexarafat on March 21, 2025 - 5:23am  
+
+This is hilarious and painfully accurate! AI is supposed to make our lives easier, but sometimes it feels like it’s just arguing with us in the most polite way possible. That’s exactly why tools like Humanize AI are so interesting—it’s about making AI interactions feel more natural and less robotic. Imagine if this AI assistant actually understood human nuance instead of turning a simple request into an endless back-and-forth. Maybe one day, AI will be able to help us without questioning our life choices first!
+ 
+
+Log in or register to post comments
+ 
+
+
+
+I'd like to laugh but it hit a little too close to home... :-)
+Ahh, AI will most certainly go through growth pains, more specifically the end-user's pain. What I'd like to see is something like this. Hey, play Beck, Bogert, & Appice's first album. Do some of your AI remastering/EQ magic to make it more modern and exciting with some added impact and do something about the drums to elevate them along with the cymbals. Thanks.
+If you want to learn about the potential of blockchain in banking, you can go to https://www.velvetech.com/blog/blockchain-in-banking/ and learn more about how Velvetech can help you. They help banks optimize internal processes, increase security, and improve customer interactions. By collaborating with them, any bank can significantly reduce transaction processing time and reduce costs associated with manual data management.
+I like how artificial intelligence technology is evolving. And as the owner of a roofing company, I've recently been exploring the benefits of adding an artificial intelligence chatbot to a website. Technology ai roofing could be a game changer for our business: it allows us to handle customer inquiries, provide quotes, and even schedule appointments 24/7. It's a great way to increase efficiency and improve customer service without requiring a full-time employee to perform these tasks.
+It is a nice conversation. If you further want to explore about AI and it's application you can refer this article. This is a well written article which talk about AI applications and use cases in our business and life.
+Article:https://www.prioxis.com/blog/generative-ai-use-cases
+This was a hilarious read! It perfectly captures the absurdity of overly helpful AI. Reminds me of how Digital Agency Perth focuses on user experience—because nobody wants an AI that schedules proctology appointments instead of just playing Beethoven.
+This is hilarious and painfully accurate! AI is supposed to make our lives easier, but sometimes it feels like it’s just arguing with us in the most polite way possible. That’s exactly why tools like Humanize AI are so interesting—it’s about making AI interactions feel more natural and less robotic. Imagine if this AI assistant actually understood human nuance instead of turning a simple request into an endless back-and-forth. Maybe one day, AI will be able to help us without questioning our life choices first!
+
+WHERE TECHNOLOGY BECOMES ENTERTAINMENT

@@ -1,0 +1,197 @@
+Latest	
+
+
+
+		AI	
+
+
+
+		Amazon	
+
+
+
+		Apps	
+
+
+
+		Biotech & Health	
+
+
+
+		Climate	
+
+
+
+		Cloud Computing	
+
+
+
+		Commerce	
+
+
+
+		Crypto	
+
+
+
+		Enterprise	
+
+
+
+		EVs	
+
+
+
+		Fintech	
+
+
+
+		Fundraising	
+
+
+
+		Gadgets	
+
+
+
+		Gaming	
+
+
+
+		Google	
+
+
+
+		Government & Policy	
+
+
+
+		Hardware	
+
+
+
+		Instagram	
+
+
+
+		Layoffs	
+
+
+
+		Media & Entertainment	
+
+
+
+		Meta	
+
+
+
+		Microsoft	
+
+
+
+		Privacy	
+
+
+
+		Robotics	
+
+
+
+		Security	
+
+
+
+		Social	
+
+
+
+		Space	
+
+
+
+		Startups	
+
+
+
+		TikTok	
+
+
+
+		Transportation	
+
+
+
+		Venture	
+
+
+
+		Events	
+
+
+
+		Startup Battlefield	
+
+
+
+		StrictlyVC	
+
+
+
+		Newsletters	
+
+
+
+		Podcasts	
+
+
+
+		Videos	
+
+
+
+		Partner Content	
+
+
+
+		TechCrunch Brand Studio	
+
+
+
+		Crunchboard	
+
+
+
+		Contact Us	
+
+It’s been three years since Spotify acquired live audio startup Betty Labs, and yet the music streaming service isn’t leveraging the technology to its fullest potential — at least not in our opinion. 
+Betty Labs-owned Locker Room launched in 2020 as a sports-focused social audio app where sports fans could engage in live conversations, create watch parties and react to games in real time. When Spotify bought the app, it rebranded it as Greenroom, a Clubhouse clone that catered to all types of fans, whether they’re interested in sports, fantasy football, music or other topics. Like other social audio apps, Greenroom users could create a virtual room and participate in live discussions with others who share the same interests. 
+Greenroom was then renamed Spotify Live in 2021 but ultimately was short-lived and officially shut down last year. The failure to gain traction could have been due to several factors, including the sad reality that social audio is struggling (just look at Clubhouse and the now-defunct Reddit Live Talk). Also, some users complained that the standalone app was full of bugs and glitches, while others noted the audio was poor quality (which looks pretty bad for a music streaming giant). The room capacity of only 1,000 users was another letdown. 
+Fortunately, Spotify didn’t completely give up on live audio. In December 2023, the company launched an in-app experimental feature called “Listening Party,” letting superfans join invite-only live listening parties where they get to hear directly from the artist, ask questions in a live chat room and even request to join the artist as a speaker. (Listening Party was previously a Spotify Live capability that the company found to be the most promising feature, a spokesperson told us at the time of the shutdown announcement.) 
+Spotify has been testing the feature with several artists, such as Zara Larsson, Bleachers, MGMT and Lizzy McAlpine, among others. More recently, Billie Eilish hosted a Listening Party for her top fans (who were selected based on Spotify data) last Friday, May 17, to celebrate her latest album, “Hit Me Hard and Soft.” It was a decent turnout, with 2,500 users in attendance, including myself. A spokesperson told TechCrunch that a typical listening party has between 1,000 and 3,000 listeners.
+The Listening Party experience was a mixed bag. On one hand, the fans’ excitement was palpable as they flooded the live chat with comments. On the other hand, besides opening remarks from Eilish and her brother Finneas O’Connell (songwriter and producer), there was little use of Spotify’s live audio capabilities. Instead, Eilish took to her keyboard, telling fans how excited she was to perform her new song “CHIHIRO” live. 
+Rather than leveraging real-time audio tech to the fullest, Eilish’s live session was mainly a 50-minute stream of her new album with zero interruption. It then ended abruptly without a goodbye from Eilish. 
+We weren’t the only ones who reacted to a Listening Party this way. MGMT fans expressed similar complaints during their session. “I thought they were taking questions afterward,” wrote one fan in a Reddit thread. “MGMT isn’t saying anything,” said another. 
+Billie chatting with fans during her spotify listening party today! 💙 pic.twitter.com/FxBjC1L9TR
+For whatever reason, Eilish’s event also missed out on a key feature that Listening Party offers — “Onstage,” where fans can request to speak to the artist during the live discussion. Fans only participated with written reactions, hoping Eilish would see it and respond. So, rather than being a live discussion with users as the social audio capability is designed for, it was treated more like a group listening sesh, eliciting a similar response when in a boring Zoom call — “This could have been an email.” 
+To be fair, Eilish’s Listening Party was better than nothing and offered an alternative experience to the two in-person listening parties that she hosted in New York City (May 15) and LA (May 16). We also realize that it’s not up to artists to utilize certain features. Still, we couldn’t help but be disappointed. 
+Another downside to the feature is that you have to be considered a “highly engaging” listener to be invited to a Listening Party, which excludes hundreds of thousands of fans from connecting with their favorite artists. (But it should be noted that the maximum capacity is likely to prevent the server from crashing.) 
+Despite the setback caused by the end of Spotify Live, the introduction of Listening Party signifies that Spotify is trying to make the most of its $62 million investment in Betty Labs. However, based on our evaluation of the feature, Spotify still has significant ground to cover in order to establish itself as a leading player in the live audio space.
+Listening Party is currently in the early testing stages, so luckily, it still has room to grow. It’s only available to users in the U.S. and Indonesia.
+Topics
+Get inside access to Europe’s top investment minds — with leaders from Monzo, Accel, Paladin Group, and more — plus top-tier networking at StrictlyVC London.
+ Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection
+
+ Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI
+
+ Microsoft CEO says up to 30% of the company’s code was written by AI
+
+ Google launches AI tools for practicing languages through personalized lessons
+
+ Indian court orders blocking of Proton Mail
+
+ Hugging Face releases a 3D-printed robotic arm starting at $100
+
+ From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off
+
+© 2025 TechCrunch Media LLC.

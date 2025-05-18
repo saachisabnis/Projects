@@ -1,0 +1,65 @@
+Good morning. I’m Zachary Tracer, senior editor for business & policy at STAT, a health website affiliated with the Globe. Today I’m a guest writer for Starting Point, explaining what you need to know about insurance giant UnitedHealth Group and the killing of a top executive. But first:
+The shocking killing of a top health insurance executive is focusing attention on UnitedHealth Group, the largest health care conglomerate in the US. Brian Thompson, the 50-year-old CEO of UnitedHealth’s insurance division, was shot and killed by an unknown attacker early Wednesday morning as he walked to an investor meeting in New York City.
+New York police have not named a suspect or shared a motive, but they did say the attack was targeted. On Thursday, police sources reportedly said that bullet casings found at the scene had the words “deny,” “defend” and “depose” written on them. Those words could reference barriers some health insurers erect to avoid paying for medical care, suggesting that the murder was connected to Thompson’s work. They could, of course, hold other meanings, or be unrelated to a motive for the shooting.
+As the CEO of UnitedHealthcare, Thompson led a business that provides health insurance for more than 50 million people, and is on track to generate $300 billion in revenue this year. UnitedHealth is the biggest provider of private Medicare plans (a business known as Medicare Advantage), and is a major player in nearly every kind of health insurance, from Medicaid plans for people with low incomes to employer coverage. Thompson took home $9.1 million in 2023, a figure that includes his salary and bonus, as well as the actual realized gains of his stock.
+Advertisement
+Health insurers like UnitedHealthcare generate income in many ways, such as by charging fees to process claims or negotiating discounted care. But one source of profit comes from paying out less for medical care than they receive in insurance premiums from customers. UnitedHealthcare, for example, spends about 85 cents of every premium dollar on its members’ medical care. The rest goes toward running the company or turns into profit.
+Advertisement
+Some of the money that UnitedHealthcare spends on care winds up back in the parent company’s coffers. UnitedHealth Group has amassed the largest collection of physicians in the US under its Optum brand, more than 90,000 in all. A recent STAT investigation revealed how the company presses those doctors to act in ways that boost its profit, such as by identifying more health problems in patients, even if those conditions sometimes seemed questionable. And it found that UnitedHealthcare often pays these Optum medical groups more than unaffiliated clinicians.
+The strategies UnitedHealthcare and other insurers use to deny coverage or delay medical care and increase profits can infuriate patients, even after the 2010 Affordable Care Act transformed the industry in ways that made comprehensive coverage available to millions more people.
+UnitedHealthcare doesn’t disclose how frequently it denies claims, or uses tactics such as requiring prior authorization for certain services such as hospital stays or surgeries. Federal data show that insurers operating in the markets created by the Affordable Care Act denied about 17 percent of claims. In Medicare Advantage, insurers denied 7.4 percent of prior authorization requests on average; in contrast, UnitedHealth initially denies about 9 percent, according to an analysis from KFF.
+Advertisement
+UnitedHealth’s Medicare Advantage business has faced scrutiny from the government, whistleblowers, and patients. The company is facing a Department of Justice lawsuit that alleges medical coding fraud within its Medicare Advantage operations and a patient lawsuit over its use of artificial intelligence to deny care for older adults, which was the subject of a yearlong STAT investigation. Other health insurers are also facing suits over care denials.
+Citing STAT’s work, a Senate report released in October found that major for-profit Medicare Advantage insurers like UnitedHealth were increasingly refusing to pay for rehabilitative care for seniors in places like nursing homes and rehab hospitals.
+“You can maximize your profitability if you’re able to get people out of expensive care settings as quickly as you possibly can,” one investment analyst told STAT last year.
+Even as police work to identify a suspect and motive for Thompson’s slaying, the attack has prompted fresh reflection on the broken US health care system.
+Related: The suspect made stops before and after the shooting, and police are examining a cell phone, water bottle, and protein bar wrapper for connections to the suspect. Follow updates here.
+TAX SWITCH: Businesses that supported Boston Mayor Michelle Wu’s plan to keep the increase in property taxes for homeowners as small as possible while hiking taxes for companies are suddenly backing off. (Boston Globe)
+LEGAL, YES. ETHICAL?: He writes laws governing powerful energy companies. She’s a lobbyist who represents them. And they’re dating. (Boston Globe)
+LEVEL WITH ME: Three years ago, Newton ditched grouping students based on academic ability – think advanced placement classes – and instead placed students of all levels into the same classes. A Newton teacher now says the experiment failed. (Globe Opinion) What does broader research say? (Boston Globe)
+Advertisement
+I’D LIKE TO TELL THE WORLD A JOKE: In a “Just kidding” move, Coca-Cola is drastically scaling back its promise to reduce plastic and increase reusable packaging. Environmentalists aren’t happy. (Guardian)
+I SPY: If you work for Apple, you have to use an iPhone, connect your personal iCloud account to work-related business (which Apple can search), and God forbid that you discuss your salary with anyone. Now an operations manager is suing. (Semafor)
+POUND FOR POUND: A new study says Eli Lilly’s weight-loss drug Zepbound is more effective than Novo Nordisk’s Wegovy. Patients who took Zepbound lost an average of 20 percent of their body weight over 18 months, while those on Wegovy lost just under 14 percent. Lilly funded the study, so there’s that. (Quartz)
+SWEET, BITTER: A new study in the British Medical Journal found that eating five servings of dark chocolate a week could reduce your risk of type 2 diabetes. Don’t get too excited: Experts say correlation does not necessarily imply causation. But just in case there is a connection, pick a variety that’s at least 70 percent cocoa. (NY Times)
+SACRE BLEU!: A lot has happened in France in the last 24 hours (Guardian): The National Assembly (lower house) voted no confidence in Prime Minister Michel Barnier. Barnier then resigned, making him the shortest serving PM in modern French history. President Emmanuel Macron said he’ll appoint a new PM in the next several days, and blamed his far-right opponents. The country is up against a shutdown deadline. All of this is deeply concerning for Europe. (BBC)
+Advertisement
+THE SOTO WATCH: Prized free agent outfielder Juan Soto likely will choose his team by the end of next week’s Winter Meetings, according to industry insiders – and may make up his mind as soon as Sunday. It’s not clear if the Red Sox are still in the running. (Boston Globe)
+CHEERS TO DEMOCRACY: Democracy Brewing, a worker-owned brewpub that opened in 2018 promising to give every employee a $15/hour starting wage and an opportunity to buy an ownership share after they’ve been there a year, is expanding into Eastie – and will start to make wine. (Boston Magazine)
+SPEAKING OF DEMOCRACY: In November, the majority of Missourians voted to enshrine abortion rights in the state’s constitution. But that hasn’t stopped Republican lawmakers from already working to overturn or weaken the amendment. Here’s how. (ProPublica)
+GAGA VS. GRANDE: Why a Lady Gaga-led musical (“Joker: Folie à Deux”) tanked while Ariana Grande, dressed to her dimples in pink tulle as Glinda (“Wicked”), is soaring in her signature pink bubble. (Boston Globe)
+Pete Hegseth is still standing, but he hasn’t yet saved his Pentagon bid. (CNN)
+Meanwhile, president-elect Donald Trump announced more than a dozen nominations and appointments yesterday, according to Axios:
+Paul Atkins, SEC chair. Atkins is a staunch crypto advocate who has a long history of supporting the industry.
+Billy Long, IRS commissioner. The former Missouri congressman’s mission will be to downsize an agency that Trump wants to spend less time auditing people.
+Gail Slater, assistant AG for the antitrust division. Slater was a key adviser to vice president-elect JD Vance, whose deep criticism of Big Tech may show its hand in Slater’s approach to (potentially) blocking mergers.
+Advertisement
+Peter Navarro, senior counselor for trade and manufacturing. He’s a hardline China hawk who will likely play a key role in plans to impose heavy tariffs on imports.
+Jared Isaacman, NASA administrator. The billionaire entrepreneur and close Elon Musk ally has been to space on SpaceX missions, giving Musk yet more insider access to key government funding.
+Also, Dan Driscoll, secretary of the Army … Adam Boehler, special presidential envoy for hostage affairs … Bill McGinley, counsel for DOGE, the Department of Government Efficiency … David Warrington, White House counsel … Monica Crowley, assistant secretary of State and chief of protocol … Michael Faulkender, deputy secretary of Treasury ... Kelly Loeffler, the former Georgia senator tapped to head the Small Business Administration … Frank Bisignano, Social Security Administration commissioner.
+Even though the IRS has collected nearly $1.3 billion in overdue taxes from wealthy households due to new enforcement efforts, Trump’s pick to head the agency likely means those efforts will stop. (CNN)
+📧 Want this sent to your inbox? Subscribe to Starting Point here.
+Digital Access
+Home Delivery
+Gift Subscriptions
+Log In
+Manage My Account
+Customer Service
+Delivery Issues
+Feedback
+News Tips
+Help & FAQs
+Staff List
+Advertise
+Newsletters
+View the ePaper
+Order Back Issues
+News in Education
+Search the Archives
+Privacy Policy
+Terms of Service
+Terms of Purchase
+Work at Boston Globe Media
+Internship Program
+Co-op Program
+Do Not Sell My Personal Information

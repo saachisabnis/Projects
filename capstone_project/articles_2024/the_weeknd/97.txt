@@ -1,0 +1,59 @@
+New, generative music platforms are battling record labels over potential copyright violations.
+Musicians are increasingly being emulated by artificial intelligence that is nearly indiscernible to the average ear.
+It’s already been more than a year since a ghostwriter created a song that used the voices of top-selling artists Drake and The Weeknd.
+This technology is being used far and wide, and if it weren’t for the fact that most who are using the technology are using recognizable songs from the Backstreet Boys or Britney Spears, for example, the emulation of popular artists could be even more prevalent.
+A simple YouTube search of AI versions of deceased artists brings up a lengthy catalogue to choose from, each singing popular songs that escape copyright infringement. Meaning, they are not detected by the algorithms of Google, Instagram, or others.
+Typically, the algorithm matches existing content on the platform and allows the content owner to apply for a copyright claim against the infringer. But when a user emulates an existing song with a different voice, he is getting the best of both worlds: the popular song and a different popular artist singing it who people haven’t heard before.
+“Major labels have teams of people who work on this. They also have lawyers on retainer who have a quota and are ready to sue,” said Steven Lee Rachel, A&R manager from Baste Records.
+“Of course, for the average independent artist, this solution is mostly out of reach ... [this] AI thing is new and very messy,” he told Blaze News.
+New AI users can circumvent this completely, although without the added push of an existing artist. Enter: Suno.
+Suno is a new app making waves for its ability to create full-length songs in a desired style and pace, with as specific subject matter as the user wants. The creator can inject lyrics or leave it up to the system to create its own from simple prompts, while also pulling references from the internet to fill in the blanks.
+'AI has the potential to replace artists altogether.'
+In fact, it took just seconds for Suno to come up with a song for this article using the following prompt: “A pop, boy-band song with multiple voices about artificial intelligence replacing musicians' jobs and causing the artists to go broke and become journalists.”
+ Your browser does not support the video tag. 
+"I think it should be illegal,” rapper Bryson Gray said of AI music. “Replicating someone’s voice and passing it off as them likely already is, but it needs to be rejected in almost all its forms,” Gray added, leaving room for parodies of public figures like the president.
+Suno and fellow AI company Udio are being sued by labels like Universal Music Group, Sony Music Entertainment, and Warner Music Group, according to the Los Angeles Times. The groups allege that the platforms took material from copyright-protected songs.
+Suno chief executive Mikey Shulman reportedly said that the company’s mission was simply “to make it possible for everyone to make music,” not to “memorize and regurgitate pre-existing content.”
+“That is why we don’t allow user prompts that reference specific artists,” he said.
+Udio reportedly said it stands by its technology, adding that “generative AI will become a mainstay of modern society.”
+Would artists sell their likeness for music to be made in their voice? Gray said he couldn’t see a true artist doing that, as he never would. But, in place of a lack of writing skills, some might, he added.
+Baste Records’ Rachel said this was already happening and “has been in the works for a long time.”
+“Remember the Tupac hologram?” he asked. “When KISS retired they sold off their image and likeness to the labels. This is happening for sure.”
+“It will depend on the audience in terms of accepting it. For now, there is a bit of an anti-AI movement. When Paul McCartney used AI to finish the last Beatles song, I think people were a little weirded out. Eventually people will probably be more accepting of different uses of AI for legacy acts,” Rachel predicted.
+While there is mainstream acceptance of AI in music to date, it is certainly at the forefront of other forms of modern media. 
+Legendary broadcaster Al Michaels is perhaps the first big name to publicly sell off his likeness to networks to be used in an AI format. The 79-year-old has sold the rights to his voice to NBC for use during coverage of the Olympics.
+Michaels was “very skeptical” of the idea, according to Vanity Fair, before eventually accepting it.
+“What would I sound like? ... Would I sound like a guy who just spews clichés? Would my voice be different?” he reportedly asked. 
+Once he heard it, however, the announcer is said to have changed his mind. 
+“Frankly, it was astonishing. It was amazing ... and it was a little bit frightening.” 
+The sports commentator said that the likeness was only about 2% off of being perfect.
+Representatives from IBM alluded to this technology when previously speaking to Blaze News.
+'The stuff I'm seeing now is creepy and soulless, and you can feel it.'
+Referring to the company’s technology known as IBM watsonx, the reps said that the company is using AI similarly for both Wimbledon and the Masters.
+Fans can have AI detail up-to-date action from the events and even have it read to them as if it were play-by-play announcing. Right now, voice actors are said to be lending their voices to the technology, something that would obviously change with time and depend on the popularity of the outcomes.
+Similarly, AI tech has been publicly used for translating popular videos and podcasts.
+YouTube’s top content creator, Mr. Beast, spoke on the topic in mid-2023 saying that he was using YouTube’s new audio dubbing technology to translate his videos into 11 different languages. This has the obvious benefit of massively expanding reach.
+The key, which Yahoo reported, is that the translation is in the same voice, with the same inflections and emotions. 
+A few months later, Spotify would announce similar technology to translate its podcasts. The platform said its technology was developed in-house but with OpenAI’s voice-generation technology. 
+This technology is essentially made possible by feeding in the likely thousands of hours of speech that podcasters, YouTubers, and artists have into a program. The more data the program has, the easier it is to replicate the voice. 
+This is why so many at-home audio engineers have found such success in making media that sounds just like the intended artist. The AI programs are getting faster and better, too. 
+Microsoft’s VALL-E claims it can replicate a voice with just three seconds of audio.
+ Artists that spoke to Blaze News about the potential of AI musicians and AI-generated music intersected at a few similar points; perhaps most prevalent was the idea of the humanity behind the music.
+Folk rocker Five Times August, real name Brad Skistimas, called AI a slippery slope that “might be beneficial” in rare cases.
+“The stuff I'm seeing now is creepy and soulless, and you can feel it. Obviously, AI technology will get better, but I like to think ultimately people will find their way to real artists with unique talents and voices once they realize there's nothing to humanly connect with,” he added.
+“AI has the potential to replace artists altogether,” country artist Chad Prather warned. “The blood, sweat, tears, sacrifice, and grind can be eliminated.” 
+“You don’t need to sound good or look good to be marketable, and it has the potential to destroy the live music business. The most dangerous aspect is that legacy will be lost.”
+To Prather’s point, this has and is being attempted. 
+AI rapper FN Meka was a disaster for Capitol Records when it allegedly went too far in 2022. 
+The so-called artist caused outrage when it consistently used the N-word and was called an amalgamation of stereotypes of black artists.
+It’s been almost a year since Warner Music signed its own AI artist called Noonoouri. The pretend artist had deals with Dior, Versace, and Kim Kardashian’s brands. 
+While Noonoouri is still releasing music, the problem still exists that without that humanity behind them, AI artists still truly can’t exist; but advocates might claim that is reason enough to move forward.
+FN Meka had a human voice perform the vocals, while Noonoouri was created in 2011 by Germans who used a real woman’s voice — altered by AI — to create the vocals. While it still has a following, it clearly hasn’t become as influential as the label had hoped.
+ “I think we'll definitely see major labels trying to leverage legacy artists who aren't here anymore, like Elvis or Michael Jackson, in an effort to create ‘new’ music,” Skistimas continued.
+Hip-hop artist and attorney Patriot J said that he does see a future where "popular artists will sell their likeness" for AI songs. "All it takes is one major music artist to be the first domino to fall," he noted.
+"Me personally, I wouldn't let my voice by used in that way, but just like GMOs are now labeled in stores, I'd hope AI-likeness music would be labeled on streaming platforms."
+Baste Records’ Rachel added that “the new technology will bring new precedents" for the music industry.
+“The Suno and Udio lawsuit will settle a lot of things. Everyone knew they were the best AI music generation tools, everyone knew they were infringing on copyrighted material, and everyone knew they were going to get sued. So now they are getting sued. Let's see what happens,” Rachel noted.
+As is stands, the more likely scenario looking ahead is the continued authorized (and unauthorized) uses of existing artists. That is, until AI-generated programs get good enough at song writing, while simultaneously producing believable voices.
+Like Blaze News? Bypass the censors, sign up for our newsletters, and get stories like this direct to your inbox. Sign up here!
+Andrew Chapados

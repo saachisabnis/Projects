@@ -1,0 +1,45 @@
+Profile
+Sections
+Local
+tv
+Featured
+More From NBC
+Follow NBC News
+ news Alerts
+There are no new alerts at this time
+Artificial intelligence-made musical creations continue to go viral, from tunes like “10 Drunk Cigarettes” to “BBL Drizzy.” But despite AI-generated music’s recent popularity, use of the technology has faced intense criticism.
+Universal Music Group, Sony Music Entertainment and Warner Music Group sued the AI music companies Uncharted Labs and Suno this summer over software that allows users to create music from text prompts, alleging that copyrighted songs have been used without permission to train the AI. Universal Music Group has no connection to NBCUniversal, which operates NBC News.
+Record labels have quickly worked to remove music that includes AI versions of Drake’s and The Weeknd’s voices. 
+And more than 200 musical artists, including Billie Eilish, Stevie Wonder and Nicki Minaj, signed an open letter this year calling on AI companies to “protect against the predatory use of AI to steal professional artists’ voices and likenesses, violate creators’ rights, and destroy the music ecosystem.”
+Despite the pushback, AI music companies have continued to grow, and they’re using a novel argument to champion their businesses: accessibility. 
+Websites like Sound Draw, Musicfy, AIVA and Boomy allow users to easily create music with AI using different inputs.  
+Users can select from different genres of music and then adjust things like the tempo, the mood and the instruments that appear in the music. 
+AI music companies say the new ease of use allows users who might not have previously been able to easily create music to generate their own content.
+“You don’t need to purchase fancy gear. You don’t have to have music lessons,” said Cassie Speer, director of “creative success” at Boomy. “There’s a lot of things that you need to do to be able to make music, and Boomy’s goal is just to allow anyone who wants to experiment with being creative to come on our site and easily try it out.” 
+Speer has traveled around the country educating students about generative AI technology and Boomy, and she said she hopes AI technology can give low-income students a new level of access to music. 
+“Marginalized people are often left behind in tech, and they’re not given the same access,” she said. “If we can partner with people that want to do it right and bring resources to students and have a symbiotic relationship within the music industry and with schools, we’ll be able to do so much more.”
+Access to music education is increasingly shrinking across public schools in the U.S. 
+According to the Arts Education Data Project, a data collection and analysis project conducted by an arts education non-profit, 8% of all students had no access to music education during the school day in U.S. public schools. 
+Other companies have leaned into the idea that AI can lower the barrier to creating music and democratize the art form. Software company Musicfy said in a blog post that its technology “reduces the learning curve, allowing beginners to focus on creativity rather than technical challenges.” 
+Canadian musician Grimes has also highlighted the ideal by inviting her fans to make music using her AI-generated voice, writing on X: “if u register music with us we can collect & pay out royalties direct to anyone who uses A.I. Grimes vocals using smart contracts!? The future rly is now! this is so cool.”
+In Denver, Speer led a course on AI music tools using Boomy for young musicians. 
+Some of the local artists who performed at Youth on Record’s festival support integrating AI technology into music education and production. 
+“Think about how much more vibrant the Denver scene even could be if the every-person who is sitting at home with a song idea in their head but no keyboard skills or no guitar skills or something to really get it out had a tool that could start it for them,” said Regi Worles, a member of the band Dog Tags. 
+Worles attended the AI workshop that showcased Boomy’s software with some bandmates. 
+“I really feel like nobody should feel stopped from following their dreams because they don’t know how to use a software that costs, like, $400 or more to have in the first place,” he said. “If AI is a way to start influencing that in a different direction, then I’m pretty open to it.”
+Boomy is free to use, but there are different pricing tiers depending on how many songs someone wants to publish. Mitchell said Boomy keeps 20% of an artist’s profits if a song is created and distributed using its software. 
+Any track created using its software becomes the sole property of Boomy. 
+Michael Merola, a bassist and vocalist for Dog Tags, said he has used AI tools to help in his creative process, like asking ChatGPT for synonyms of words in song lyrics. 
+Worles said the duo have used music-specific AI tools for inspiration, as well. 
+“Even just showing Michael like, ‘Oh, hey, here’s this thing I was thinking about, mostly listen to it for the melody but some chord ideas in the background.’ And then he’s like, ‘Oh, I could do that better, watch.’ And then we are now writing the song. So it’s like always a jumping-off point. 
+But not all up-and-coming musicians at the festival in Denver were excited about the evolution of the technology. 
+“Honestly, I’m very apprehensive of it,” singer-songwriter Genevieve Libien said. 
+“I am a skeptic about it. Probably just because music to me is so human and intrinsic to our humanity and, like, inextricable from it. So, like, any sort of artificial intelligence feels kind of, like, almost an affront a little bit to that sacredness,” she added. 
+Although she attended the Boomy workshop out of curiosity, it didn’t change her mind. 
+“I personally don’t see myself using generative AI,” she said. “My biggest fear, I think, would be turning on the radio and having every song that plays be like ChatGPT.” 
+Creative professionals across industries have echoed Libien’s concerns about how AI could affect art and creative professions. In September 2023, writers ended one of the longest Hollywood writers strikes in history after movie and TV companies agreed to guardrails around how AI is used in their industry.
+Tennessee this year was the first state to take legal action to protect musicians and artists from AI, passing a bill to try to ensure that AI tools aren’t used to replicate artists’ voices without their consent, according to The Associated Press. 
+Still, Speer hopes integrating AI in music education can be used for good. 
+“I hope that this technology will allow for more resources and more companies will cooperate within public school systems and nonprofits to support their mission so that music and the arts are never left behind,” she said.
+Maya Eaglin is a NY correspondent for NBC News and “Stay Tuned” on Snapchat.
+© 2025 NBCUniversal Media, LLC

@@ -1,0 +1,33 @@
+There is an item in PLoS ONE on one of my favorite topics: Wikipedea.  This study examines the Dynamics of Conflicts in Wikipedia
+... we build up samples of controversial and peaceful articles and analyze the temporal characteristics of the activity in these samples. On short time scales, we show that there is a clear correspondence between conflict and burstiness of activity patterns, and that memory effects play an important role in controversies. On long time scales, we identify three distinct developmental patterns for the overall behavior of the articles. We are able to distinguish cases eventually leading to consensus from those cases where a compromise is far from achievable. Finally, we analyze discussion networks and conclude that edit wars are mainly fought by few editors only.
+Sounds like trolls to me.
+This is one of more interesting graphs produced by Science (the practice, not te magazine) to date this year:
+Figure 4 from the article: Temporal Edit Patterns of Lady Gaga and Homosexuality. The horizontal axis is time, each vertical line represents a single edit. Despite the large differences in average time intervals between successive edits, the bursty editing pattern is common to both cases.  Figure from OpenAccess Article at PLoS ONE.
+Bottom line: Conflict and "editorial wars" are actually fairly uncommon, but those uncommon cases consume a large amount of editorial resource.  The research shows that consensus is usually reached in a short amount of time (but the story is more complex ... see the origination article for details). 
+What the article does NOT address is the quality of the article when the consensus is reached. I do not personally regard "consensus" as the ideal objective. 
+__________________
+Yasseri, T., Sumi, R, Rung, A, Kornai, A, & Kertész, J (2102). Dynamics of conflicts in Wikipedia PLoS ONE, 7 (6) DOI: 10.1371/journal.pone.0038869
+"Conflict and “editorial wars” are actually fairly uncommon, but those uncommon cases consume a large amount of editorial resource."
+Fairly uncommon across the universe of Wikipedia articles, I would say, but common in the sense that any controversial topic is apt to ignite a "revision war." You can probably guess whether a given topic is controversial: Climate change is one; vaccines are another; many biographies of celebrities and politicians also qualify.
+Right: Uncommon across the whole universe of articles.
+I do not personally regard “consensus” as the ideal objective. 
+Then you clearly do not edit for Wikipedia, where "verifiability" is king. New knowledge is not welcome; unless you can point to it somewhere else on the web, it doesn't exist.
+And there's the real reason Brittanica kicks Wikipedia to the curb as a reference: it's written and edited by experts and professionals, not children.
+"it’s written and edited by experts and professionals, not children."
+But it gets many of the things it prints wrong.
+And it is nowhere near the size of Wikipedia.
+Classic encyclopedias are not automatically more correct than Teh Wiki.  I regard them as entirely different phenomena.  
+Aside from information, The Wikipedia is the world's absolutely best spell checker. Nothing in it is spelled wrong. It excels as a search engine as well.  It is also in some ways the most annoying site on the internet because of this "consensus" thing.
+Wikipedia almost couldn't call the disease "roseola" roseola because somewhere on the internet a possibly credible source used that word for something else, so the term could not be used any more to refer to Fifth's Disease.  For instance.   OMG.
+I think you mean spelling checker.  Harry Potter uses a spell checker.  Though the consensus appears to be against me....
+Harry doesn't use a spell checker.
+Spellius checkiarum, possibly.
+Wikipedius!
+@makeinu
+1) Verifiability is not restricted to the web. Printed references are often used, but verifiable it must be. The advantage in such articles as homeopathy in keeping out unsubstantiated opinion is invaluable.
+2) There are many professionals who edit in wikipedia.
+3) Wikipedia compares very favourably with Britannica in accuracy and because of verifiability you can usually easily check out any facts. And of course it is totally free.
+I'm sure that not even Wales would claim that wikipedia is free from error or contains the best written articles you can find, but taken with reservations it is a good source of information.
+ScienceBlogs is where scientists communicate directly with the public. We are part of Science 2.0, a science education nonprofit operating under Section 501(c)(3) of the Internal Revenue Code. Please make a tax-deductible donation if you value independent science communication, collaboration, participation, and open access.
+You can also shop using Amazon Smile and though you pay nothing more we get a tiny something.
+© 2006-2024 Science 2.0. All rights reserved. Privacy statement. ScienceBlogs is a registered trademark of Science 2.0, a science media nonprofit operating under Section 501(c)(3) of the Internal Revenue Code. Contributions are fully tax-deductible.

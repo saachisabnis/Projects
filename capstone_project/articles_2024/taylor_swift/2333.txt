@@ -1,0 +1,48 @@
+A new word game just dropped, and this one looks pretty fun. Strands is a new game from the New York Times, the same people who brought you Connections and Spelling Bee. (The NYT is also the current home of Wordle, and all of these games follow in the tradition of their iconic crossword, which the paper began publishing in 1942.)
+Strands just launched yesterday, so right now you can play puzzle #2 today. New NYT games start out in a “beta” mode, available on the web but not yet in the NYT Games app (formerly the Crossword app). The direct link to play Strands is here. 
+The short answer is: go to this link, where you can watch a tutorial that explains the gameplay. But if you want a sense of what you’re getting into, read on. 
+The Strands board is a 6x8 grid of letters, and it looks like a small word search. You select words either by swiping your finger (or cursor) across the letters, or by tapping/clicking each letter. If you're using a touchscreen, you'll tap an extra time on the final letter to submit; using a mouse or trackpad, you simply have to take your finger off the button.
+Unlike a word search: 
+There is no word bank to tell you which words you’re searching for.
+The words can twist and turn in any direction, including diagonally (like in the game Boggle).
+Every letter on the board is part of a word. When you’ve found them all, the words will fully pack the grid.
+Sound hard? It would be, if not for the theme and the hints, and the fact that mistakes don’t count against you. I’ll explain how all of that works, but first, let’s talk about how to actually make your guesses.
+Here are some things you’ll need to know.
+The minimum length of a word is four letters. There won’t be any three-letter words. 
+As you’re connecting the letters, you can go in any direction: up, down, left, right, or any diagonal. 
+Yep, diagonals are legal!
+The letters won’t (usually) be in a straight line. Expect plenty of twists and turns. 
+You cannot use the same letter on the board twice; once a letter is highlighted, you can’t use it again.
+That last point doesn’t rule out repeated letters. It just means that when you’re spelling COMMA, there will be two M’s on the board next to each other. (Contrast that with Spelling Bee, where you can tap the same letter twice.) 
+Every puzzle has a theme, and when you first open a puzzle you’ll see a title that hints at the theme. For example, puzzle #1 was “Mark my words.” All of the words on the board match the theme, so we needed to find COMMA, PERIOD, APOSTROPHE, and others.
+There will always be a theme-related word that connects two opposite sides of the puzzle. In #1, the word PUNCTUATION ran from top to bottom. This special word is called the “spangram.” (It will show up in yellow once you find it. The other words show up in blue.)
+I think the hint button is the cleverest part of Strands! Instead of offering you a way to give up or cheat, hints are built into the game. You have to earn your hints by guessing valid but incorrect words, so the harder the game, the more hints you’ll earn. Here’s how this works. 
+If you find a dictionary word that is not part of the intended solution, your hints button will start to fill up. For example, in the punctuation puzzle, if you were to highlight the word SOLO (no relation to punctuation) you’d see the grayed-out Hint button start to fill up like a progress bar. Three off-target words buy you one hint. 
+Once your hint button has filled up, it’s ready to use. Press it, and one of the words you need to find will get dashed-line circles around all of its letters. 
+This tells you where the word is, and which letters it contains, but it’s still up to you to figure out how those letters should be connected.
+That dashed-circle highlight will stay on the board until you get that word. It’s fine to solve other words before you do the one the hint gave you. But if you earn more hints, they won’t be accessible until you solve the hinted word.
+That’s the other cool thing—mistakes don’t count against you! If you misspell a word as you’re highlighting it, no harm no foul. If you spell out a dictionary word that isn’t part of the theme, you start earning hints. And when you finish the game and get a little emoji recap, it only includes your correct findings and the number of hints you used. 
+When you solve the puzzle, you’ll get one of those little emoji recaps of the game. It tells you the order in which you solved the words. There are three different icons:
+Blue means you found a regular word.
+Yellow means you found the spangram.
+A lightbulb means you used a hint.
+For example, here’s mine from yesterday: 
+And here’s one from someone who needed a hint to get started: 
+So that’s gameplay. What about strategy? 
+First: know what you’re dealing with. As I noted above, this is a brand-new game, so surely there will be surprises along the way. In the NYT article introducing the game, its editor, Tracy Bennett (who also edits Wordle) hints at some of what is to come: 
+Some themes [will be] fill-in-the-blank phrases. They may also be steps in a process, items that all belong to the same category, synonyms or homophones. Just as she varies the difficulty of Wordle puzzles within a week, Ms. Bennett plans to throw Strands solvers curveballs every once in a while.
+This suggests we may see some of the same kinds of themes that make me want to throw my laptop out the window when I find them in Connections. (We all remember the one where STICK was included next to GLUE in a list of things that are “sticky,” right?)
+As for tactics to use right now, I find that these things help: 
+Start guessing the theme early, and looking for the spangram. Besides revealing the theme, the spangram also splits the board into two smaller playing fields.
+If you think you may have found a word, but can’t quite make it, back up to the start and consider if the word you’re looking for is in there somewhere. For example, when I first tried to spell PUNCTUATION, I had the correct starting place and the correct word in mind, but made a wrong turn. It took me a minute to realize that after N, there were two different letter C’s I could follow.
+Anytime you find a word, ask yourself how this might relate to the puzzle’s title. With today’s (#2) puzzle, the title mentions a “she.” After finding one of the non-spangram words, I racked my brain for what female celebrity, historical figure, or fictional character might be associated with that word. My first thought was Taylor Swift, but I couldn't see any other words related to her. My second thought—aha! As soon as I got that, the theme was as good as solved.
+Don’t be afraid to make “wrong” guesses to earn hints. This gives you practice in finding words, and you may discover that by the time you’ve found three non-theme words, you’ve also found a theme word or two in the process.
+I’m excited to see where Strands goes from here. I wouldn’t be surprised if the puzzles get a good bit harder once we’ve all caught on to the style of gameplay. Happy solving!
+Beth Skwarecki is Lifehacker’s Senior Health Editor. She has a bachelor’s degree in biology, has written two books, and is a certified personal trainer. She’s been writing about health, fitness, and science for over a decade, and can front squat 225 pounds.
+Beth Skwarecki is Lifehacker’s Senior Health Editor. She has a bachelor’s degree in biology, has written two books, and is a certified personal trainer. She’s been writing about health, fitness, and science for over a decade, and can front squat 225 pounds.
+Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.
+                
+© 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.
+Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate
+                    any affiliation or the
+                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.

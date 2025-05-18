@@ -1,0 +1,55 @@
+Home > Anti-Piracy > 
+
+
+ 
+                    For the past several years, the recording industry has branded stream-ripping services the leading piracy threat. On the near horizon, the industry claims that the rise of generative AI presents a new and rapidly evolving challenge for the music ecosystem that threatens its long-term sustainability. According to global industry group IFPI, stream-ripping is likely fueling this secondary threat.
+        
+
+
+
+
+The global recording industry portrays itself as a dynamic and successful business that’s either fighting an existential crisis right now, or sounding the alarm for the next one looming on the horizon.
+Considering the upheaval caused by Napster, its predecessors, and the demise of the lucrative album format, concerns of another technological surprise creating havoc aren’t entirely unreasonable. 
+Yet to a background of recovery and then impressive year-on-year growth since 2014, imagery of an industry teetering on the brink wouldn’t be the easiest sell.
+Credit: IFPI Global Music Report 2024
+
+
+
+
+IFPI certainly hasn’t forgotten about piracy but, compared to its video industry counterparts, the last two or three years have been relatively quiet. Looking towards the horizon, maybe it’s just the calm before the storm. 
+The current number one piracy threat according to IFPI is stream-ripping; on the horizon, abusive use of generative AI. No need for formal introductions, IFPI says they know each other already.
+The seminar Digital Music Piracy: New Trends and Practical Approaches took place before the holidays in Bulgaria. Organized by the Bulgarian Association of Music Producers (BAMP), in partnership with IFPI and the Cybercrime Directorate at the Directorate General of the Ministry of Internal Affairs, discussion centered on the latest trends in digital investigation and evidence collection methods.
+Those in attendance included Catherine Lloyd, senior legal advisor to IFPI. In a subsequent interview with BTA.bg, Lloyd cited abusive use of AI as a significant threat to the industry.
+“Record labels and artists have been using AI for years as a tool to enhance the creative process and collaborate on unique and cutting-edge projects. When AI is used responsibly to enhance human artistry, it can bring incredible creative possibilities,” Lloyd said.
+“However, the emergence of generative AI presents a new and rapidly evolving challenge. If generative AI developers can use music without permission in their models to create clones or products that compete directly with the original works, then this creates a fundamental problem for the music ecosystem and threatens its long-term sustainability.”
+Another major concern for IFPI is the rapid rise of voice cloning. In 2023, IFPI added ‘AI Vocal Cloning’ as a new category in its annual overview of ‘notorious’ piracy markets submitted to the Office of the US Trade Representative (USTR). 
+The focus was on Voicify.ai, an AI-powered service that enables users to create new versions of existing songs on YouTube accompanied by the cloned voices of stars including Bruno Mars, Eminem, and Taylor Swift. The USTR declined to include the service in its final report and in February 2024, affiliated UK music industry group BPI threatened the service – now renamed ‘Jammable’ – with legal action. 
+There has been no further news on that front and the site remains operational. In November, Danish anti-piracy group Rights Alliance forced ElevenLabs to remove a voice clone of David Bateson. The British/Danish actor appears in the game Hitman as the voice of Agent 47 who, somewhat ironically, is a clone himself.
+The roller-coaster of current and emerging piracy threats is nothing new for IFPI. As downloading of ‘physical’ MP3-based tracks from peer-to-peer networks finally began to subside, in no small part assisted by the rise of legal streaming platforms like Spotify, a new foe had already emerged. 
+The battle was long, complicated, and dragged on for years and years, but eventually YouTube and the music industry found common ground. Today, YouTube payments worth billions of dollars every year help to smooth things over.
+Yet as predictably as night follows day, the world’s largest open repository of publicly accessible copyrighted music on YouTube, now acts as the main source of fuel for stream-ripping aficionados of all kinds.
+“In addition to AI, stream-ripping sites remain a significant threat to piracy in the music industry and have become the most common way to illegally download music. The music industry has been fighting stream-ripping sites through legal action, including blocking access to such sites,” IFPI’s senior legal counsel explained.  
+Dozens of stream-ripping platforms are currently blocked by ISPs all around the world. Many use the open source ripping software youtube-dl to easily download music from YouTube. The platform has only minimal anti-piracy protection or, according to some, effectively no protection at all. 
+As far as we know the developers of youtube-dl have faced no legal action. The same holds true for YouTube, which may be as leaky as a sieve, but a multi-billion-dollar sieve nonetheless. There has been no legal action against GitHub either, the Microsoft owned developer platform where youtube-dl remains available for download, even today. Instead, IFPI sued German web-hosting company Uberspace from where youtube-dl was available for download. 
+In November, the Hamburg Court of Appeal ruled against youtube-dl’s former hosting provider, holding it liable for supposed violations of YouTube’s copyright protection measures, despite YouTube playing no part in the case.
+“The software in question has enabled countless streaming ripping services to steal music from legitimate, licensed platforms and to take away revenue from artists and rights holders,” Lloyd added, noting that the stream-ripping threat of today is already complicit in the new AI threat looming on the horizon.
+“Piracy via stream-ripping sites is a problem – not only for individual users who download content to their devices, but also in the context of AI, as these services are likely used to obtain training data and create cover versions.”
+It’s not difficult to see why IFPI is concerned. Restricting access or providing licenses to use music as training data may be its only chance of preventing unprecedented competition from which it earns no revenue, in a market where its members currently account for the majority of all business. 
+Interestingly, the arrival of significant competition can often have a depressant effect on pricing, as market participants jostle for market share. Yet even in the unlikely event that AI creations are able to compete with humans in a musical sense, a reminder; in today’s market consumers effectively pay the same regardless of whether a track is a world-class smash hit or an affront to the discount bins.
+So with no competition on price, the fight against a tsunami of AI-generated music will boil down to quality, originality, and the ability to be seen and heard above more background noise than ever before. When the floodgates eventually open, music fans will be heard crying out for something they may have taken for granted but now need more than ever before: human curation.
+Meet the new boss…
+Anti-Piracy
+Anti-Piracy
+Anti-Piracy
+Submit a correction or tip.
+Breaking news stories
+Social media followers
+RSS subscribers
+
+Copyright
+            
+            ·                                    Privacy Policy
+            
+            ·                                    VPN Providers
+            
+            ·                                    About TorrentFreak

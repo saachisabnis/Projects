@@ -1,0 +1,33 @@
+Idaho Falls news, Rexburg news, Pocatello news, East Idaho news, Idaho news, education news, crime news, good news, business news, entertainment news, Feel Good Friday and more.
+58℉
+NEW YORK (AP) — Pornographic deepfake images of Taylor Swift are circulating online, making the singer the most famous victim of a scourge that tech platforms and anti-abuse groups have struggled to fix.
+Sexually explicit and abusive fake images of Swift began circulating widely this week on the social media platform X.
+Her ardent fanbase of “Swifties” quickly mobilized, launching a counteroffensive on the platform formerly known as Twitter and a #ProtectTaylorSwift hashtag to flood it with more positive images of the pop star. Some said they were reporting accounts that were sharing the deepfakes.
+The deepfake-detecting group Reality Defender said it tracked a deluge of nonconsensual pornographic material depicting Swift, particularly on X. Some images also made their way to Meta-owned Facebook and other social media platforms.
+RELATED | Proposed bill in the Idaho legislature aims to make AI-generated pornography illegal
+“Unfortunately, they spread to millions and millions of users by the time that some of them were taken down,” said Mason Allen, Reality Defender’s head of growth.
+The researchers found at least a couple dozen unique AI-generated images. The most widely shared were football-related, showing a painted or bloodied Swift that objectified her and in some cases inflicted violent harm on her deepfake persona.
+Researchers have said the number of explicit deepfakes have grown in the past few years, as the technology used to produce such images has become more accessible and easier to use. In 2019, a report released by the AI firm DeepTrace Labs showed these images were overwhelmingly weaponized against women. Most of the victims, it said, were Hollywood actors and South Korean K-pop singers.
+Brittany Spanos, a senior writer at Rolling Stone who teaches a course on Swift at New York University, says Swift’s fans are quick to mobilize in support of their artist, especially those who take their fandom very seriously and in situations of wrongdoing.
+“This could be a huge deal if she really does pursue it to court,” she said.
+Spanos says the deep fake pornography issue aligns with others Swift has had in the past, pointing to her 2017 lawsuit against a radio station DJ who allegedly groped her; jurors awarded Swift $1 in damages, a sum her attorney, Douglas Baldridge, called “a single symbolic dollar, the value of which is immeasurable to all women in this situation” in the midst of the MeToo movement. (The $1 lawsuit became a trend thereafter, like in Gwyneth Paltrow’s 2023 countersuit against a skier.)
+When reached for comment on the fake images of Swift, X directed the The Associated Press to a post from its safety account that said the company strictly prohibits the sharing of non-consensual nude images on its platform. The company has also sharply cut back its content-moderation teams since Elon Musk took over the platform in 2022.
+“Our teams are actively removing all identified images and taking appropriate actions against the accounts responsible for posting them,” the company wrote in the X post early Friday morning. “We’re closely monitoring the situation to ensure that any further violations are immediately addressed, and the content is removed.”
+Meanwhile, Meta said in a statement that it strongly condemns “the content that has appeared across different internet services” and has worked to remove it.
+“We continue to monitor our platforms for this violating content and will take appropriate action as needed,” the company said.
+A representative for Swift didn’t immediately respond to a request for comment Friday.
+Allen said the researchers are 90% confident that the images were created by diffusion models, which are a type of generative artificial intelligence model that can produce new and photorealistic images from written prompts. The most widely known are Stable Diffusion, Midjourney and OpenAI’s DALL-E. Allen’s group didn’t try to determine the provenance.
+OpenAI said it has safeguards in place to limit the generation of harmful content and “decline requests that ask for a public figure by name, including Taylor Swift.”
+Microsoft, which offers an image-generator based partly on DALL-E, said Friday it was in the process of investigating whether its tool was misused. Much like other commercial AI services, it said it doesn’t allow “adult or non-consensual intimate content, and any repeated attempts to produce content that goes against our policies may result in loss of access to the service.”
+Asked about the Swift deepfakes on “NBC Nightly News,” Microsoft CEO Satya Nadella told host Lester Holt in an interview airing Tuesday that there’s a lot still to be done in setting AI safeguards and “it behooves us to move fast on this.”
+“Absolutely this is alarming and terrible, and so therefore yes, we have to act,” Nadella said.
+Midjourney, OpenAI and Stable Diffusion-maker Stability AI didn’t immediately respond to requests for comment.
+Federal lawmakers who’ve introduced bills to put more restrictions or criminalize deepfake porn indicated the incident shows why the U.S. needs to implement better protections.
+“For years, women have been victims of non-consensual deepfakes, so what happened to Taylor Swift is more common than most people realize,” said U.S. Rep. Yvette D. Clarke, a Democrat from New York who’s introduced legislation would require creators to digitally watermark deepfake content.
+“Generative-AI is helping create better deepfakes at a fraction of the cost,” Clarke said.
+U.S. Rep. Joe Morelle, another New York Democrat pushing a bill that would criminalize sharing deepfake porn online, said what happened to Swift was disturbing and has become more and more pervasive across the internet.
+“The images may be fake, but their impacts are very real,” Morelle said in a statement. “Deepfakes are happening every day to women everywhere in our increasingly digital world, and it’s time to put a stop to them.”
+SUBMIT A CORRECTION
+We hope you appreciated this story.   		A small team of local journalists runs EastIdahoNews.com – not a big business or corporation. Our stories are produced to inform and serve the public. We don't have a paywall or require a subscription to use EastIdahoNews.com, but there is a cost associated with bringing you stories every day. Please consider supporting us just once for $1 or, if you're able, contribute a little more monthly or annually. We sincerely appreciate your consideration.
+Donation amount: $
+© 2015 - 2025 EastIdahoNews.com LLC

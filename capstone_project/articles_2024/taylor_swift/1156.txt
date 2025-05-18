@@ -1,0 +1,207 @@
+Latest	
+
+
+
+		AI	
+
+
+
+		Amazon	
+
+
+
+		Apps	
+
+
+
+		Biotech & Health	
+
+
+
+		Climate	
+
+
+
+		Cloud Computing	
+
+
+
+		Commerce	
+
+
+
+		Crypto	
+
+
+
+		Enterprise	
+
+
+
+		EVs	
+
+
+
+		Fintech	
+
+
+
+		Fundraising	
+
+
+
+		Gadgets	
+
+
+
+		Gaming	
+
+
+
+		Google	
+
+
+
+		Government & Policy	
+
+
+
+		Hardware	
+
+
+
+		Instagram	
+
+
+
+		Layoffs	
+
+
+
+		Media & Entertainment	
+
+
+
+		Meta	
+
+
+
+		Microsoft	
+
+
+
+		Privacy	
+
+
+
+		Robotics	
+
+
+
+		Security	
+
+
+
+		Social	
+
+
+
+		Space	
+
+
+
+		Startups	
+
+
+
+		TikTok	
+
+
+
+		Transportation	
+
+
+
+		Venture	
+
+
+
+		Events	
+
+
+
+		Startup Battlefield	
+
+
+
+		StrictlyVC	
+
+
+
+		Newsletters	
+
+
+
+		Podcasts	
+
+
+
+		Videos	
+
+
+
+		Partner Content	
+
+
+
+		TechCrunch Brand Studio	
+
+
+
+		Crunchboard	
+
+
+
+		Contact Us	
+
+Welcome to Startups Weekly — your weekly recap of everything you can’t miss from the world of startups. Sign up here to get it in your inbox every Friday.
+Garry Tan heads up Y Combinator, the most powerful startup program in the world. At the tail end of last week, he tweeted — I mean, X-ed — some pretty grim shit, telling politicians to “die slow.” He since deleted the tweet, but the drama was the talk of the town this week.
+Still, Tan’s allegedly inebriated tirade served as a welcome distraction from another surge of tech layoffs over the past week (you’re not imagining things — it’s real). The layoffs hit pretty close to home this week, as some of our TechCrunch colleagues were laid off, including some close friends of mine who I’ve known and worked with for going on a decade now. Our paths will cross again, friends!
+Okay, so what else was going down in the world of startups? Let’s dive in.
+In a move that screams, “We’re almost there, promise!” Plex, the media streaming underdog, has scooped up $40 million in what feels like their umpteenth round of funding, in a confusingly named Series C-3 round. The company is still chasing the profitability milestone, and with a strategy that seems to throw everything at the wall to see what sticks — from ad-supported content to social sharing features — Plex is betting big on becoming a major player in the streaming game. Whether they’ll cross the profitability finish line or just add more features remains a cliffhanger worthy of its own drama series. Maybe Plex will commission that next.
+In a masterclass on how not to win friends and influence regulators, Apple takes the crown with its dramatic reaction to regulatory compliance demands. With the grace of a sulky teenager, the company begrudgingly introduced changes required by laws like Europe’s Digital Markets Act, all while scaremongering about the potential risks these changes could pose to users. Despite its vast resources, Apple chooses to play the victim, warning that these regulatory adjustments are detrimental to its user base, whom it apparently views as incapable of making informed decisions. This approach not only risks burning bridges with developers, who are growing increasingly frustrated with Apple’s antics, but also threatens to tarnish its political goodwill.
+Hold the Fitbit, here’s a sickbit: In a world obsessed with fitness tracking, Visible says, “Hold my wearable” and introduces illness tracking, because, what we really need is a daily reminder of our chronic ailments. It’s like having a pocket-sized friend whispering, “Maybe just don’t today,” every morning.
+“The fundraising cycle, once you start it, takes twice as long and requires three times the conversations,” Jesse Randall, the founder of the platform Sweater Ventures, tells Dominic-Madori in an interview. Here’s what to know to raise a Series A right now. (TC+)
+Metronome, a startup fond of turning complicated billing into not-that-complicated, especially for AI companies, has just closed $43 million in Series B funding. With roots in Dropbox and a client list that reads like a who’s who of tech (think OpenAI and Nvidia), they’re making the shift from subscription to usage-based billing a lot less complex. Their secret sauce? Metronome’s riding high on a 6x revenue increase, all while keeping its valuation a coy mystery.
+Grab the salsa, we’ve already got the chips: In the world of AI chips, where the norm is throwing money at problems hoping something sticks, Rebellions just bagged a cool $124 million Series B to join the fray. However this shakes out, it’s an underdog story for the ages.
+Can you smmmmmell what the ’bot is cooking?: In a world where flipping burgers by hand is so very 2023, Chef Robotics has just bagged $15 million to convince commercial kitchens that the future lies in food assembly by robots, not humans. Why chop onions when you can have a robot do it for you?
+Reining in the robots: Throwing money at generative AI security is the new black — Aim Security just bagged a cool $10 million to ensure your ChatGPT doesn’t go rogue.
+I know, I know. We thought that was all behind us, but  . . . alas.
+In the latest plot twist of the layoffs saga, giants like Microsoft and Alphabet are flaunting their profit while simultaneously thinning their employee ranks. Meanwhile, in the scrappy underdog corner of startup land, venture capital is playing hard to get, leaving many a startup stranded in a financial no-man’s-land. It’s a classic case of corporate “it was the best of times, it was the worst of times,” proving once again that in the tech world, the more things change, the more the layoff announcements stay eerily similar.
+Gotta control that spend: In an ironic twist of corporate frugality, Brex, the spend management startup, has shifted from inflating its employee roster to slashing it by nearly 20% in a desperate attempt to stop burning through $17 million a month.
+Raising cash while slashing staff: Flexport, having already made it rain with $2.7 billion in funding, is eyeing another round of layoffs, proving that even with deep pockets, they’re not above trimming the workforce fat . . . again, just weeks after bagging an extra $260 million from Shopify.
+Gotta pay the piper: PayPal has decided to trim its workforce again, this time axing 9% of its staff — or roughly 2,500 people. We can only surmise that the strategy is based on the little-known fact that the best way to innovate is to make sure there are fewer innovators around.
+Every week, there’s always a few stories I want to share with you that somehow don’t fit into the categories above. It’d be a shame if you missed ’em, so here’s a random grab bag of goodies for ya:
+Back to work, cog: In a world where even AI can catch the “lazy bug,” OpenAI has decided to slash prices and revamp the work ethic of its GPT-4 model, ensuring it no longer shies away from completing tasks. It seems the AI was quietly embodying a digital form of quiet quitting, but fear not, the latest update promises a more diligent and cost-effective virtual colleague.
+India’s first AI unicorn: Ola founder’s AI venture, Krutrim, grabs the title in record time with a cool $50 million funding round at a valuation north of a billion clams, claiming to be India’s first AI heavyweight without even breaking a sweat.
+You creep, stop searching that: X’s handling of the Taylor Swift deepfake saga proved just how low the bar is set for content moderation. This incident highlighted the comical inadequacy of current safeguards, essentially making the internet’s Wild West look like a playground for the digitally inept.
+More like departure: Arrival, the commercial EV startup once celebrated for its innovative microfactory concept, has gone from a $13 billion valuation to potentially being worth pocket change, proving that not all that glitters in the SPAC world is gold. Now its shares are set to vanish from the Nasdaq.
+iGiveUp: Amazon’s grand plan to take over the world with robot vacuums hit a snag, and their $1.4 billion deal with iRobot is now just a pile of dust. Meanwhile, iRobot, facing a future without Amazon’s wallet, starts cutting jobs and dreaming up the next big thing in home automation.
+Topics
+At TechCrunch, Haje (He/Him) covered general tech news and focused mostly on hardware. He has founded several companies to varying degrees of success, spent a while in the VC world, and has been a journalist and TV producer since the dawn of his career. He is more-than-averagely interested in photography and can often be found with a camera slung over his shoulder. He wrote a book about pitching startups to investors, and you can find him on @Haje on Twitter, or at Haje.me for everything else. 	
+Get inside access to Europe’s top investment minds — with leaders from Monzo, Accel, Paladin Group, and more — plus top-tier networking at StrictlyVC London.
+ eBay and Etsy are relatively confident despite tariff pressures
+
+ How Riot Games is fighting the war against video game hackers
+
+ AI chatbots are ‘juicing engagement’ instead of being useful, Instagram co-founder warns
+
+ TechCrunch Mobility: Aurora launches its driverless commercial trucking service, and a surprise bidder joins Canoo’s bankruptcy case
+
+ Google will soon start letting kids under 13 use its Gemini chatbot
+
+ One of Google’s recent Gemini AI models scores worse on safety
+
+ Apple and Anthropic reportedly partner to build an AI coding platform
+
+© 2025 TechCrunch Media LLC.

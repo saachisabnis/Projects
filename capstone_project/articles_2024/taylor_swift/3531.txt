@@ -1,0 +1,46 @@
+Let Social Media Today's free newsletter keep you informed, straight from your inbox.
+                    
+                
+            
+So who were the big losers in X’s latest bot purge?
+Yesterday, X (formerly Twitter) announced a “significant initiative” to combat bots and spam accounts in the app:
+Today, we're kicking off a significant, proactive initiative to eliminate accounts that violate our Rules against platform manipulation and spam. While we aim for accuracy in the accounts we remove, we're casting a wide net to ensure X remains secure and free of bots. As a…
+This comes after many months of rising user complaints about the presence of bots on X, with some spam accounts flooding people’s notifications at random, which has seemingly prompted Elon and Co. to take additional measures.
+Though looking at the top 10 most followed accounts in the app, the impact seems varied.
+As you can see here, X owner Elon Musk was the hardest hit, losing 43k of his followers over the last 24 hours. Which some will take to indicate that Musk himself is inflating his audience with bots, but generally, the most-followed accounts are good indicators of the impact of purges like this because bot accounts will follow at least some of these high-profile users to make their accounts seem more legitimate.
+That’s generally not, however, anything to do with the profiles themselves.
+It’s also worth noting that this is a fairly rudimentary measure, checking the impact on a just few profiles in the app, though more advanced analysis has been made more difficult since X upped the price of its API access last March.
+As such, this may provide some indications, but it’s not the full story by any means.
+Looking at the numbers, Barack Obama and Justin Bieber also lost around 20k followers each, while Katy Perry, Taylor Swift and Lady Gaga also saw a chunk of their on-platform audience removed.
+I’ve also added in Kim Kardashian and the official X account for more context. Both of these profiles have been more significantly impacted in previous bot purges, but both actually gained followers over the past day.
+On balance, it seems that the impact of this latest purge, at this stage at least, hasn’t been major, despite some accounts losing tens of thousands of followers. That seems like a lot, but within the scope of X’s broader bot issues, removals in the thousands are likely not going to have a big effect.  
+Bots have been a consistent issue for the platform, with current owner Elon Musk criticizing past Twitter management of failing to address its bot problems, and accusing it of lying about its usage stats to cover this up.
+Back in 2022, as part of his effort to get out of paying $44 billion to acquire the app, Musk claimed that the platform wasn’t actually worth what he’d offered for it, because Twitter management had falsely claimed that fewer than 5% of its active users were bots. Musk and his team had conducted their own analysis, and they found that it was more like 33%, though Musk eventually settled on it being a more conservative 20%.
+At that time, Twitter had 237.8 million mDAU, which means that, at 20%, Musk’s claim was that more than 47 million profiles in the app were bots/fakes.
+Part of the sentiment around this was that Twitter management wasn’t actually motivated to address its bot problems, because it would only reduce its user numbers, and therefore bring more criticism from market analysts, and subsequently tank the company’s share price. As such, former Twitter CEO Jack Dorsey’s view was that the only way for the platform to actually combat bots in any meaningful way would be to take the company private, reducing that scrutiny.
+Which is what Elon Musk did, yet, despite his various claims, at various times, that he’d defeated bots in the app, there remained a key tell-tale sign that the new X team likely hadn’t done enough, or potentially anything at all on this front: X’s user count has actually increased since de-listing, rather than shrunk.
+Which seems impossible, and while you could make the argument that Elon’s arrival has brought more user to the app, at the bot numbers that Musk himself projected, that’s tens of millions of new users that would have to have started using X in order to not only replace the bot accounts that were deleted, but also add more on top of that, raising its total user figures.
+Essentially, if Musk and Co. are going to eliminate bots in the app, X’s active user count is going to drop, by more than 12 million at the least.
+Which is going to look bad for the company, despite it actually being a good thing, and if X is actually going after bots for real this time, that’s what its team will have to sell to its ad partners and potential investors in all of its products.
+And without an official Comms department, that’ll be a particularly hard sell.
+So, how will we know if X has actually eradicated bots at scale this time around? Well, X claims to have 250 million monetizable daily active users, and 550 million monthly actives. If those numbers drop by several million, that would be a good indicator that they have taken real action. But if those numbers remain stable, I don’t see how X can claim to have made any significant dent.
+But again, if they do drop by millions, the headlines will be all bad. “X is losing users”, “People are fleeing X”, “Elon’s antics are turning people away”. That’s definitely what will come as a result, and what Elon and Co. will have to re-frame as a good news story.
+I’m not sure that they can, despite it actually being a good news story, but if X really wants to tackle bots, that’ll be a necessary hurdle in the broader scheme.
+Get the free daily newsletter read by industry experts
+For months, we’ve been tracking Elon Musk’s $44 billion deal with Twitter. Now that the deal is done, we watch as the Musk-Twitter era begins.
+The key to maximizing a social media marketing strategy is to ground the approach in purpose.
+Keep up with the story. Subscribe to the Social Media Today free daily newsletter
+Subscribe to Social Media Today for top news, trends & analysis
+Get the free daily newsletter read by industry experts
+Want to share a company announcement with your peers?
+
+
+                                
+                                    Get started
+                                
+                                ➔
+
+
+For months, we’ve been tracking Elon Musk’s $44 billion deal with Twitter. Now that the deal is done, we watch as the Musk-Twitter era begins.
+The key to maximizing a social media marketing strategy is to ground the approach in purpose.
+The free newsletter covering the top industry headlines

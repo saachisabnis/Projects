@@ -1,0 +1,72 @@
+My jaw is still on the floor. You won't believe the battery life we recorded for the Surface Laptop 7, which is a part of Microsoft's "Surface" family that features a wide variety of devices, from tablets to convertibles. And quite frankly, I was never the biggest fan of Surface machines.
+They all seem to be missing that je ne sais quoi — that X factor — that makes 'em stand out in the world of MacBooks, Lenovo ThinkPads, and Dell XPS series laptops. The competition was always quite stiff for the Surface family, with rivals offering more performance for the price. 
+The biggest hindrance to the Surface family's success was, sorry to say it, Intel CPUs. (Even when Microsoft decided to pack AMD chips inside their laptops, they performed significantly better than their Intel-based variants.)
+"It's me! Hi! I'm the problem it's me," is what Intel should be saying, quoting Taylor Swift. 
+Now Microsoft has made the smart decision to ditch Intel for the Surface Laptop 7, which features a show-stopping chipset called Qualcomm Snapdragon X Elite. Long story short, Qualcomm said the Snapdragon X Elite crushes MacBooks, particularly the models with the M3 chips — and it didn't lie.
+Did it make our best laptops list? Read on to find out.
+The Surface Laptop 7 I tested for this review costs $1,999 via Amazon and comes with the following specs:
+Qualcomm Snapdragon X Elite CPU
+Qualcomm Adreno GPU
+32GB of RAM
+1TB of SSD storage
+13.8-inch, 2496 x 1664-pixel resolution touchscreen with a 120Hz refresh rate
+Windows 11 Home
+If that's too much, Amazon is also selling a Microsoft Surface Laptop for just $1,199, but it comes with some downgrades, including 16GB of RAM, 512GB of SSD storage, and a Snapdragon X Plus chipset.
+The Surface Laptop 7 oozes sophistication and polished refinement. Personified, this Microsoft laptop would be the smooth-talking Wall Street banker, dressed in an all black suit, who says, "I'd like a whiskey neat, please."
+The build quality is mint. The chassis, partially made from recycled aluminum, is sturdy with little to no give on the lid and deck. As a cherry on top, it doesn't collect too many fingerprints. 
+The review unit I have sports the Black colorway, looking as if it was draped in ink. There are three other color options, including Sapphire, Dune, and Platinum. Overall, the Surface Laptop 7 has a minimalist, subdued look, with the only eye-catching element being the slightly lustrous Microsoft logo on the lid.
+The Surface Laptop 7 is light, too, coming in at 2.96 pounds. Its dimensions are 11.85 x 8.67 x 0.69 inches.
+Surface Laptop 7 - 2.96 pounds
+14-inch M3 MacBook Pro - 3.4 pounds
+15-inch M3 MacBook Air - 3.3 pounds
+For comparison, the 14-inch M3 MacBook Pro is heavier and thinner at 3.4 pounds and 0.61 inches thick. The 15-inch M3 MacBook Air is also heavier at 3.3 pounds, but significantly thinner (0.45 inches thick).
+The Surface Laptop 7 comes in two sizes: 13-inch and 15-inch variants. I have the former, which sports a 13.8-inch panel (a step up from its predecessor's 13.5-inch screen).
+Plus, the bezels have slimmed down, too, for a more modern look. (Because, come on, large bezels are so passé.) The LCD display features a 2,304 x 1,536-pixel display with a dynamic 120Hz refresh rate. In other words, depending on your task, it can climb up to 120Hz (e.g., light gaming and other frenetic activities) while dropping down to 60Hz for less demanding activities. 
+The Surface Laptop 7 also features a 3:2 aspect ratio, which means the screen is more tall than it is wide. Emanating about 600 nits of brightness, the Surface Laptop 7 passed my "sunny day" test. Yes, its display can be seen in bright environments, but the screen is quite reflective. (You could somewhat see yourself while using the screen, even with the panel cranked up to max brightness.) As such, the Surface Laptop 7 could benefit from an antireflective coating on the display.
+I watched the Gladiator 2 trailer on YouTube, and the Surface Laptop 7 delivers rich, pungent colors. But compared to my 15-inch M3 MacBook Air, it could stand to be a tinge sharper and more crisp. For example, Denzel Washington, playing as Macrinus, is draped in a Roman grab with vivid red, gold, and purple hues, but the leopard print portion of his getup appeared to be more detailed and sharper on my MacBook.
+The Surface Laptop 7 is a bit selfish with its ports, but my MacBook Air is worse; it doesn't even have legacy ports like USB Type-A. 
+So perhaps the Microsoft's offerings aren't too bad.
+On the left side: 
+USB Type-A port (3.2 Gen 1)
+Two USB4 Type-C ports
+3.5mm headphone jack
+On the right side:
+Microsoft's proprietary Surface Connect port
+Like the MagSafe 3 connector for MacBooks, the Surface Connect port is proprietary. It lets you charge the Surface Laptop 7, freeing up the other ports for displays, peripherals, and more. This model doesn't have a microSDXC card slot, but you can find one on the 15-inch model.
+The Surface Laptop 7 has MacBook-beating performance and power efficiency, but it cannot match the stunning sound quality you get on an Apple laptop.
+I fired up "Not Like Us" by Kendrick Lamar via Spotify, and while the audio can get pretty loud at max volume, the diss track didn't sound very impactful on the Surface Laptop 7's speaker set up. The tune lacked bass and that rich depth you get from a MacBook Air or MacBook Pro.
+If I could rate the Surface Laptop 7's keyboard, I'd give it a — well — 7. The keyboard's key travel is a bit shallow as you'd imagine for a thin-and-slim laptop, but there is still enough snappiness and tactile feedback to gracefully launch my fingers from one keycap to another.
+The touchpad, compared to the last iteration, now has precision haptic capabilities. This means you'll receive reliable click feedback across the entire surface. It felt a bit stiff out of the box, as if I needed to exert more effort than usual to move the cursor around the screen. However, this can be remedied by going to Settings > Bluetooth & devices > Touchpad > Cursor speed. 
+The Microsoft Surface Laptop 7 comes equipped with the Qualcomm Snapdragon X Elite star chipset. As mentioned at the outset, Qualcomm has been boasting that it can beat the M3 MacBooks. We ran Geekbench 6, which stress tests the CPU, to validate Qualcomm's claims. 
+Surface Laptop 7 - 11,875
+M3 MacBook Pro - 11,998
+M3 MacBook Air - 12,170
+You can squeeze more performance out of the Surface Laptop 7 by switching the power mode to "best performance," which eked out an incredible multi-core score of 14,586.
+I couldn't believe my eyes. The Surface Laptop 7, on our 1080p video rundown test, lasted 22 hours and 50 minutes on a charge. That's nearly 23 hours.
+As of this writing, this is the longest battery life we've ever recorded for a Windows laptop in recent years.
+The Microsoft Surface Laptop 7 has a 1080p camera located on the top bezel, which also has an IR sensor for Windows Hello facial authentication.
+The webcam is a bit of potato. It's giving watercolor vibes; it's a bit fuzzy and lacks crispness. On the plus side, it renders color relatively well, accurately picking up my complexion and the bright colors on my shirt.
+I tried to download the Apple Music app from the Microsoft Store, but it doesn't surface (no pun intended) in search results. As it turns out, the Apple Music app doesn't support the Surface Laptop 7 (though it supports other non-Windows-on-ARM PCs I've tested). For the uninitiated, the Surface Laptop 7 has an ARM chip (hence why it's called Windows-on-ARM), and in order for software to run its smoothest on PC, developers must create ARM64 native apps.
+For example, apps like Photoshop, Dropbox, Zoom, Prime, Spotify, Hulu, and Chrome all have native apps on Windows-on-ARM PCs. Apps that don't have native support require emulation with Microsoft's Prism (a translation framework). However, Apple Music isn't available on the Surface Laptop 7 whatsoever, so my guess is that Apple simply hasn't allowed support for it just yet. (According to Reddit, you can sideload it to your PC, though.)
+I haven't spotted any other compatibility issues during my normal workflow, but one website claims that some games like Fortnite and Dirt 5 are not playable on Window-on-ARM PCs. However, this doesn't faze me much; the Surface Laptop 7 isn't a gaming laptop. (But if you like to bend the rules, you can definitely get away with some light gaming, as long as the titles are compatible).
+The Snapdragon X Elite chip is a power-efficiency champ and a performance beast, and on top of that, it boosts the Surface Laptop 7's AI capabilities with an NPU, a dedicated processor designed to shoulder all the AI-related tasks.
+This makes the Surface Laptop 7 a Copilot+ PC, allowing users to play around with fun features like Cocreator on Paint.
+For example, I was able to draw a rough sketch of a pink flamingo with heels on Paint, only for the new-and-improved AI-powered app to recognize my drawing and fix it into a more sophisticated masterpiece of a fancy, rose-colored bird. 
+Basically, Cocreator is the let-me-turn-your-ugly-doodle-into-something-pretty AI feature.
+In the Photos app, you can transform your images into a number of different art styles, from anime to watercolor. However, I noticed many of the styles would only apply the style to the background of my selfie due to a high risk of distortion.
+You can even make an image from scratch with the Image Creator feature. Check out what it spat out with a prompt that said, "A beautiful bride celebrating her wedding on roller skates in a bowling alley."
+Faces are definitely distorted, but it got the gist of what I wanted to convey visually.
+The controversial Recall utility, a feature I like to call the "CTRL + H" of your entire digital life, has been delayed. Once it does get released, it will only be available in Preview for Windows Insiders.
+With nearly 23 hours of battery life and MacBook-beating performance, of course this Microsoft laptop is worth it. The Surface Laptop 7 is the longest-lasting Windows laptop we've tested in 2024, blowing my expectations out of the water.
+The Microsoft Surface Laptop 7 combines a sleek design, a powerful Snapdragon X Elite chipset, and the longest battery life for ultimate productivity and AI-powered creativity. Apple must be sweating through its armpits with the launch of the Surface Laptop 7 because — holy cow — this is one hell of a laptop.
+Its power and energy efficiency is serious, but its AI-boosted apps makes Windows fun again. For the first time in a long time, the preinstalled apps on a Windows PC are offering attention-stealing entertainment. It makes me feel like a kid again.
+Starting at just $999, if you're OS agnostic and have no allegiance to macOS, I can't believe I'm saying this, but the Surface Laptop 7 is the better choice over M3 MacBooks. 
+To answer my question at the outset, yes, the Surface Laptop 7 has earned a spot on our best laptops list.
+
+Topics
+Microsoft
+Mashable Choice
+
+We tested this laptop's CPU performance by running Geekbench 6, and we recorded its multi-core score. We also ran a video rundown with the 1080p version of the Tears of Steel film. We kept the brightness at 50% for the battery test.
+Finally, we experimented with the display (e.g., surf YouTube and launch Netflix), explored the keyboard (i.e., we use LiveChat's typing speed test to assess its comfort levels), inspected the design and build quality, ran Spotify to test the speakers, took photos to determine webcam quality, and more.
+Kimberly Gedeon, at Mashable since 2023, is a tech explorer who enjoys doing deep dives into the most popular gadgets, from the latest iPhones to the most immersive VR headsets. She's drawn to strange, avant-garde, bizarre tech, whether it's a 3D laptop, a gaming rig that can transform into a briefcase, or smart glasses that can capture video. Her journalism career kicked off about a decade ago at MadameNoire where she covered tech and business before landing as a tech editor at Laptop Mag in 2020.

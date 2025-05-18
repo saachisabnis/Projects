@@ -1,0 +1,52 @@
+Award-winning news, views, and insight from the ESET security community
+    
+
+        Award-winning news, views, and insight from the ESET security community
+      
+We Live Progress
+Artificial intelligence is reshaping the music landscape, turning listeners into creators and sparking new debates over creativity, copyright, and the future of music
+Imogen Byers
+
+12 Nov 2024
+ • 
+, 
+4 min. read
+
+Artificial Intelligence (AI) and Machine Learning (ML) algorithms have the power to write and send messages responding to your online retail queries, suggest what films you might like based on your watching history, summarize a 100-page report in two paragraphs and even remind you to send your mom a birthday card. It’s got to the stage now where we’re all wondering, what can’t AI do?
+We’ve already looked at the pros and cons of AI in the workplace, but what about outside the workplace and in our personal lives? More specifically, outside the workplace and in our ears now that AI is not only changing how we listen to music, but also has the power to turn your amateur bedroom beatboxer into a viral TikTok sensation.
+Picture this: You listen to music, and you know what you’d like your songs to sound like, but whenever you pick up a guitar and try to strum a few chords that you think would go together, you are greatly disappointed that it doesn’t quite hit the mark.
+Fear not. Online tools powered by AI algorithms can analyze extensive music datasets, extracting patterns and generating melodies across genres and styles to create an entirely new song with minimal (or no) musical talent required. You can even mimic the sounds of your favorite artists with just a few clicks of a button.
+This editing ability can go even further as shown by the Beatles in November 2023. They released their last single, Now and Then, which included vocals of the late John Lennon. No, these vocals weren’t ghostly haunts from the grave; these vocals were extracted from poor-quality recordings made in a 1978 demo. Needless to say, The Beatles’ fans were overjoyed with this new release.
+But where does that leave us with people and organizations having the ability to access and reproduce the works of others (without their permission)?
+For example, the 2023 hit ‘Heart on My Sleeve’, was created by TikTok user ghostwriter977, who used AI-generated vocals mimicking the famous artists Drake and The Weeknd. It went viral and was even submitted for the ‘Best Rap Song and Song of the Year’ awards at the Grammys. This started a whole new chain of affairs, with Universal Music Group NV, the label that both the Weeknd and Drake belong to, sending a letter to streaming platforms asking them to block developers using the label’s catalog to train AI technology.
+Copyright disputes have always been an issue in music, regardless of whether AI tools have been used or not. For example, Led Zeppelin was accused by the American rock band, Spirit, of stealing their instrumentals for the song ‘Stairway to Heaven’. And Ed Sheeran was also accused of copying the melody from Marvin Gaye’s ‘Let’s get it on’ in his song, ‘Thinking out loud’.
+The list of musical copyright cases is exhaustive, but it demonstrates that music theft has been around long before AI. Is there such thing as organic creation anymore?
+AI is a powerful tool, and if you know how to use it, it can achieve wonders. Even simple AI tools have the power to abstract different streams of music from a track and edit them ever so slightly to get that tone/chord/style you’re looking for (hello autotune).
+While ‘autotunes’ of the past seemed to encompass that tinny, obvious sound of technical interference, modern AI manages to edit, shuffle, remove, or ‘improve’ even the tiniest note or sound to perfection. So, if you have used your (absent) musical prowess to write and record your own song, you can then correct your horrifying vocals with AI. Or even use AI to completely change your production to what ‘AI’ thinks sounds better.
+Again, this democratizes the music industry, enabling those with less (subjective) talent and commitment (what use were those hours practicing piano as a child?) to sound like professionals. It’s all fun and games until those whose livelihoods rely on music creation and production get swamped by AI tunes made by your average Joe.
+Streaming services like Spotify and Apple Music rely on AI to suggest songs based on their users’ listening habits. These algorithms group and recommend songs based on various attributes, like genre, artist, decade etc. For those of us looking to discover new artists, this is a godsend. But might it mean that all of your downloaded music sounds just like that one Kylie song you ‘can’t get out of your head’? Maybe. Is this a negative thing? That’s up to you to decide.
+The push-and-pull between protecting artists, exploring creativity, and defining the roles of man vs machine in music will continue. The one thing AI can’t replicate? Feeling, empathy, and real emotion. No one feels heartbreak, loss, joy, and love like a human. So maybe we should keep AI where it belongs… automating and eliminating the tedious manual tasks that stop us humans from spending more time doing what matters: authentic human connection and creativity in music – and beyond.
+ESET has been at the forefront of AI in cybersecurity, leveraging machine learning algorithms since the 1990s, enabling our experts to focus solely on creating the best solutions for ESET customers. Visit our website to look at our products and services that combine the power of AI with decades of expert human intelligence. It might not help you create the next best hit in the charts, but it will bolster your cybersecurity and keep whatever content you do create (whether you want to listen to it or not) safe. 
+
+      Sign up for our newsletters
+    
+We Live Progress
+AI in the workplace: The good, the bad, and the algorithmic
+We Live Progress
+AI in the workplace: The good, the bad, and the algorithmic
+We Live Progress
+AI in HR: Is artificial intelligence changing how we hire employees forever?
+We Live Progress
+AI in HR: Is artificial intelligence changing how we hire employees forever?
+We Live Progress
+Irresistible: Hooks, habits and why you can’t put down your phone
+We Live Progress
+Irresistible: Hooks, habits and why you can’t put down your phone
+We Live Progress
+AI in the workplace: The good, the bad, and the algorithmic
+We Live Progress
+AI in HR: Is artificial intelligence changing how we hire employees forever?
+We Live Progress
+Love is in the AI: Finding love online takes on a whole new meaning
+
+            Award-winning news, views, and insight from the ESET security community

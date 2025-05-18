@@ -1,0 +1,39 @@
+It’s not just you. A lot people think Google searches are getting worse. And the rise of generative AI chatbots is giving people new and different ways to look up information.
+While Google has been the one-stop shop for decades — after all, we commonly call searches “googling” — its longtime dominance has attracted a flood of sponsored or spammy links and junk content fueled by “search engine optimization” techniques. That pushes down genuinely useful results.
+A recent study by German researchers suggests the quality of results from Google, Bing and DuckDuckGo is indeed declining. Google says its results are of significantly better quality than its rivals, citing measurements by third parties.
+Now, chatbots powered by generative artificial intelligence, including from Google itself, are poised to shake up how search works. But they have their own issues: Because the tech is so new, there are concerns about AI chatbots’ accuracy and reliability.
+If you want to try the AI way, here’s a how-to:
+WHERE DO I FIND AI SEARCH TOOLS?
+Google users don’t have to look far. The company last year launched its own AI chatbot assistant, known as Bard, but recently retired that name and replaced it with a similar service, Gemini.
+Bard users are now redirected to the Gemini site, which can be accessed directly on desktop or mobile browsers.
+The Gemini app also launched in the U.S. this month and is rolling out in Japanese, Korean and English globally — except in Britain, Switzerland and Europe — according to an update notice, which hints that more countries and languages will be “coming soon.”
+Google also has been testing out a new search offering, dubbed “Search Generative Experience” that replaces links with an AI-generated snapshot of key info. But it’s limited to U.S. users signing up through its experimental Labs site.
+Microsoft’s Bing search engine has provided generative AI searches powered by OpenAI’s ChatGPT technology for about a year, first under the name Bing Chat, now rebranded as Copilot.
+On the Bing search home page, click the Chat or Copilot button underneath the search window and you’ll get a conversational interface where you type your question. There’s also a Copilot app.
+A slew of startup AI search sites have emerged, but they aren’t as easy to find. A standard Google search isn’t that helpful, but searches on Copilot and Bard turned up a number of names, including Perplexity, HuggingChat, You.com, Komo, Andi, Phind, Exa and AskAI.
+DO I HAVE TO SIGN UP OR PAY FOR THEM?
+Most of these services have free versions. They typically limit how many queries you can make but offer premium levels that provide smarter AI and more features.
+Gemini users, for example, can pay $20 for the advanced version, which comes with access to its “most capable” model, Ultra 1.0.
+Gemini users need to be signed in to their Google accounts and be at least 13 years old — 18 in Europe or Canada. Copilot users don’t have to to sign in to a Microsoft account and can access the service through Bing search or Copilot home pages.
+Startup sites are largely free to use and don’t require setting up an account. Many also have premium levels.
+HOW DO I DO AN AI SEARCH?
+Rather than typing in a string of keywords, AI queries should be conversational — for example, “Is Taylor Swift the most successful female musician?” or “Where are some good places to travel in Europe this summer?”
+Perplexity advises using “everyday, natural language.” Phind says it’s best to ask “full and detailed questions” that start with, say, “what is” or “how to.”
+If you’re not satisfied with an answer, some sites let you ask follow up questions to zero in on the information needed. Some give suggested or related questions.
+Microsoft’s Copilot lets you choose three different chat styles: creative, balanced or precise.
+WHAT ARE THE RESULTS LIKE?
+Unlike Google search results that throw up a list of links, including sponsored ones, AI chatbots spit out a readable summary of the information, sometimes with a few key links as footnotes. The answers will vary — sometimes widely — depending on the site.
+They can shine when you’re searching for an obscure factoid, such as, say, a detail about a European Union policy.
+Answers from Phind.com were among the most readable and consistently were provided in a narrative form. But the site has mysteriously gone offline at some points.
+Testing a simple query — what’s the average temperature in London for the second half of February? — produced a similar range of results on most sites: 7-9 degrees Celsius (45-48 Fahrenheit).
+Andi strangely provided current weather conditions for New York, though it used the correct city during another try later.
+Another search — the names and tenures of the CEOs of British luxury car maker Aston Martin — is the kind of info available online but needs some work to piece together.
+Most sites came up with names from the past decade or two. AskAI provided a list dating to 1947, along with its top three “authoritative sources,” but without links.
+WHAT ARE THE DOWNSIDES?
+While chatbots may sound authoritative because they produce answers that seem like they’re written by a confident human, they’re not always correct. AI chatbots have been known for providing deceptively convincing responses, dubbed “hallucinations.” HuggingChat warns, “Generated content may be inaccurate or false” and Gemini says it could “display inaccurate info, including about people.”
+These AI systems scan vast pools of information culled from the web, known as large language models, and then use algorithms to come up with coherent answers, but not all reveal how they arrived at their responses.
+Some AI chatbots disclose the models that their algorithms have been trained on. Others provide few or no details. The best advice is to try more than one and compare the results, and always double-check sources.
+For example, at one point Komo insisted Canada’s population in 1991 was about 1 million people and stood by this wrong number even after I followed up to ask if it was sure. It cited a Wikipedia page, which revealed the figure came from a table for the country’s indigenous population. It found the correct number when I tried again later.
+(AP)
+You must be logged in to post a comment.
+Popular Posts

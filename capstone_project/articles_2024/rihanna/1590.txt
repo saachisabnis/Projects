@@ -1,0 +1,100 @@
+The European Court of Justice affirmed an earlier decision of
+the European Intellectual Property Office (EUIPO) in a case where
+Puma was attempting to gain a European Union (EU) Community Design
+on its "Puma Creeper Shoe." On March 6, 2024, the EU
+Court struck down the validity of Puma's registered EU design,
+based on a number of social media posts by Rihanna.
+EU Design Patent Protection
+Under EU design patent law, novelty and individual character are
+two of the requirements to obtain EU Design protection. In order to
+show novelty, the appearance of the design, or the portion of the
+design for which the applicant seeks protection, must be new. In
+other words, novelty exists if there is no identical design or if
+there is no similar design with only minor changes to its
+ornamental details. Individual character exists if the new product
+design creates a different overall impression than an existing
+product. Similar to US Design practice, the lines, contours,
+surface, and elevation of portions of an object, such as the Puma
+Creeper Shoe, must be new (i.e., original, unique, or novel). Thus,
+a shoe, or a shoe portion, cannot have been previously
+invented.
+Even if an EU Design is granted, some provisions allow for a
+design patent to be invalidated. One example is if the design
+seeking protection is made available to the public prior to twelve
+months preceding the design patent's filing date. (Council
+Regulation 6/2002, on Community Designs, 2002.) Whether or not a
+designer or a third party discloses the design is inconsequential
+as it pertains to public disclosure. Thus, a public disclosure can
+be novelty destroying and prevent an otherwise valid EU Design
+application from being granted.
+US Patent Law provides a similar remedy. The
+"public-use" provisions in 35 USC establishes that
+"a person shall be entitled to a patent unless the claimed
+invention was patented, described in a printed publication, or in
+public use, on sale, or otherwise available to the public before
+the effective filing date of the claimed invention." (35
+U.S.C. § 102(a)(1).) A disclosure made one year or less before
+the effective filing date of a claimed invention shall not be prior
+art to the claimed invention if the inventor or joint inventor made
+the disclosure... (35 USC § 102(b)(1)(A).) Thus, the timing of
+a disclosure in advance of the design patent filing date is
+critical in determining the validity of the design patent.
+Parties and the Case
+The Puma dispute dates back to 2019, when a Dutch footwear
+wholesaler, Handelsmaatschappij J. van Hilst (HJVH), applied for a
+declaration of invalidity against Puma's registered Puma
+Creeper Shoe design. In support of the wholesaler's
+application, HJVH provided a series of photographs that Rihanna had
+shared via her Instagram account in 2014, in which she wore a pair
+of Puma trainers. These posted images were also reproduced in
+several news sources in 2014. As Puma filed an EU design
+application to protect the Puma Creeper Shoe design in July 2016,
+HJVH argued that the sharing of these photos occurred beyond the
+one-year grace period afforded to Puma. HJVH further argued that
+the Puma Creeper Shoe lacked the required novelty to qualify for an
+EU design patent. Following its review of the matter, the EUIPO
+found that Puma's design was invalid because it lacked
+individual character, due to being disclosed more than one year
+before the filing date.
+Puma appealed the EUIPO's decision to the European Court of
+Justice, arguing that at least the evidence before the EUIPO was
+insufficient to demonstrate prior disclosure of Puma's design
+in accordance with the Regulation. Puma alleged that fans did not
+take an interest in the shoes when they were featured in
+Rihanna's 2014 Instagram post and, instead, focused on Rihanna
+herself. The Court was not persuaded by this argument. The Court
+provided several reasons, but one included that "Rihanna was a
+world-famous pop star," with both her fans and others in the
+fashion sector being interested in the shoes she posted. Therefore,
+the Court found that it was reasonable for people to closely study
+the photos of the shoes posted to see the exact style she was
+wearing. Thus, the Instagram photos were sufficient evidence
+showing the Puma Creeper Shoe design was publicly disclosed more
+than one year prior to the filing of an application for an EU
+Design.
+Community Design No. 003320555-0002
+Source: https://www.politico.eu/article/rihanna-instagram-post-puma-hopeless-place-european-union/
+Practice Tip
+The courts relying on the use of social media by Puma, Rihanna,
+and news sources show the level of care that must be taken at every
+stage of the design process of a new product, including the
+disclosure and patent registration process. Companies advertise on
+social media outlets and form partnerships with influencers or
+ambassadors; however, if the companies have not filed for design
+patent protection prior to such advertisements and/or partnerships
+publicly using their products, the companies may lose their rights
+to obtain a design patent. A company or individual should speak
+with a patent attorney during its design process and, ideally,
+prior to any public disclosure of its product, to determine whether
+a design patent can protect its product.
+What's more, unlike US Design patent law, the EU Design is
+not examined before being registered. Thus, an assignee holding a
+EU design may not have a valid EU design patent, and that
+EU design patent, when challenged, can be invalidated.
+The content of this article is intended to provide a general
+guide to the subject matter. Specialist advice should be sought
+about your specific circumstances.
+Connecting Knowledge & People
+POWERED BY MONDAQ AI
+© Mondaq® Ltd  1994 - 2025. All Rights Reserved
+Mondaq uses cookies on this website. By using our website you agree to our use of cookies as set out in our Privacy Policy.

@@ -1,0 +1,183 @@
+Click here to sign in with
+                  
+
+
+                  or
+                  
+
+
+
+
+
+Forget Password?
+
+
+Learn more
+
+share this!
+44
+Tweet
+Share
+Email
+
+														February 26, 2024
+														
+													
+
+														This article has been reviewed according to Science X's 
+														editorial process
+														and policies.
+														Editors have highlighted
+														the following attributes while ensuring the content's credibility:
+													
+
+ fact-checked
+															
+
+ reputable news agency
+															
+
+ proofread
+															
+
+										 by Ronald D. White, Los Angeles Times										 										 									
+Think of meticulously handcrafted objects and certain things come immediately to mind: fine art, exotic cars, luxury timepieces.
+But Pasadena native Steve Barajas spends his days building a bespoke item that's on another level entirely: NASA's Europa Clipper.
+The 13,000-pound behemoth, with a solar-array wingspan the length of a basketball court, is one of the agency's most ambitious efforts. It's on an October countdown to launch to Jupiter and its moon Europa, atop a SpaceX Falcon Heavy rocket, to find out if life exists in the deep ocean believed to lie beneath Europa's icy exterior.
+The central body of the $5-billion Europa Clipper arrived in June 2022 at the Pasadena campus of NASA's Jet Propulsion Laboratory for the painstaking final assembly of components shipped from across the U.S. and Europe. That's where Barajas comes in.
+Barajas, 35, is a mechanical engineer leading a team that, in coordination with other JPL specialists, installs crucial hardware for the ambitious mission. Barajas describes some high points with a parental flair: There's the magnetometer that could confirm whether an ocean exists beneath the Europa ice; the mass spectrometer that will analyze gases in Europa's atmosphere; the infrared cameras that will map the moon's surface composition, temperature and roughness; and the solar panels that will help power the spacecraft instruments.
+The project's momentum to liftoff didn't spare the Europa Clipper team when JPL in early February laid off 530 people, or about 8% of its workforce, because of uncertainties over congressional funding for NASA. Although the job cuts, the second round this year, were felt "across the NASA family," NASA Administrator Bill Nelson said, "the Europa Clipper mission will proceed as planned."
+In his official NASA bio, the UC Berkeley graduate recalls his childhood fascination with space. "As a kid, I remember passing the sign along the 210 Freeway that read 'NASA-JPL Next Exit,' thinking it was so cool that NASA was so close."
+Barajas, who joined JPL in 2016 from Aerojet Rocketdyne, said his work has taught him the art of delayed gratification. If the Europa Clipper launches on schedule from the Kennedy Space Center, Barajas will have to wait 5½ years for it to arrive at Europa, about 488 million miles from Earth, where it will perform dozens of flybys of the moon to collect data.
+"I'm working on a spacecraft that will hopefully find something profound in the future, and working with people who share the same passion," he said.
+When JPL finishes the buildout, Barajas will be part of the team that flies to Florida in May for launch preparations, with liftoff scheduled for as early as Oct. 10 from Kennedy Space Center in Cape Canaveral.
+The Times spent a day with Barajas on the job late last year. The interview was edited for length and clarity.
+5 a.m.
+Barajas starts his day studying a pile of activity reports from the previous day's work to create a tactical schedule for the mechanical engineers on his team.
+Today is a big day for the Europa Clipper team. They'll be testing the craft's thermal pumping system, the last major addition to the spacecraft's vault, a thick-walled aluminum alloy box that holds the spacecraft's "brain": its electronics and computers.
+
+        Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys.org for daily insights.
+        Sign up for our free newsletter and get updates on breakthroughs,
+        innovations, and research that matter—daily or weekly.
+    
+"The thermal pump is the heart of the spacecraft," pumping fluid through tubing to control the craft's temperature, Barajas said. The daylong effort is hazardous because of the high pressure used to test the system with helium, a nonflammable gas.
+7 a.m.
+The Europa Clipper's tall silvery core stands in JPL's Space Assembly Facility in High Bay 1 clean room, surrounded by temporary scaffolding. In a nearby conference room, Barajas represents the mechanical engineering team as he compares notes for the day ahead with colleagues from the electrical engineering and systems teams.
+"Some of what we are discussing are small details. It usually isn't a massive revamp of the plan," Barajas said. "It's trying to get everything organized so that we can provide very clear direction when we meet with the rest of the teams at 7:30."
+9 a.m.
+Before any work on the spacecraft begins, Barajas and his colleagues have to don the white protective coveralls known as bunny suits. Barajas will have to repeat the procedure three times before the day ends.
+Collegial chatter abounds because some people entering the clean room for the first time need help with the process.
+"Every time we enter the clean room, we have to first put on the bunny suit, which is a very ugly one-piece jumper," Barajas said. "Empty your pockets; no phones or watches. Shoe covers go on your feet, then there are boots that go on top of those. If you have a beard; there's a mask to wear for that. Then there's a face mask and a hood that's like a fabric helmet goes over that. Then you put on the bunny suit without letting it touch the ground. Then there's tape on all of the separate parts, joining the legs to the shoes, gloves to the sleeves, etc."
+The process must be repeated after a worker leaves the clean room for lunch or a bathroom break—"It's one of the daily downsides of the job"—so veterans know, "you're not able to hydrate as you would normally."
+Next, there is something that looks like a shower stall, buts it's dry air being blasted at the occupant, hard enough to feel like a wind storm.
+On one wall of the clean room hang plaques commemorating missions that date back 63 years, to the Ranger 1 moon mission, when engineers worked on spacecraft in street clothes. But this is not 1961, a time when earthlings weren't concerned about spreading their biological junk off planet.
+"Planetary protection has evolved," Barajas said of the strict work requirements he has to follow every day. "No one wants to be the person responsible when extra-terrestrial life is finally found and it turns out to be something we brought there from earth."
+9:30 a.m.
+Inside the clean room, engineers and technicians are making sure all of the fittings on the thermal pump are sufficiently tight.
+There is no chatter, no small talk. Everyone is looking intently at the work being done, a level of scrutiny that continues during the testing process. Barajas is there to ensure that members of the thermal team conducting the test have everything they need and the work is going smoothly.
+"We have detectors here on the clean room floor that will read whether anything is seeping out. We do this with helium," Barajas said. It has to be below a certain rate loss. "There will always be some seepage but as long as it's not too much, we're OK."
+10:30 a.m.
+There are two thresholds for success. One is a vacuum test using a wand spraying helium to see if it it is being sucked into the system. The other is the high-pressure test in which helium is pumped through the system to see if gas leaks out.
+Any significant leaks will interrupt the tight choreography of the spacecraft's assembly and testing schedule, less than a year away from launch time.
+"We are physically putting the spacecraft together. We are the end of the line," Barajas said, trying to explain the serious atmosphere in the room. "It's up to us to verify that the parts we have been sent are working the way they should. Humans aren't infallible. We're always looking over each other's shoulder to make sure we're doing the job right."
+"I think that's where the stress comes from, right? That we feel the pressure and the burden of building this vehicle that has been the life's work of some and years of work for many others."
+1 p.m.
+It's lunchtime. You might think that the pressure of tight deadlines would cause Barajas and others on the project to push through to stay on schedule. Bad idea, Barajas said.
+"We always make time for lunch," he said. "What we don't want is to have hungry people on the floor. Sometimes we cycle people in and out so that the work can continue. Other times we just take a 45-minute break, so the folks can stay focused on the floor when we are having a long day like this."
+2 p.m.
+Barajas steps out of the clean room to catch up with phone calls and email.
+"In my particular role, the brunt of the day is a lot of behind-the-scenes work," Barajas said. "To keep things moving, looking ahead to the next job."
+There's the occasional startling interruption of tour guides speaking in the hall outside his office as they lead groups through JPL's Spacecraft Assembly Facility. The main attraction is the window into the clean room, where tours can see the spacecraft itself.
+"There's a constant stream of tours during the day. It's like working in a fishbowl," Barajas laughs.
+3 p.m.
+The work day comes to the 3 p.m. change of shift. But Barajas isn't knocking off; he's back to the clean room as testing continues. Barajas needs to make sure that the second shift is able to pick up where the first shift left off.
+4 p.m.
+The tests are done and the teams determine that there were no leaks. But there isn't even the briefest of celebrations for this achievement.
+"We've got so much still to do. Interim steps don't really get much of a response from us," Barajas said.
+Barajas and colleagues turn their focus to the next few days, when they will fill the system with freon and then close the spacecraft's aluminum vault for good.
+"That will be a milestone, not just for us, but for the whole project," he said.
+That might even get a high-five.
+
+												  2024 Los Angeles Times.
+Distributed by Tribune Content Agency, LLC.
+
+Distributed by Tribune Content Agency, LLC.
+Explore further
+Facebook
+Twitter
+Email
+ Feedback to editors
+15 hours ago
+0
+16 hours ago
+0
+17 hours ago
+0
+May 2, 2025
+0
+May 2, 2025
+0
+5 hours ago
+5 hours ago
+14 hours ago
+15 hours ago
+16 hours ago
+17 hours ago
+May 2, 2025
+May 2, 2025
+May 2, 2025
+May 2, 2025
+Apr 29, 2025
+Apr 28, 2025
+Apr 26, 2025
+Apr 25, 2025
+Apr 24, 2025
+Apr 24, 2025
+
+							More from Astronomy and Astrophysics
+
+May 2, 2023
+Jan 30, 2024
+Nov 13, 2023
+Aug 16, 2022
+Oct 24, 2023
+Nov 23, 2022
+Apr 30, 2025
+Apr 29, 2025
+Apr 28, 2025
+Apr 28, 2025
+Apr 25, 2025
+Apr 25, 2025
+
+
+								This summary was automatically generated using LLM. 
+								Full disclaimer
+
+
+
+											Use this form if you have come across a typo, inaccuracy or would like to send an edit request for the content on this page.
+											For general inquiries, please use our  contact form.
+											For general feedback, use the public comments section below (please adhere to guidelines).
+										
+Please select the most appropriate category to facilitate processing of your request
+Thank you for taking time to provide your feedback to the editors.
+Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages. 
+
+                                            Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose.
+											The information you enter will appear in your e-mail message and is not retained by Phys.org in any form. 
+                                        
+
+					Get weekly and/or daily updates delivered to your inbox.
+					You can unsubscribe at any time and we'll never share your details to third parties.
+				
+
+More information
+Privacy policy
+
+
+                    We keep our content available to everyone.
+                    Consider supporting Science X's mission by getting a premium account.
+				
+Medical research advances and health news
+The latest engineering, electronics and technology advances
+The most comprehensive sci-tech news coverage on the web

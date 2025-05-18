@@ -1,0 +1,228 @@
+By A Midwestern Doctor The Forgotten Side of Medicine
+June 15, 2024
+Many medical problems stem from the diagnostic approach of physicians, especially with complex illnesses, which are often misdiagnosed and lead to ongoing patient struggles.
+Complex conditions can present with varied symptoms across patients and resemble other illnesses (e.g., fibromyalgia vs. chronic fatigue syndrome). In turn, poorly trained physicians often default to psychiatric explanations, overlooking the true causes.
+Vaccine injuries have a wide range of symptoms and hence have confused doctors for over 200 years (with many doctors in the past labeling them as “encephalitis”).1 Presently, I believe three main mechanisms underlie the myriad of vaccine injury:
+
+Herbal Antivirals: Hea...
+Jones, Mary
+Buy New $13.99
+(as of 06:46 UTC - Details)
+
+
+1.Immune dysfunction — Vaccines frequently cause chronic autoimmune disorders and varying degrees of immune suppression.
+2.Cell danger response — Cells can enter a primitive state under threat,2 stopping normal mitochondrial function. This temporary state can become chronic, underlying many severe conditions. Treating this response has resolved conditions linked to vaccination, like autism.
+3.Impaired circulation — Vaccines can impair fluid circulation by affecting the body’s zeta potential. This causes fluid clumping (i.e. micro blood clots and blood thickening) and obstructs blood flow in capillaries.
+My focus was drawn to the zeta potential concept once I realized that many of the mysteries of COVID-19 (and later the COVID-19 vaccines) were due to the spike protein being extremely disruptive to the body’s zeta potential. I now believe that patient outcomes would significantly improve if the medical system prioritized the zeta potential.
+Andrew Moulden
+Andrew Moulden3 was a Canadian neuroscientist and doctor specializing in neuropsychiatry. During his clinical training, he noticed young children showing subtle neurological signs of strokes that his colleagues missed. Over time, he found these strokes often occurred soon after vaccination and could lead to severe neurological disorders like autism.
+Note: Vaccine injury reports as far back as the early 1800s contain the same signs Moulden noticed.4
+Moulden realized that the subtle stroke signs doctors look for in adults should also be assessed in children. Because these strokes in infants are often missed, many conditions are misdiagnosed or attributed to unknown causes. One scientific challenge is making “invisible” issues visible. In neurology, disruptions in brain function, often due to impaired blood flow, can reveal stroke locations through careful physical examination.
+Moulden found that cranial nerves in the brainstem, particularly in watershed areas with less redundant blood supply, were vulnerable to strokes. These strokes, caused by impaired blood flow, often due to increased blood thickness, were missed in infants, leading to conditions misdiagnosed or attributed to unknown causes. Key cranial nerves indicating vaccine-caused microstrokes include:
+• Cranial Nerve VI5 — Controls eye movement; damage causes inward eye resting or jerky side-to-side movement.
+Note: We’ve found CN VI is the nerve most frequently affected by COVID-19 injuries.
+• Cranial Nerve VII6 — Controls facial muscles; damage causes Bell’s palsy,7 facial drooping, or asymmetry (e.g., this appeared to have happened to Justin Bieber).8
+• Cranial Nerve IV9 — Levels eyes; damage causes head tilting to compensate for uneven eye height.
+Note: Often, you will see multiple cranial nerve issues on the same face (which suggests more parts of the brain lost their blood supply and hence that deeper neurological damage is also present).
+Once you know how to look for these symptoms (e.g., a loss of smooth eye motion), they are very easy to spot, and you will gradually become aware of how far reaching the neurological damage that results from vaccination can be (as any part of the brain can be affected).
+Moulden’s work also suggested strokes were also occurring in other watershed areas of the body, such as internal organs and speech centers. Evidence included:
+
+Autopsy studies showing strokes in internal organs of children with congenital rubella.
+Similar disease processes in teenagers and adults after HPV or anthrax vaccination.
+One of the most striking examples was the children of soldiers who received the anthrax vaccine10 and were born without limbs11 (thalidomide was also notorious for doing this by blocking the formation of new blood vessels).12
+Neurodegenerative processes in the elderly13 and psychiatric disorders being linked to cranial nerve damage.
+
+Note: A major issue in conventional medicine is the failure to recognize that neurological damage can lead to psychiatric issues.14 Consequently, emotional changes in patients with nervous system injuries are often misattributed as the cause rather than a symptom of their illness.
+Moulden thus began exploring what universal response was leading to these microstrokes and how they could be treated. From this, he produced three videos describing the problem (which can be viewed here). Unfortunately, shortly before releasing a second series on the solutions for these injuries, he died under suspicious circumstances. However, we now have many clues as to what Moulden discovered.
+Blood Sludging
+In the medical world, a long-standing puzzle revolves around how small insults to the body can lead to widespread illness or even death. One key factor in this equation is blood sludging, a phenomenon observed for centuries where the blood clumps together and thickens under certain disease conditions. Melvin Knisely, Ph.D.,15 in the mid-20th century made critical discoveries about this phenomenon.
+Knisely’s research, particularly with malaria-infected monkeys, revealed that certain severe illnesses could trigger significant blood sludging,16 starting in small vessels and eventually spreading to larger ones, which was typically fatal (unless prevented with the anticoagulant heparin). This thickening of blood can be likened to traffic jams, disrupting the body’s natural blood-flow, and eventually leading to gridlock (death).
+Additionally, he discovered that this sludging could be seen externally through the eyes, providing a non-invasive way to assess this process throughout the body.
+From this, he discovered the greatest blood sludging was seen in critically ill hospital patients — something Pierre Kory MD also observed with point-of-care ultrasound, as once micro clots within the IVC17 became echogenic (visible), patients died shortly after.
+Knisely’s grading scale for blood sludging severity correlated with disease prognosis, highlighting its clinical significance.
+After learning of this, we attempted to replicate Knisely’s microscope and have been able to see the same sludging he observed 80 years ago in his patients. This video, for example was taken from the eyes of a COVID-19 vaccine-injured patient:
+
+Video Link
+Zeta Potential
+When particles are placed in water, one of three things can happen:
+
+They don’t mix (e.g., oil floats to the top, sand sinks to the bottom).
+They dissolve (e.g., salt).
+They form a colloidal suspension (e.g., milk) in which each particle is repelled from the other and evenly distributed.
+
+In the case of colloidal suspensions, their stability is determined by what causes their particles to come together (gravity separating things by weight, the inherent molecular attraction between objects),18 and what pushes them apart.
+
+The first method (zeta potential) refers to the charge difference between the water ions (that coat the charged ions) and the charge of the surrounding water.
+
+Because electrical repulsion due to zeta potential is easier to control, it is typically the factor focused on when trying to improve colloidal dispersion (e.g., to eliminate blood sludging).
+One of the most effective agents for reducing zeta potential is aluminum (which explains why it’s frequently used to separate organic matter from water in sewage plants or to clot wounds). Moulden thus concluded aluminum’s widespread use in vaccines likely accounted for many of their side effects. Similarly, consider the effect the COVID-19 vaccine’s spike protein has on the blood.19
+
+The key thing to understand about zeta potential is that when its repulsion no longer suffices to overcome the attractive forces in a colloidal system, it will clump together, initially in small clumps (termed agglomerations), and then as the zeta potential worsens, form larger clumps.
+Note: The normal zeta potential of a red blood cell is around -15.7 millivolts.20 Additionally, as red blood cells age, they lose their negatively charged sialic acid,21 which worsens their zeta potential.
+
+Thomas Riddick, a pioneer in this field,22 discovered that the body maintains blood zeta potential near the agglomeration threshold so it can clot in case of bleeding.
+With further study, Riddick found the degree of blood sludging or loss of physiologic zeta potential significantly varied from person to person (due to modern life disrupting it), and Knisely’s grading scale for blood flow in the eyes could be used to accurately predict who was at risk of an arrhythmia, a stroke, or a fatal heart attack.
+Most importantly, Riddick discovered that once the colloidal dispersion of the blood was fixed, heart arrhythmias normalized and circulatory problems greatly improved. For reference, this is the scale Knisely and Riddick (and now us) used to evaluate blood flow in the eyes.
+
+Note: I believe Knisely’s observations of profound blood sludging in the eyes of severely ill hospital patients account for why IV saline (which improves zeta potential) so frequently benefits people who are sick enough to require hospitalization.
+Likewise, Knisely also observed that certain agents, such as hydroxychloroquine, reversed blood sludging. This led him to suspect a significant degree of the anti-malarial benefit of hydroxychloroquine actually arose from it reducing blood sludging; I also suspect this property may account for hydroxychloroquine’s value in treating autoimmune conditions and COVID-19 (both conditions linked to poor zeta potential).
+Riddick gradually discovered blood sludging was widespread in America and eventually concluded our food and water supply were contaminated with positive ions that were destructive to zeta potential. He attributed this to:
+Potassium being replaced by sodium in processed foods.
+Aluminum being used in municipal water systems.
+Aluminum kitchenware.
+Aluminum being added to many foods (e.g. most salt has aluminum added to keep it from caking).
+Many medications (e.g., antacids) are full of aluminum and other problematic metals.
+Many foods are stored in metal cans (acidic foods leach these metals).
+Riddick also performed experiments that showed consuming water stored in aluminum significantly impaired microcirculation. Sadly, we are now witnessing a trend of storing water in aluminum cans. For this reason, I will never drink anything from an aluminum can (fortunately, a few zeta-potential restoring bottled water brands still exist).
+Note: The first head of the FDA fought to stop aluminum from entering general use but was muscled out by industry.23
+Lastly, in addition to these, I also believe vaccines, EMFs, certain chronic infections, and humans no longer being electrically grounded to the Earth24 are significantly impairing humanity’s zeta potential.
+Note: As mentioned above, a case can also be made impaired zeta potential creates autoimmunity (e.g., aluminum causes both, and Chinese medicine believes blood stasis leads to autoimmunity).
+Vaccines, Microbes and Zeta Potential
+Riddick also concluded that bacterial metabolism of proteins lowers their zeta potential by decarboxylating them. Many sewage treatment systems (e.g., septic tanks) work under this principle, as over time, decarboxylation (which removes negative charges) destroys the colloidal stability of the organic matter suspended in wastewater, causing it to sludge at the bottom.
+Riddick next assessed how zeta potential changed in humans during acute infections. Much like Knisely had observed in the eyes of his acutely ill patients, Riddick consistently observed a decrease in physiologic zeta potential during an infectious condition.
+
+Water Purification Off...
+Redwood, Harrison
+Buy New $18.97
+(as of 09:32 UTC - Details)
+
+
+These observations were important because they provided a means to explain why the elderly (who cannot tolerate a further drop in their zeta potential) are so much more vulnerable to infections like influenza. Sadly, it also likely explains their greater susceptibility to vaccine injuries (e.g., I once admitted a patient to the hospital who suffered a classic zeta-potential collapse from a pneumococcal vaccine).
+Lastly, many microbes carry positive charges, which allow them to adhere to the negatively charged surfaces of the body. These hence cause them to disrupt zeta potential once they’ve sufficiently reproduced in the body.
+This is a major problem in Lyme disease and chronic mold toxicity, which in part explains why therapies for those diseases often fail unless something (e.g., treating zeta potential) is also done to address the fluid stagnation they create (particularly within the lymphatics).
+Fortunately, there are many ways to address this. Ozone, for instance oxidizes those charges, and I believe this accounts for the dramatic improvements sometimes observed after one receives an oxidative therapy.
+Similarly, a 2022 paper25 that showed the spike protein directly impaired blood cell zeta potential also found that ivermectin dispersed blood cells the spike protein had clumped together (which may explain the instantaneous normalization of vital signs sometimes seen after ivermectin is given to severely ill hospital patients).
+Protein Misfolding
+Since folded proteins are essentially colloidal suspensions, ions that disrupt zeta potential can also cause protein misfolding and denaturing (something that also happens to egg whites when they are heated in a pan). I believe this is a key reason why the plaques found in Alzheimer’s disease (which are misfolded proteins) are found to contain aluminum.26,27
+Note: Since the clearance of Alzheimer’s plaques depends upon the brain’s glymphatic system,28 it is also possible that the improvement in cognitive decline that is frequently seen after improving zeta potential is due to improved cranial blood flow or cranial venous and lymphatic drainage.
+Likewise, the COVID spike protein (produced by the vaccines) has been linked to protein misfolding diseases such as CJD, amyloidosis, and unusual fibrous29 (amyloid) clots embalmers have found within the vaccinated, which appear to result from misfolded blood proteins the body can’t break down.
+Conclusion
+Healthy fluid circulation is essential for health, and the zeta potential concept begins to explain why so many different conditions can lead to similar symptomatology. In the case of vaccines, this model explains why:
+
+Vaccines consistently cause harm.
+There is so much variability in vaccine injuries.
+Vaccine damage is cumulative, as existing impairment of the microcirculation (and other fluid circulations) will progressively worsen with each successive vaccine.
+Many infectious diseases can sometimes cause similar (but not as severe) injuries as vaccines.
+
+The zeta potential concept profoundly changed my medical practice, and I now believe that many effective holistic therapies (e.g., EDTA chelation) work in part because they can restore physiologic zeta potential. Thank you for reading, and I sincerely hope the knowledge here can benefit you in the same way it has many of our patients.
+Author’s note: This is an abbreviated version of a full-length article. For the entire read with much more specific details and sources, please click here.
+Sources and References
+
+1 The Forgotten Side of Medicine, May 10, 2024
+2 The Forgotten Side of Medicine, June 24, 2024
+3 The Forgotten Side of Medicine, March 31, 2024
+4 The Forgotten Side of Medicine, July 24, 2023
+5 Wikipedia, Abducens nerve
+6 Wikipedia, Facial nerve
+7 Wikipedia, Bell’s palsy
+8 The Forgotten Side of Medicine, June 15, 2022
+9 Wikipedia, Trochlear nerve
+10 The Forgotten Side of Medicine, February 16, 2023
+11 Children’s Health Defense, November 9, 2020
+12 Wikipedia, Thalidomide
+13 The Forgotten Side of Medicine, July 20, 2023
+14 The Forgotten Side of Medicine, December 22, 2023
+15 Wikipedia, Melvin H. Knisely
+16 Angiology, 1964 Sep;15:411-6
+17 Wikipedia, Inferior vena cava
+18 Wikipedia, Van der Waals force
+19 International Journal of Vaccine Theory, Practice, and Research, 2022;2:2
+20 Exp Parasitol. 2012 Jun;131(2):245-51
+21 Biologia, 2013;68:762–765
+22 Journal Awwa, 1961, Aug;53:8
+23 Harvey W. Wiley, 1929 (Archived)
+24 Earthing, 2019, November
+25 International Journal of Molecular Science, 2022 Dec; 23(24): 15480
+26 Journal of Alzheimer’s Disease, 2011;23(4):567-98
+27 Journal of Alzheimer’s Disease, 2020;73(4):1627-1635
+28 Wikipedia, Glymphatic system
+29 Bioscience Reports 2021 Aug 27;41(8):BSR20210611
+
+
+Many medical problems stem from the diagnostic approach of physicians, especially with complex illnesses, which are often misdiagnosed and lead to ongoing patient struggles.
+Complex conditions can present with varied symptoms across patients and resemble other illnesses (e.g., fibromyalgia vs. chronic fatigue syndrome). In turn, poorly trained physicians often default to psychiatric explanations, overlooking the true causes.
+Vaccine injuries have a wide range of symptoms and hence have confused doctors for over 200 years (with many doctors in the past labeling them as “encephalitis”).1 Presently, I believe three main mechanisms underlie the myriad of vaccine injury:
+
+Herbal Antivirals: Hea...
+Jones, Mary
+Buy New $13.99
+(as of 06:46 UTC - Details)
+
+
+1.Immune dysfunction — Vaccines frequently cause chronic autoimmune disorders and varying degrees of immune suppression.
+2.Cell danger response — Cells can enter a primitive state under threat,2 stopping normal mitochondrial function. This temporary state can become chronic, underlying many severe conditions. Treating this response has resolved conditions linked to vaccination, like autism.
+3.Impaired circulation — Vaccines can impair fluid circulation by affecting the body’s zeta potential. This causes fluid clumping (i.e. micro blood clots and blood thickening) and obstructs blood flow in capillaries.
+My focus was drawn to the zeta potential concept once I realized that many of the mysteries of COVID-19 (and later the COVID-19 vaccines) were due to the spike protein being extremely disruptive to the body’s zeta potential. I now believe that patient outcomes would significantly improve if the medical system prioritized the zeta potential.
+Andrew Moulden
+Andrew Moulden3 was a Canadian neuroscientist and doctor specializing in neuropsychiatry. During his clinical training, he noticed young children showing subtle neurological signs of strokes that his colleagues missed. Over time, he found these strokes often occurred soon after vaccination and could lead to severe neurological disorders like autism.
+Note: Vaccine injury reports as far back as the early 1800s contain the same signs Moulden noticed.4
+Moulden realized that the subtle stroke signs doctors look for in adults should also be assessed in children. Because these strokes in infants are often missed, many conditions are misdiagnosed or attributed to unknown causes. One scientific challenge is making “invisible” issues visible. In neurology, disruptions in brain function, often due to impaired blood flow, can reveal stroke locations through careful physical examination.
+Moulden found that cranial nerves in the brainstem, particularly in watershed areas with less redundant blood supply, were vulnerable to strokes. These strokes, caused by impaired blood flow, often due to increased blood thickness, were missed in infants, leading to conditions misdiagnosed or attributed to unknown causes. Key cranial nerves indicating vaccine-caused microstrokes include:
+• Cranial Nerve VI5 — Controls eye movement; damage causes inward eye resting or jerky side-to-side movement.
+Note: We’ve found CN VI is the nerve most frequently affected by COVID-19 injuries.
+• Cranial Nerve VII6 — Controls facial muscles; damage causes Bell’s palsy,7 facial drooping, or asymmetry (e.g., this appeared to have happened to Justin Bieber).8
+• Cranial Nerve IV9 — Levels eyes; damage causes head tilting to compensate for uneven eye height.
+Note: Often, you will see multiple cranial nerve issues on the same face (which suggests more parts of the brain lost their blood supply and hence that deeper neurological damage is also present).
+Once you know how to look for these symptoms (e.g., a loss of smooth eye motion), they are very easy to spot, and you will gradually become aware of how far reaching the neurological damage that results from vaccination can be (as any part of the brain can be affected).
+Moulden’s work also suggested strokes were also occurring in other watershed areas of the body, such as internal organs and speech centers. Evidence included:
+Note: A major issue in conventional medicine is the failure to recognize that neurological damage can lead to psychiatric issues.14 Consequently, emotional changes in patients with nervous system injuries are often misattributed as the cause rather than a symptom of their illness.
+Moulden thus began exploring what universal response was leading to these microstrokes and how they could be treated. From this, he produced three videos describing the problem (which can be viewed here). Unfortunately, shortly before releasing a second series on the solutions for these injuries, he died under suspicious circumstances. However, we now have many clues as to what Moulden discovered.
+Blood Sludging
+In the medical world, a long-standing puzzle revolves around how small insults to the body can lead to widespread illness or even death. One key factor in this equation is blood sludging, a phenomenon observed for centuries where the blood clumps together and thickens under certain disease conditions. Melvin Knisely, Ph.D.,15 in the mid-20th century made critical discoveries about this phenomenon.
+Knisely’s research, particularly with malaria-infected monkeys, revealed that certain severe illnesses could trigger significant blood sludging,16 starting in small vessels and eventually spreading to larger ones, which was typically fatal (unless prevented with the anticoagulant heparin). This thickening of blood can be likened to traffic jams, disrupting the body’s natural blood-flow, and eventually leading to gridlock (death).
+Additionally, he discovered that this sludging could be seen externally through the eyes, providing a non-invasive way to assess this process throughout the body.
+From this, he discovered the greatest blood sludging was seen in critically ill hospital patients — something Pierre Kory MD also observed with point-of-care ultrasound, as once micro clots within the IVC17 became echogenic (visible), patients died shortly after.
+Knisely’s grading scale for blood sludging severity correlated with disease prognosis, highlighting its clinical significance.
+After learning of this, we attempted to replicate Knisely’s microscope and have been able to see the same sludging he observed 80 years ago in his patients. This video, for example was taken from the eyes of a COVID-19 vaccine-injured patient:
+Video Link
+Zeta Potential
+When particles are placed in water, one of three things can happen:
+In the case of colloidal suspensions, their stability is determined by what causes their particles to come together (gravity separating things by weight, the inherent molecular attraction between objects),18 and what pushes them apart.
+The first method (zeta potential) refers to the charge difference between the water ions (that coat the charged ions) and the charge of the surrounding water.
+Because electrical repulsion due to zeta potential is easier to control, it is typically the factor focused on when trying to improve colloidal dispersion (e.g., to eliminate blood sludging).
+One of the most effective agents for reducing zeta potential is aluminum (which explains why it’s frequently used to separate organic matter from water in sewage plants or to clot wounds). Moulden thus concluded aluminum’s widespread use in vaccines likely accounted for many of their side effects. Similarly, consider the effect the COVID-19 vaccine’s spike protein has on the blood.19
+The key thing to understand about zeta potential is that when its repulsion no longer suffices to overcome the attractive forces in a colloidal system, it will clump together, initially in small clumps (termed agglomerations), and then as the zeta potential worsens, form larger clumps.
+Note: The normal zeta potential of a red blood cell is around -15.7 millivolts.20 Additionally, as red blood cells age, they lose their negatively charged sialic acid,21 which worsens their zeta potential.
+Thomas Riddick, a pioneer in this field,22 discovered that the body maintains blood zeta potential near the agglomeration threshold so it can clot in case of bleeding.
+With further study, Riddick found the degree of blood sludging or loss of physiologic zeta potential significantly varied from person to person (due to modern life disrupting it), and Knisely’s grading scale for blood flow in the eyes could be used to accurately predict who was at risk of an arrhythmia, a stroke, or a fatal heart attack.
+Most importantly, Riddick discovered that once the colloidal dispersion of the blood was fixed, heart arrhythmias normalized and circulatory problems greatly improved. For reference, this is the scale Knisely and Riddick (and now us) used to evaluate blood flow in the eyes.
+Note: I believe Knisely’s observations of profound blood sludging in the eyes of severely ill hospital patients account for why IV saline (which improves zeta potential) so frequently benefits people who are sick enough to require hospitalization.
+Likewise, Knisely also observed that certain agents, such as hydroxychloroquine, reversed blood sludging. This led him to suspect a significant degree of the anti-malarial benefit of hydroxychloroquine actually arose from it reducing blood sludging; I also suspect this property may account for hydroxychloroquine’s value in treating autoimmune conditions and COVID-19 (both conditions linked to poor zeta potential).
+Riddick gradually discovered blood sludging was widespread in America and eventually concluded our food and water supply were contaminated with positive ions that were destructive to zeta potential. He attributed this to:
+Potassium being replaced by sodium in processed foods.
+Aluminum being used in municipal water systems.
+Aluminum kitchenware.
+Aluminum being added to many foods (e.g. most salt has aluminum added to keep it from caking).
+Many medications (e.g., antacids) are full of aluminum and other problematic metals.
+Many foods are stored in metal cans (acidic foods leach these metals).
+Riddick also performed experiments that showed consuming water stored in aluminum significantly impaired microcirculation. Sadly, we are now witnessing a trend of storing water in aluminum cans. For this reason, I will never drink anything from an aluminum can (fortunately, a few zeta-potential restoring bottled water brands still exist).
+Note: The first head of the FDA fought to stop aluminum from entering general use but was muscled out by industry.23
+Lastly, in addition to these, I also believe vaccines, EMFs, certain chronic infections, and humans no longer being electrically grounded to the Earth24 are significantly impairing humanity’s zeta potential.
+Note: As mentioned above, a case can also be made impaired zeta potential creates autoimmunity (e.g., aluminum causes both, and Chinese medicine believes blood stasis leads to autoimmunity).
+Vaccines, Microbes and Zeta Potential
+Riddick also concluded that bacterial metabolism of proteins lowers their zeta potential by decarboxylating them. Many sewage treatment systems (e.g., septic tanks) work under this principle, as over time, decarboxylation (which removes negative charges) destroys the colloidal stability of the organic matter suspended in wastewater, causing it to sludge at the bottom.
+Riddick next assessed how zeta potential changed in humans during acute infections. Much like Knisely had observed in the eyes of his acutely ill patients, Riddick consistently observed a decrease in physiologic zeta potential during an infectious condition.
+
+Water Purification Off...
+Redwood, Harrison
+Buy New $18.97
+(as of 09:32 UTC - Details)
+
+
+These observations were important because they provided a means to explain why the elderly (who cannot tolerate a further drop in their zeta potential) are so much more vulnerable to infections like influenza. Sadly, it also likely explains their greater susceptibility to vaccine injuries (e.g., I once admitted a patient to the hospital who suffered a classic zeta-potential collapse from a pneumococcal vaccine).
+Lastly, many microbes carry positive charges, which allow them to adhere to the negatively charged surfaces of the body. These hence cause them to disrupt zeta potential once they’ve sufficiently reproduced in the body.
+This is a major problem in Lyme disease and chronic mold toxicity, which in part explains why therapies for those diseases often fail unless something (e.g., treating zeta potential) is also done to address the fluid stagnation they create (particularly within the lymphatics).
+Fortunately, there are many ways to address this. Ozone, for instance oxidizes those charges, and I believe this accounts for the dramatic improvements sometimes observed after one receives an oxidative therapy.
+Similarly, a 2022 paper25 that showed the spike protein directly impaired blood cell zeta potential also found that ivermectin dispersed blood cells the spike protein had clumped together (which may explain the instantaneous normalization of vital signs sometimes seen after ivermectin is given to severely ill hospital patients).
+Protein Misfolding
+Since folded proteins are essentially colloidal suspensions, ions that disrupt zeta potential can also cause protein misfolding and denaturing (something that also happens to egg whites when they are heated in a pan). I believe this is a key reason why the plaques found in Alzheimer’s disease (which are misfolded proteins) are found to contain aluminum.26,27
+Note: Since the clearance of Alzheimer’s plaques depends upon the brain’s glymphatic system,28 it is also possible that the improvement in cognitive decline that is frequently seen after improving zeta potential is due to improved cranial blood flow or cranial venous and lymphatic drainage.
+Likewise, the COVID spike protein (produced by the vaccines) has been linked to protein misfolding diseases such as CJD, amyloidosis, and unusual fibrous29 (amyloid) clots embalmers have found within the vaccinated, which appear to result from misfolded blood proteins the body can’t break down.
+Conclusion
+Healthy fluid circulation is essential for health, and the zeta potential concept begins to explain why so many different conditions can lead to similar symptomatology. In the case of vaccines, this model explains why:
+The zeta potential concept profoundly changed my medical practice, and I now believe that many effective holistic therapies (e.g., EDTA chelation) work in part because they can restore physiologic zeta potential. Thank you for reading, and I sincerely hope the knowledge here can benefit you in the same way it has many of our patients.
+Author’s note: This is an abbreviated version of a full-length article. For the entire read with much more specific details and sources, please click here.
+Sources and References
+Tags:
+
+Copyright © A Midwestern Doctor

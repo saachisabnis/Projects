@@ -1,0 +1,42 @@
+Advertisement
+
+                June 28, 2024 | 8 min read
+            
+
+
+                        Listen to article
+                    
+4 min
+
+Also, Apple reportedly spurned Microsoft’s overtures for a potential partnership earlier this year.
+Newly appointed Stability AI CEO Prem Akkaraju speaking at Mobile World Congress in Barcelona, 2022. / Stability AI
+Stability AI, the company behind the image-generating AI model Stable Diffusion, announced Tuesday that it had secured “significant” funding from a cohort of high-profile investors, including Napster founder Sean Parker and former Google CEO Eric Schmidt. The exact dollar amount of the investment has not been disclosed. 
+The company also announced that Prem Akkaraju, previously CEO of visual effects company Wētā FX, has been appointed CEO.
+Stability AI has some big news….
+We’re delighted to have secured significant investment from a world-class investor group including top-tier institutions such as @greycroftvc, @coatuemgmt, @sound_ventures_, @lightspeedvp, @osventuresllc, and renowned operators and tech… pic.twitter.com/CN9PMfGxTp
+— Stability AI (@StabilityAI) June 25, 2024
+Stability cofounder Emad Mostaque stepped down from the role as CEO earlier this year after leading the company into financial difficulties, prompting some employees to leave and investors to clamor for change. The Wall Street Journal reported that the cohort of new investors has struck a deal with suppliers to forgive as much as $100m in unpaid bills and around $300m in future costs (most of which were destined for cloud computing services).
+Last year, Stability AI was targeted by another lawsuit filed by artists who claim that their work was stolen to train Stable Diffusion.
+A cohort of industry-leading record labels have teamed up to sue Suno and Uncharted Labs, two AI companies that have launched their own music-generating models.
+The lawsuits, filed in federal courts in Massachusetts and New York on Monday, allege that the AI companies knowingly used copyrighted materials without permission to train their models. The list of plaintiffs includes Universal Music Group, Warner Music Group and Sony Music Entertainment.
+“As more powerful and sophisticated AI tools emerge, the ability for AI to weave itself into the processes of music creation, production, and distribution grows,” the lawsuit against Suno reads. “If developed with the permission and participation of copyright owners, generative AI tools will be able to assist humans in creating and producing new and innovative music. But if developed irresponsibly, without regard for fundamental copyright protections, those same tools threaten enduring and irreparable harm to recording artists, record labels, and the music industry, inevitably reducing the quality of new music available to consumers and diminishing our shared culture.“ 
+In April, hundreds of musicians – including Billie Eilish, Sheryl Crow and Katy Perry – signed an open letter calling for artist protections amid the proliferation of generative AI models.
+Advertisement
+Bloomberg reported on Monday that Apple had in March briefly been in talks with Meta regarding a potential integration of the Llama chatbot into the iPhone but rejected the Facebook parent company’s offer months ago.
+Apple reportedly decided not to proceed with an integration of Llama because it considered Meta’s privacy policies insufficiently ironclad.
+During its annual Worldwide Developers Conference (WWDC) earlier this month, Apple announced a new partnership with OpenAI that would include the deployment of a free version of ChatGPT into Apple devices.
+Apple has also been in talks with Google, Anthropic and Perplexity about potential partnerships, according to The Wall Street Journal.
+Advertisement
+Retail giant Toys R Us released a new brand film created entirely by Sora, a text-to-video AI model launched earlier this year by OpenAI.
+The one-minute film depicts a young Charles Lazarus, the founder of Toys R Us, as he drifts off to sleep and dreams of brand mascot Geoffrey the Giraffe, who proceeds to guide him through a fantasy realm of toys. It was developed by Toys R Us Studios – the brand’s entertainment arm – and marketing agency Native Foreign.
+Reception, however, has not been glowing. Many consumers took to social media to thrash the new AI-generated film. “Love this commercial is like, ‘Toys R Us started with the dream of a little boy who wanted to share his imagination with the world,’” comedian Mike Drucker wrote in an X post. “‘And to show how, we fired our artists and dried Lake Superior using a server farm to generate what that would look like in Stephen King’s nightmares.’”
+Catch up on the most important stories of the day, curated by our editorial team.
+Stay up to date with a curated digest of the most important marketing stories and expert insights from our global team.
+Learn how to pitch to our editors and get published on The Drum.
+On Wednesday, NBCUniversal and streaming platform Peacock announced Your Daily Olympic Recap, a personalizable highlight reel of events from the upcoming Summer Olympics narrated by an AI-generated version of the voice of legendary American sports announcer Al Michaels. 
+According to NBCUniversal, the AI version of Michael’s voice “was trained using his past appearances on NBC and matches his signature expertise and elocution.”
+The Recap feature “is tailored to the Olympics fan on-the-go,” the company added, and will be available to Peacock subscribers beginning July 27, one day after the start of the games in Paris.
+For more on the latest happenings in AI, web3 and other cutting-edge technologies, sign up for The Emerging Tech Briefing newsletter.
+Marketing can change the world.
+
+        © Carnyx Group Ltd 2025 | The Drum is a Registered Trademark and property of Carnyx Group Limited. All rights reserved.

@@ -1,0 +1,22 @@
+TORONTO, March  13, 2024  (GLOBE NEWSWIRE) -- 9thCO Inc., a leading provider of headless CMS implementations, today announced the successful completion of a website upgrade project for Exclaim! Media, a major player in Canada’s entertainment industry, currently celebrating its 32nd anniversary. The new website, exclaim.ca, leverages cutting-edge composable architecture, powered by a headless CMS and Next.js, to deliver a significantly improved user experience, enhanced flexibility, and future-proof scalability.
+Legacy Technology Ran Its Course
+Prior to the upgrade, Exclaim's website was built on a traditional platform that limited its ability to adapt to changing user needs and market trends.
+Composable Architecture to the Rescue
+9thCO partnered with Exclaim! to replatform the website to a modern, composable architecture. This approach utilizes a headless CMS, which decouples the content management system from the front-end presentation layer. This allows for greater flexibility and customization, as content can be easily delivered to any device or platform through APIs.
+		
+The new website is built with Next.js, a popular web development framework that offers improved performance and SEO. This combination of technologies provides Exclaim! with a number of key benefits:
+Quote from Justin Cook, President of 9thCO:
+"We are thrilled to have partnered with Exclaim! on this digital transformative project," said Justin Cook, President of 9thCO. "The new website is a testament to the power of composable architecture and the benefits it can deliver to modern businesses. This upgrade will empower Exclaim! to continue delivering exceptional content and experiences to their audience for years to come."
+Quote from Ian Danzig, President at Exclaim! Media:
+"We are incredibly pleased with the results of this project," said Ian Danzig, President at Exclaim! Media. "9thCO truly understood our needs and delivered a digital environment that is not only beautiful and functional, but also positions us for future growth. We're excited to introduce the brand new exclaim.ca, fully replatformed using the latest cutting-edge publishing engine and the same tech architecture employed by The Washington Post and Vox Media. Users can expect fast content delivery, leveraging the latest in distributed front-end cloud hosting. This is the first in a series of new digital platforms we will be launching with a focus on customized, dynamic omni-channel content.”
+		
+About 9thCO
+9thCO is a leading provider of headless CMS implementations, having grown from its roots as a technical SEO firm. Established in 2013, 9thCO helps businesses of all sizes leverage the power of modern technology to create exceptional digital experiences.
+About Exclaim! Media 
+Exclaim! Media is Canada's source for the best in new music, film and comedy. Established in 1991, Exclaim! reaches a national audience through print (Exclaim! Magazine), digital (@exclaimdotca / exclaim.ca) and live event platforms. Exclaim! introduced audiences to the Weeknd, Grimes, Broken Social Scene, Feist, Mac DeMarco and Alvvays long before they achieved international acclaim. Exclaim! is Canada's most trusted voice for music across genres.
+Contact:Justin Cook, President, justin.cook@9thco.com
+		
+Indices
+Commodities
+Currencies
+Stocks

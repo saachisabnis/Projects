@@ -1,0 +1,154 @@
+---
+title: "presentation_code"
+format: html
+editor: visual
+---
+
+
+```{r}
+library(stm)
+library(tm)
+library(dplyr)
+library(stringr)
+library(stm)
+library(tm)
+library(dplyr)
+library(stringr)
+library(stopwords)
+
+# --- Set your path ---
+base_dir <- "filtered_articles_2024"  # Update if needed
+
+# --- Define artist gender map ---
+artist_gender_map <- list(
+  ariana_grande = "female", bad_bunny = "male", benson_boone = "male", beyonce = "female",
+  billie_eilish = "female", bruno_mars = "male", chappell_roan = "female", charli_xcx = "female",
+  drake = "male", gracie_abrams = "female", justin_bieber = "male", kanye_west = "male",
+  kendrick_lamar = "male", lady_gaga = "female", olivia_rodrigo = "female", playboi_carti = "male",
+  post_malone = "male", rihanna = "female", sabrina_carpenter = "female", selena_gomez = "female",
+  sza = "female", taylor_swift = "female", teddy_swims = "male", the_weeknd = "male", travis_scott = "male"
+)
+
+# --- Build custom stopwords ---
+default_stops <- stopwords("en")
+
+artist_names <- unique(unlist(c(
+  names(artist_gender_map),
+  unlist(strsplit(names(artist_gender_map), "_"))
+)))
+
+custom_stops <- c(
+  # Conversational/junk
+  "like", "know", "just", "think", "said", "will", "new", "year", "one", "can", "get", "go", 
+  "show", "time", "share", "say", "even", "make", "way", "look", "really", "also", "got", 
+  "back", "thing", "come", "dont", "im", "youre", "yeah", "okay", "song", "album", "music",
+  "um", "uh", "hmm", "gonna", "didnt", "wont", "cant", "yeahgross", "nogross", "thatgross","like", "yeah", "know", "dont", "really", "got", "say", "said", "just", "one", 
+  "also", "people", "thing", "stuff", "thats", "im", "youre", "think", "get", "see", 
+  "going", "even", "make", "way", "back", "day", "something", "show", "come", 
+  "could", "would", "best", "call", "kind", "well", "that", "’re", "don’t",
+  
+  # Irrelevant names and artist terms
+  "mia", "ria", "bon", "jovi", "taylor", "swift", "beyonce", "drake", "kendrick",
+  "olivia", "rodrigo", "sabrina", "carpenter", "gracie", "abrams", "charli", "xcx", 
+  "billie", "eilish", "ariana", "grande", "lady", "gaga", "bruno", "mars", "the", "weeknd",
+  "travis", "scott", "bad", "bunny", "sza", "post", "malone", "justin", "bieber",
+  
+  # Web/UI boilerplate words
+  "click", "link", "subscribe", "email", "reset", "password", "terms", "privacy", 
+  "policy", "cookies", "instagram", "facebook", "youtube", "twitter", "fan", "love", "share", "comment", "news", "want", "read", "bonita", "perform", "fort", "myer", "napl", "vincent", "story", "movie", "book", "people", "use", "work","state", "report", "well", "pop", "star", "mailon", "instagram", "hailey", "olivi", "fantasia", "almeida", "bonvoy", "bbmas", "barrino", "vic" ,
+  "everything", "bel-air", "fearless”, “rustin", "white", "akram", "barrett-jackson",
+  artist_names
+)
+
+# Combine and deduplicate
+full_stopwords <- unique(tolower(c(default_stops, custom_stops)))
+
+# --- Load and process documents ---
+doc_list <- list()
+meta_list <- list()
+doc_id <- 1
+
+artist_dirs <- list.dirs(base_dir, recursive = FALSE)
+
+for (artist_path in artist_dirs) {
+  artist_name <- basename(artist_path)
+  gender <- artist_gender_map[[artist_name]]
+  txt_files <- list.files(artist_path, pattern = "\\.txt$", full.names = TRUE)
+
+  for (file_path in txt_files) {
+    content <- readLines(file_path, warn = FALSE, encoding = "UTF-8")
+    content <- paste(content, collapse = " ")
+    content <- str_squish(content)
+
+    if (nchar(content) >= 100) {
+      doc_list[[doc_id]] <- content
+      meta_list[[doc_id]] <- data.frame(artist = artist_name, gender = gender, stringsAsFactors = FALSE)
+      doc_id <- doc_id + 1
+    }
+  }
+}
+
+# Combine into final corpus and metadata
+texts <- unlist(doc_list)
+metadata <- do.call(rbind, meta_list)
+
+# STM preprocessing with custom stopwords
+processed <- textProcessor(
+  documents = texts,
+  metadata = metadata,
+  customstopwords = full_stopwords,
+  verbose = FALSE
+)
+
+# Filter out empty docs
+valid <- sapply(processed$documents, length) > 0
+documents_clean <- processed$documents[valid]
+meta_clean <- processed$meta[valid, , drop = FALSE]
+vocab_clean <- processed$vocab
+
+# Final preparation
+out <- prepDocuments(documents_clean, vocab_clean, meta_clean)
+docs <- out$documents
+vocab <- out$vocab
+meta <- out$meta
+
+# Fit STM
+model <- stm(
+  documents = docs,
+  vocab = vocab,
+  K = 10,
+  prevalence = ~ gender,
+  data = meta,
+  max.em.its = 75,
+  init.type = "Spectral"
+)
+
+# Label topics
+labelTopics(model)
+
+# Estimate effects of gender
+effect <- estimateEffect(1:10 ~ gender, stmobj = model, metadata = meta)
+
+# Plot with topic numbers only
+plot(effect,
+     covariate = "gender",
+     method = "difference",
+     cov.value1 = "male",
+     cov.value2 = "female",
+     topics = 1:10,
+     labeltype = "custom",
+     custom.labels = paste("Topic", 1:10),
+     xlab = "Higher in FEMALE ←    → Higher in MALE",
+     main = "Difference in Topic Prevalence by Gender")
+
+```
+
+
+
+```{r}
+#plot(estimate, "gender", method = "difference", cov.value1 = "female", cov.value2 = "male",
+     #topics = 1:10, xlab = "Higher in FEMALE ←  → Higher in MALE",
+     #main = "Difference in Topic Prevalence by Gender", labeltype = "custom", custom.labels = paste("Topic", 1:10))
+
+```
+

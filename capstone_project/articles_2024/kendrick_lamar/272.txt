@@ -1,0 +1,86 @@
+Billboard contacted two companies that specialize in AI detection to see if the rapper's feature on a parody of "Hey There Delilah" is real or AI-generated.
+
+													By
+												
+
+	Kristin Robinson
+
+Senior Writer
+
+	When Snowd4y, a Toronto parody rapper, released the track “Wah Gwan Delilah” featuring Drake via Soundcloud on Monday (June 3), it instantly went viral. 
+
+	“This has to be AI,” one commenter wrote about the song. It was a sentiment shared by many others, particularly given the track’s ridiculous lyrics and the off-kilter audio quality of Drake’s vocals.
+
+	To date, the two rappers have not confirmed or denied the AI rumor. Though Drake posted the track on his Instagram story, it is hardly a confirmation that the vocals in question are AI-free. (As we learned during Drake’s recent beef with Kendrick Lamar, the rapper is not afraid of deep-faking voices).
+
+	
+
+
+
+
+
+
+
+
+
+
+			Trending on Billboard		
+
+
+
+
+
+
+	To try to get to the bottom of the “Wah Gwan Delilah” mystery, Billboard contacted two companies that specialize in AI audio detection to review the track. The answer, unfortunately, was not too satisfying. 
+
+	“Our first analysis reveals SOME traces of [generative] AI, but there seems to be a lot of mix involved,” wrote Romain Simiand, chief product officer of Ircam Amplify, a French company that creates audio tools for rights holders, in an email response.
+
+Larry Mills, senior vp of sales at Pex, which specializes in tracking and monetizing music usage across the web, also found mixed results. He told Billboard the Pex research and development team “ran the song through [their] VoiceID matcher” and that “Drake’s voice on the ‘Wah Gwan Delilah’ verse does not match as closely to Drake’s voice…[as his voice on] official releases [does], but it is close enough to confirm it could be Drake’s own voice or a good AI copy.” Notably, Pex’s VoiceID tool alone is not enough to definitively distinguish between real and AI voices, but its detection of differences between the singer/rapper’s voice on “Wah Gwan Delilah” and his other, officially released songs could indicate some level of AI manipulation. 
+
+	A representative for Drake declined Billboard’s request for comment. 
+
+How to Screen for AI in Songs
+
+	There are multiple types of tools that are currently used to distinguish between AI-generated music and human-made music, but these nascent products are still developing and not definitive. As Pex’s Jakub Galka recently wrote in a company blog post about the topic, “Identifying AI-generated music [is] a particularly difficult task.” 
+
+	
+
+
+
+
+
+
+
+
+
+
+	Some detectors, like Ircam’s, identify AI music using “artifact detection,” meaning they detect parts of a work that are off-base from reality. A clear example of this is seen with AI-generated images. Early AI images often contained hands with extra or misshapen fingers, and some detection tools exist to pick up on these inaccuracies. 
+
+	Other detectors rely on reading watermarks embedded in the AI-generated music. While these watermarks are not perceptible to the human ear, they can be detected by certain tools. Galka writes that “since watermarking is intended to be discoverable by watermark detection algorithms, such algorithms can also be used to show how to remove or modify the watermark embedded in audio so it is no longer discoverable” — something he sees as a major flaw with this system of detection. 
+
+	Pex’s method of using VoiceID, which can determine if a singer matches between multiple recordings, can also be useful in AI detection, though it is not a clear-cut answer. This technology is particularly helpful when users take to the internet and release random tracks with Drake vocals, whether they’re leaked songs or AI deepfakes. With VoiceID, Pex can tell a rights holder that their voice was detected on another track that might not be an official release from them. 
+
+	When VoiceID is paired with the company’s other product, Automatic Content Recognition (ACR), it can sometimes determine if a song uses AI vocals or not, but the company says there is not enough information on “Wah Gwan Delilah” to complete a full ACR check.
+
+Parody’s Role in AI Music
+
+	Though it can’t be determined without a doubt whether “Wah Gwan Delilah” contains AI vocals, parody songs in general have played a major role in popularizing and normalizing AI music. This is especially evident on TikTok, which is replete with so-called “AI Covers,” pairing famous vocalists with unlikely songs. Popular examples of this trend include Kanye West singing “Pocket Full of Sunshine” by Natasha Bedingfield, Juice WRLD singing “Viva La Vida” by Coldplay, Michael Jackson singing “Careless Whisper” by George Michael and more. 
+
+	
+
+
+
+
+
+
+
+
+
+
+	Most recently, AI comedy music took center stage with Metro Boomin‘s SoundCloud-released track “BBL Drizzy” — which sampled an AI-generated song of the same name. The track poked fun at Drake and his supposed “Brazilian Butt Lift” during the rapper’s beef with Lamar, and in the process, it became the first major use of an AI-generated sample. Later, Drake and Sexyy Red sampled the original AI-generated “BBL Drizzy” on their own song, “U My Everything,” lifting “BBL Drizzy” to new heights.
+Get weekly rundowns straight to your inbox
+A daily briefing on what matters in the music industry
+Send us a tip using our anonymous form.
+A daily briefing on what matters in the music industry
+Send us a tip using our anonymous form.
+Billboard is a part of Penske Media Corporation. © 2025 Billboard Media, LLC. All Rights Reserved.

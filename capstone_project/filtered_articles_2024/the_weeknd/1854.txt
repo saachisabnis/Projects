@@ -1,0 +1,208 @@
+Latest	
+
+
+
+		AI	
+
+
+
+		Amazon	
+
+
+
+		Apps	
+
+
+
+		Biotech & Health	
+
+
+
+		Climate	
+
+
+
+		Cloud Computing	
+
+
+
+		Commerce	
+
+
+
+		Crypto	
+
+
+
+		Enterprise	
+
+
+
+		EVs	
+
+
+
+		Fintech	
+
+
+
+		Fundraising	
+
+
+
+		Gadgets	
+
+
+
+		Gaming	
+
+
+
+		Google	
+
+
+
+		Government & Policy	
+
+
+
+		Hardware	
+
+
+
+		Instagram	
+
+
+
+		Layoffs	
+
+
+
+		Media & Entertainment	
+
+
+
+		Meta	
+
+
+
+		Microsoft	
+
+
+
+		Privacy	
+
+
+
+		Robotics	
+
+
+
+		Security	
+
+
+
+		Social	
+
+
+
+		Space	
+
+
+
+		Startups	
+
+
+
+		TikTok	
+
+
+
+		Transportation	
+
+
+
+		Venture	
+
+
+
+		Events	
+
+
+
+		Startup Battlefield	
+
+
+
+		StrictlyVC	
+
+
+
+		Newsletters	
+
+
+
+		Podcasts	
+
+
+
+		Videos	
+
+
+
+		Partner Content	
+
+
+
+		TechCrunch Brand Studio	
+
+
+
+		Crunchboard	
+
+
+
+		Contact Us	
+
+Spotify Wrapped, the streamer’s highly anticipated annual listening recap, has arrived. In addition to its usual personalized summary detailing your favorite artists, songs, podcasts, and more, the company this year is introducing two new features, including most notably an AI-powered podcast of your 2024 Wrapped created with Google’s AI summarization tool, NotebookLM.
+Spotify is also rolling out a new data story called “Your Music Evolution,” which lets you see how your musical interests evolved over the past year. 
+While Spotify previously built its Wrapped features in-house, the addition of a NotebookLM-powered podcast now sees Spotify working with an outside partner on a flagship Wrapped feature. Using Google’s Gemini AI, this year’s Wrapped will allow you to explore a personalized audio overview of your music listening in 2024, including things like your top songs, top artists, top genres, and more. The result is meant to feel like you’re listening to a podcast about your Wrapped.
+The addition follows a breakout moment for Google’s AI notetaking tool, which went viral in 2024 as people began using the service’s new Audio Overview feature to create conversations between two AI hosts who riff on whatever topic you’ve fed into the app. Though designed to help you summarize notes and research, people began feeding all sorts of content into NotebookLM, like blog posts, books, or even diary entries, leading to interesting insights and sometimes hilarious commentary.
+Spotify says it was inspired to work with Google on the new Wrapped feature after seeing how consumers reacted to the AI technology. 
+When you play your Wrapped “podcast,” accessible from the Home screen on Spotify’s app, the AI hosts will compliment your music taste and summarize your listening activity. You can also save the AI-created audio clip to your mobile device or publish it to social media.
+The feature will be available for a limited time to both free and paid users in English in the U.S., U.K., Australia, New Zealand, Canada, Ireland, and Sweden. 
+This year, Spotify is also expanding its social media integrations to include a way to share to both your TikTok feed and your TikTok Stories — an ideal destination for sharing the new personalized AI audio experiences.
+While the AI podcast will likely be a hit on social media, its inclusion in Wrapped feels somewhat iterative. The launch follows last year’s Wrapped’s addition of Spotify’s popular AI DJ feature, which offered AI-generated commentary around your top artists and songs. This year, you’re again getting an AI narrating your musical history, but now there are two AI speakers instead of just one.
+The AI DJ feature will also integrate your Wrapped into its own spoken commentary and stories. The AI DJ is available in both English and Spanish. 
+Another AI feature is aimed at Premium subscribers, who can enter prompts to generate AI playlists based on their Wrapped experience, building on the existing AI playlist feature, launched in April. For instance, you could prompt Spotify to play more artists like your top five Wrapped artists.
+Meanwhile, Wrapped didn’t introduce as much in terms of new personalized data stories as it has in previous years, when the company experimented with fun, designed-to-go-viral features like those identifying your music personality, matching you to a town that shares your musical tastes, identifying your “audio aura,” or turning your listening history into a game you can share with friends, among other things.
+Instead, its big addition on this front is the feature called “Your Music Evolution,” which will track up to three distinct musical phases you went through during the year. For a year that saw Beyoncé doing country, the celebration of a Brat summer, a continued Taylor Swift Eras tour, an Oasis reunion, and a number of notable collabs, Spotify will have a lot to choose from when it comes to tracking users’ changing interests.
+The feature will also come with a personalized playlist that will be available from the Wrapped feed in Home. 
+Audiobooks are another new addition to Wrapped in 2024. Now available across a range of global markets, including the U.S., U.K., Australia, and others, Spotify’s audiobooks catalog doubled this year to over 300,000 titles. Spotify Wrapped will include a new audiobooks editorial hub and will offer a dedicated Wrapped experience for authors and publishers who want to see how Spotify’s users engaged with their work in 2024, similar to the experience it already offers for podcasters.
+Other areas of the Wrapped experience have also been tweaked or updated. For instance, your Top 5 Artists Story will now show your “Longest Listening Streak.” When you share music or podcasts, Spotify will tell you if what you’re listening to was in your top 100 songs, top 20 artists, or top five podcasts.
+The company is also bringing back “Top Listeners,” which shows what percentile you’re in for your favorite artist — a feature that lets users brag to friends how they’ve been into a favorite artist long before anyone else.
+Artist video clips will return, too, with thousands of artists sharing messages to top fans, including Billie Eilish, Usher, Sabrina Carpenter, Karol G, Peso Pluma, Chappell Roan, ROSÉ, and others. 
+This year, Wrapped will also add Podcaster Clips, or video messages from podcasters like Emma Chamberlain (“Anything Goes”), Ashely Flowers (“Crime Junkie”), Markiplier (Mark Fischbach, “Distractable”), Steven Bartlett (“Diary of a CEO”), and others. 
+And in celebration of Top Artist Taylor Swift, a couple of Easter Eggs in the app will illuminate Spotify’s buttons with Era-themed animations — like sparkles for “Fearless” or seagulls for “1989 (Taylor’s Version),” among others. Fans will also have access to a Top Artist AR friendship bracelet on Snapchat and Swift will receive a Global Top Artist badge in the app. 
+The company today also revealed its top lists for 2024, including the following (in order of popularity):
+Topics
+
+Consumer News Editor
+
+Sarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.
+Get inside access to Europe’s top investment minds — with leaders from Monzo, Accel, Paladin Group, and more — plus top-tier networking at StrictlyVC London.
+ Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection
+
+ Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI
+
+ Microsoft CEO says up to 30% of the company’s code was written by AI
+
+ Google launches AI tools for practicing languages through personalized lessons
+
+ Indian court orders blocking of Proton Mail
+
+ Hugging Face releases a 3D-printed robotic arm starting at $100
+
+ From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off
+
+© 2025 TechCrunch Media LLC.

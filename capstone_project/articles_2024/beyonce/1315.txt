@@ -1,0 +1,52 @@
+Streaming, album sales and Taylor Swift led the U.S. market to growth in the first half of 2024. Here are a few more insights worth considering.
+
+													By
+												
+
+	Glenn Peoples
+
+
+At the midway point of 2024, the recorded music business is in fine form. Streaming is growing, physical purchases remain strong and download purchases are so few that any declines are barely noticeable amidst streaming’s success.  
+
+Billboard has already reported the major takeaways from Luminate’s midyear report — you can read a main article here and a follow-up article with more observations here — but a document filled with so much data, augmented by market research, merits another story. Below you can find five additional insights from the report (which you can download a copy of here). 
+
+Putting Digital Into Perspective 
+
+
+
+
+			Trending on Billboard		
+
+
+
+
+
+
+	Digital’s share of the market rose slightly to 95.3% of equivalent album units (EAUs), up from 95.2% at midyear 2023, 92.3% at midyear 2022 and 91.2% at midyear 2021. If that seems higher than some other figures you’ve spotted at Billboard, don’t worry. Because Luminate tracks only sales and purchases, comparing its data to other available data is like comparing apples and oranges. Public companies that report recorded music revenues have a lower digital share than Luminate’s consumption-based numbers. At Universal Music Group, digital’s global share was 69.8% in 2023, while at Warner Music Group it was 67.0%. Those companies’ digital shares are lower than what’s found in the Luminate report for a couple reasons. First, both companies get more than 10% of their recorded music revenue from physical sales globally (16% for UMG, 11% for WMG). Second, music companies group record labels with merchandise, various licensing revenues and expanded rights revenues — things not tracked by Luminate 
+
+	Luminate’s digital share is also higher than the RIAA’s widely observed industry numbers, which had digital at 86.4% of recorded music revenue in the U.S. in 2023. But the RIAA tracks a few things that Luminate doesn’t. That includes SoundExchange collections (encompassing satellite radio and cable music services such as Music Choice and Stingray), which last year accounted for 5.8% of total revenue; and synchronization royalties, which accounted for 2.4%.  
+
+Long Live the Album 
+
+	Not many years ago, the album was declared dead and some people predicted single-track releases would become standard. Sure, the album has been forever unbundled, and artists tend to release individual tracks ahead of an album’s release. Yet the format continues to thrive. At the midway point of 2022, four albums had more than 1 million equivalent album units. Last year, five albums had surpassed that threshold by June 30. And this year, seven albums topped 1 million EAUs.  
+
+	As Billboard’s Dan Rys noted earlier this week, this year’s top album, Taylor Swift’s The Tortured Poets Department, did especially well, boasting 2.6 times as many EAUs as the No. 2 album, Morgan Wallen’s One Thing at a Time. To be fair, though, One Thing at a Time has had incredibly longevity: It was the No. 1 album in the first half of 2023, and its 3.31 million EAUs in that period were only 29% less than TTPD’s 4.67 million units in the first half of 2024.  
+
+	Notably, sales are a major part of the consumption pie for some of the top albums. In the case of TTPD, more than half (53%) of total EAUs came from purchases. Beyoncé’s Cowboy Carter, the No. 4 album, got 23.3% of EAUs from purchases. 
+
+Catalog Didn’t Kill Current Music 
+
+	Catalog’s share of total EAUs was 72.8% — exactly equal to the prior-year period. This ends a run of increasing catalog market share that led to much — and some might say unnecessary — handwringing over the popularity of current music being released by record labels. By comparison, catalog’s share was 72.4% at midyear 2022 and 69.4% at midyear 2021. (Luminate classifies catalog music as being more than 18 months old.) Not all catalog music could be considered “old,” of course. Swift’s 2019 album Lover, which was No. 10 overall and No. 5 in album sales at the midyear mark this year, falls into the catalog category. So does her 2020 album Folklore, which ranked No. 8 in album sales. SZA’s SOS, released in December 2022, reached catalog status in June even though it was the No. 5 album on the midyear 2024 chart with 1.06 million EAUs. These are examples of “shallow” catalog that have achieved a degree of longevity, not “deep” catalog such as reissues and golden oldies.  
+
+Latin Music Has a Chart Disadvantage 
+
+	Latin music streaming is 32% ad-supported, far below the 19.6% average for all genres and less than half the 12.9% of country music. That matters for both chart position and industry revenues, as premium streams produce greater per-stream royalties than ad-supported streams. In addition, premium streams are weighted more heavily when determining chart position. To compare albums and tracks that are consumed in a variety of formats — physical albums, downloads and streams — Luminate converts streams into EAUs, and ad-supported streams convert to EAUs at a lower rate than premium streams do. It makes sense: Ad-supported streams produce lower per-stream royalties than premium streams. Given Latin music’s relatively high percentage of ad-supported streams, that’s bad news for  the genre, whose streams convert to EAUs at about 1,500 streams per EAU — much higher than country and pop, which have the lowest genre conversion rate at about 1,360 streams per EAU. Latin’s high proportion of ad-supported streaming also matters because it tends to under-index in terms of sales: No other genre has lower digital track sales, digital album sales and physical album sales as a percentage of EAUs.  
+
+Big Populations, Small Revenue 
+
+	Developing markets have huge populations but relatively little revenue. India, which has a population of 1.4 billion and 659 million smartphone users, has the lowest proportion of premium streams in the 49 countries tracked by Luminate: Just 9.7% of all on-demand audio and video streams in the country are premium streams, which means 92.3% of all streams come from ad-supported streaming. With a population of 275 million, Indonesia is the fourth most-populated country worldwide, but in terms of music streaming, the country has the second-lowest proportion of premium streams at 15.5%. Globally, the average premium share is 57.5% and is highest in European countries, including Norway (93.5%), Iceland (92.9%), Sweden (89.6%), Netherlands (87.6%) and Denmark (87.1%). 
+Daily newsletters straight to your inbox
+Send us a tip using our anonymous form.
+A daily briefing on what matters in the music industry
+Send us a tip using our anonymous form.
+Billboard is a part of Penske Media Corporation. © 2025 Billboard Media, LLC. All Rights Reserved.

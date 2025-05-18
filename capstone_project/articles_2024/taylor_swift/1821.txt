@@ -1,0 +1,304 @@
+7 minutes ago
+
+
+23 minutes ago
+
+
+1 hour ago
+
+
+1 hour ago
+
+
+23 minutes ago
+
+
+1 hour ago
+
+
+7 hours ago
+
+
+9 hours ago
+
+
+4 hours ago
+
+
+11 hours ago
+
+
+14 hours ago
+
+
+May 2, 2025
+
+
+9 hours ago
+
+
+May 2, 2025
+
+
+May 1, 2025
+
+
+May 1, 2025
+
+
+May 1, 2025
+
+
+May 1, 2025
+
+
+Apr 30, 2025
+
+
+Apr 30, 2025
+
+
+1 hour ago
+
+
+Apr 26, 2025
+
+
+Apr 20, 2025
+
+
+Apr 15, 2025
+
+
+Apr 7, 2025
+
+
+Mar 17, 2025
+
+
+Feb 1, 2025
+
+
+Jan 18, 2025
+
+
+Apr 21, 2025
+
+
+Apr 21, 2025
+
+
+Apr 20, 2025
+
+
+Apr 17, 2025
+
+
+Mar 5, 2025
+
+
+Feb 20, 2025
+
+
+Feb 19, 2025
+
+
+Jan 30, 2025
+
+
+9 hours ago
+
+
+20 hours ago
+
+
+May 1, 2025
+
+
+May 1, 2025
+
+
+4 hours ago
+
+
+Apr 27, 2025
+
+
+Apr 8, 2025
+
+
+Feb 26, 2025
+
+
+22 hours ago
+
+
+May 2, 2025
+
+
+May 1, 2025
+
+
+May 1, 2025
+
+
+
+Taras Buria
+
+Neowin
+@TarasBuria        ·
+    
+
+    Feb 18, 2024 04:00 EST
+    
+         · Hot!
+
+with 1 comment
+
+
+In this issue of Microsoft Weekly, we look at new changes in Windows 11 processor requirements, new builds for each Windows Insider Channel, Patch Tuesday updates, Xbox updates, and app updates. There were a lot of updates.
+Table of contents:
+Here we talk about everything happening around Microsoft's latest operating system in the Stable channel and preview builds: new features, removed features, controversies, bugs, interesting findings, and more. And of course, you may find a word or two about older but still supported versions.
+On February 13, 2024, Microsoft released a new wave of Patch Tuesday updates for supported Windows versions:
+Those updates move the Copilot button to the right in Windows 11 version 23H2, add more natural voices for Narrator, fix File Explorer bugs, and improve security. Note that Windows 11 version 22H2 no longer receives optional non-security updates starting this month. As for Windows 10, Microsoft will end its mainstream support in less than a year. Meanwhile, Google hopes those unable to upgrade to Windows 11 will switch to ChromeOS Flex.
+Moving from cumulative updates to more substantial changes, here is an interesting finding in the recently released build 26052, the first build of the now-official Windows 11 version 24H2. Enthusiasts discovered that the operating system now requires a new instruction called POPCNT. Processors that do not support it cannot run Windows 11 version 24H2. You can check whether your old timer supports the POPCNT instruction using this short manual.
+But you should not worry too much about this. Officially supported processors will continue running Windows 11 just fine. The change will cripple very old systems with decades-old processors. And if you use Windows 11 on unsupported hardware, this new utility will help you upgrade to the upcoming version 24H2. By the way, the updated Windows 11 setup app can now warn you about the missing instruction set.
+Another broken thing in build 26052 is the ExplorerPatch app. You can no longer use its latest version with Windows 11 version 24H2. There is currently no information on what is the culprit, so we are waiting for news from the developers.
+Finally, the recent Windows 11 preview builds made it impossible to bypass system requirements with the command that fools the OS into thinking it is a server SKU.
+As for more positive findings, it appears that Windows 11 is getting a built-in AI upscaler. A feature ID in build 26052 lets you toggle on "Automatic Super Resolution" to "make supported games play more smoothly with enhanced details." Unfortunately, it does not appear to be working, so all we can do is feast our eyes on the new toggle in the Settings app and wait for more details from Microsoft.
+In addition, Windows 11 will soon receive improvements for Bluetooth discoverability to make it easier to detect and connect to uncommon device types and a dedicated notification center for Widgets.
+Here is some more news about the recently released preview of the sudo command. As it turned out, sudo is not coming to Windows Server 2025. Microsoft said that the toggle was added to server build 26052 by mistake, and developers will remove all the sudo references in the upcoming updates. Ironically, at the same time, enthusiasts managed to make sudo work not only on Windows 10 but all the way back to Windows 7. With that said, turning on sudo on Windows 7 requires slightly more effort than flicking a single toggle in the Settings app.
+There was also an update to the story about stealing BitLocker keys using dirt-cheap hardware. As it turned out, not only old devices are susceptible to this attack. Researchers have found a way to sniff BitLocker keys on recent hardware. However, the method is quite tedious and requires physical access to the target device.
+Windows Insider Program
+Here is what Microsoft released for testing this week:
+Build 22635.3209 with quick access to new photos and screenshots on your mobile device.
+Build 22631.3227 and 22621.3227 with the "Moment 5" update features.
+Build 19045.4116 with fixes for Microsoft Edge, Remote Desktop, WebAuthn, and more.
+One of the most interesting changes in build 26058 is a PowerToys utility that is now a native Windows feature. The latest preview build lets you toggle on a crosshair cursor if you need more visual assistance while working with your computer.
+There are also slightly redesigned context menus with labels for the common file actions, such as copy, cut, paste, rename, delete, and share. It's a pretty neat-looking change as long as your Windows 11 copy is set to the English language.
+Finally, Microsoft published a new ad detailing why you should update from Windows 10 to 11, and we published a trick that can help you install Windows updates faster.
+This section covers software, firmware, and other notable updates (released and coming soon) delivering new features, security fixes, improvements, patches, and more from Microsoft and third parties.
+Developers, get ready for the main event of 2024. Microsoft has confirmed that Build 2024, its flagship developers conference, is coming May 21-23. Look out for registration and more information about ticket prices.
+Files, a popular third-party file manager for Windows 10 and 11, has been updated to version 3.2. The latest release includes List View, thumbnail rendering improvements, the ability to edit album covers in audio files, and plenty of under-the-hood changes that significantly reduce the likelihood of crashes, especially when working with large files. Version 3.2 is now available for download from the Microsoft Store, GitHub, and the project's official website.
+Do you remember Wunderlist, that app Microsoft purchased nearly a decade ago and turned into what is now known as Microsoft To Do? Many will be glad to know that the app is back in a new shape and form. The founder of Wunderlist launched a new app called Superlist, which aims to be a middle ground between primitive task managers and overly complicated programs like Notion. Superlist is already available on the Web, macOS, iOS, and Android.
+Skype Preview received another big update, proving once again that the service is far from dead. Version 8.113 introduced voice message transcriptions, a reworked reaction picker, and 25 new AR lenses made by Snap. It also fixed an annoying bug spawning multiple messages about missed calls in chats.
+If you wonder what will happen to Outlook if you delete Microsoft Edge, here is the simple answer: nothing. Do not believe false reports on the Internet claiming that Microsoft's browser is required for the new Outlook app to run. What is needed is WebView2 Runtime, getting rid of which is not an easy task. Speaking of Microsoft Edge, there is a bug with the downloads UI, which forces you to make multiple clicks to open a downloaded file.
+Microsoft is working on several improvements for Teams, its corporate messenger. One of the recent updates replaced the Microsoft 365 Chat app with Copilot. Also, Teams users will soon be able to join work meetings using personal accounts.
+By the way, Microsoft announced plans to kill Publisher. The company will end its support in October 2026 and remove the app from the Microsoft 365 subscription. It says other apps in the Office suite can already do what Publisher does. What Microsoft is not killing is Azure IoT Central. As it turned out, that message about deprecation was fake news published by mistake.
+Microsoft President Brad Smith published a post on the company's official blog to detail how Microsoft plans to fight abusive AI-generated content, such as the recent influx of explicit images of American pop singer Taylor Swift.
+There is also an update to the European Union's investigation of whether Apple and Microsoft should be considered gatekeepers. The European Commission announced that iMessage, Bing, Edge, and Microsoft Advertising should not be labeled as gatekeepers.
+Here are the new drivers released this week:
+Other notable releases and updates from this week include the following:
+Finally, here are the latest additions to Microsoft 365 Roadmap, a website where you can track upcoming features for Microsoft's productivity apps. The company is working on new capabilities for Teams and Outlook, plus upgrades for the file viewer in OneDrive for the web.
+Learn about upcoming game releases, Xbox rumors, new hardware, software updates, freebies, deals, discounts and more.
+Xbox fans can breathe a sigh of relief. No, Microsoft is not abandoning Xbox, nor it is porting its entire game library to PlayStation. The company held the promised Xbox Podcast, where its gaming CEO announced four games coming soon to other consoles (one such game could be Microsoft Flight Simulator) and denied rumors about Starfield or the upcoming Indiana Jones titles on PlayStation 5. There were also some hits about the future hardware, including promises about "the largest generation leap ever."
+In addition, Microsoft announced Diablo IV for Xbox Game Pass and promised to release more Activision Blizzard games in its gaming service.
+Microsoft released a new software update for the Xbox consoles, adding touch controls for remote play and the ability to calibrate thumbsticks.
+Microsoft Flight Simulator is getting a new free DLC in collaboration with Dune. You will soon be able to pilot an Ornithopter across six new activities in Arrakis. In addition, Microsoft revealed a Dune-themed Xbox Series X and a levitating Xbox Wireless Controller. You can purchase them, but you can try your luck and win them in a giveaway.
+Mojang has updated Minecraft and Minecraft Java Edition with a new feature that lets you quickly jump into your world right on the launcher screen. Quick Play support is now available in the latest public versions of the game.
+IGN wants to try to replace the now-dead E3 with a new event called IGN Live. Later this year, the website will host a gaming show in Los Angeles where visitors can expect "a curated list of leading exhibitors across gaming and entertainment." Specific details remain unknown.
+Finally, Nvidia added Halo Infinite and Skull and Bones to its cloud streaming service, allowing those without powerful hardware to play the latest and most demanding titles using the cloud infrastructure.
+Deals and freebies
+Dakar Desert Rally is free to claim in the Epic Game Store until the next Thursday. Get it while you can if racing all sorts of motor vehicles across sands is your thing. Also, you can still play No Man's Sky for free until February 19, 2024.
+As usual, you can find more deals and offers in our weekly Weekend PC Game Deals series.
+John Callaham's weekly "Look back" series provides throwbacks into the past, detailing the company's products, partnerships, mishaps, and successes from years ago.
+On February 17, 2024, Windows 2000 marked its 24th birthday. This week's look-back article is dedicated to this old piece of Microsoft-made software, its development, various editions, different capabilities, and more.
+And here is a randomly selected piece of trivia about the company, Windows, and other Microsoft-made things.
+This week's random fact about Microsoft comes from @wowstartsnow on X. Did you know that Microsoft experimented with mobile versions of Windows before Windows CE or Windows Mobile? In 1993, Microsoft was working on WinPad, an operating system for PDAs based on Windows 3.1. The idea was to let users sync emails, files, faxes, and other productivity data from a PC to a mobile device.
+For better or for worse, Microsoft scrapped WinPad in 1994. The next year, Microsoft released Windows CE (codenamed Pegasus) for handheld computers.
+You can find other issues of the Microsoft Weekly series using this link. Also, you can support Neowin by subscribing to our Newsletter to get regular news recaps delivered directly to your email.
+
+
+Taras Buria
+                                                ·
+                    
+Apr 27, 2025
+
+with
+2
+                            comment
+                                s
+                                                            
+
+
+
+
+
+Taras Buria
+                                                ·
+                    
+Apr 20, 2025
+
+with
+0
+                            comment
+                                s
+                                                            
+
+
+
+
+
+Taras Buria
+                                                ·
+                    
+Apr 13, 2025
+
+with
+2
+                            comment
+                                s
+                                                            
+
+
+
+
+
+Taras Buria
+                                                ·
+                    
+Apr 6, 2025
+
+with
+0
+                            comment
+                                s
+                                                            
+
+
+
+Login or Sign Up to read and post a comment.
+Please enter your reason for reporting this comment.
+
+                                beelink gti13
+                                
+
+                                gamesir x3 pro
+                                
+
+                                windows 11 unamused
+                                
+
+                                geekom mini it13 2025
+                                
+
+                                cuktech 10
+                                
+
+                                chromebook
+                                
+
+                        fedora silverblue 42
+                        
+
+                        windows update
+                        
+
+                        change screenshot folder
+                        
+
+                        ubuntu 20.04 lts
+                        
+
+© Since 2000 Neowin®
+                                    All trademarks mentioned are the property of their respective owners.

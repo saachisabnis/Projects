@@ -1,0 +1,39 @@
+If you think Spotify's AI DJ sounds more human than robot, there's a reason for that: It's modeled after an actual person, Xavier "X" Jernigan.
+Jernigan is Spotify's head of cultural partnerships and the voice behind DJ X, the music streaming application's AI-powered DJ.
+Watch NBC6 free wherever you are
+The feature utilizes artificial intelligence technology to analyze the music that users listen to, their preferences and their current mood to provide a stream of similar and new songs users may enjoy, combined with the ones they already love.
+Get local news you need to know to start your day with NBC 6's News Headlines newsletter.
+But the tool, which launched in the U.S. and Canada in early 2023, goes beyond creating a custom playlist. It also talks to users and gives them interesting facts and personalized commentary about artists and genres they're listening to in between songs.
+That's where Jernigan comes in: It's the AI DJ's voice that can make users feel as if they have their own personal DJ in their pocket.
+"It's a digitized version of me that's recommending all these wonderful songs to them and providing that context and storytelling through the advent of AI," Jernigan tells CNBC Make It.
+Having his voice heard by millions of Spotify users wasn't new for Jernigan. He previously hosted a number of original podcasts, including Spotify's first morning show, "The Get Up," which garnered over 6 million listeners before it ended in April 2022, he says.
+A few months after "The Get Up" ended, Spotify's head of personalization approached Jernigan about a new product their team was working on: an AI-powered DJ.
+DON'T MISS: Achieve Financial Wellness: Be Happier, Wealthier & More Financially Secure 
+Originally, the product featured a placeholder voice, but the team wanted it to "sound more like X," he says. So, they approached him to see if he would be interested in becoming a voice model for the AI DJ.
+"What I loved about that conversation was that it was about creating a partnership between me and Spotify and making the product about my personality too, not just my voice," Jernigan says.
+In addition to bringing his innate love of music to the product, the team also knew Jernigan could infuse the tool with the knowledge and personal insights about the music industry he gained from his previous positions at major music labels, including Def Jam Recordings and Republic Records.
+"I had a great understanding of how to present artists to the world in a way that made artists feel seen and excited and turned casual listeners into fans," he says. "That added a level of authenticity and credibility to the AI DJ."
+On top of that, Jernigan says the team wanted to utilize the deep understanding of the business side of the music industry he gained from obtaining an MBA from Florida Agricultural and Mechanical University and a master's in music business from New York University.
+"I jokingly say that I'm one of the few people I know who uses all of my degrees every day," he says.
+Spotify uses Sonantic, a dynamic text-to-speech AI voice platform the company acquired in 2022, and OpenAI technologies to power its AI DJ.
+In the early stages of training the product, the team took nearly 300 episodes of "The Get Up," isolated Jernigan's audio tracks and fed that data to the AI DJ to help it analyze and understand his speech patterns, pitch, pacing and emotions.
+Additionally, Jernigan kept a notes document on his phone where he listed the phrases he uses in everyday conversation while discussing music.
+That way, as the AI DJ learned how to sound like him, it could also learn how to mimic the way he naturally speaks and describes music, and then employ that understanding to generate realistic-sounding audio outputs.
+"That's why it sounds so much like me," he says. "Other voice models tend to train on a bunch of voices and then a layer on top of them, but this one is all trained on me and that's where the accuracy comes in."
+Training the AI DJ also involves recording sessions, which Jernigan says is similar to voice acting, except he's reading lines and scripts as himself. He aims to sound as natural as possible during recording sessions so that the AI model learns how to mimic his natural voice inflections.
+"I have to be precise because we have to teach the voice model what it sounds like when I hit a period, a pause or a comma," he says. "I have to make sure I hit the T's if there's a T at the end of a word because if I don't, that can train the voice model to pronounce that word incorrectly."
+Every week, Jernigan holds a meeting with his global team of writers, music experts and data curators to make sure the model stays up to date with current trends and music news.
+For instance, when rappers Kendrick Lamar and Drake dropped several diss tracks aimed at each other between April 30 and May 5, Jernigan's team worked to update the AI DJ with information about the songs and context about each artist so that it could help listeners keep up with the rapid-fire rap battle.
+Now that the AI DJ is able to accurately mimic his voice, when moments like that happen, Jernigan works with his team of writers to feed that information into the model as quickly and as accurately as possible.
+"These cultural music experts with boots on the ground are able to tell the AI about what's going on in the world," he says. "It helps us make the AI DJ experience feel alive."
+Spotify's AI DJ initially rolled out in the U.S. and Canada last February, and is now available in 68 markets worldwide, including Australia, New Zealand and select markets in Europe, Asia, Latin America and Africa, the company says.
+Jernigan says, initially, he was nervous about how the world would receive him and the AI DJ, but that fear vanished once he began to see how much Spotify users enjoyed the product.
+"People have recognized me on the streets in London and Sydney, Australia, " he says. "It's been the honor of a lifetime and the love people have for it shows me they're really connecting with the human behind the AI DJ."
+And Spotify is continuing to build upon its original AI DJ.
+On July 17, the company introduced DJ Livi, a Spanish-speaking AI DJ modeled after the voice of the company's senior music editor, Olivia Quiroz Roa.
+Spotify Premium users in select markets now have the option to switch between listening to DJ Livi deliver music commentary in Spanish and DJ X do so in English.
+"Rolling out DJ in Spanish was a natural next step in the evolution of the product, and we're excited for the world to meet Livi," Spotify said in a blog post.
+But as the product expands, Jernigan says listeners shouldn't worry about his voice or DJ X disappearing any time soon.
+"We're going to keep innovating and iterating, but I think you can expect me to be the voice for quite some time," he says.
+Want to stop worrying about money? Sign up for CNBC's new online course Achieve Financial Wellness: Be Happier, Wealthier & More Financially Secure. We'll teach you the psychology of money, how to manage stress and create healthy habits, and simple ways to boost your savings, get out of debt and invest for the future. Start today and use code EARLYBIRD for an introductory discount of 30% off through September 2, 2024.
+Plus, sign up for CNBC Make It's newsletter to get tips and tricks for success at work, with money and in life.

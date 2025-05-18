@@ -1,0 +1,14 @@
+This 3D-printed prototype camera uses artificial intelligence to undress a person it takes a photo of.
+NUCA was made by Mathias Vef and Benedisk Groß whose experimental project “aims to provoke and question the current trajectory of generative AI in reproducing body images.” 
+The NUCA prototype has a 37mm lens attached and when the shutter is pressed, the photo is sent to a server that analyzes the subject and makes a text description of them; e.g. their gender, age, ethnicity, and other details. The text is then used as a prompt to make the nude body and the real person’s head is added using a face swap tool.  NUCA uses Stable Diffusion and controversial AI image generator Civitai to make the nude body. 
+Vef and Groß tell 404 Media that they are not intending to sell NUCA despite making promotional videos for the contentious gadget. 
+“We tried to find out basically how people would react to it because we have different reactions ourselves,” Vef says. “It’s such a critical subject, as you see with everything in the news from Taylor Swift to these kids in Spain who made their classmate’s nude.”
+On its website, NUCA says the camera “brings the fantasy of Superman’s X-ray vision to life.” But adds that unlike other deepfakes, the NUCA device “ties creator and subject physically together and shows the result immediately, taking away the anonymity that is inherent in internet deepfakes and contrasts playfulness with this nightmare trend.” 
+Vef and Groß say the camera operates “under strict ethical guidelines” requiring “explicit consent and is intended for adult use only.” 
+The creators also hope that the project arouses debate on AI’s beauty standards and the “distorted views of algorithmic bias that AI inherits, setting these perceptions that contrast the user’s own self-image.”
+When asked by 404 Media if Vef and Groß are worried that making this camera is a bad idea, Groß replied: “I think this is actually the opposite.” 
+“We’re not putting it out there,” he says. “With this twist that is an object that’s a camera, we really tie people who are photographed and the person whose picture is being taken together in the same space, and with that we had really, really interesting conversations. I think this is maybe the most valuable bit.”
+While the camera is not for sale, it will be exhibited in Berlin on June 29 in a show called Uncanny in the Nuud. 
+Image credits: NUCA.
+Become a PetaPixel Member and access our content ad-free.
+© 2025 PetaPixel Inc. All rights reserved.

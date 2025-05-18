@@ -1,0 +1,98 @@
+Whenever we can tie the Telephone Consumer Protection Act (TCPA)
+to a Justin Bieber song, you know that we will, especially one as
+catchy as "Stay" (Cannon's words, not Dan's). Any
+company that engages with consumers over the phone, whether that be
+by call or text message, should be aware of the TCPA and its myriad
+compliance requirements. Some believe that, with the Supreme
+Court's 2021 Facebook, Inc. v. Duguid decision, which
+narrowly construed what constitutes an "automatic telephone
+dialing system," i.e., an autodialer, TCPA cases no
+longer are being filed. Quite the opposite. TCPA complaints still
+continue to pour in against many well-intentioned companies. The
+plaintiffs' bar, however, has pivoted away from autodialer
+claims to do not call allegations, i.e., that plaintiffs
+received telemarketing calls or marketing text messages on their
+cell phones while their numbers were listed on the National Do Not
+Call Registry, or after they had requested that a specific company
+stop placing such calls or sending such text messages. In either
+case, one of the core liability issues is whether or not a cell
+phone number is a "residential" one for purposes of the
+TCPA's do not call rules. The answer is important because, if a
+cell phone is not residential, then a do not call claim fails.
+To set the stage, different sections of the TCPA expressly treat
+communications to cellular and residential telephones differently.
+Section 227(c)(5), the TCPA's do not call provision, governs
+only violations of the FCC's regulations promulgated to
+"protect residential telephone
+subscribers' privacy rights to avoid receiving telephone
+solicitations to which they object." The Federal
+Communications Commission (FCC), in turn, implemented certain
+regulations related to the statute's do not call provisions,
+such as establishing the National Do Not Call Registry on which
+consumers could place their residential
+telephone numbers, and regulations that require telemarketers to
+honor consumers' entity-specific do not call requests. These
+entity-specific do not call regulations prohibit telemarketing
+calls to "[a] residential telephone
+subscriber" who has requested that marketing
+telecommunications from a specific company stop. Many courts have
+held that a cell phone is not a "residential" line under
+the TCPA. But others have reached the opposite conclusion based
+largely on a 2003 FCC order in which the agency interpreted the
+TCPA such that cell phones can be "residential" telephone
+lines for purposes of the do not call rules depending on the facts.
+Those courts have held that, under the Hobbs Act, they are bound by
+the FCC's conclusion. The case-by-case nature of the inquiry
+can make obtaining dismissal or an early summary judgment ruling
+difficult. Courts generally want discovery, and plaintiffs know
+that the litigation economics are such that the high and asymmetric
+discovery costs typically borne by putative class action defendants
+can be leveraged into high-dollar settlements of even baseless or
+meritless claims.
+So, what is a TCPA class action defendant to do? Well, the
+answer may lie in a recent under-the-radar paperless order issued
+by the Northern District of Georgia in October 2024. More
+specifically, in Loudermilk v. Maelys Cosmetics USA Inc.,
+No. 1:24-cv-01866-AT, Paperless Order (N.D. Ga. Oct. 15, 2024), a
+do not call case arising out of text messages sent to a cell phone,
+the court sua sponte stayed the litigation pending
+resolution of the Supreme Court's resolution of McLaughlin
+Chiropractic Assocs., Inc. v. McKesson Corp., No. 23-1226 (S.
+Ct.) and/or until the Eleventh Circuit addresses the petition for
+interlocutory appeal recently filed in Kendo Holdings, Inc. v.
+Radvansky, No. 24-90026 (11th Cir.). The issue in both
+McLaughlin and Kendo Holdings is whether the
+Hobbs Act requires a district court to blindly accept and rigidly
+apply the FCC's interpretations of the TCPA, including the
+agency's 2003 order concluding that cell phones can be
+residential under certain circumstances. The Loudermilk
+court recognized the potentially dispositive nature of the answer
+to that question, and, implicitly, the practical reality that
+judicial and party time and resources might be wasted, and that the
+court risks reaching a merits conclusion that is wrong as a matter
+of law if it allowed the case to proceed.
+McLaughlin is set for oral argument in just under two
+months—January 21, 2025; the Kendo Holdings
+appellant seeks, among other things, to file a writ of certiorari
+to the Supreme Court to have that appeal reviewed in tandem with
+McLaughlin. The McLaughlin decision likely will
+be entered by early July 2025, in accordance with the Supreme
+Court's customary practice of deciding cases within the same
+term that they are heard, which usually concludes in June or July
+each year.
+Despite Bieber's refrain that "I told you I'd
+change, even when I knew I never could," courts can and should
+stay TCPA do not call cases pending McLaughlin and/or
+Kendo Holdings. And savvy defendants should be seeking
+such relief, for the Supreme Court may well give courts the ability
+to reach the conclusion that a cell phone cannot be a residential
+line under the TCPA's do not call rules—a
+"changed" outcome that courts previously might have found
+they could never reach.
+The content of this article is intended to provide a general
+guide to the subject matter. Specialist advice should be sought
+about your specific circumstances.
+Connecting Knowledge & People
+POWERED BY MONDAQ AI
+© Mondaq® Ltd  1994 - 2025. All Rights Reserved
+Mondaq uses cookies on this website. By using our website you agree to our use of cookies as set out in our Privacy Policy.

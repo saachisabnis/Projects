@@ -1,0 +1,159 @@
+For copyright infringement cases involving musical compositions,
+courts and juries are often tasked with determining whether two
+songs are "substantially similar," the legal standard
+required to show infringement.
+Most casual music fans are aware of similarities that exist
+between popular songs, such as the often remarked-upon similar
+guitar riff intros of "Last Nite" by The Strokes and "American Girl" by Tom Petty and the
+Heartbreakers. In that instance, the Strokes' Julian
+Casablancas did eventually remark that the relevant portion of
+"Last Nite" may have been inspired by "American
+Girl," to which Tom Petty said "OK, good for you."
+However, not all music copyright owners are as understanding as Mr.
+Petty (years later, he actually did initiate a dispute with Sam Smith for allegedly infringing
+"I Won't Back Down").
+Since copyright protection only extends to original
+works, a party alleging infringement must show that the infringing
+song shares original, protectable musical elements with
+the infringed song, as opposed to commonplace musical elements
+which were widely used by others before the infringed song was even
+written. For example, it would be an uphill battle for an
+infringement plaintiff to argue that a standard bass-snare drum
+pattern in 4/4 time should be considered an original, protectable
+musical element, given that such drum patterns have appeared in
+countless songs going back very far in time. Accordingly, parties
+in high-stakes copyright infringement suits often seek out renowned
+musicologists to serve as expert witnesses and opine on which
+shared elements between songs are actually
+protectable.
+So, what types of musical elements are considered original and
+protectable for copyright purposes? And how many such elements need
+to be shared between two songs in order to support a finding of
+substantial similarity?
+Below is an overview of a few musicological factors which have
+been considered by courts in selected high-profile cases.
+The underlying chord progression in a song can be a defining
+feature, the bedrock on top of which a melody is constructed. Chord
+progressions are intertwined with the concept of harmonic rhythm,
+which refers to the timing of chord changes in a progression.
+In Griffin v. Sheeran and in Structured Asset Sales, LLC v.
+Sheeran, both of which concerned a claim against Ed
+Sheeran alleging that Sheeran's "Thinking Out Loud"
+infringed on Marvin Gaye's "Let's Get It
+On," the plaintiffs argued that the two songs shared the
+same chord progression (specifically, a I – iii –
+IV – V progression), as well as the same harmonic
+rhythm, and that the combination of those elements was sufficient
+to establish substantial similarity. In Griffin, the
+defense pointed out that the chord progression at issue appeared in
+at least thirteen songs and in two guitar method books prior to the
+release of "Let's Get It On" (there was less evidence
+of prior works bearing the same harmonic rhythm), and a jury
+eventually found for Sheeran. In Structured Asset Sales,
+the court noted that both the chord progression and harmonic rhythm
+at issue were unprotectable, and while all musical works are in
+some way composed of the selection and arrangement of unprotectable
+elements, the combination of just two such elements is not enough
+to support a claim of substantial similarity.
+Musical lyrics are also subject to copyright protection, as the
+artistic expression of a musical work often comes from the
+interplay between the music and lyrics. Song lyrics are generally,
+but not always, arranged in some sort of rhyming structure.
+Especially in hip-hop, lyrics can be dense with word play and
+cultural references, including references to works by other
+artists.
+In Peters v. West, in which a hip-hop
+artist named Vince P alleged that Kanye West's song "Stronger"
+infringed Vince P's song of the same name, the plaintiff
+claimed that the hook in West's "Stronger" copied the
+lyrical theme and rhyming structure of plaintiff's
+"Stronger", as well as the song title and a reference to
+Kate Moss. The court noted that Nietzche's phrase "what
+does not kill me, makes me stronger" (the shared theme of the
+two songs) had been "repeatedly invoked in song lyrics over
+the past century" and there was even another hit song at the
+time (2012) with the same theme, "Stronger (What Doesn't Kill You)" by
+Kelly Clarkson. The court found that the "ubiquity of
+[the] common saying, together with its repeated use in other
+songs" suggested that West's title and lyrical theme did
+not infringe on plaintiff's "Stronger." As for the
+rhyming structures, both of which rhymed "stronger" with
+"wronger" and "longer" in a chorus that
+otherwise featured different wording, the court found that the
+rhyming of these particular terms was not protectable. Finally, as
+for the references to Kate Moss, which plaintiff argued was a
+unique lyrical reference, the court found that the verses in
+question were otherwise different and a reference to a famous and
+well-known model is not protectable expression.
+The melody of a song is often its most recognizable and
+memorable feature. Melodies are constructed of a series of notes
+performed in a particular rhythm, and each note in the melody
+comprises a different "scale degree" (i.e., the relation
+of the note to the underlying key of the song). As with other
+musicological factors, the question of whether two melodies are
+close enough to support a finding of substantial similarity is
+dependent on the extent to which the melodies share protectable
+elements.
+In Gray v. Hudson, plaintiff
+Flame and his co-writers alleged that Katy Perry's "Dark Horse"
+infringed plaintiff's song "Joyful Noise" by using a highly
+similar "ostinato" (or repeating series of instrumental
+notes) throughout. The court found that, while the respective
+ostinatos consisted of the same general rhythm and scale degrees,
+the copyright protection was very "thin" as the ostinatos
+mostly consisted of commonplace musical elements (in this case, a
+minor scale note pattern that had been used by many songs in the
+past). Given the "thin" protection afforded to
+plaintiff's ostinato, the court found that small differences
+between two notes in the respective ostinatos were enough to avoid
+substantial similarity.
+Notably, plaintiff's expert witness musicologist in Gray
+v. Hudson relied upon a number of relatively abstract musical
+findings, including "texture," "quality and color of
+the sound," and the way the "melody moves through musical
+space," which the court did not find persuasive on the basis
+that such elements were either unprotectable or too abstract for
+the substantial similarity analysis. The court also rejected
+plaintiff's arguments relating to "timbre," or the
+unique sound quality of the relevant notes as performed by
+instruments in the respective songs, finding timbre to be
+unprotectable by copyright.
+The above examples refer to cases in which songs were compared
+on the basis of specific prominent features shared between the
+songs (the chord progression in the Sheeran cases, the
+lyrical themes in Peters v. West, and the ostinato in
+Gray v. Hudson). But what about the situation in which a
+plaintiff alleges infringement on the basis of a number of shared
+musical elements which, in combination, result in substantial
+similarity between the works?
+In another case, Skidmore v. Led Zeppelin (alleging
+that Led Zeppelin's "Stairway to
+Heaven" infringed Spirit's "Taurus"), the court
+rejected plaintiff's arguments that the songs' melodies
+shared multiple elements including the same descending notes in the
+bass clef, same duration of pitches, same "combination of
+arpeggios and two-note sequences," same melodic rhythm
+consisting of steady eighth note beats, and same "pitch
+collection," finding such melodic elements by
+themselves to be unprotectable. However, as the court noted,
+the plaintiff did not argue infringement on the basis of the
+"selection and arrangement" of the unprotectable
+elements, which may have affected the outcome.
+A review of opinions on copyright infringement in the music
+composition context suggests that the two songs must share more
+than "commonplace" musical elements which have been
+incorporated into countless songs before. Furthermore, it generally
+appears that more than a few shared musical elements are required
+to support a finding of substantial similarity. As demonstrated by
+Tom Petty's decision to take legal action against Sam Smith but
+not the Strokes, the question of whether two musical works are
+substantially similar often depends on a totality of factors rather
+than any one musicological element, even if it is an iconic and
+recognizable guitar riff.
+The content of this article is intended to provide a general
+guide to the subject matter. Specialist advice should be sought
+about your specific circumstances.
+Connecting Knowledge & People
+POWERED BY MONDAQ AI
+© Mondaq® Ltd  1994 - 2025. All Rights Reserved
+Mondaq uses cookies on this website. By using our website you agree to our use of cookies as set out in our Privacy Policy.

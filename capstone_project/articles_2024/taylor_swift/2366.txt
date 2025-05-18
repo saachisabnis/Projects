@@ -1,0 +1,14 @@
+Meta’s social media platforms go dark simultaneously; YouTube, Discord also experiencing problems
+Meta’s Facebook, Instagram, Threads simultaneously went down Tuesday with no explanation from the company as to what went wrong. Problems were also reported at other social sites, including YouTube, as millions across the country are set to vote in Super Tuesday primaries.
+Social media users flocked to Elon Musk’s X, which remained functional, to complain about the outages. 
+“Anyone else got freaked and thought they were hacked?” one user posted in a widely feared scenario, based on numerous comments. Others joked that X owner Elon Musk did the hacking himself, or pointed to Taylor Swift’s Instagram post urging her 282 million followers to vote on Tuesday — without endorsing a candidate — as the culprit.
+Meta did not immediately respond to a request for an explanation for the cause of the outage. And in an ironic twist, the company’s page that tracks outages of its products was also not helpful, at first showing an “unknown” problem across its business tools and developer platforms and later updating that to “major disruptions.”
+“We’re aware people are having trouble accessing our services. We are working on this now,” Andy Stone, Facebook’s chief spokesman, posted on X. The post generated a series of snarky replies about using the rival platform to notify users of the problems. 
+Musk in a post on mocked the comment from Stone using a image of penguins labeled with Meta’s three platform logos saluting a penguin representing X.
+The official X account also posted, “We know why you’re all here” right now.
+The website Downdetector showed a huge spike in reports of outages on the three sites starting around 10 a.m. ET.
+Facebook users who opened the app got a screen asking for them to log in, but entering their passwords did not let them gain access. Threads opened with a message that said, “Sorry, something went wrong. Try again,” while Instagram opened to a “Couldn’t refresh feed” message.
+Downdetector was also reporting a jump in outages for a number of other sites starting around 10 a.m. ET, including Google’s YouTube, TikTok and Google itself, along with X, but those outages were not universal. X users noted that Discord was also running slowly.
+The TeamYouTube account on X also acknowledged problems, which appear to have affected the website more than the app. “Thanks to everyone who sent notes about loading issues with YouTube: we’re on it!,” the post said, pledging to follow up with a post “once things are back to normal.”
+Amazon Web Services, which provides the cloud platform that hosts many sites, also had a spike in reported outages around the same time, according to Downdetector, though AWS’s Health Dashboard reported no problems. 
+Meta’s shares were not impacted by the disruption, dropping 1.4%, or $7.07, yo $491.13 in late morning trading, in line with broader declines in the markets.

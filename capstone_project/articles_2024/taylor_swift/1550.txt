@@ -1,0 +1,76 @@
+Let Social Media Today's free newsletter keep you informed, straight from your inbox.
+                    
+                
+            
+Disruption at the microblogging service once known as Twitter has sparked a significant shift in social media.
+Elon Musk’s disruption at the microblogging service once known as Twitter has sparked a significant shift in the broader social media landscape, as many users who’d spent years establishing their online presence via the platform have been left alienated by Musk’s changes in the app, including renaming it X, along with his various personal stances and statements.
+As a result, various options have emerged seeking to fill the void left by Twitter’s evolution, though none are quite getting it right. The challenge of scale remains a significant hurdle, while embedded behaviors mean that X remains the most viable option for following along during live events in particular.
+The question now is, what comes next for this social media sub-sector?
+Will a new service closer to the Twitter of a few years ago emerge? Or are the days of a microblogging service with critical mass gone for good? Will X survive long enough to become Elon’s “everything app,” especially if advertisers continue to stay away from the app? Does Meta’s Threads have the juice to become the next billion-user platform, as Zuck and Co. envision?
+Here’s an overview of some of the key players in the shifting microblogging space.
+X 
+The incumbent in the space, X remains the real-time social network to beat, especially, as noted, around live sports, TV show chatter, and, for better or worse, political debate.
+While Elon’s controversial changes at the platform have pushed many away, a lot of them have since failed to find an equivalent experience elsewhere, leading them back to the app, while others in more niche communities now maintain a dissociative ignorance of Musk’s antics, and simply go about their business in the app as normal.
+Because that’s what they know, within the communities that they’ve developed over time.
+Essentially, Elon’s altered the user experience enough to fracture the app, but it remains functionally viable in most respects.
+Which means that X has already beaten the odds, given that many projected that the platform would collapse in on itself after Musk culled 80% of its staff.
+Somewhat implausibly, that hasn’t happened, and while it has arguably become a more toxic environment in many respects, key elements, like sports discussion, remain strong, and continue to prop up X’s numbers.
+For example, X claims that Super Bowl conversation was up 26% on last year. The Taylor Swift element would have played a significant role in this as well, but still, X remains the place to be for the biggest, most lively public group chat around major events
+Nothing has matched it, and even as Musk works on more ways to push X users towards paying to access the app, it is seemingly still going strong, with more than 500 million monthly active users.
+Though that’s just one element, X is also struggling to get its ad business back on track, after Elon told ad partners where to go if they don’t like him or his updates. X ad revenue is still reportedly down around 50% on the pre-Musk period, and with mounting debt, X could still be on the way out, even if it is able to maintain its usage levels.
+So what comes next for X?
+Well, for one, I still don’t see the everything app plan becoming a thing. 
+Elon’s key strength is optimism, and projecting large-scale future tech developments, which he’s able to maintain as a focus, despite all logic and evidence suggesting that such goals will not be met.
+Within this, his everything app plan, which he originally hatched in the early 2000’s, is outdated, unviable, unworkable, and unwanted in many respects. It’s hard to see Elon making payments and banking both foundational elements of a new X app, while doing so with far fewer resources also seems unrealistic.
+In some ways, X has already conceded this, by shifting focus to video content instead, though its initial slate of exclusive video content is also not likely to drive a huge uptick in usage. There are some good signs, like MrBeast posting to the app, and Tucker Carlson’s show getting millions of views. But still, X’s total user count has been sitting on 500 million for a year now, and if it can’t grow significantly, it’s hard to see why ad partners would be overly keen to return to even their past spending levels, let alone give the platform more emphasis. 
+Basically, X needs to get its ad business back on track. Subscriptions won’t offset its losses, and while Elon remains hopeful that the platform will eventually grow its user base so significantly that it’ll become too big to ignore, whether you agree with his stances or not, I don’t see that happening either.
+But X’s opportunity remains, despite the various controversies, or maybe because of them to some degree. In spite of everything, many communities are still well embedded on X, and it’s going to take major incentives to get them to make any switch.
+That’ll buy Elon more time, though a cash squeeze is coming, which could override everything else.
+Threads
+The most likely of the X competitors, Threads has continued its steady growth as an alternative to Musk’s app, and is where many Twitter cast-offs have now planted their flag instead, as they seek to rebuild their in-app communities.
+Though Threads continues to resist turning itself into a full Twitter replica, most notably through its rejection of real-time trends and related discovery.
+Threads has repeatedly said that it won’t add chronological Search tools, despite having a working model of such, while it’s also now looking to demote political constant entirely, in favor of more light, positive posts.
+As such, it’s not really a Twitter alternative at all, but more a complementary app for Meta’s other tools. Which could be enough, and could still see strong adoption. Though it is also worth noting that Threads’ overall growth hasn’t been as significant as the raw numbers might suggest.
+In October last year, Zuckerberg reported that Threads was closing in on 100 million active users, just three months after launch. Which is pretty impressive, though the appetite for a Twitter alternative, along with its cross-promotion through IG, did help to inflate those early figures.
+This month, Meta reported that the app is now up to 130 million monthly actives, which suggests that Threads is growing at a rate of around 10 million news users per month, on average.
+Which is also pretty good, and would be a stronger growth rate than most other social apps. But then again, Threads was also launched in EU within that period, and when you calculate the number of IG users who are also now active on Threads, and use that as a proxy for how many EU users would likely also sign-up to the app, 30 million more users is not really surprising, and is not indicative or meteoric growth.
+On balance, Threads could actually be struggling to gain significant traction, and as it refuses to align with more common X usage behaviors, it’s getting harder to see how the app will maintain its growth.
+Also, as noted, X usage seemingly hasn’t been impacted in any significant way as a result of Threads. 
+Essentially, while Threads is the most viable Twitter alternative among the pack, it’s still got a long way to go to become a legitimate alternative option.
+Which, it’s also worth noting, Meta has repeatedly said it does not want it to be.
+Bluesky
+The next in line is likely Bluesky, the decentralized social platform originally formulated by Jack Dorsey, whose wide-eyed optimism matches Elon’s, and often fails to deliver in just the same way.
+Bluesky opened to the public last week, which sparked a surge in sign-ups, with the Twitter-like platform now up to around 4.6 million users. The platform is also working to showcase the value of its algorithmic control options, one of the various user control options within the app, and alternatives like this could help to drive more take-up and make it a more viable consideration.
+But 4.6 million users is still tiny in comparison to the major platforms, and thus far, Bluesky hasn’t provided a realistic Twitter alternative, in terms of real engagement around major events. 
+Inevitably, most users will be drawn to the crowd, and where they can be involved in key discussions, and while Bluesky may offer some value in certain niches in this respect, it’s a long way off being a realistic consideration in the microblog race.  
+Mastodon
+It’s a similar story on Mastodon, which is still too small, and too niche, to appeal to a significant audience.
+And for both platforms, there’s also no indication that the decentralized platform push will ever be a significant draw for a critical mass of users. 
+Maybe, eventually, decentralization will become more of a consideration. But at 2 million users, and with a challenging UI, Mastodon doesn’t yet look like growing into a viable Twitter alternative.
+Post, T2, Spill
+Among the remaining contenders, the audience reach is even smaller, and they’re each struggling to maintain activity and interest.
+T2, which was founded by former Twitter staffers, shut down in November due to lack of growth, while Post and Spill still remain at low usage levels, even as they grow their appeal in certain niche communities.
+The challenge for all of these apps now is time, and how long they can keep running, without burning through their available cash. Each platform has a level of investment to keep them moving, but as that well dries up, they’ll all be forced to re-assess their operations, and whether they can remain viable moving forward.
+Hopes remain that a true Twitter alternative will emerge from this cluster of challenger apps, but right now, it’s Meta that holds the cards as the best secondary prospect. And even its hand is not as strong as it may initially have seemed.
+Essentially, X is still a critical platform for many millions of users, while engagement outside of the U.S., where Elon’s political stances are likely not as big of a focus, remains strong, helping to prop up its business. 
+Each platform faces significant challenges going forward, in terms of how they drive more growth, but right now, it does seem like X is set to maintain its position as the key real-time discussion app. Whether you like it or not. 
+And unless Meta can work out a way to shift some of the most embedded X communities, it’s hard to see Threads posing a major challenge. 
+Though then again, maybe it’s just a matter of time till Elon pushes more of them away, through his changes or comments, or till X falls apart due to lack of ad dollars.
+Get the free daily newsletter read by industry experts
+For months, we’ve been tracking Elon Musk’s $44 billion deal with Twitter. Now that the deal is done, we watch as the Musk-Twitter era begins.
+The key to maximizing a social media marketing strategy is to ground the approach in purpose.
+Keep up with the story. Subscribe to the Social Media Today free daily newsletter
+Subscribe to Social Media Today for top news, trends & analysis
+Get the free daily newsletter read by industry experts
+Want to share a company announcement with your peers?
+
+
+                                
+                                    Get started
+                                
+                                ➔
+
+
+For months, we’ve been tracking Elon Musk’s $44 billion deal with Twitter. Now that the deal is done, we watch as the Musk-Twitter era begins.
+The key to maximizing a social media marketing strategy is to ground the approach in purpose.
+The free newsletter covering the top industry headlines

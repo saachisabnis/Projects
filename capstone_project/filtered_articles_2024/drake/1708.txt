@@ -1,0 +1,38 @@
+New research by University of Texas at Dallas geoscientist Dr. Robert Stern and a colleague suggests a geological explanation for why conclusive evidence for advanced extraterrestrial (ET) civilizations has not been found, even though the Drake equation predicts that there should be many such civilizations in our galaxy capable of communicating with us.
+In a study published online April 12 in Nature’s Scientific Reports, Stern and Dr. Taras Gerya, a professor of Earth sciences at the Swiss Federal Institute of Technology in Zurich, propose that the presence of oceans and continents, as well as long-term plate tectonics, on life-bearing planets is essential for the evolution of active, communicative civilizations (ACCs).
+The researchers conclude that the probable scarcity of these three requirements on exoplanets would significantly decrease the expected number of such ET civilizations in the galaxy.
+“Life has been around on Earth for about 4 billion years, but complex organisms like animals didn’t appear until about 600 million years ago, which is not long after the modern episode of plate tectonics began,” said Stern, a professor of sustainable Earth systems sciences in the School of Natural Sciences and Mathematics. “Plate tectonics really jump-starts the evolution machine, and we think we understand why.”
+In 1961 astronomer Dr. Frank Drake devised an equation in which several factors are multiplied together to estimate the number of intelligent civilizations in our galaxy capable of making their presence known to humans:
+N = R* x fp x ne x fl x fi x fc x L
+N: The number of civilizations in the Milky Way galaxy whose electromagnetic emissions (radio waves, etc.) are detectable.
+R*: The number of stars formed annually.
+fp: The fraction of those stars with planetary systems.
+ne: The number of planets per solar system with an environment suitable for life.
+fl: The fraction of suitable planets on which life actually appears.
+fi: The fraction of life-bearing planets on which intelligent life emerges.
+fc: The fraction of civilizations that develop a technology that produces detectable signs of their existence.
+L: The average length of time (years) such civilizations produce such signs.
+Assigning values to the seven variables has been an educated guessing game, leading to predictions that such civilizations should be widespread. But if that is true, why is there no conclusive evidence of their existence?
+This contradiction is known as the Fermi paradox, named for nuclear physicist and Nobelist Dr. Enrico Fermi, who informally posed the question to colleagues.
+In their study, Stern and Gerya propose refining one of the Drake equation factors — fi, the fraction of life-bearing planets on which intelligent life emerges — to take into account the necessity of large oceans and continents and the existence of plate tectonics for more than 500 million years on those planets.
+“In the original formulation, this factor was thought to be nearly 1, or 100% — that is, evolution on all planets with life would march forward and, with enough time, turn into an intelligent civilization,” Stern said. “Our perspective is: That’s not true.”
+Plate tectonics is a theory formulated in the late 1960s that states the Earth’s crust and upper mantle are broken into moving pieces, or plates, that very slowly move — about as fast as fingernails and hair grow.
+In our solar system, only one of the four rocky bodies with surface deformation and volcanic activity — Earth — has plate tectonics. Three others — Venus, Mars and Jupiter’s moon Io — are actively deforming and have young volcanoes, but they lack plate tectonics, Stern said. Two other rocky bodies — Mercury and the moon — lack such activity and are tectonically dead.
+“It is much more common for planets to have an outer solid shell that is not fragmented, which is known as single-lid tectonics,” Stern said. “But plate tectonics is much more effective than single-lid tectonics for driving the emergence of advanced life-forms.”
+As tectonic plates move, they crash into or move apart from one another, forming geological structures such as mountains, volcanoes and oceans, which also allow moderate weather and climate patterns to develop. Through weathering, nutrients are released into oceans. By creating and destroying habitats, plate tectonics puts moderate but incessant environmental stress on species to evolve and adapt.
+Stern and Gerya also evaluated the importance of the long-lasting presence of large land masses and oceans for evolution leading to an active, communications-capable species.
+“Both continents and oceans are required for ACCs because evolution of simple to complex multicellular life must happen in water, but further evolution leading to wondering about the night sky, harnessing fire and using metals to create new technologies, and finally to the emergence of ACCs capable of sending radio waves and rocket ships into space, must happen on land,” Stern said.
+To learn more about how UT Dallas is enhancing lives through transformative research, explore New Dimensions: The Campaign for UT Dallas.
+The research team proposed a revision to the Drake equation that defines fi as the product of two terms: foc, the fraction of habitable exoplanets with significant continents and oceans, and fpt, the fraction of planets that have had long-lasting plate tectonics.
+Based on their analysis, Stern said the fraction of the exoplanets with optimal water volume is likely very small. They estimate the value of foc ranges between 0.0002 and 0.01. Similarly, the team concluded that plate tectonics lasting more than 500 million years is also highly unusual, leading to an estimate of fpt at less than 0.17.
+“When we multiply these factors together, we get a refined estimate of fi that is very small, between 0.003% and 0.2%, instead of 100%,” Stern said. “This explains the extreme rareness of favorable planetary conditions for the development of intelligent life in our galaxy and resolves the Fermi paradox.”
+According to NASA, more than 5,000 exoplanets have been confirmed in the Milky Way from ground-based observations and orbiting platforms such as the Kepler and James Webb space telescopes. While scientists, including UT Dallas planet hunter Dr. Kaloyan Penev, assistant professor of physics, have gotten better at finding planets around other stars and estimating the number that are rocky, they don’t yet have the capability to detect plate tectonics on exoplanets.
+“Biogeochemistry posits that the solid Earth, particularly plate tectonics, speeds up the evolution of species,” Stern said. “Studies like ours are useful because they stimulate thinking broadly about larger mysteries and provide an example of how we can apply our knowledge of Earth systems to interesting questions about our universe.”
+The research was supported by the Swiss National Science Foundation.
+Media Contact: Amanda Siegfried, UT Dallas, 972-883-4335, amanda.siegfried@utdallas.edu, or the Office of Media Relations, UT Dallas, (972) 883-2155, newscenter@utdallas.edu.
+
+Amanda Siegfried, UT Dallas, 972-883-4335, amanda.siegfried@utdallas.edu, or the Office of Media Relations, UT Dallas, (972) 883-2155, newscenter@utdallas.edu.
+800 W. Campbell RoadRichardson, Texas 75080-3021
+972-883-2111
+© The University of Texas at Dallas
+Questions or comments about this page?

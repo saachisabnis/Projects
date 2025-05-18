@@ -1,0 +1,926 @@
+Top 10 Week of Dec. 8:
+Black Doves Soars; Our Little Secret Is Most-Watched Title This Week
+
+ 
+
+TOP 10 LISTS: Dec. 1 - Dec. 8
+Fans took a break from panic planning for the upcoming holidays this week, choosing to get their thrills from action, mystery, and retiree espionage instead. The critically acclaimed Christmas-set spy thriller Black Doves, starring Golden Globe nominee Keira Knightley, tapped the No. 2 spot on the English TV list (10.8 million views) and reached the top 10 in 89 countries. Ted Danson infiltrated the list  -  and our hearts  -  with A Man on the Inside taking No. 7 (3 million views). Then, Senna (Brazil), the limited series based on the life and career of the titular Formula 1 icon, raced to No. 1 (5.8 million views) on the Non-English TV list, with The Madness rising to No. 1 in English TV, making the top 10 in 90 countries, with 13.3 million views.
+Fans also made sure to find their holiday spirit this week, keeping Our Little Secret at the top of their list (23.5 million views). The film starring Lindsay Lohan, Ian Harding, and Kristin Chenoweth remained in the No. 1 spot on the English films list  -  and found its way to the top 10 in 92 countries. Family-friendly animation also shone bright heading into the holidays, with That Christmas at No. 2, reaching the top 10 in 86 countries (18.3 million views), and Spellbound landing at No. 7 (5.3 million views). Meanwhile, the Christmas drama The Snow Sister (Norway) fa la la landed at No. 5 on the Non-English films list (2.9 million views). Both on the English TV list, Is It Cake? Holiday was a sweet treat at No. 6 (3.1 million views) and Sabrina Carpenter's holiday variety music special A Nonsense Christmas brought some glee to No. 8 (2.6 million views).  
+When fans wanted a break from the holidays, they found plenty of action, with ARCANE Season 2 championing the English TV list at No. 9 with 2.3 million views and GTMAX (France) landing at No. 10 on the Non-English films list (1.6 million views). 
+Docuseries and reality TV had their moment this week across genres on the English TV list. In true crime, Cold Case: Who Killed JonBenét Ramsey reached No. 4 (4.6 million views), while the silver singles in The Later Daters Season 1 found love at No. 10 (1.8 million views). There was also a dose of reality TV sprinkled in with Season 3 of The Ultimatum: Marry or Move On at No. 5 (3.3 million views).
+Fans remained invested in historical dramas. The Children's Train (Italy) emerged at No. 1 on the Non-English films list (7.9 million views), while the biblical epic Mary debuted at No. 4 on the English films list (11.4 million views). Both seasons of The Empress (Germany) reigned on the Non-English TV list, with Season 1 at No. 7 (1.8 million views) and Season 2 at No. 4 (3.6 million views). 
+Speaking of dramas, they were big across the Non-English TV list. Two Korean limited series took spots on the list, with When the Phone Rings at No. 2 (4.3 million views) and The Trunk at No. 3 (4.1 million views). Meanwhile, Asaf (Turkey) came in at No. 6 (2.3 million views) and Sisters' Feud Season 1 (Mexico) at No. 9 (1.6 million views).  
+To download Top 10 assets, visit Top10.netflix.com. 
+Some titles may not be available in all regions.
+
+
+
+week	category		weekly_rank	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10				
+
+Films (English)
+	1	Our Little Secret	39500000	1.6833	23500000	2
+	2	That Christmas	29200000	1.6	18300000	1
+	3	Dr. Seuss' The Grinch	18500000	1.4333	12900000	8
+	4	Mary	21200000	1.8667	11400000	1
+	5	Twas the Text Before Christmas	11800000	1.4	8400000	1
+	6	Subservience	12500000	1.75	7100000	1
+	7	Spellbound	9800000	1.8333	5300000	3
+	8	A Royal Date for Christmas	7800000	1.4667	5300000	1
+	9	How the Grinch Stole Christmas	8800000	1.7333	5100000	5
+	10	Hotel Transylvania 3: Summer Vacation	7900000	1.6167	4900000	6
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+TOP 10 LISTS: Dec. 1 - Dec. 8
+Fans took a break from panic planning for the upcoming holidays this week, choosing to get their thrills from action, mystery, and retiree espionage instead. The critically acclaimed Christmas-set spy thriller Black Doves, starring Golden Globe nominee Keira Knightley, tapped the No. 2 spot on the English TV list (10.8 million views) and reached the top 10 in 89 countries. Ted Danson infiltrated the list  -  and our hearts  -  with A Man on the Inside taking No. 7 (3 million views). Then, Senna (Brazil), the limited series based on the life and career of the titular Formula 1 icon, raced to No. 1 (5.8 million views) on the Non-English TV list, with The Madness rising to No. 1 in English TV, making the top 10 in 90 countries, with 13.3 million views.
+Fans also made sure to find their holiday spirit this week, keeping Our Little Secret at the top of their list (23.5 million views). The film starring Lindsay Lohan, Ian Harding, and Kristin Chenoweth remained in the No. 1 spot on the English films list  -  and found its way to the top 10 in 92 countries. Family-friendly animation also shone bright heading into the holidays, with That Christmas at No. 2, reaching the top 10 in 86 countries (18.3 million views), and Spellbound landing at No. 7 (5.3 million views). Meanwhile, the Christmas drama The Snow Sister (Norway) fa la la landed at No. 5 on the Non-English films list (2.9 million views). Both on the English TV list, Is It Cake? Holiday was a sweet treat at No. 6 (3.1 million views) and Sabrina Carpenter's holiday variety music special A Nonsense Christmas brought some glee to No. 8 (2.6 million views).  
+When fans wanted a break from the holidays, they found plenty of action, with ARCANE Season 2 championing the English TV list at No. 9 with 2.3 million views and GTMAX (France) landing at No. 10 on the Non-English films list (1.6 million views). 
+Docuseries and reality TV had their moment this week across genres on the English TV list. In true crime, Cold Case: Who Killed JonBenét Ramsey reached No. 4 (4.6 million views), while the silver singles in The Later Daters Season 1 found love at No. 10 (1.8 million views). There was also a dose of reality TV sprinkled in with Season 3 of The Ultimatum: Marry or Move On at No. 5 (3.3 million views).
+Fans remained invested in historical dramas. The Children's Train (Italy) emerged at No. 1 on the Non-English films list (7.9 million views), while the biblical epic Mary debuted at No. 4 on the English films list (11.4 million views). Both seasons of The Empress (Germany) reigned on the Non-English TV list, with Season 1 at No. 7 (1.8 million views) and Season 2 at No. 4 (3.6 million views). 
+Speaking of dramas, they were big across the Non-English TV list. Two Korean limited series took spots on the list, with When the Phone Rings at No. 2 (4.3 million views) and The Trunk at No. 3 (4.1 million views). Meanwhile, Asaf (Turkey) came in at No. 6 (2.3 million views) and Sisters' Feud Season 1 (Mexico) at No. 9 (1.6 million views).  
+To download Top 10 assets, visit Top10.netflix.com. 
+Some titles may not be available in all regions.
+
+
+
+week	category		weekly_rank	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10				
+
+Films (English)
+	1	Our Little Secret	39500000	1.6833	23500000	2
+	2	That Christmas	29200000	1.6	18300000	1
+	3	Dr. Seuss' The Grinch	18500000	1.4333	12900000	8
+	4	Mary	21200000	1.8667	11400000	1
+	5	Twas the Text Before Christmas	11800000	1.4	8400000	1
+	6	Subservience	12500000	1.75	7100000	1
+	7	Spellbound	9800000	1.8333	5300000	3
+	8	A Royal Date for Christmas	7800000	1.4667	5300000	1
+	9	How the Grinch Stole Christmas	8800000	1.7333	5100000	5
+	10	Hotel Transylvania 3: Summer Vacation	7900000	1.6167	4900000	6
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+Fans took a break from panic planning for the upcoming holidays this week, choosing to get their thrills from action, mystery, and retiree espionage instead. The critically acclaimed Christmas-set spy thriller Black Doves, starring Golden Globe nominee Keira Knightley, tapped the No. 2 spot on the English TV list (10.8 million views) and reached the top 10 in 89 countries. Ted Danson infiltrated the list  -  and our hearts  -  with A Man on the Inside taking No. 7 (3 million views). Then, Senna (Brazil), the limited series based on the life and career of the titular Formula 1 icon, raced to No. 1 (5.8 million views) on the Non-English TV list, with The Madness rising to No. 1 in English TV, making the top 10 in 90 countries, with 13.3 million views.
+Fans also made sure to find their holiday spirit this week, keeping Our Little Secret at the top of their list (23.5 million views). The film starring Lindsay Lohan, Ian Harding, and Kristin Chenoweth remained in the No. 1 spot on the English films list  -  and found its way to the top 10 in 92 countries. Family-friendly animation also shone bright heading into the holidays, with That Christmas at No. 2, reaching the top 10 in 86 countries (18.3 million views), and Spellbound landing at No. 7 (5.3 million views). Meanwhile, the Christmas drama The Snow Sister (Norway) fa la la landed at No. 5 on the Non-English films list (2.9 million views). Both on the English TV list, Is It Cake? Holiday was a sweet treat at No. 6 (3.1 million views) and Sabrina Carpenter's holiday variety music special A Nonsense Christmas brought some glee to No. 8 (2.6 million views).  
+When fans wanted a break from the holidays, they found plenty of action, with ARCANE Season 2 championing the English TV list at No. 9 with 2.3 million views and GTMAX (France) landing at No. 10 on the Non-English films list (1.6 million views). 
+Docuseries and reality TV had their moment this week across genres on the English TV list. In true crime, Cold Case: Who Killed JonBenét Ramsey reached No. 4 (4.6 million views), while the silver singles in The Later Daters Season 1 found love at No. 10 (1.8 million views). There was also a dose of reality TV sprinkled in with Season 3 of The Ultimatum: Marry or Move On at No. 5 (3.3 million views).
+Fans remained invested in historical dramas. The Children's Train (Italy) emerged at No. 1 on the Non-English films list (7.9 million views), while the biblical epic Mary debuted at No. 4 on the English films list (11.4 million views). Both seasons of The Empress (Germany) reigned on the Non-English TV list, with Season 1 at No. 7 (1.8 million views) and Season 2 at No. 4 (3.6 million views). 
+Speaking of dramas, they were big across the Non-English TV list. Two Korean limited series took spots on the list, with When the Phone Rings at No. 2 (4.3 million views) and The Trunk at No. 3 (4.1 million views). Meanwhile, Asaf (Turkey) came in at No. 6 (2.3 million views) and Sisters' Feud Season 1 (Mexico) at No. 9 (1.6 million views).  
+To download Top 10 assets, visit Top10.netflix.com. 
+Some titles may not be available in all regions.
+
+
+
+week	category		weekly_rank	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10				
+
+Films (English)
+	1	Our Little Secret	39500000	1.6833	23500000	2
+	2	That Christmas	29200000	1.6	18300000	1
+	3	Dr. Seuss' The Grinch	18500000	1.4333	12900000	8
+	4	Mary	21200000	1.8667	11400000	1
+	5	Twas the Text Before Christmas	11800000	1.4	8400000	1
+	6	Subservience	12500000	1.75	7100000	1
+	7	Spellbound	9800000	1.8333	5300000	3
+	8	A Royal Date for Christmas	7800000	1.4667	5300000	1
+	9	How the Grinch Stole Christmas	8800000	1.7333	5100000	5
+	10	Hotel Transylvania 3: Summer Vacation	7900000	1.6167	4900000	6
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+Fans also made sure to find their holiday spirit this week, keeping Our Little Secret at the top of their list (23.5 million views). The film starring Lindsay Lohan, Ian Harding, and Kristin Chenoweth remained in the No. 1 spot on the English films list  -  and found its way to the top 10 in 92 countries. Family-friendly animation also shone bright heading into the holidays, with That Christmas at No. 2, reaching the top 10 in 86 countries (18.3 million views), and Spellbound landing at No. 7 (5.3 million views). Meanwhile, the Christmas drama The Snow Sister (Norway) fa la la landed at No. 5 on the Non-English films list (2.9 million views). Both on the English TV list, Is It Cake? Holiday was a sweet treat at No. 6 (3.1 million views) and Sabrina Carpenter's holiday variety music special A Nonsense Christmas brought some glee to No. 8 (2.6 million views).  
+When fans wanted a break from the holidays, they found plenty of action, with ARCANE Season 2 championing the English TV list at No. 9 with 2.3 million views and GTMAX (France) landing at No. 10 on the Non-English films list (1.6 million views). 
+Docuseries and reality TV had their moment this week across genres on the English TV list. In true crime, Cold Case: Who Killed JonBenét Ramsey reached No. 4 (4.6 million views), while the silver singles in The Later Daters Season 1 found love at No. 10 (1.8 million views). There was also a dose of reality TV sprinkled in with Season 3 of The Ultimatum: Marry or Move On at No. 5 (3.3 million views).
+Fans remained invested in historical dramas. The Children's Train (Italy) emerged at No. 1 on the Non-English films list (7.9 million views), while the biblical epic Mary debuted at No. 4 on the English films list (11.4 million views). Both seasons of The Empress (Germany) reigned on the Non-English TV list, with Season 1 at No. 7 (1.8 million views) and Season 2 at No. 4 (3.6 million views). 
+Speaking of dramas, they were big across the Non-English TV list. Two Korean limited series took spots on the list, with When the Phone Rings at No. 2 (4.3 million views) and The Trunk at No. 3 (4.1 million views). Meanwhile, Asaf (Turkey) came in at No. 6 (2.3 million views) and Sisters' Feud Season 1 (Mexico) at No. 9 (1.6 million views).  
+To download Top 10 assets, visit Top10.netflix.com. 
+Some titles may not be available in all regions.
+
+
+
+week	category		weekly_rank	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10				
+
+Films (English)
+	1	Our Little Secret	39500000	1.6833	23500000	2
+	2	That Christmas	29200000	1.6	18300000	1
+	3	Dr. Seuss' The Grinch	18500000	1.4333	12900000	8
+	4	Mary	21200000	1.8667	11400000	1
+	5	Twas the Text Before Christmas	11800000	1.4	8400000	1
+	6	Subservience	12500000	1.75	7100000	1
+	7	Spellbound	9800000	1.8333	5300000	3
+	8	A Royal Date for Christmas	7800000	1.4667	5300000	1
+	9	How the Grinch Stole Christmas	8800000	1.7333	5100000	5
+	10	Hotel Transylvania 3: Summer Vacation	7900000	1.6167	4900000	6
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+When fans wanted a break from the holidays, they found plenty of action, with ARCANE Season 2 championing the English TV list at No. 9 with 2.3 million views and GTMAX (France) landing at No. 10 on the Non-English films list (1.6 million views). 
+Docuseries and reality TV had their moment this week across genres on the English TV list. In true crime, Cold Case: Who Killed JonBenét Ramsey reached No. 4 (4.6 million views), while the silver singles in The Later Daters Season 1 found love at No. 10 (1.8 million views). There was also a dose of reality TV sprinkled in with Season 3 of The Ultimatum: Marry or Move On at No. 5 (3.3 million views).
+Fans remained invested in historical dramas. The Children's Train (Italy) emerged at No. 1 on the Non-English films list (7.9 million views), while the biblical epic Mary debuted at No. 4 on the English films list (11.4 million views). Both seasons of The Empress (Germany) reigned on the Non-English TV list, with Season 1 at No. 7 (1.8 million views) and Season 2 at No. 4 (3.6 million views). 
+Speaking of dramas, they were big across the Non-English TV list. Two Korean limited series took spots on the list, with When the Phone Rings at No. 2 (4.3 million views) and The Trunk at No. 3 (4.1 million views). Meanwhile, Asaf (Turkey) came in at No. 6 (2.3 million views) and Sisters' Feud Season 1 (Mexico) at No. 9 (1.6 million views).  
+To download Top 10 assets, visit Top10.netflix.com. 
+Some titles may not be available in all regions.
+
+
+
+week	category		weekly_rank	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10				
+
+Films (English)
+	1	Our Little Secret	39500000	1.6833	23500000	2
+	2	That Christmas	29200000	1.6	18300000	1
+	3	Dr. Seuss' The Grinch	18500000	1.4333	12900000	8
+	4	Mary	21200000	1.8667	11400000	1
+	5	Twas the Text Before Christmas	11800000	1.4	8400000	1
+	6	Subservience	12500000	1.75	7100000	1
+	7	Spellbound	9800000	1.8333	5300000	3
+	8	A Royal Date for Christmas	7800000	1.4667	5300000	1
+	9	How the Grinch Stole Christmas	8800000	1.7333	5100000	5
+	10	Hotel Transylvania 3: Summer Vacation	7900000	1.6167	4900000	6
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+Docuseries and reality TV had their moment this week across genres on the English TV list. In true crime, Cold Case: Who Killed JonBenét Ramsey reached No. 4 (4.6 million views), while the silver singles in The Later Daters Season 1 found love at No. 10 (1.8 million views). There was also a dose of reality TV sprinkled in with Season 3 of The Ultimatum: Marry or Move On at No. 5 (3.3 million views).
+Fans remained invested in historical dramas. The Children's Train (Italy) emerged at No. 1 on the Non-English films list (7.9 million views), while the biblical epic Mary debuted at No. 4 on the English films list (11.4 million views). Both seasons of The Empress (Germany) reigned on the Non-English TV list, with Season 1 at No. 7 (1.8 million views) and Season 2 at No. 4 (3.6 million views). 
+Speaking of dramas, they were big across the Non-English TV list. Two Korean limited series took spots on the list, with When the Phone Rings at No. 2 (4.3 million views) and The Trunk at No. 3 (4.1 million views). Meanwhile, Asaf (Turkey) came in at No. 6 (2.3 million views) and Sisters' Feud Season 1 (Mexico) at No. 9 (1.6 million views).  
+To download Top 10 assets, visit Top10.netflix.com. 
+Some titles may not be available in all regions.
+
+
+
+week	category		weekly_rank	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10				
+
+Films (English)
+	1	Our Little Secret	39500000	1.6833	23500000	2
+	2	That Christmas	29200000	1.6	18300000	1
+	3	Dr. Seuss' The Grinch	18500000	1.4333	12900000	8
+	4	Mary	21200000	1.8667	11400000	1
+	5	Twas the Text Before Christmas	11800000	1.4	8400000	1
+	6	Subservience	12500000	1.75	7100000	1
+	7	Spellbound	9800000	1.8333	5300000	3
+	8	A Royal Date for Christmas	7800000	1.4667	5300000	1
+	9	How the Grinch Stole Christmas	8800000	1.7333	5100000	5
+	10	Hotel Transylvania 3: Summer Vacation	7900000	1.6167	4900000	6
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+Fans remained invested in historical dramas. The Children's Train (Italy) emerged at No. 1 on the Non-English films list (7.9 million views), while the biblical epic Mary debuted at No. 4 on the English films list (11.4 million views). Both seasons of The Empress (Germany) reigned on the Non-English TV list, with Season 1 at No. 7 (1.8 million views) and Season 2 at No. 4 (3.6 million views). 
+Speaking of dramas, they were big across the Non-English TV list. Two Korean limited series took spots on the list, with When the Phone Rings at No. 2 (4.3 million views) and The Trunk at No. 3 (4.1 million views). Meanwhile, Asaf (Turkey) came in at No. 6 (2.3 million views) and Sisters' Feud Season 1 (Mexico) at No. 9 (1.6 million views).  
+To download Top 10 assets, visit Top10.netflix.com. 
+Some titles may not be available in all regions.
+
+
+
+week	category		weekly_rank	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10				
+
+Films (English)
+	1	Our Little Secret	39500000	1.6833	23500000	2
+	2	That Christmas	29200000	1.6	18300000	1
+	3	Dr. Seuss' The Grinch	18500000	1.4333	12900000	8
+	4	Mary	21200000	1.8667	11400000	1
+	5	Twas the Text Before Christmas	11800000	1.4	8400000	1
+	6	Subservience	12500000	1.75	7100000	1
+	7	Spellbound	9800000	1.8333	5300000	3
+	8	A Royal Date for Christmas	7800000	1.4667	5300000	1
+	9	How the Grinch Stole Christmas	8800000	1.7333	5100000	5
+	10	Hotel Transylvania 3: Summer Vacation	7900000	1.6167	4900000	6
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+Speaking of dramas, they were big across the Non-English TV list. Two Korean limited series took spots on the list, with When the Phone Rings at No. 2 (4.3 million views) and The Trunk at No. 3 (4.1 million views). Meanwhile, Asaf (Turkey) came in at No. 6 (2.3 million views) and Sisters' Feud Season 1 (Mexico) at No. 9 (1.6 million views).  
+To download Top 10 assets, visit Top10.netflix.com. 
+Some titles may not be available in all regions.
+
+
+
+week	category		weekly_rank	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10				
+
+Films (English)
+	1	Our Little Secret	39500000	1.6833	23500000	2
+	2	That Christmas	29200000	1.6	18300000	1
+	3	Dr. Seuss' The Grinch	18500000	1.4333	12900000	8
+	4	Mary	21200000	1.8667	11400000	1
+	5	Twas the Text Before Christmas	11800000	1.4	8400000	1
+	6	Subservience	12500000	1.75	7100000	1
+	7	Spellbound	9800000	1.8333	5300000	3
+	8	A Royal Date for Christmas	7800000	1.4667	5300000	1
+	9	How the Grinch Stole Christmas	8800000	1.7333	5100000	5
+	10	Hotel Transylvania 3: Summer Vacation	7900000	1.6167	4900000	6
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+To download Top 10 assets, visit Top10.netflix.com. 
+Some titles may not be available in all regions.
+
+
+
+week	category		weekly_rank	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10				
+
+Films (English)
+	1	Our Little Secret	39500000	1.6833	23500000	2
+	2	That Christmas	29200000	1.6	18300000	1
+	3	Dr. Seuss' The Grinch	18500000	1.4333	12900000	8
+	4	Mary	21200000	1.8667	11400000	1
+	5	Twas the Text Before Christmas	11800000	1.4	8400000	1
+	6	Subservience	12500000	1.75	7100000	1
+	7	Spellbound	9800000	1.8333	5300000	3
+	8	A Royal Date for Christmas	7800000	1.4667	5300000	1
+	9	How the Grinch Stole Christmas	8800000	1.7333	5100000	5
+	10	Hotel Transylvania 3: Summer Vacation	7900000	1.6167	4900000	6
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+Some titles may not be available in all regions.
+
+
+
+week	category		weekly_rank	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10				
+
+Films (English)
+	1	Our Little Secret	39500000	1.6833	23500000	2
+	2	That Christmas	29200000	1.6	18300000	1
+	3	Dr. Seuss' The Grinch	18500000	1.4333	12900000	8
+	4	Mary	21200000	1.8667	11400000	1
+	5	Twas the Text Before Christmas	11800000	1.4	8400000	1
+	6	Subservience	12500000	1.75	7100000	1
+	7	Spellbound	9800000	1.8333	5300000	3
+	8	A Royal Date for Christmas	7800000	1.4667	5300000	1
+	9	How the Grinch Stole Christmas	8800000	1.7333	5100000	5
+	10	Hotel Transylvania 3: Summer Vacation	7900000	1.6167	4900000	6
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+week	category		weekly_rank	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10				
+
+Films (English)
+	1	Our Little Secret	39500000	1.6833	23500000	2
+	2	That Christmas	29200000	1.6	18300000	1
+	3	Dr. Seuss' The Grinch	18500000	1.4333	12900000	8
+	4	Mary	21200000	1.8667	11400000	1
+	5	Twas the Text Before Christmas	11800000	1.4	8400000	1
+	6	Subservience	12500000	1.75	7100000	1
+	7	Spellbound	9800000	1.8333	5300000	3
+	8	A Royal Date for Christmas	7800000	1.4667	5300000	1
+	9	How the Grinch Stole Christmas	8800000	1.7333	5100000	5
+	10	Hotel Transylvania 3: Summer Vacation	7900000	1.6167	4900000	6
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+Films (English)
+	1	Our Little Secret	39500000	1.6833	23500000	2
+	2	That Christmas	29200000	1.6	18300000	1
+	3	Dr. Seuss' The Grinch	18500000	1.4333	12900000	8
+	4	Mary	21200000	1.8667	11400000	1
+	5	Twas the Text Before Christmas	11800000	1.4	8400000	1
+	6	Subservience	12500000	1.75	7100000	1
+	7	Spellbound	9800000	1.8333	5300000	3
+	8	A Royal Date for Christmas	7800000	1.4667	5300000	1
+	9	How the Grinch Stole Christmas	8800000	1.7333	5100000	5
+	10	Hotel Transylvania 3: Summer Vacation	7900000	1.6167	4900000	6
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+Films (Non-English)
+	1	The Children's Train	14000000	1.7667	7900000	1
+	2	Lucky Baskhar	16300000	2.4667	6600000	2
+	3	Sikandar Ka Muqaddar	10900000	2.3833	4600000	2
+	4	Amaran	11600000	2.8167	4100000	1
+	5	The Snow Sister	4700000	1.6333	2900000	2
+	6	Camp Crasher	3900000	1.6	2400000	1
+	7	Jigra	5000000	2.5667	1900000	1
+	8	The Waiter	2800000	1.45	1900000	1
+	9	Sleeping Princess	2200000	1.35	1600000	1
+	10	GTMAX	2600000	1.6667	1600000	3
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+TV (English)
+	1	The Madness: Limited Series	87300000	6.5833	13300000	2
+	2	Black Doves: Season 1	59400000	5.5	10800000	1
+	3	La Brea: Season 1	35600000	7.1833	5000000	1
+	4	Cold Case: Who Killed JonBenét Ramsey: Season 1	13700000	3	4600000	2
+	5	The Ultimatum: Marry or Move On: Season 3	15100000	4.5333	3300000	1
+	6	Is It Cake? Holiday: Season 1	8200000	2.6833	3100000	2
+	7	A Man on the Inside: Season 1	12000000	3.9667	3000000	3
+	8	A Nonsense Christmas with Sabrina Carpenter	2200000	0.8333	2600000	1
+	9	Arcane: Season 2	14300000	6.2167	2300000	5
+	10	The Later Daters: Season 1	9800000	5.5333	1800000	1
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1
+
+
+
+		
+
+
+
+
+
+
+
+
+
+TV (Non-English)
+	1	Senna: Limited Series	37000000	6.35	5800000	2
+	2	When the Phone Rings: Limited Series	19400000	4.5	4300000	3
+	3	The Trunk: Limited Series	34400000	8.45	4100000	2
+	4	The Empress: Season 2	19700000	5.4667	3600000	3
+	5	DAN DA DAN	10000000	4.1	2400000	9
+	6	Asaf: Season 1	10600000	4.55	2300000	1
+	7	The Empress: Season 1	10400000	5.7167	1800000	8
+	8	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1
+	9	Sisters' Feud: Season 1	19600000	12.6167	1600000	4
+	10	Valle Salvaje: Season 1	7900000	0	1300000	1

@@ -1,0 +1,135 @@
+In an exclusive interview, the company's leaders detail the firm's new monetization model and its upcoming partnership with Imogen Heap.
+
+													By
+												
+
+	Kristin Robinson
+
+Senior Writer
+
+	There is no shortage of AI voice synthesis companies on the market today, but Voice-Swap, founded and led by Dan “DJ Fresh” Stein, is trying to reimagine what these companies can be. 
+
+	The music producer and technologist intends Voice-Swap to act as not just a simple conversion tool but an “agency” for artists’ AI likenesses. He’s also looking to solve the ongoing question of how to monetize these voice models in a way that gets the most money back to the artists — a hotly contested topic since anonymous TikTok user Ghostwriter employed AI renderings of Drake and The Weeknd‘s voices without their permission on the viral song “Heart On My Sleeve.”
+
+	
+
+
+
+
+
+
+
+
+
+
+	In an exclusive interview with Billboard, Stein and Michael Pelczynski, Voice-Swap’s chief strategy and impact officer, explain their business goals as well as their new monetization plan, which includes providing a dividend for participating artists and payment to artists every time a user employs their AI voice — not just when the resulting song is released commercially and streamed on DSPs. The company also reveals that it’s working on a new partnership with Imogen Heap to create her voice model, which will arrive this summer.
+
+
+
+
+			Trending on Billboard		
+
+
+
+
+
+
+	Voice-Swap sees the voice as the “new real estate of IP,” as Pelczynski puts it — just another form of ownership that can allow a participating artist to make passive income. (The voice, along with one’s name and likeness, is considered a “right of publicity” which is currently regulated differently state-to-state.)
+
+	In addition to seeing AI voice technology as a useful tool to engage fans of notable artists like Heap and make translations of songs, the Voice-Swap team also believes AI voices represent a major opportunity for session vocalists with distinct timbres but lower public profiles to earn additional income. On its platform now, the company has a number of session vocalists of varying vocal styles available for use; Voice-Swap sees session vocalists’ AI voice models as potentially valuable to songwriters and producers who may want to shape-shift those voices during writing and recording sessions. (As Billboard reported in August, using AI voice models to better tailor pitch records to artists has become a common use-case for the emerging technology.)
+
+	
+
+
+
+
+
+
+
+
+
+
+	“We like to think that, much like a record label, we have a brand that we want to build with the style of artists and the quality we represent at Voice-Swap,” says Stein. “It doesn’t have to be a specific genre, but it’s about hosting unique and incredible voices as opposed to [just popular artists].”
+
+Last year, we saw a lot of fear and excitement surrounding this technology as Ghostwriter appeared on social media and Grimes introduced her own voice model soon after. How does your approach compare to these examples?
+
+Pelczynski: This technology did stoke a lot of fear at first. This is because people see it as a magic trick. When you don’t know what’s behind it and you just see the end result and wonder how it just did that, there is wonder and fear that comes. [There is now the risk] that if you don’t work with someone you trust on your vocal rights, someone is going to pick up that magic trick and do it without you. That’s what happened with Ghostwriter and many others.
+
+	The one real main thing to emphasize is the magic trick of swapping a voice isn’t where the story ends, it’s where it begins. And I think Grimes in particular is approaching it with an intent to empower artists. We are, too. But I think where we differentiate is the revenue stream part. With the Grimes model, you create what you want to create and then the song goes into the traditional ecosystem of streaming and other ways of consuming music. That’s where the royalties are made off of that.
+
+	We are focused on the inference. Our voice artists get paid on the actual conversion of the voice. Not all of these uses of AI voices end up on streaming, so this is important to us. Of course, if the song is released, additional money for the voice can be made then, too. As far as we know, we are the first platform to pay royalties on the inference, the first conversion.
+
+	
+
+
+
+
+
+
+
+
+
+
+Stein: We also allow artists the right to release their results through any distributor they want. [Grimes’ model is partnered exclusively with TuneCore.] We see ourselves a bit like an agency for artists’ voices.
+
+What do you mean by an “agency” for artists’ voices?
+
+Stein: When we work with an artist at Voice-Swap we intend to represent them and license their voice models created with us to other platforms to increase their opportunities to earn income. It’s like working with an agent to manage your live bookings. We want to be the agent for the artists’ AI presence and help them monetize it on multiple platforms but always with their personal preferences and concerns in mind.
+
+What kinds of platforms would be interested in licensing an AI voice model from Voice-Swap?
+
+Stein: It is early days for all of the possible use cases, but we think the most obvious example at the moment is music production platforms [or DAWs, short for digital audio workstation] that want to use voice models in their products.
+
+	There are two approaches you can take [as an AI voice company.] We could say we are a SaaS platform, and the artist can do deals with other platforms themselves. But the way we approach this is we put a lot of focus into the quality of our models and working with artists directly to keep improving it. We want to be the one-stop solution for creating a model the artist is proud of.
+
+	I think the whole thing with AI and where this technology is going is that none of us know what it’s going to be doing 10 years from now. So for us, this was also about getting into a place where we can build that credibility in those relationships and not just with the artists. We want to work with labels, too. 
+
+	
+
+
+
+
+
+
+
+
+
+
+Do you have any partnerships with DAWs or other music-making platforms in place already?
+
+Pelczynski: We are in discussions and under NDA pending an announcement. Every creator’s workflow is different — we want our users to have access to our roster of voices wherever they feel most comfortable, be that via the website, in a DAW or elsewhere. That’s why we’re exploring these partnerships, and why we’ve designed our upcoming VST [virtual studio technology] to make that experience even more seamless. We also recently announced a partnership with SoundCloud, with deeper integrations aimed at creators forthcoming.
+
+	Ultimately, the more places our voices are available, the more opportunities there are for new revenue for the artists, and that’s our priority.
+
+Can some music editing take place on the Voice-Swap website, or do these converted voices need to be exported?
+
+Pelczynski: Yes, Dan has always wanted to architect a VST so that it can act like a plug-in in someone’s DAW, but we also have the capability of letting users edit and do the voice conversion and some music editing on our website using our product Stem-Swap. That’s an amazing playground for people that are just coming up. It is similar to how BandLab and others are a good quick way to experiment with music creation.
+
+How many users does Voice-Swap have?
+
+Pelczynski: We have 140,000 verified unique users, and counting.
+
+Can you break down the specifics of how much your site costs for users?
+
+Pelczynski: We run a subscription and top-up pricing system. Users pay a monthly or one-off fee and receive audio credits. Credits are then used for voice conversion and stem separation, with more creator tools on the way.
+
+	
+
+
+
+
+
+
+
+
+
+
+How did your team get connected with Imogen Heap, and given all the competitors in the AI voice space today, why do you think she picked Voice-Swap? 
+
+Pelczynski: We’re very excited to be working with her. She’s one of many established artists that we’re working on currently in the pipeline, and I think our partnership comes down to our ethos of trust and consent. I know it sounds trite, but I think it’s absolutely one of the cornerstones to our success. 
+Get weekly rundowns straight to your inbox
+A daily briefing on what matters in the music industry
+Send us a tip using our anonymous form.
+A daily briefing on what matters in the music industry
+Send us a tip using our anonymous form.
+Billboard is a part of Penske Media Corporation. © 2025 Billboard Media, LLC. All Rights Reserved.

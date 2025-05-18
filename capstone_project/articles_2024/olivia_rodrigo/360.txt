@@ -1,0 +1,11 @@
+Dan Neely was early to spot the potential problems AI-generated deep-fakes would cause celebrities. The serial entrepreneur says he first noticed crypto mining rigs shifting to generate deep fakes around 2018. Not long after, AI-generated videos of rappers like Jay-Z started showing up singing songs like Billy Joel’s “We Didn’t Start the Fire.” 
+In 2021, Neely founded Vermillio to help celebrities protect their likeness from being misused. The company bills itself as “the first generative AI platform built specifically to protect the work of content creators.” In January, it signed a deal to protect artists represented by the agency WME, which includes artists like Olivia Rodrigo and actors like Hugh Jackman. 
+To protect a client, Vermillio ingests all of their content and builds a “holistic likeness model of who that person is,” Neely explains. The company’s software then scans major platforms for possible matches. Neely hopes that in the age of generative AI, Vermillio will eventually become “the blue checkmark of the internet.” 
+Customers have the choice of allowing some types of content, like fan art, while prohibiting others, like deepfake pornography. Vermillio also helps artists charge a license for promotional campaigns that may use their likeness. 
+At about $4,000 a month, the company is consciously starting “with the world's most beloved IP and talent,” but it will eventually open-source the underlying technology, because Neely believes protecting your likeness is not just something the most privileged should have access to. “It’s a human right,” he says.  
+By Billy Perrigo
+By Andrew R. Chow
+By Harry Booth
+By Harry Booth
+By Andrew R. Chow
+Contact us at letters@time.com

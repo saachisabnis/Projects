@@ -1,0 +1,29 @@
+Profile
+Sections
+Local
+tv
+Featured
+More From NBC
+Follow NBC News
+ news Alerts
+There are no new alerts at this time
+One of the biggest record labels in the world is issuing notices warning hundreds of companies not to train artificial intelligence models on its content without permission.
+Sony Music Group — which owns such well-known labels as Columbia Records, RCA Records and Epic Records — has started sending formal letters to more than 700 generative AI companies and streaming platforms prohibiting them from mining text or data, web scraping or otherwise using any SMG content without explicit licensing agreements.
+That covers a wide variety of content, including audio recordings, musical compositions (including lyrics), cover artwork and metadata, according to a copy of the letter obtained by NBC News.
+In its letter, SMG said it recognizes the “significant potential and advancement” of AI. 
+"However, unauthorized use of SMG Content in the training, development or commercialization of AI systems deprives SMG Companies and SMG Talent of control over and appropriate compensation for the uses of SMG Content, conflicts with the normal exploitation of those works, unreasonably prejudices our legitimate interests, and infringes our intellectual property and other rights," it wrote.
+Such activity “conflicts with the normal exploitation of those works, unreasonably prejudices our legitimate interests, and infringes our intellectual property and other rights," the letter says.
+Asked for comment, a spokesperson for SMG referred NBC News to a declaration the company posted online Thursday.
+“Evolutions in technology have frequently shifted the course of creative industries. AI will likely continue that long-standing trend,” it wrote in the post. “However, that innovation must ensure that songwriters’ and recording artists’ rights, including copyrights, are respected.”
+The letter asks companies either to confirm that they have not used SMG content without permission or, if they have, to provide details about how the content was used in AI training.
+The European Union’s Artificial Intelligence Act, the world’s first comprehensive AI law, which passed in March, includes a clause requiring providers of general-purpose AI models to make public a “sufficiently detailed” summary of the content used to train those models.
+Concerns around the use of AI have plagued the music industry in recent months as the rapid proliferation of generative AI tools makes it easier than ever for anyone to scrape copyrighted content to produce AI-generated music.
+While regulations protecting human-made work still lag in the U.S., many companies have begun to negotiate their own agreements around the licensing of their content for AI model training. Some have also sued AI companies, claiming their AI models were trained on copyrighted materials.
+Some tracks that appear to use AI-generated vocals have already popped up online. Last year, a viral song called “heart on my sleeve,” created by an anonymous musician who goes by "ghostwriter,” featured vocals that sound like those of Drake and The Weeknd. It was quickly taken down from streaming services because of a copyright claim by Universal Music Group.
+(UMG has no relationship to NBCUniversal, the parent company of NBC News.)
+In April, Drake released “Taylor Made Freestyle,” which featured the AI-generated voice of the late rapper Tupac Shakur. The diss track was removed from Drake’s X and Instagram accounts days after Shakur’s estate threatened to sue him.
+Warner Music Group CEO Robert Kyncl testified last month before the Senate Judiciary subcommittee on intellectual property to advocate for legislation that would protect against using nonconsensual deepfakes. 
+“Our fundamental position on AI is simple. Everyone should have the right to decide how their own name, likeness and voice is used,” Kyncl said in prepared remarks. “These characteristics are the very foundations of our individuality — they are not simply data to be taken and used by others. Each person’s identity must not be used in ways that they would never condone or wish to participate in.”
+Artists are also pushing for protections against AI. More than 200 artists signed an open letter last month calling on AI developers, tech companies and digital music services to pledge not to use AI in ways that “undermine or replace the human artistry of songwriters and artists.”
+Angela Yang is a culture and trends reporter for NBC News.
+© 2025 NBCUniversal Media, LLC

@@ -1,0 +1,197 @@
+Latest	
+
+
+
+		AI	
+
+
+
+		Amazon	
+
+
+
+		Apps	
+
+
+
+		Biotech & Health	
+
+
+
+		Climate	
+
+
+
+		Cloud Computing	
+
+
+
+		Commerce	
+
+
+
+		Crypto	
+
+
+
+		Enterprise	
+
+
+
+		EVs	
+
+
+
+		Fintech	
+
+
+
+		Fundraising	
+
+
+
+		Gadgets	
+
+
+
+		Gaming	
+
+
+
+		Google	
+
+
+
+		Government & Policy	
+
+
+
+		Hardware	
+
+
+
+		Instagram	
+
+
+
+		Layoffs	
+
+
+
+		Media & Entertainment	
+
+
+
+		Meta	
+
+
+
+		Microsoft	
+
+
+
+		Privacy	
+
+
+
+		Robotics	
+
+
+
+		Security	
+
+
+
+		Social	
+
+
+
+		Space	
+
+
+
+		Startups	
+
+
+
+		TikTok	
+
+
+
+		Transportation	
+
+
+
+		Venture	
+
+
+
+		Events	
+
+
+
+		Startup Battlefield	
+
+
+
+		StrictlyVC	
+
+
+
+		Newsletters	
+
+
+
+		Podcasts	
+
+
+
+		Videos	
+
+
+
+		Partner Content	
+
+
+
+		TechCrunch Brand Studio	
+
+
+
+		Crunchboard	
+
+
+
+		Contact Us	
+
+Meta on Wednesday announced the creation of an AI advisory council with only white men on it. What else would we expect? Women and people of color have been speaking out for decades about being ignored and excluded from the world of artificial intelligence despite them being qualified and playing a key role in the evolution of this space. 
+Meta did not immediately respond to our request to comment about the diversity of the advisory board. 
+This new advisory board differs from Meta’s actual board of directors and its Oversight Board, which is more diverse in gender and racial representation. Shareholders did not elect this AI board, which also has no fiduciary duty. Meta told Bloomberg that the board would offer “insights and recommendations on technological advancements, innovation, and strategic growth opportunities.” It would meet “periodically.” 
+It’s telling that the AI advisory council is composed entirely of businesspeople and entrepreneurs, not ethicists or anyone with an academic or deep research background. While one could argue that current and former Stripe, Shopify and Microsoft executives are well positioned to oversee Meta’s AI product roadmap given the immense number of products they’ve brought to market among them, it’s been proven time and time again that AI isn’t like other products. It’s a risky business, and the consequences of getting it wrong can be far-reaching, particularly for marginalized groups.
+In a recent interview with TechCrunch, Sarah Myers West, managing director at the AI Now Institute, a nonprofit that studies the social implications of AI, said that it’s crucial to “critically examine” the institutions producing AI to “make sure the public’s needs [are] served.”
+“This is error-prone technology, and we know from independent research that those errors are not distributed equally, they disproportionately harm communities that have long borne the brunt of discrimination,” she said. “We should be setting a much, much higher bar.”
+Women are far more likely than men to experience the dark side of AI. Sensity AI found in 2019 that 96% of AI deepfake videos online were nonconsensual, sexually explicit videos. Generative AI has become far more prevalent since then, and women are still the targets of this violative behavior. 
+In one high-profile incident from January, nonconsensual, pornographic deepfakes of Taylor Swift went viral on X, with one of the most widespread posts receiving hundreds of thousands of likes, and 45 million views. Social platforms like X have historically failed at protecting women from these circumstances — but since Taylor Swift is one of the most powerful women in the world, X intervened by banning search terms like “taylor swift ai” and taylor swift deepfake.”
+But if this happens to you and you’re not a global pop sensation, then you might be out of luck. There are numerous reports of middle school and high school-aged students making explicit deepfakes of their classmates. While this technology has been around for a while, it’s never been easier to access — you don’t have to be technologically savvy to download apps that are specifically advertised to “undress” photos of women or swap their faces onto pornography. In fact, according to reporting by NBC’s Kat Tenbarge, Facebook and Instagram hosted ads for an app called Perky AI, which described itself as a tool to make explicit images. 
+Two of the ads, which allegedly escaped Meta’s detection until Tenbarge alerted the company to the issue, showed photos of celebrities Sabrina Carpenter and Jenna Ortega with their bodies blurred out, urging customers to prompt the app to remove their clothes. The ads used an image of Ortega from when she was just 16 years old.
+The mistake of allowing Perky AI to advertise was not an isolated incident. Meta’s Oversight Board recently opened investigations into the company’s failure to handle reports of sexually explicit, AI-generated content. 
+It is imperative for women’s and people of color’s voices to be included in the innovation of artificial intelligence products. For so long, such marginalized groups have been excluded from the development of world-changing technologies and research, and the results have been disastrous. 
+An easy example is the fact that until the 1970s, women were excluded from clinical trials, meaning entire fields of research developed without the understanding of how it would impact women. Black people, in particular, see the impacts of technology built without them in mind — for example, self-driving cars are more likely to hit them because their sensors might have a harder time detecting Black skin, according to a 2019 study done by the Georgia Institute of Technology. 
+Algorithms trained on already discriminatory data only regurgitate the same biases that humans have trained them to adopt. Broadly, we already see AI systems perpetuating and amplifying racial discrimination in employment, housing and criminal justice. Voice assistants struggle to understand diverse accents and often flag the work by non-native English speakers as being AI-generated since, as Axios noted, English is AI’s native tongue. Facial recognition systems flag Black people as possible matches for criminal suspects more often than white people. 
+The current development of AI embodies the same existing power structures regarding class, race, gender and Eurocentrism that we see elsewhere, and it seems not enough leaders are addressing it. Instead, they are reinforcing it. Investors, founders and tech leaders are so focused on moving fast and breaking things that they can’t seem to understand that generative AI — the hot AI tech of the moment — could make the problems worse, not better. According to a report from McKinsey, AI could automate roughly half of all jobs that don’t require a four-year degree and pay over $42,000 annually, jobs in which minority workers are overrepresented. 
+There is cause to worry about how a team of all-white men at one of the most prominent tech companies in the world, engaging in this race to save the world using AI, could ever advise on products for all people when only one narrow demographic is represented. It will take a massive effort to build technology that everyone — truly everyone — could use. In fact, the layers needed to actually build safe and inclusive AI — from the research to the understanding on an intersectional societal level — are so intricate that it’s almost obvious that this advisory board will not help Meta get it right. At least where Meta falls short, another startup could arise.
+We’re launching an AI newsletter! Sign up here to start receiving it in your inboxes on June 5.
+Topics
+
+Senior Reporter, Venture
+
+Dominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City. You can contact her on Signal at +1 (646)-831-7565.
+
+Senior Writer
+
+Amanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.
+Send tips through Signal, an encrypted messaging app, to (929) 593-0227. For anything else, email amanda@techcrunch.com.
+
+AI Editor
+
+© 2025 TechCrunch Media LLC.

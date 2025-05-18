@@ -1,0 +1,27 @@
+FOH engineer Ken “Pooch” Van Druten with the Waves API  2500 plugin open on his screen
+ORLANDO – FOH engineer Ken “Pooch” Van Druten, winner of the 2024 Parnelli Award for “FOH Mixer of the Year” (known for his work with Iron Maiden, Jay-Z, Justin Bieber and ZZ Top) has chosen to mix the recent Travis Scott Circus Maximus stadium tour with Waves plugins via Waves’ SuperRack SoundGrid seamlessly integrated with his DiGiCo SD12 96 console.
+More details from Waves (www.waves.com):
+Van Druten’s setup for the Travis Scott tour includes a DiGiCo SD12 96 with Waves IO card, a Mac mini running Waves SuperRack SoundGrid, a Waves Pro Show bundle, two Extreme SoundGrid Servers, a Rupert Neve Designs Master Buss Processor, one Oven from Hendyamps, Logic Pro for recording, Smaart V9 and Dante driver for Clair Cohesion speakers.
+Van Druten comments, “On this tour, my go-to Waves plugins are the C6, F6, API 2500, PSE, CLA76, Scheps Omni Channel 2, CLA Epic, SSL EV2 Channel, Silk Vocal and the Waves X-FDBK.”
+He elaborates, “The C6 Multiband Compressor and F6 Floating Dynamic EQ are most commonly used on busses and problematic inputs. They are the Swiss Army knives of Waves Plugins. Both are used as audio ‘correction’ for this gig. Chase B, the DJ on this tour, is amazing, but occasionally he sends me certain tracks that have some frequencies that are overemphasized. While this may be tolerable on headphones or nearfields for a few seconds, when we are talking about two hundred and two Clair Global CO-10 Cohesion boxes, which I am using on this gig, I need the C6 to smooth some of these moments out. Additionally, I employ the F6 on the DJ bus, side-chained from Travis’s vocal to slightly dip the DJ bus in the mid-range whenever his vocal is active.”
+He goes on: “Additional go-to Waves plugins include the API 2500, which I insert on busses that have transients, like drums and percussion. I use the 2500 on the band bus in my mixes almost exclusively. The Waves PSE (Primary Source Expander) is the front end of every one of my vocal inputs since its initial release in 2016. Most people ignore the internal side chain feature. This is what sets it apart from hardware and other plugin vocal expanders. Don’t ignore it. The internal side chain is the magic! By focusing the threshold on a specific frequency area, you can effectively eliminate all stage noise, surpassing the limitations of other vocal expansion tools. Also, the Scheps Omni Channel 2 is an exceptional channel strip that acts like a Neve, an SSL, an API, a Trident, a (insert favorite channel strip here…). In other words, it is a chameleon that draws from the finest traits of each and delivers amazing flexibility. It just sounds great.”
+“Who doesn’t love a Urei 1176 on everything?” Van Druten continues. “That’s where the CLA-76 Compressor/Limiter comes in. I use the 76 on vocals, snare drums, bass guitars, and more. Another standout plugin from CLA is the CLA Epic, which is my new favorite effect tool. It reminds me of an updated Lexicon series of EFX. Similar to the Scheps, it’s all your favorites like the PCM70, PCM60, the 480L, the 224, all rolled into one. The Waves SSL EV2 Channel is an amazing channel strip. It takes all of the coolness of the different series of SSL consoles, it has a little E-series, G-series and 9000 in it. An excellent tool on drums, guitars, and vocals. Lately, I have incorporated the recently released Waves Silk Vocal plugin as a new tool for vocals. It’s quick and helps you shape a vocal very easily. It’s the big strokes not the surgical strike.”
+He goes on, “Finally, the Waves X-FDBK serves as my secret emergency sauce. I rarely use it on a vocal full time. But it is an invaluable tool for those instances where your artist is, in front of the PA or jumps down in front of a front fill. I quickly use this plug on a daily basis to swiftly eliminate feedback in those critical moments. It’s usually a macro on my DiGiCo console.”
+To conclude, Van Druten notes, “Waves plugins are pivotal to my workflow. When I need great warmth and depth, Waves plugins provide my ‘secret sauce’ for a successful sound.”
+The Circus Maximus tour, in support of Travis Scott’s 2023 album, Utopia, began Oct. 11, 2023, toured North America through Jan. 31, 2024, and is set to conclude when Scott performs at the Rock in Rio festival in Brazil on Sept. 13, 2024.
+Sign Up for Our Newsletter
+"*" indicates required fields
+Δ
+
+
+May 2025Articles | Digital IssueApril 2025Articles | Digital IssueMarch 2025Articles | Digital IssueFebruary 2025Articles | Digital IssueJanuary 2025Articles | Digital Issue
+Timeless Communications Corp.
+6700 Via Austi Pkwy, Suite C
+Las Vegas, NV 89119
+P: (702) 932-5585
+© 2025 Timeless Communications, LLC
+Timeless Communications Corp.
+6700 Via Austi Pkwy, Suite C
+Las Vegas, NV 89119
+P: (702) 932-5585
+© 2025 Timeless Communications, LLC

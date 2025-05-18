@@ -1,0 +1,30 @@
+Swifties are gearing up for an exciting week ahead — Taylor Swift’s latest studio album, “The Tortured Poets Department,” is set to drop on Friday, April 19. 
+Swift made headlines in February when she announced the new album during the 66th annual Grammy Awards. Fans were elated to learn that the album was to be released just a few months later.
+But how will streaming services like Spotify handle what is likely to be an unprecedented amount of traffic when the album drops later this week? 
+Spotify, which has 602 million monthly users, temporarily went down for a short period during the launch of Swift’s last album “Midnights” in October 2022. 
+Can we expect the same thing to happen this time around?  
+Edmund Yeh, a Northeastern University electrical and computer engineering professor and an expert on content delivery technologies, says Spotify has likely been preparing for Swift’s album launch by reviewing traffic patterns during her other album launches and having copies of the new album already cached on servers located near Swifties.
+Whether or not Spotify crashes again depends on how well the company estimates how much traffic it gets on launch day, Yeh says.    
+“These are very atypical events because Taylor Swift is such a big phenomenon,” he says. “They have to basically predict how much traffic there will be and where the traffic will originate. If they are really off, it could be a problem.”
+Swifties, don’t let a potential Spotify crash ruin the release of TTPD! #TaylorSwift #TTPDTaylorSwift #TheTorturedPoetsDepartment #JoeAlwyn #MattyHealy #The1975 #Streaming #Spotify #AppleMusic #Swiftie #Swifties #Swifttok 
+But to really understand how companies like Spotify work and are able to handle large amounts of data and traffic at all, it’s important to understand the keystone internet technology it uses day to day, Yeh says.
+They are known as “content delivery networks” or CDNs. 
+To explain how these works, Yeh uses an analogy.
+Imagine Apple releases its latest iPhone and a huge number of customers begin to arrive at its stores to buy it. It would be unwise, Yeh says, for Apple to have to go back to its supplier in China or India every time a customer orders a phone and have that supplier ship the phone directly to the consumer from the production facility. That would be inefficient, and it would take weeks or months for customers to get their phones.  
+Instead, Apple has created a distribution network and ships iPhones to warehouses around the world before these large-scale launches. That way the phones are closer to where customers are purchasing them. 
+CDNs work the same way, but digitally, he says. 
+Instead of having to access digital files from an “origin” server possibly located on the other side of the world, CDN servers can be set up closer to the user. The CDN servers are then loaded up with “cached” copies of the files from the origin server — such as Swift’s new album — reducing download times, and traffic bottlenecks.
+“What the CDNs do is they distribute this content onto what are called edge servers, which are closer to where the users are,” he adds. “That means you can start to download [Swift’s album] with say a 20 millisecond delay instead of say a 100 to 200 millisecond delay.”
+In anticipation of Swift’s new album, Yeh says Spotify “needs to not only accurately predict how much traffic there will be and where the traffic will originate, but also provision enough edge servers with sufficient storage capacity and bandwidth to react to the predicted traffic surge.
+“If you expect a huge traffic surge in let’s say LA, then you better make sure there are enough edge servers near LA with enough storage memory storing Swift songs, and fast enough network links which can transmit the songs to the users in LA,” he says. “In the same way, if you expect a huge amount of demand for the new iPhones in Boston, then Apple needs to make sure there are enough warehouses with enough iPhones and enough trucks to move phones from the warehouses to the stores near Boston, so that customers can get the phones quickly on launch day.” 
+CDNs were invented about two decades ago and were instrumental in making the internet less prone to crashing, Yeh says.
+“They became so dominant and so necessary that today the majority of internet traffic is actually being carried by CDNs,” he says. “The big players have basically developed their own CDNs. Microsoft has a CDN. Amazon has a CDN. Google has a CDN. Netflix has its own CDN.”   
+Spotify has partnered with cloud platform providers like Fastly to host its CDNs, Yeh notes. 
+During the launch of Swift’s last album in 2022, Spotify crashed for a short period, but it was long enough to cause discord among Swift’s devoted fanbase. Yeh notes that CDNs are not without issue and can still be overwhelmed. 
+Spotify’s crash might have been a result of one of those systems failing, Yeh says. 
+“It’s a great example of how good you have to be,” he says, “because even just a little delay can cause people to be offended and dissatisfied.”
+But the incident also highlights the importance of the technology, and in helping deliver Swift’s music to millions of people around the globe.  
+“Her album launch is clearly going to be a great media phenomenon, and the internet is going to have a huge challenge,” he says. “Taylor Swift is a great example of why you need these content delivery networks.”
+Cesareo Contreras is a Northeastern Global News reporter. Email him at c.contreras@northeastern.edu. Follow him on X/Twitter @cesareo_r and Threads @cesareor.
+© 2025 
+		Northeastern University

@@ -1,0 +1,13 @@
+Software steals songs to ‘spit out’ similar tunes, lawsuit says, asking for $150,000 a work in compensation
+The world’s biggest record companies are suing the artificial intelligence song generators Suno and Udio for copyright infringement, alleging that the AI music startups are exploiting the recorded works of artists from Chuck Berry to Mariah Carey.
+The Recording Industry Association of America announced the lawsuits on Monday, brought by labels including Sony Music Entertainment, Universal Music Group Recordings and Warner Records.
+One case was filed in the federal court in Boston against Suno AI, and the other in New York against Uncharted Labs, the developer of Udio AI.
+The lawsuit claims Suno and Udio’s software steals music to “spit out” similar work and asked for compensation of $150,000 (£118,200, A$225,400) a work.
+Suno, which released its first product last year and charges a monthly fee to users, has a partnership with Microsoft.
+Udio, which released its app in April, became popular when the US producer Metro Boomin used it to make BBL Drizzy, a viral parody of the diss tracks between Kendrick Lamar and Drake.
+Suno AI’s chief executive, Mikey Shulman, said the technology was “designed to generate completely new outputs, not to memorise and regurgitate pre-existing content” and doesn’t allow users to reference specific artists.
+Shulman said his Cambridge, Massachusetts-based startup tried to explain this to labels “but instead of entertaining a good faith discussion, they’ve reverted to their old lawyer-led playbook”.
+Udio didn’t immediately respond to requests for comment.
+RIAA’s chairman and chief executive, Mitch Glazier, said the music industry was collaborating with responsible AI developers but “unlicensed services like Suno and Udio that claim it’s ‘fair’ to copy an artist’s life’s work and exploit it for their own profit without consent or pay set back the promise of genuinely innovative AI for us all”.
+AI has been a heated topic of conversation in the music industry, with debates ranging from the creative possibilities of the new technology to concerns about its legality. In March Tennessee became the first US state to pass legislation to protect songwriters, performers and other music industry professionals against the potential dangers of AI. Supporters said the goal was to ensure that AI tools could not replicate an artist’s voice without consent.
+The following month, more than 200 artists signed an open letter submitted by the Artist Rights Alliance non-profit, calling on artificial intelligence tech companies, developers, platforms, digital music services and platforms to stop using AI to infringe upon and devalue the rights of human artists.

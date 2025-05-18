@@ -1,0 +1,2163 @@
+Home
+SPONSOR NOTE: Champion Circle is running a special promotion to put one MGoBlog (exclusively MGoBlog) reader on the field against USC. One of YOU gets this:
+Enter by Next Tuesday at 5PM by contributing to the fund, which goes directly to those other guys on the field.
+-------------------------------
+FORMATION NOTES: The UFR Glossar y is here. Brackets describe pre-snap motion so if you see "[A-Return]" that's the second RB ("A") going back and forth across the formation like a tight end. New term for the safety that Wink sometimes has hanging out just off the LOS is "lurk"—so this is 4-3 Over Lurk, with Q-Jo on the top hash hanging out like he might do anything (he bails to a single-high).
+Racecar is what we call Michigan's 30 front except when there's a DT at defensive end I now call it Clunker.
+[After THE JUMP: 51 plays in the first half, 80 total.]
+Ln
+Dn
+Dst
+OForm
+DPack
+Front
+Hi
+Type
+Rush
+Play
+Player
+Yds
+EPA
+O24
+1st
+10
+Gun Str
+4-2-5
+4-3 Split
+1 off
+PRO
+n/a
+RB Flat/SZ
+Hill
+2
+-0.34
+[Z-Fly] RPO read is D-Mo who's shuffling in to take on the kickout: pull. Hill(+2, coverage+2) is breaking immediately, tackle is a little adventuresome but gets the job done.
+O26
+2nd
+8
+Gun 2RB Twins
+4-2-5
+Nk Over
+2 off
+Penalty
+False Start
+n/a
+(-5)
+-0.58
+Oops.
+O21
+2nd
+13
+Gun Str
+4-2-5
+4-3 Split
+2 off
+PA
+n/a
+Flare Screen
+Graham
+Inc
+-0.20
+[H-Fly]. Blue is at slot and motions again. Graham(+2) is blitzing, whacks the RB who can't get out, so Ewers throws to nobody, Barham breaks a second too late to pick it off. Grant(+0.5) tracked. Refs-2 the QB is in the pocket and there are no eligible receivers close; that is grounding. RPS+2 wrecked the RB on the screen.
+O21
+3rd
+13
+Gun Str
+4-2-5
+Clunker
+1 off
+Pass
+4
+Stop-n-go
+Hill
+33
+3.71
+M shows, max pro (RPS+1). Bond gives Hill(-3, coverage-2) a jab inside at 9 yards on a 3rd & 13 when Jyaire has help inside, and he bites. Good throw is just past the range of Paige(+0.5) who gets a shot in to force Bond to survive a shot from the ground.
+M46
+1st
+10
+Empty 2TE
+5-2-4
+5-2 Odd
+1 off
+Pass
+4
+Dog
+Hill
+Inc
+-1.03
+Both TEs to this side as UT wants a TE vs Hill(+1, coverage+2) matchup that Hill is on top of. Bad route from the top dog? Stewart(+1) has leverage on the low dog and Ewers Tacopants it.
+M46
+2nd
+10
+Pistol TTE
+5-2-4
+5-2 Odd
+1 off
+Run
+Pitch Sweep
+D.Moore
+5
+0.07
+[F-Exit] M starts outleveraged because Barham(-1) buried himself in the same gap as Graham, which I guess is the playcall (RPS-1). M can still get this down as Paige(+1) dodges a crack block to force it back to where D-Mo(+1) got off a block. Hausmann(-1, tackling-1) blows it by overrunning the back and whiffing his tackle, which takes out the other two tacklers. Blue falls forward for a decent gain.
+M41
+3rd
+5
+Offset TTB
+4-2-5
+Clunker
+2 off
+Pass
+5
+Tunnel Screen
+Hausmann
+7
+1.56
+[RB Flare] This is a screen intended to beat Michigan's backside blitz. D-Mo almost bats it down. Berry(-1) gets blasted by a TE and ends up wearing a WR who's hugging him from behind and escorting him outside. Hausmann(-1) is heading out instead of fighting a wall of blockers heading his way which leaves nobody inside. Good plays from Graham(+0.5) and Q-Jo(+0.5) in pursuit to hold it down. RPS-2.
+M34
+1st
+10
+Pistol Trips (Y)
+4-2-5
+Nk Under
+2 off
+RPO
+IZ/Slants
+Barham
+3
+-0.21
+Tempo(30). Graham(-0.5) gives ground vs a double, Hausmann(-1) buries himself in the backside of this which could be bad if the RB (Hat-2) sees the cutback lane this provides. D-Mo may have deterred this a bit but it's there. Instead the RB tries to run behind the double where Barham(+1) has snuck into a tiny gap and stops him before he can burrow.
+M31
+2nd
+7
+Gun 2x2
+4-2-5
+4-3 Split Lurk
+1 off
+Pass
+5
+Throwaway
+Berry
+Inc
+-0.75
+UT motions a TE outside and gets him set, gets no reaction. Amoeba with Stewart popping a WR on his way to cover the flat, which isn't relevant to the play but I want to + because that's advanced for a DE in coverage. Ewers has time to read a whip that Paige(+1, coverage+1) has and that's it as Berry(+1, RPS+1, PR+2) is blitzing in free and UT set the protection to the lurk on the other side. Ewers throws it away by the TE that Stewart is covering.
+M31
+3rd
+7
+Gun Trips Bunch
+4-2-5
+Clunker
+1 off
+Pass
+4
+Scramble
+Q.Johnson
+8
+1.23
+This probably works well in the NFL. Graham is the top DE and comes with Q-Jo(-2) who gets an RB and gets wiped out by him. Graham(-0.5) has a TE and over-rushes (that TE was dynamite all game) and that creates a big lane for Ewers to start running. He pump fakes Barham(-1) and everybody else is in coverage and too far away to do anything as he picks up another 3rd down conversion.
+M23
+1st
+10
+Gun 2RB Twins
+4-2-5
+4-3 Over
+2 fld
+Penalty
+False Start
+n/a
+(-5)
+-0.46
+Oops.
+M28
+1st
+15
+Gun Trips
+4-2-5
+4-3 Split
+2 bdy
+Pass
+4
+Levels
+Johnson
+6
+0.14
+M is bracketing the TE that Johnson(-0.5) stays on just a beat too long to give the RB dumpoff room to gain back a third of the yards they need. coverage-push, tackling-0.5.
+M22
+2nd
+9
+Gun 3x1
+4-2-5
+Nk Not Set
+1 off
+Pass
+n/a
+Flare Screen
+D.Moore
+-2
+-0.80
+Tempo(26). M is changing and WJ is slow getting up after the last play and getting back to his spot, so UT tries to outflank with an RB screen opposite him. D-Mo(+3, RPS+1, tackling+1) isn't naturally dropping into coverage he just reads this thing and brings down Blue in the backfield. Dude.
+M24
+3rd
+11
+Gun 2x2
+4-2-5
+Clunker
+0 off
+Pass
+4
+Rollout
+Hill
+24(-10)
+-1.96
+Time to test holding as Benny(+1) is taken down trying to contain, easy call is made. Ewers rolls out and throws to the endzone where he has a TE and his slot versus just Hill. The TE screens Hill. If I had to guess it's Q-Jo who's supposed to be there on Golden but I can't grade this it's many extra seconds of coverage after a flag that's going to negate it.
+M34
+3rd
+21
+Gun Wk RB
+4-2-5
+Nk Under
+2 off
+Pass
+4
+TE Flat
+Barham
+9
+0.88
+Refs-2 miss another takedown that should move them out of FG range as Guy(+1, PR+1) gets inside the RT and gets dragged down by his sleeve. Hill gets nailed by a WR as the TE is bringing this down, which is OPI and also not called. Barham(-0.5, tackling-0.5) eats a stiffarm while getting the big TE down and that's an extra 6 yards of forward stumble to get to a more makeable FG that they miss anyways. Ball don't lie.
+Drive Notes: Missed FG(43). 0-0. 9 min 1st Q. This drive exhausted me; I can only imagine how the players feel. M goes 3&O and shanks the punt so UT starts on their 44 next drive.
+Ln
+Dn
+Dst
+OForm
+DPack
+Front
+Hi
+Type
+Rush
+Play
+Player
+Yds
+EPA
+O44
+1st
+10
+Pistol Ace
+5-2-4
+5-2 Odd
+2 off
+PA
+4.5
+PA Y-Cross
+Hausmann
+22
+1.43
+[F-Cross] Hausmann(-2, coverage-2) sucked in by PA and lets the Y cross him. If he's anywhere close he has a play on the deflection or even an interception. Benny(+2, PR+2) shoved the C out of his way and is coming in to sack, gets a hand up. Grant(+1) also gets his hands up and actually deflects the ball. It goes..right to the TE--watching this again I'm not sure Ewers was even trying to hit him or throw it away over him. Great concentration by the TE to bring it in either way. Hat+2, Luck-2; M deserved better on this outcome.
+M34
+1st
+10
+Offset Bone
+5-2-4
+5-2 Odd
+2 fld
+RPO
+SZ/Fake Flow Slant
+Hausmann
+3
+-0.21
+[F-Exit] Fresno ran this same thing off split flow action and Barham(+1, RPS+1) is sitting on it. Brandt is no Stewart, doesn't shuffle far enough to affect the RB. Graham(+1) cleared out the blocking so Hausmann(-0.5, tackling-1) has a clean shot, gets run through but RB is off-balance and Benny(+0.5) flowed quickly to help Brandt recover and hold this to a short gain.
+M31
+2nd
+7
+Gun Bone Tight
+5-2-4
+5-2 Under
+2 off
+PA
+n/a
+Snag
+Hausmann
+5
+0.07
+Tempo(23). More easy yards on Hausmann(-1, coverage-1) who bites enough on the PA to leave this open. Graham(+1, PR+1) put the C deep in the backfield and Benny(+1) got a hand up to force Ewers to hop this throw so the WR has to make a tough grab while going down instead of getting some YAC.
+M26
+3rd
+2
+Pistol Twins
+4-2-5
+5-2 Odd
+1 off
+Run
+Split Zone
+Hausmann
+3
+0.41
+[A-Cross]. Snap is off just in time on TV--boos from stadium suggest it might have been a beat late on the scoreboard. They're really picking on Hausmann(-1) this drive. M has nickel personnel out for UT's 2RBs and puts Ernest on the edge, which gets him blown down by a double immediately. Grant(+1) plants the RG in the backfield which picks off the RB trying to come across for the kickout to give Berry(-1, tackling-1) a free shot at blindsiding the RB but Berry slows up to contain too far outside, allow the RB to run off the blowout on the edge. D-Mo(+0.5) and Barham(+0.5) fought across the C to hold it down to that. RPS-1 is for the Hausmann matchup--Berry is only relevant because of Grant.
+M23
+1st
+10
+Pistol Wk
+4-2-5
+Nk Over
+2 fld
+Run
+Power
+Stewart
+2
+-0.15
+Graham(+1) stalemates a double, Stewart(+1) knifes inside a TE who had good leverage on him, Grant(+0.5) gets off his single-block as the RB tries his gap and is swallowed. Goes down maybe an inch past the 23 yard line, Refs-1 give him an extra yard.
+M21
+2nd
+8
+Gun 2x2 Tight
+4-2-5
+4-3 Under
+2 off
+Pass
+4
+Switch TE Post
+Paige
+21
+2.79
+I really wish I had an all-22 replay for this. UT shifts and M shows zone. Token PA doesn't fool the rush; D-Mo(+1) fights a double into Ewers's back, Stewart(+2) gets the RT to overcommit, and that guy has to reach back and grab jersey and yank him down to prevent a sack (Refs-2). Ewers is spooked though. Pump fake gets Grant(-1) to jump, and then Ewers sees the post open and throws the TD. Why so open? I can't tell so I'm splitting blame. Best I can tell they're in quarters. Hill(-2, coverage-3) is with the TE before he switches and then takes two steps off him like he thinks Q-Jo(-2) is going to switch. But Quinten is capping the WR's route and stays there, leaving Hill exposed and the middle of the field open. There's also Rolder who's kinda close to Barham so maybe I'm wrong and he didn't get depth on a Tampa 2. I don't know. Also nobody has the RB on the swing, which might be an issue later.
+Drive Notes: Touchdown. 0-7. 4 min 1st Q.
+Ln
+Dn
+Dst
+OForm
+DPack
+Front
+Hi
+Type
+Rush
+Play
+Player
+Yds
+EPA
+O24
+1st
+10
+Empty 3x2
+4-2-5
+Nk Under
+2 off
+Pass
+4
+Smash
+Paige
+11
+0.90
+Another nearly. Amoeba drops Brandt, Rolder in unblocked (PR+1). Ewers sidearms it around Rolder's blocking arm then takes a shot (Hat+1). Ball is perfectly placed to TE in the flat under Paige(-1 coverage-1, tackling-1) who's got to stay on the seam before breaking but slows up and lets the TE step around him. Not a playcall issue; tough to play against a team that can read your Cov3 and get the ball out like this against instant pressure, but Paige needs to end this at 5 yards not 11.
+O35
+1st
+10
+Offset Trips
+4-2-5
+Nk Over
+2 fld
+Run
+ZR Buck GT
+Brandt
+9
+1.38
+Corner blitz on the backside delivers Guy(-2) to the RB (RPS+2) only for Guy to inexplicably stop. Rolder crashes into him and now M is down a man as Blue escapes. TJ. Brandt(-1, tackling-2) plays this correctly at first, putting a shoulder into the kickout but then the RB bounces around him--senior year Cam makes this a TFL I bet. Grant(-1) gets held and puts up an arm to try to draw a flag instead of flowing hard, which is a bad bet (Refs-1 not off the hook). Hausmann(+1) was clucked at for this missed tackle but he's dealing with the second puller and hops around him to force the back inside, where Grant should be.
+O44
+2nd
+1
+Gun 2x2
+4-2-5
+Nk Over
+2 off
+RPO
+Draw/Flash Screen
+Graham
+6
+0.02
+Tempo(30). RPS-1 as M is expecting a deep pass on 2nd & 1 with both LBs dropping and Graham(-1) flying upfield. LG rides him out of the play and now there's a huge gap for Hausmann(-0.5) and Rolder(-0.5) who both were slow to attack the run despite Grant(+1) surviving against a double and getting an arm on the ballcarrier to initiate the tackle.
+50
+1st
+10
+Pistol Trips (Y)
+4-2-5
+Nk Split
+1.5 off
+PA
+4.5
+RB Dumpoff
+Paige
+Inc
+-1.11
+Tempo(30). Six-man protection vs 4-man rush and M has everything covered (coverage+3). Brandt(+1) finally throws off the RT to sully the clean pocket, Paige(+2) is reading the RB dumpoff and jumps it. The RB gets there second and slams into Paige to break it up, then sparts for what would be a -4 call. This guy.
+50
+2nd
+10
+Empty 2TE
+5-2-4
+5-2 Over
+1 off
+Pass
+4
+Snag-TE Curl
+Hausmann
+6
+0.32
+Quick under on 2nd & 10 is push coverage but Hausmann(-1, tackling-1) whiffs the tackle, Stewart(+0.5) cleans up.
+M44
+3rd
+4
+Gun Wk
+4-2-5
+Nk Odd A
+2 off
+Run
+Split Flow IZ
+Berry
+6
+1.54
+[H-Return] Graham at DE, huge gap to the right with only DBs around, Sark says yes I believe I will help myself to a first down, reading Graham on the edge and running at Zeke Berry in the B gap. Like no I am not giving Berry a -2 for getting engulfed by a 6'3"/330 top-25 guard nor am I dinging Paige for having to choose which side of this go on, nor am I asking the refs to bail us because the RG is ripping Berry's pads over his head. That's on Wink. Barham(+0.5) got off a block to hold it to just the 1st down but just uses his shoulder so the RB can fall forward for a few more. RPS-2.
+M38
+1st
+10
+Empty 3x2
+4-2-5
+Nk Split
+2 off
+Pass
+4
+Sack
+Graham
+0
+-0.78
+Rush The Four, both DEs can't get there but Mertz is flushed and doesn't like any throws to the right (coverage+2). He starts to scramble and Graham(+2) gets off a block for a sack they try to rob him of by giving UT an extra yard, which makes it a 0.67-yard loss and goes in the scorebook as a "Run for no yards." This was snapped at the 38 and every part of Ewers is down behind the 39; it's a sack.
+M38
+2nd
+10
+Gun Wk
+4-2-5
+Nk Over
+1 off
+PA
+3.5
+PA RB Flat
+Barham?
+18
+1.26
+Graham goes down, the LG jumping on his back as the LT takes out his knees. Benny goes down over the pile with the RT on his back so there will be no pursuit but that's 4 guys for 2. Blitz from Barham(-3) is delayed as the TE's route goes through his path (RPS-1, PR-2) and then suddenly it's one of those plays where nobody goes with the RB. Who should have? It's hard to say. Hausmann is technically the (offense's) right hole defender (D-Mo has the left) so it could be him. Or perhaps Josaiah is supposed to tag the RB. I'm guessing Barham got waylaid by the TE and then lost track of what he's doing. When in doubt blame the new guy.
+M20
+1st
+10
+Gun TTB
+4-2-5
+Nk Under
+2 fld
+PA
+3
+Mesh RB Flat
+Berry
+Inc
+-0.37
+Tempo(25). Looks weird but that's because M is dropping D-Mo(+1, coverage+3, RPS+1) into the flat and the LT gets in the way of the TE's release. Three-man rush isn't getting there yet but Ewers has had it with this play and turfs it at the RB's feet. Berry(+1) was there to break up otherwise.
+M20
+2nd
+10
+Gun Twins
+5-2-4
+5-2 Odd
+2 off
+Run
+Counter Trey
+Etta
+11
+0.57
+Backup DL in and they immediately go at Etta(-2) who's blown out by a double. D-Mo(-0.5) gets bonked, big gap. Hausmann(-1) is just waiting for the LT to come off his double and gets put inside. There's a bounce that the RB doesn't take (Hat-1) because they're having too much fun going N-S I guess. Barham finally gets a shoulder on the lead blocker and Paige brings the RB down.
+M9
+1st
+Goal
+Pistol TTB
+5-2-4
+5-2 Split
+2 off
+Run
+Inside Zone
+Iwunnah
+2
+-0.18
+Etta off, Iwunnah(+2) takes on a play-long double that is meant to blow his backup ass off the line and makes the stop himself. Benny(+1) gets penetration so there's no cutback, not that there was gonna be. This is personal now.
+M7
+2nd
+Goal
+Gun Twins
+5-2-4
+5-2 Under
+2 off
+RPO
+Buck GC
+Walker
+7
+2.58
+[Z-Return]. M has two extra guys aligned to the backside of this, end up covering the flare screen with four guys. Hall kicked by a T, TE locks out Barham(-1), and a I guess Walker(-1) gets one for stepping towards the side with four guys but all he does is eat a blocker on the opposite side of the RB. No doubt they'll say somebody backside busted (Stewart? Rolder? Paige?) but RPS-2.
+Drive Notes: Touchdown. 3-14. 8 min 2nd Q. Three snaps and an interception puts this D right back on the field.
+Ln
+Dn
+Dst
+OForm
+DPack
+Front
+Hi
+Type
+Rush
+Play
+Player
+Yds
+EPA
+M37
+1st
+10
+Pistol Twins
+5-2-4
+5-2 Under
+1 off
+PA
+6
+Throwaway
+Q.Johnson
+Inc
+-0.75
+[F-Return] Six-man pressure (5+blitz from Barham) is picked up by max pro, and #2TE really blasts Stewart(-1) off his path. TE releases with nobody picking up Benny(+1). C is alone with Graham(+1, PR+2) and is yanking him back by his facemask (Refs-2) until all three collide with Ewers, who has to throw it away over an RB in the flat that Q-Jo(+1, coverage+1) seemed to have. No RPS despite unblocked defender because it also left a TE outlet that Graham took away.
+M37
+2nd
+10
+Pistol TTB
+5-2-4
+5-2 Odd
+2 fld
+PRO
+n/a
+SZ/Hook
+Hill
+Inc
+-0.97
+[Z-Fly] Bad read by Ewers who throws the RPO without checking if Hill(+2, coverage+2, RPS+1) is there. Might see it last minute and put some extra zip on it. Teddy KGB should have pyaid me off dot meme.
+M37
+3rd
+10
+Gun Trips
+4-2-5
+Clunker
+1 bdy
+Pass
+4
+Mills-Post
+Berry
+20
+2.19
+Graham(+2, PR+1) at DE #2. He swims inside the LT and might be through but the LG reaches back and snags his leg and he goes down. Stewart vs a RB isn't gonna last so Ewers starts rolling and finds a post that Berry(-2, coverage-2) just lost. Hill is in the area but just carried the dig route to the opposite hash, and this is the hash where Berry started and had leverage so it's definitely on him.
+M17
+1st
+10
+Gun Wk Tight
+4-2-5
+4-3 Under
+2 off
+Run
+Bash Give
+Hill
+2
+-0.12
+Tempo(29). Barham(-1) gets delayed by the LG and is getting turned; Hill(+1) comes down quickly to knock OOB after a short gain.
+M15
+2nd
+8
+Gun TTB
+4-2-5
+Nk Over
+2 off
+Pass
+4
+TE Flat
+Hill
+7
+0.18
+[Y-Fly] Grant(+1, PR+1) wins a handfight with the RG and is coming so Ewers has to dump to the TE who sat down at the 14. Hill(-2, tackling-1, coverage-1) is back at the 7 and taking two steps backwards as Ewers throws, which not only gives the TE time to set up his YAC but moves the throw several yards downfield to use that space. Then he goes low but doesn't wrap up, and the TE can waddle for close to a 1st down.
+M8
+3rd
+1
+Diamond
+5-2-4
+5-2 Odd
+2 bdy
+Run
+Belly
+Barham
+2
+0.48
+The Diamond or Turkey Bone formation actually was created to beat the 5-2 Oklahoma defenses of the ti…yeah nobody cares about your history lesson Seth but here's why: two Iso blockers for two LBs means both can't flow to the ball. Uncalled chop block takes out Graham (Refs-2), who falls on the C and he goes down too but Hausmann (RPS-1) is checking the other iso blocker and can't take advantage of the freedom. D-Mo(+0.5) takes contact from left ISO to give Barham a shot but he hesitates a half second and that's it. Mad about the chop, not the yard.
+M6
+1st
+Goal
+Gun TTE
+5-2-4
+5-2 Split
+n/a
+Penalty
+False Start
+n/a
+(-5)
+-0.54
+Oops.
+M11
+1st
+Goal
+Gun TTE
+5-2-4
+5-2 Odd
+1 press
+Run
+Power GT
+Barham
+0
+-0.27
+[F-Cross]. Slant gets Stewart(+2) crashing into the kickout. He gives ground by takes out both pullers. Frontside TE is able to get down to Hausmann(-1) but that's not his guy and leaves Barham(+1, tackling+1) free to slip inside the mess from the RT diving at Benny's knees and stuff with no YAC. RPS+1 but the Mac kind.
+M11
+2nd
+Goal
+Pistol Z Tight
+4-2-5
+5-1 Odd
+1 fld
+Run
+Paige
+Power
+3
+-0.09
+Graham(-1) at 5T dives into the B gap and gets his arms stuck in the pile. Stewart(+1) has a big hole forming and gets low on the puller to constrict the hole a bit. Barham(-0.5) is approaching slowly with a TE coming to downblock him and creates a barrier that Paige(+1, tackling+1) gets around to tackle authoritatively.
+M8
+3rd
+Goal
+Gun Trips
+4-2-5
+404 Tite
+0 press
+Pass
+3
+D.Moore
+Throwaway
+Inc
+-0.35
+Before this: RB motions, Haus is slow to follow, M calls TO to save TD. Ewers wants a quick under combo that Stewart(+1, coverage+3) took away. Hill and Q-Jo have the TE bracketed, Grant(+1, PR+1) and Graham are denting the four-man protection, and it's rollout time. D-Mo(+1) is the third rusher and stays with Ewers to the sideline, Johnson(+1) finally gets on screen, staying with Bond and then giving up over to stay ahead of the next target, whereupon Ewers turfs it.
+Drive Notes: FG(26). 3-17. 2 min 2nd Q. Loveland TO and we're back out here again.
+Ln
+Dn
+Dst
+OForm
+DPack
+Front
+Hi
+Type
+Rush
+Play
+Player
+Yds
+EPA
+M42
+1st
+10
+Gun Wk
+4-2-5
+Nk Wide
+1.5 fld
+Pass
+5
+RB Swing
+Hill
+23
+0.69
+0:59, 2 TO. [X-In] CB blitz is telegraphed, time for Sark to take another bite out of Wink's ass (RPS-2). Ewers is only looking for the RB swing pass, has oodles of space with Brandt(-1, coverage-2) dropping into a hook zone and unable to get anywhere close. Hill(-3, tackling-2) was at the 1st down marker when the RB caught it 4 yards behind the LOS and when he gets close he...jumps? Yeah he jumps. At an outside move when the outside is the sideline. With both feet in the air he can only wave at the RB going by. Berry(+1) impressive speed to catch up after that and bring this down. I'd rather have COVID than chart this play again.
+M19
+1st
+10
+Gun Wk
+4-2-5
+Nk Even
+2 off
+Pass
+4
+Z-Curl
+Hill
+9
+0.62
+0:42. This is just a dumpoff route but as shook as Hill(-2, tackling-1, coverage-1) is might as well beat up on the kid. Again he's backing up as Ewers winds up, which is the coverage neg. Then he arrives too late to wrap up, gets stiffarmed, and is getting dragged along by Golden's undershirt when help finally arrives to force him out near the sticks. Sigh.
+M10
+2nd
+1
+Gun Wk
+4-2-5
+Nk Over
+2 off
+RPO
+SZ Stretch/Flare
+Graham
+7
+0.52
+0:35. [H-Return] Defense looks gassed. Graham(-2) gets scooped, trouble, as Hausmann(-1) stepped with the TE motion and doesn't regap to fix Graham. Paige(+1) flies down for an ankle tackle to prevent a TD but now they're at the 3.
+M3
+1st
+Goal
+Pistol TTB
+4-2-5
+Goal line
+n/a
+Run
+Busted Dive
+n/a
+-3
+-1.06
+0:27. Tempo and young RB finally bites UT as they're running a dive and Blue comes down the wrong side (Hat-2). Ewers sees his predicament, and starts to run towards an edge Barham may have covered. But Berry(+2) shot under a not quite set Bond on the other side, dives at Ewers's feet as the QB is starting to give himself up anyways. Texas timeout.
+M6
+2nd
+Goal
+Gun 3x1
+4-2-5
+5-1 Odd
+1 press
+Pass
+3
+RB Mesh Traffic
+Berry
+1
+-0.23
+0:23, 1 TO. Um, I don't know how to chart this because it looks like Blue has an angle on Berry(+1, Luck+2) but stumbles and Zeke is able to get a foot for the stop. Hausmann was on the RB and caught in the wash, which is an RPS-1. Timeout.
+M5
+3rd
+Goal
+Gun TTE
+4-2-5
+4-3 Split
+n/a
+Pass
+5
+ARO Left
+Hall
+5
+2.73
+0:15, 0 TO. ARO is America's Rollout Out, but I note left because this is opposite the QB's body, which is not how it's run. Shift late from Pistol. Brandt(-1, PR-2) gets stuck on the LT so there's a pileup and Ewers can leisurely drift until Golden shucks Aamir Hall(-2, coverage-2) in the endzone.
+Drive Notes: Touchdown. 3-24. End of 51-play half.
+Ln
+Dn
+Dst
+OForm
+DPack
+Front
+Hi
+Type
+Rush
+Play
+Player
+Yds
+EPA
+O29
+1st
+10
+Pistol Ace
+4-2-5
+5-2 Odd
+1 off
+Run
+Split Zone
+Benny
+1
+-0.69
+[F-Cross] Double moves out Benny(-1) who fights back when they move down to pick off Hausmann but falls down and gets pancaked. That's not was spooked Blue; Grant(+1) throwing the C at him might have. Stewart(+1) took on the kickout who bounced off, was there along with a flashing Barham(+0.5) if the RB stays up, but he trips (Luck+1).
+O30
+2nd
+9
+Pistol FB Str
+4-2-5
+5-2 Odd
+1.5 off
+PA
+5
+ARO Right
+Hill
+11
+1.81
+Tempo(29). You know it's not your day when. Graham(-1, Luck-3) is barreling through and usually this is a plus but he takes a stiffarm from the RG as he's going by and is off-balance. He tries to stumble towards the rollout which would be fine if two other guys weren't coming. Graham falls into D-Mo who falls into Barham and the three go down together. It's not an RPS but it's pretty emblematic of why don't want Wink pressuring every chance he gets. Also Hill(-2, coverage-2) has help inside and is biting hard on a circle route by Bond who makes the easy catch at the sticks. What sucks more is UT has let off the gas.
+O41
+1st
+10
+Gun TTB RB
+4-2-5
+5-2 Odd
+1 off
+Pass
+5
+Flash Screen
+Hill
+-1
+-1.34
+[H-Cheetah] Yay they let Hill(+2, coverage+1, tackling+1, RPS+1) make a play! He's right on top of a flash screen and uses that great acceleration to beat the TE to the ball, wrapping up and spinning Golden down for a TFL.
+O40
+2nd
+11
+Gun TTB
+4-2-5
+Nk Splits
+1 off
+Run
+End Around
+D.Moore
+1
+-0.59
+[A-Orbit] The well-defended one. M was blitzing backside and slanting which helped (RPS+1) but only because Graham(+1) got playside of the RT and forced it back to where D-Mo(+2) had slanted inside a T and pursued from the backside to bring this down. Grant(+0.5) split a double and was coming to help.
+O41
+3rd
+10
+Gun 3x1
+4-2-5
+Clunker
+1 off
+Pass
+5
+Slip Screen
+Barham
+Inc
+-0.44
+Barham(+2, RPS+2) knows UT likes to set up 4th and makeable near midfield, gets on the RB's back and shoves him (behind the LOS he's just a blocker) to kill the screen dead. Hausmann(+0.5) with the harassment so Ewers has to turf it.
+Drive Notes: Punt. 3-24. 10 min 3rd Q. Michigan throws an immediate interception so don't celebrate long.
+Ln
+Dn
+Dst
+OForm
+DPack
+Front
+Hi
+Type
+Rush
+Play
+Player
+Yds
+EPA
+O25
+1st
+10
+Gun Str
+4-2-5
+404 Tite
+2 off
+PA
+5
+Portland Post
+Hill
+Inc
+-0.70
+[Z-Orbit] UT's quest to make Hill(+2, coverage+2)'s day worse backfires as he's step for step with Bolden and harasses him enough he can only leap for the ball out of reach.
+O25
+2nd
+10
+Gun Wk
+4-2-5
+5-1 Odd
+2 off
+RPO
+Pin & Pull/Bubble
+Graham
+1(-5)
+-0.36
+[Z-Orbit] Solid defense vs PnP. Guy(+0.5) gets a shoulder into the puller to squeeze the gap, Graham(+1) stalemated a double until the guy just grabs his jersey and tackles him (Refs-1 the flag isn't for this). Barham(+1) pops the guy coming off Graham when this happens and Hausmann(+1) tracks it down from behind for no gain. Penalty is for an illegal shirt that wasn't relevant; M takes it (3rd & 9 vs 2nd & 15). I would have declined, but I'm looking for any reason to chart less and the math says they were right.
+O20
+2nd
+15
+Gun Str
+4-2-5
+4-3 Over
+1 off
+PA
+4.5
+Y Cross
+Paige
+22
+2.58
+Paige is in the box and Walker is over the DE which telegraphs a blitz that UT sees and checks… and it's not an RPS loss. The left side of the offense is a bubble that draws Hausmann and Brandt. The right is a Y-Cross that Paige(-3, coverage-3) lets across his face without a chip. And then he gets dusted! By a TE(!!!) who can turn upfield and get another 12 yards before Walker can arrive. Graham(+1, PR+1) got through and had a hand in the way but Ewers threw a perfect pass from a weird arm angle (Hat+3). Paige is weird one because this is so unlike him. Probably dog tired at this point.
+O42
+1st
+10
+Pistol Ace
+5-2-4
+5-3 Odd
+1 off
+Run
+End Around
+Brandt
+55
+3.10
+Sark just rubbing it in on Wink (RPS-2) now. Shift gets M still trying to set at the snap. Backside trey pullers against draws both LB away from the play direction. Main culprit though is Brandt(-1) who doesn't see the F change direction and chases so far inside he cuts off pursuit from the DTs. Paige and Hill are now alone with 3 blockers and Wingo. Graham tries to get out but Paige(-1) sets up too far outside and the lane is too big for either to close down. Hill(-1) pops a WR uselessly. Johnson(+2) comes from the opposite side of the formation to push this out at the 3.
+M3
+1st
+Goal
+Pistol TTE
+5-2-4
+Goal line
+n/a
+n/a
+Busted Play
+n/a
+-5
+-1.15
+No idea what UT intends to run here. Ewers thinks it's a pass, nobody else does, and he takes a knee. Brandt(-1) lays him out after, causing a scuffle, but only offsetting penalties are called (Refs+2).
+M8
+2nd
+Goal
+Gun TTB
+4-2-5
+4-3 Under
+2 fld
+PA
+3
+ARO Right
+Berry
+1
+-0.27
+[A-Orbit] Expecting blitz and M drops (RPS+1) and hauls ass for the flood side. D-Mo(+1, PR+1) gets in Ewers's face and is about to sack when he chucks it sidearm at his RB under Berry. Ball hits turf but no replay, whatever.
+M7
+3rd
+Goal
+Pistol TTB
+4-2-5
+Clunker
+0 off
+Pass
+5
+RB Mesh Traffic
+Hill
+7
+2.85
+[R-Exit] M has a wide gap between 0-tech Grant and Graham standing up outside the RT, with Stewart outside of him, and four helmets on the LOS to Grant's other side. Time for Wink to look cool, and by cool I mean "outleveraged again" as the RB swings out to the hash and every Michigan player is at least two yards inside. Hausmann leaves with the RB and forces the RB upfield a titch; Hill(-1, tackling-2) just needs to get outside of him but instead he hitches up his step and Blue can get to the pylon. RPS-1 the LB on the RB was lined up on the LOS.
+Drive Notes: Touchdown. 6-31. 2 min 3rd Q. Game is over but there are two more punt drives with Ewers in. Also Michigan turns it over on the first play so back on the field we go.
+Ln
+Dn
+Dst
+OForm
+DPack
+Front
+Hi
+Type
+Rush
+Play
+Player
+Yds
+EPA
+M48
+1st
+10
+Gun 3x1 RB
+4-2-5
+Nk Under
+1 fld
+RPO
+IZ/Dagger
+Hausmann
+2
+-0.45
+Late RB shift. Interesting high-upside RPO that tries to get the S driving on a drag to open a seam; Q-Jo doesn't bite. Double locks out Graham(-0.5) to create a gap as the C works down to Rolder but backside there's nobody for a quickly flowing Hausmann(+1, RPS+1) and Grant(+1) has control of the RG. This forces the RB to shade close to OMG, who's then able to wrestle his way back just enough to catch the RB while falling and bring him down with him. Refs+1 short them a yard.
+M46
+2nd
+8
+Offset 2x2
+4-2-5
+Nk Split
+1 off
+PA
+n/a
+Flash Screen
+Hall
+3
+-0.55
+Tempo(27). Testing Hall(+1, coverage+1) who does take a step back briefly but breaks pretty quickly and forces Golden out after a minimal gain.
+M43
+3rd
+5
+Gun Str
+4-2-5
+Nk Even
+1 off
+RPO
+SZ/curl-flat
+Rolder
+-3
+-1.61
+[Z-Fly] Nk Amoeba. Read is the flat because the curl is open as M slants with the TE and brings Paige. He gets upfield but takes away the RT which is a personnel win and allows Rolder(+1) to activate aggressively vs the LG. That slows the RB and then Graham(+2) who's gotta be exhausted, shucked the C and bent inside to grab from behind for a TFL.
+Drive Notes: Punt. 6-31. 1 min 3rd Q. This is a hell of a response after the quick flip. M turns it over on downs, next drive starts on the 40 down 25 with 8 minutes so I should have RPS off but Sark and Wink aren't acting like it so I'll keep the counter running for one more drive.
+Ln
+Dn
+Dst
+OForm
+DPack
+Front
+Hi
+Type
+Rush
+Play
+Player
+Yds
+EPA
+O41
+1st
+10
+Gun 2RB
+4-2-5
+5-2 Under
+2 off
+RPO
+Buck GC/Swing
+Barham
+2
+-0.53
+[Z-Orbit] You tried to downblock Mason Graham(+1) how did that work out for you? OMG shoots past the downblock and is harassing at the mesh point, doesn't get the RB down but he has to bend upfield and can't hit a gaping hole forming because M blitzed the backside (RPS-1) and Rolder(-2) followed the TE motion anyways. This leaves Walker(+1, tackling-1) to deal with the lead blocker in space and Barham(+2) getting ridden upfield by the kickout. Jaishawn gets off that block and spins the RB by the shoulder and Walker dodges the G but then falls off as the RB spins for a +2-1=+1 kind of play. Rolder finally arrives to finish it.
+O43
+2nd
+8
+Gun TTB RB
+4-2-5
+4-3 Split
+1 off
+RPO
+SZ Stretch/Flare
+Berry
+7
+0.47
+[Z-Jet] The DTs both get wins as Grant(+1) puts the RG on the ground and Graham(+2) is instantly past the C and draws the LG while forcing a big bend. Should set up someone for a TFL here, but (RPS-1) as M is getting too cute, blitzing a safety off the backside and trying to twist Guy and Barham(-1) on the frontside. Jaishawn can't move the LT and then gets sealed by him to open up the edge. Rolder(-0.5) and Brandt(-0.5) are both overplaying the jet non-threat (he's not in a pitch relationship as the RB blocks him and Q-Jo is set up outside and don't flow. Frontside can still fix but Berry(-1, tackling-1) is slow to come up when the WR is in no hurry to choose between blocking him or Hill(-1 someone needs to force this and I think it's him). Zeke then falls at the RB's feet without slowing him and this goes until Guy can jump on his back near the sticks.
+50
+3rd
+1
+Pistol Wk Tight
+4-2-5
+5-2 Over
+0 off
+Run
+Split Zone
+Rolder
+2
+1.03
+[A-Return] Brandt(-1) gets turned out and Grant is slanting inside the C so there's a pretty big lane but you still want Rolder(-1) to activate faster. Instead he stands in the hole and catches the RB after the 1st down. RPS+1 this is a monster TFL if Rolder takes it.
+M48
+1st
+10
+Gun Wk
+4-2-5
+4-3 Under
+1 off
+Pass
+4
+Diagonal 9-Post
+Barham
+23(-10)
+-2.22
+[H-Cheetah] Guy(+2, PR+2) stabs inside then teleports around the TE there to give the LT help and gets taken down, flagged. Berry(-1) doesn't get any kind of chuck on the H as he crosses his face and Barham(-1, coverage-2) steps down with PA and doesn't get enough depth on his drop so Ewers is able to lay a post into the space behind him. FTR since it's early in the season: on these throws I expect the LB to get ~9-12 yards on zone drops depending on how close to the formation the nearest WR lined up, and Barham is at 8. Clipped for preview purposes.
+O42
+1st
+20
+Pistol Wk
+4-2-5
+Nk Over Lurk
+1 off
+RPO
+IZ/Z-Flat
+Benny
+1
+-0.60
+[Z-In] Emptying the prepared stuff--this motion is supposed to catch a rotation but M doesn't bite (RPS+1). LT and LG want to double Benny(+2) who does the Jenkins step around them and fills the intended gap and forces a cutback to where Pierce(+1) and Brandt(+1) have three blockers squished together and Hausmann(+0.5) flew to the edge to make sure there's no escape from Benny.
+O43
+2nd
+19
+Gun 3x1
+4-2-5
+Clunker
+2 fld
+Pass
+4
+Smash-Corner
+Q.Johnson
+Inc
+-0.47
+The DT at DE this time is Benny. LBs drop, frontside stunts and Guy(+2, PR+2) rips through the LG and gets a hand up to affect the trajectory of this pass. Q-Jo is over Bond's corner route seems open but the throw is into the sideline so I don't know if QJ slowed when the ball was uncatchable.
+O43
+3rd
+19
+Gun Trips RB
+4-2-5
+Clunker
+0 off
+Pass
+4
+Tunnel Screen
+Brandt
+Inc
+-0.23
+LBs dropping but they're moving straight back and this screen is perfectly designed to punish Michigan's Cover Zero look (RPS-2). Becomes even more dangerous because Pierce(-1, coverage-1) doesn't backtrack, which means he bumps into Benny trying to do so and leaves M 3v7. Their once chance is Brandt(+2, luck+1) who jumps as high as he can and finally deflects one of Ewers's sidewinder throws over the intended target. WR#8 was probably getting flagged for grabbing two fistfuls of Berry's shoulderpads (you can see the ref reach then decided against it when the ball is incomplete)--not plussing that but then the guy won't let go well after the whistle and gives Berry a shot across the face that starts a minor scuffle.
+Drive Notes: Punt. 6-31. 5 min 4th Q. Last drive is three runs and not charted but Iwunnah(+3) had three +1 events; I clipped one and two.
+All right. I'm girded. Do it.
+Buddy I'm not going to Corey Liugit you.
+No, no it's fine. I've got my trophy; I can take it. Just swing back and tell me which Rich Rod defense we're talking here.
+It wasn't that bad.
+Yes it was.
+It wasn't that bad when you consider Texas is a top-5 offense. They came in ranked #3 in offensive SP+ and probably aren't dropping this week. Other opponents Michigan's faced in that echelon since 2021 are:
+Last year's Ohio State offense was just 34th but we can include them.
+Opponent
+SP+
+Res
+Yds/Play
+Pts/Drive
+Av. Fld Pos
+Def EPA
+3rd Down
+2021 Ohio State
+1st
+W 42-27
+5.5
+2.7
+33
+-0.162
+7/17 (41%)
+2021 Georgia
+2nd
+L 34-11
+7.2
+3.1
+37
+-0.376
+10/16 (63%)
+2022 Ohio State
+4th
+W 45-23
+6.6
+1.9
+30
+-0.048
+5/16 (31%)
+2022 TCU
+5th
+L 51-45
+7.6
+2.3
+24
+-0.193
+8/16 (50%)
+2023 Ohio State
+34th
+W 30-24
+7.1
+2.3
+31
+-0.215
+4/9 (44%)
+2023 Alabama
+11th
+W 27-20(OT)
+4.4
+1.5
+35
+0.094
+3/13 (23%)
+2023 Washington
+5th
+W 34-13
+3.7
+1.0
+25
+0.187
+3/15 (20%)
+2024 Texas
+3rd
+L 31-12
+5.3
+3.1
+48
+-0.226
+10/17 (59%)
+This was a comedown from last year's Playoff but the down-to-down metrics—removing garbage drives—are well within the 2021-'23 distribution. They gave up fewer yards per play against Quinn Ewers than they did against Kyle McCord last year. The Texas offense's 39% success rate was worse than all of these save—again—last year's two Playoff opponents.
+Three things were out of whack here: points per drive, expected points added and third down success rate. As to the first, Texas's average starting field position in this game was their 48 yard line. Unsurprisingly starting field position correlates highly with points per possession.
+As to the defensive EPA, it wasn't good, but that gets heavily influenced by things like turnovers and giving up touchdowns versus field goals. The latter was an issue, but Michigan got Texas to 3rd & >2 on every red zone opportunity, so it's not unlikely they can get back to elite at preventing touchdowns. That leaves third down success rate. But you cannot say Michigan's defense was comprehensively worse in this matchup than they've been in previous seasons. What you can say is they were put in substantially worse positions, and were substantially less clutch than we're used to.
+Also they're not as good as the national champions were by the end of last year.
+It was bad, Seth. Your charts aren't going to make that feel any better.
+Well, here's a chart anyway.
+Defensive Line
+Player
+Snaps
++
+-
+T
+Notes
+Mason Graham
+58
+18.5
+6.5
++12
+Doubled all day, OMG things, also got exhausted.
+Kenneth Grant
+60
+9.5
+2
++7.5
+Did KG things, wasn't a pass threat though.
+Rayshaun Benny
+28
+8.5
+1
++7.5
+Did Jenkins things, also in half the snaps.
+Ike Iwunnah
+6
+5
+0
++5
+I think I like Ike?
+Trey Pierce
+7
+1
+1
+-
+Is not Ike.
+Enow Etta
+4
+0
+2
+-2
+Is not a DT.
+Josaiah Stewart
+45
+10.5
+1
++9.5
+Had to do most of this from the backside. Shield.
+Derrick Moore
+46
+11
+0.5
++10.5
+Consistently good, most of this is against run though.
+TJ Guy
+26
+5.5
+2
++3.5
+Michigan's best pass-rusher.
+Cameron Brandt
+25
+4
+6.5
+-2.5
+Will be good, not ready for this sort of test.
+TOTAL
+305
+73.5
+22.5
++51
+Note the difference between guys who get a break.
+Linebacker
+Player
+Snaps
++
+-
+T
+Notes
+Jaishawn Barham
+64
+9.5
+10
+-0.5
+Uh-oh in Mouton way.
+Ernest Hausmann
+65
+4
+12
+-8
+I'm blaming this on Wink today.
+Jimmy Rolder
+13
+1
+4
+-3
+At least it happened to him too.
+Jaydon Hood
+0
+0
+0
+-
+DNP
+TOTAL
+142
+14.5
+26
+-11.5
+Very rough day back here.
+Secondary
+Player
+Snaps
++
+-
+T
+Notes
+Makari Paige
+61
+6.5
+5
++1.5
+Not boring, might have been exhausted at the end.
+Quinten Johnson
+57
+1.5
+4
+-2.5
+Boring unless you ask him not be (don't do that).
+Wesley Walker
+21
+1
+1
+-
+On the field when others were screwing up.
+Brandyn Hillman
+0
+0
+0
+-
+DNP
+Jaden Mangham
+0
+0
+0
+-
+DNP
+Will Johnson
+58
+3
+0.5
++2.5
+Completely avoided.
+Zeke Berry
+50
+6
+6
+-
+Is fast, good blitzer, makes mistakes.
+Jyaire Hill
+65
+10
+17
+-7
+Picked on all day, some of his -2s leaned to -3s.
+Aamir Hall
+17
+1
+2
+-1
+Got the Hill treatment the few times he was in.
+Ja'Den McBurrows
+0
+0
+0
+-
+DNP. Was there a reason given?
+Myles Pollard
+2
+0
+0
+-
+DNC: snuck on the field at the end.
+Keshaun Harris
+0
+0
+0
+-
+DNP
+TOTAL
+334
+29
+35.5
+-6.5
+Went at them, Hill especially.
+Metrics
+Player
++
+-
+T
+Notes
+Pressure
+18
+4
+14/36
+2024 Texas OL >> 2023 Washington OL.
+Coverage
+23
+25
+-2
+Eventful day vs Matt Stafford Jr.
+Tackling
+5
+16
+-11
+Yes it was a problem.
+RPS
+19
+21
+-2
+This much volume is a bad thing for DCs: my column.
+Hat Tip
+6
+5
++1
+Turfmonster got some RBs, Ewers got some angles.
+What are you trying to show me?
+That the game wasn't just decided by playcalling. Players screwed up. They missed assignments and tackles. They had young guys playing who weren't ready, transfers who didn't seem to get what they were doing, bad luck, and were facing a team that didn't have these issues that also had strengths. Let's synthesize the chart above into our preview metric:
+THINGS THAT WERE ADVANTAGE: MICHIGAN
+THINGS THAT WERE EVEN
+THINGS THAT WERE ADVANTAGE: TEXAS
+Sark and Wink were not equal buddy; you are losing credibility just by saying so.
+They came out roughly equal in my RPS charting, which was surprising. But for all of the busts we're remembering, we're not giving Wink enough credit for the things he prepped that worked, like this blitz that got Texas to set the protection to the wrong side.
+That was one of Mac's earliest blitzes and I love it still. The players were struggling at paying them off but Wink delivered a Guy to the backfield, killed a bunch of screens, slanted into several runs, and routinely caused UT to spend blockers in max pro against 3- and 4-man rushes.
+Sark got him back by designing a screen to beat the natty blitz, used his RBs to draw the LBs Wink wanted to blitz out of the box, set up that Wingo end-around with a bunch of orbit motion against the run, then used the fear of it to get Michigan's defenders to freeze on the backside.
+Wink also got himself a few times by being too cute. This run featured all kinds of bad tackling, but the major issue was after Graham won the play there was nobody to collect for him because Michigan was twisting two guys to playside and blitzing a safety from a long way back.
+But here's the lesson: rock-paper-scissors, IE tactics, is not the end of coordinating. The biggest job of a coordinator is strategy: figure out what the opponent is going to do and prepare your players for it. And when you look at the defensive disasters in this game, yes there a bunch of "oh they got us on the playcall" but it's mostly college players looking completely unprepared to deal with shit.
+This is just play-action to a veer that becomes a swing to the RB…and nobody goes with the RB. I can't tell who's responsible, but it's not like this is some crazy concept that Sark happened to push the button on at the right moment. We can assume for our purposes that Wink doesn't have a "we don't cover the RB in the flat" play in the playbook. Someone just screwed up.
+College players, especially new starters, make mistakes, and if you think that doesn't apply to the elites as well here's a Nick Saban 5th year senior in Game 14 who just cost his team their best shot at playing in Game 15.
+Or look at the Texas running backs on Saturday who blew three plays in the lower redzone by tripping on the turf, coming down the wrong side of the quarterback, or not knowing the playcall. The college game is more complicated than ever but it's still far short of the NFL, and the transition for someone who hasn't been at this level is not easy because of it. You actually have to know how to teach and rep fundamentals. You have to pick a few things to get good at. You have to practice tackling.
+No, the coordinator doesn't teach tackling; the above is an example of how even a player who had a rotational role on the best defense in college last year is not so fundamentally sound. The guys Michigan had at linebacker last year were freaks in this regard, and our expectations have to come down for them.
+The same must be said for Martindale, who has been in the NFL for two decades, the second of those spent running the most complicated defense in it. We have to be realistic here: it's a big transition, and this game was a lot bigger than any his assistants had to face in their first ten games.
+But it *is* the coordinator's job to practice for the other team. And since we're on that subject: What does Texas do? Check our preview, check our MGoRadio episode with Ian Boyd, check Alex's Foe Film, or go on the Autograph app and watch Sam Webb's breakdown of Fresno State with Vance Bedford: everyone said the same things: Texas uses motions and RPOs. Where did Michigan fail most consistently? Knowing where to go on RPOs.
+I gave Wink an RPS-2 for this one but again he's probably not calling the "let's be two guys down on the right" play; somebody screwed up.
+The thing is I think we can count on one hand the number of times someone screwed up like this in the last few years. The corner blitz against TCU. Moten's bad fill against Northwestern that led to their only score. Rod Moore coming back rusty and botching a Rutgers slant. Keon Sabb not covering a WR pass against Indiana.
+I mean, we've had linebackers sucked in by play-action, sure, but I can't remember one so comical the ball can be tipped at the line and the intended receiver can still catch it with yards to spare.
+The main job of a defensive coordinator is not playcalling; it's having the players prepared, and this is what we got from a summer to prepare for an offense that RPOs and play-actions more than anyone we've faced in my time charting.
+This also goes to a general lack of crispness that I haven't seen from Michigan since the COVID year. Three times in this game a defensive lineman ran into his teammate in the backfield, two of them those at the same time:
+One could look at the last two plays I embedded and say those are just weird incidents that are unlikely to recur. But then you see how much many different blitzes they're running out of the Mason Graham at Defensive End package they prepared for this game and wonder how much they practiced filling gaps, identifying motion, and who's supposed to cover the running back and wonder if they're spending too much time practicing the things that will make the coordinator look cool when they go off and look like an idiot when a true sophomore end doesn't remember his assignment.
+The Wink thing that was most emblematic of his problematic approach to a top-3 matchup was putting Mason Graham at DE in the Racecar package. Graham is way more athletic than most DTs, and can pull that sort of thing off. The first time Michigan tried it Texas went with max pro and set the protection towards him (we'll come back to Hill). The second time they iterated off it and brought Q-Jo, who got bonked out of his rushing lane by a running back to open up a scramble for a first down. In the NFL you probably don't get a lot of safeties who get bonked.
+The Texas coaches actually checked into that. By the next drive they had a response: just run where there isn't anybody.
+Michigan kept throwing this formation out there, and kept running different tricks with it that gave up 3rd downs because Texas did something kinda simple and Michigan players found themselves doing the wrong things for their size/body types. When your exotics are the thing you do, they're not exotics anymore—just guys in the wrong spot. And even if you do get the gambit to pay off, it doesn't matter when you've got Jyaire Hill biting on a 9-yard in that can't hurt him and Zeke Berry doesn't know he has to redirect a receiver who crosses his face.
+And it was particularly annoying because for all their talent, Texas is also a college team whose receivers are still getting used to their quarterback, so if you run your base stuff they might just stare at it and throw the ball away.
+What I'm trying to do here is come up with a coherent explanation for the issues in Michigan's defense, particularly on third down, and the most obvious answer is we hired an NFL coordinator who was told he gets to have the keys to the Corvette, have it ready for Week 2, and oh by the way we replaced half of the parts but I'm sure you can get them working. I don't want Wink to stop blitzing, or trying interesting formations, or doing the Amoeba stuff that made Michigan hell on pro-style offenses. I just want him to adapt a little faster to the realities of college football, and it was wrong of me to expect him to do that.
+I also want to explain those linebacker scores.
+You were mean to Junior Colson and now they're going to make you regret it.
+At this moment, I'm  think they're very Wink-variant. Barham had high scores as a blitzer against Fresno and was closer to even in this one after I gave him the –3 for the wide open RB that might have been someone else's problem. This was his only –2, but he did pick up a handful of –1s for things that might have been out of his control. He had a chance on the outleveraged TD to force it back and got caught on a blockdown while tracking the RB. He buried himself in an inside gap on a pitchout, which was probably a blitz. He bit on a pumpfake on the deflating scramble conversion, and didn't have the explosive wins against Texas blockers that he did against the far worse Fresno OL: all things that were understandable.
+On the other side of the ledger Barham blew up a screen on 3rd and long to force Texas to punt near midfield, and was his very good self at slipping into tiny crevices and making tackles despite his near-DE size.
+#1 LB on the top
+"Devin Bush but Big" was not cleared today, but Barham is a good linebacker.
+Hausmann is the one who has me worried. He was responsible for three of the tackling –1s in this game.  But he was also the guy with the most –1 events on plays where Martindale took an RPS. Here he gets beat to the sideline by the RB (we'll get to Hill later) but Hausmann starts this play as a standup DT in the A-gap.
+That adds a layer to the traffic he has to fight through. I didn't give him a minus on this play, but it's one of the plays in peoples' heads. I think it also attributed, indirectly to Hausmann's actual issues, which were "needs to play more linebacker" things. He got a –2 for sucking up on play-action on the tipped pass and a –1 on the screen that Sark designed specifically for Michigan's signature blitz.
+He got another –1 for getting blown off the line of scrimmage when Wink had him line up at OLB. Barrett was a similarly-sized player who lined up outside last year—the ability to turn their nickel into a 5-2 is part of the defense—but they often had Barrett swap with Junior Colson against bigger teams to avoid it.
+The NFL Amoeba mind doesn't compute that your linebackers need to spend time playing linebacker to be effective—Wink was the LBs coach who recruited those guys and then he had Mike Macdonald, and they were going out and selecting the most do-it-all huge athletes they could find. Hausmann is a big nickel. He has a lot of upside as a linebacker who can take safety jobs. He also has never been a bad tackler. This is me getting into speculation land here, and could just be wishcasting, but my best explanation for Hausmann's year-to-year performance dropoff is they're asking him to be the starting WLB for the Baltimore Ravens RIGHT NOW when he's still at that spot in his career where he needs to think to calibrate for play-action and tackling angles.
+Jimmy Rolder is that but more extreme. He probably got a talking to after the Wing end-around, but all that did was make him freeze at any receiver crossing the field.
+#30 the bottom LB
+#30 on the top hash
+A linebacker hopped up on goofballs will make a play once in awhile. A young LB who waits for the results of a NCAA investigation is arguably worse. If you watch the play above long enough you can see Rolder's eyes on the WR until he makes contact on his kickout block. Meanwhile he's missing a wide open lane to stuff a 3rd & 1. This has never been Rolder's M.O.
+Cane we blame Wink for the coverage too, then?
+We talked about the swing passes, which were a big chunk of the coverage minuses, but there were issues containing the Texas passing game, and two of them were Texas things:
+The main thing Texas was able to take away that jarred me was their pass protection was legit. I was calibrated to Washington winning the Joe Moore Award for pass pro last year and then Grant and Graham ripping their interior to shreds while Harrell and Stewart and Moore did what they usually do to tackles. Texas has some real pass pro freaks—recruited from the top ranks and returning starters with plenty of experience. They used a lot of max pro on the Michigan DTs, but mostly left their OTs with the Michigan ends, who had quiet days as pass rushers. They're legit.
+As for Ewers, there were, by my count, nine passes in this game that were tipped or should have been affected by a lineman getting his hands in the throwing lane, and Texas managed to complete seven of them. I couldn't clip every damn thing in this game but if you skipped the 4,942 words of play descriptions above, a few of them came out like this:
+Ln
+Dn
+Dst
+OForm
+DPack
+Front
+Hi
+Type
+Rush
+Play
+Player
+Yds
+EPA
+O24
+1st
+10
+Empty 3x2
+4-2-5
+Nk Under
+2 off
+Pass
+4
+Smash
+Paige
+11
+0.90
+Another nearly. Amoeba drops Brandt, Rolder in unblocked (PR+1). Ewers sidearms it around Rolder's blocking arm then takes a shot (Hat+1). Ball is perfectly placed to TE in the flat under Paige(-1 coverage-1, tackling-1) who's got to stay on the seam before breaking but slows up and lets the TE step around him. Not a playcall issue; tough to play against a team that can read your Cov3 and get the ball out like this against instant pressure, but Paige needs to end this at 5 yards not 11.
+This was a 22-yard completion to the tight end who got 2 yards of separation from Paige before Ewers hit him perfectly in stride. Here's his release point:
+Hat tip to you, sir. Try not to do too much of that so you don't get drafted by a franchise that has an early 1st round pick because they never use those on offensive linemen.
+Even when Michigan's DL got a win, it was one guy breaking through, which is enough to force a quicker throw but not enough for a sack, and Ewers was particularly good at moving around in the pocket and getting the ball out with accuracy and quickness.
+People asked why Ewers didn't get the shield in the FFFF was his stats are propped up by a ton of screens and RPOs. There might be a little bit of a JJ effect here where a truly elite quarterback is being hidden by an offense that doesn't ask him to carry it. What makes them a national title contender is he may be able to.
+Was the third issue "Jyaire Hill"?
+Yes it was. UT's first drive that set the tone of the game started so dead in the water that Gus Johnson was giving it last rites. Wink's blitz reputation has paid off as four guys rush a seven-man protection, with Mason Graham the DE getting to pay that off with a rare single-block. Then Isaiah Bond gives a little stop at the 30 yard line that can either break inside to Hill's help or break under for slightly better field position on the inevitable 3-and-out punt. Hill bites, and when the camera rejoins us he's stumbling to catch up to a receiver who has much room to adjust to the ball and prepare for Paige's arrival.
+As college teams do, Texas looked at the Michigan defense and decided Hill was the guy to go at. They chose…correctly.
+Hill is not the only issue on that play—it's another example of Wink getting too cute and putting hard stuff on true sophomores—but that complaint exonerates Cam Brandt more than it does Hill. I've been the one urging patience with Jyaire the most, but even then "jumps in the air while the RB is running by him" is a new one for me. What's not new is Hill's issues with tackling technique. He's two or three beats late to break on this TE under, but even after he gets there tackling is an adventure.
+CB#20 top of the screen
+This is a player still in beta. Forming up, squaring his shoulders, and getting low are installed.
+But we are still working on the coding for the "keep your arms around him" and "keep your legs moving" subroutines.
+Trust me: the devs are aware.
+What's also not new to me is a young cornerback biting hard on the slant versus a circle route when he has help inside.
+CB#20 on the right
+In 15 iterations of NCAA over 30 years I still do the same thing when I try to control a cornerback. What can I say: Michigan's style of defense has a steep learning curve, and even Will Johnson wasn't playing yet when he was Hill's age (as a true freshman).
+On the other hand, there were many examples in this game for why they want to get Hill as much testing as possible.
+Texas is a super screen-y team with some very quick athletes at the business end of those screens, and the half a beat difference between how fast a 1st round *talent* like Hill can get there versus, say, an FCS up-transfer, is the difference between that back getting his body turned downfield and not, or the difference between the blocking arriving and not.
+On the bust that led to UT's first touchdown I was going to blame Hill for leaving his man but Michigan has complicated rules that are supposed to put their guys in good positions, and the best way to defend this switch route is to have Hill stay under the WR breaking to the corner (as Hill does for two steps) while the safety cuts off the more dangerous post route from the TE that Hill has no leverage on.
+I don't know the rules or whether there's a call that came from Q-Jo that was supposed to stop Hill from leaving the corner, or even if Rolder was supposed to be dropping to a Tampa 2 middle third and taking away the tight end's leverage.
+My tendency when I can't tell is to blame the guy most likely to screw up. But again, you're looking at a half-installation.
+I go back to last year when people were asking why I was saying Hill is a 1st rounder but isn't going to be able to help much early in his career like Will Johnson. Johnson was the son of a co-founder of Sound Mind Sound Body—the training program that similar programs around the country emulated—and was working on cornerback techniques as a fifth grader against high school Devin Funchess. Hill was a free safety in Kankakee, Illinois, and was so young for his grade he's in the middle of the distribution for the 2024 class. Devon Witherspoon was my comp for him, and Witherspoon wasn't elite until his 4th year at Illinois. Last year was the redshirt and gain weight season; this year is the let's get him on the field and let him screw up season.
+Later in the game they ran a Portland route, which is a post from one side, dig from the other (works like Dagger or Mills except the dig is coming from the opposite direction) when they thought they caught Michigan overplaying the dagger and caught Hill without leverage against Silas Bolden, their super speedy slot bug. Hill was in Bolden's hip the whole way, got enough contact to throw off the route without drawing a penalty, and watched the ball hit the turf harmlessly beyond Bolden's dive radius. It was late in the game and again I can't clip everything, but it's the kind of play where a cornerback's talent makes up for the fact you can't get leverage on every route in this game. I am not taking so much as a sliver off of Hill's ceiling.
+Couldn't we just flip Hill and Johnson a bunch so they couldn't get those matchups?
+Michigan did this. At first it was Johnson to the field and Hill to the boundary. Then it got random. This is why you see the name "Golden" on some of the Hill plays and "Bond" on the others. Texas had two good outside receivers and threw at the one to Hill's side. Unless Michigan starts rolling their safeties to Hill and leaving Johnson on an island defenses are going to keep doing that. Clearly Wink would rather let Hill learn on the job in the hopes he grows into a mini-Will by Ohio State. Even Will Johnson came off the field in garbage time, which is how Hill tied Hausmann for 65 snaps. Also: two catches in this game when Hill had help and didn't play like it. I don't know if giving him help will work.
+Aamir Hall?
+Didn't chart much, and when he did he gave up a touchdown in the redzone on an out. He got shoved at the top of the route (normal, not a flag) and that moved him, and by the time he was recovering the ball was perfectly placed and the WR was toe-tapping at the sideline. I know giving him #12 makes him Josh Wallace in our heads, but my comp for Hall was Gemon Green because he's lanky and has okay speed, but after watching a couple of his high school games I was wary of his ball skills. One mark doesn't an opinion make; there may be a "Josh or Gemon?" feature in these this year; it's all too early to tell.
+And the safeties? They're not transfers or kids.
+So when I was talking about Ewers I kinda brushed past this throw that earned Paige a –2 bordering on –3.
+I have been charting Makari Paige since literally the first game of 2020. Believe me when I say he is faster than most tight ends, and does not let them run Y-Crosses through his face without a chip. Of all the guys on defense Paige was the one being asked to cover the most ground, even if all it meant was arriving too late to help on a screen to the other side of the field. If he gives up 22 yards on the next Y-Cross it'll be the second time 2020 Minnesota. Dude was probably just dog tired.
+Really? They're tired? Did they have the flu and snow and just five plays and Connor Stalions and people eating dogs in Springfield?
+As excusey as this sounds, if we're trying to find reasons why 2023 Michigan was able to get off the field in ways 2024 cannot, I think we have to consider that 2023 Michigan's 2nd team was still one of the best defenses in the country, and there isn't another 2nd team behind him. I think the issues with the 3rd downs and offensive turnovers had a compound effect on the defensive issues. They never got consistent movement on Graham, but they did scoop him once for a 7-yard run that got them close to the goal line on the drive at the end of the half. I have seen teams outleverage Graham when he was lined up a gap away, but on this one he was actually playside of the first blocker and ended up scooped by the second one.
+This was also the 3rd play of a drive that started off a quick turnover after a 10-play FG drive with a goal line stand, that followed an interception that followed a 12-play touchdown drive. Last year Graham was the DL's ironman, but his max was 48 snaps against Alabama, with 46 against Washington. He matched that against Fresno State and played 58 in this one. On his 57th he was still giving enough effort to produce a 264-page yearbook with COVID:
+But we're talking about doing that twice as much as he was in most games last year. Even Mason Graham is human.
+Kenneth Grant…might be human. He played 60 snaps in this game and didn't have a +2, though maybe this one deserved it:
+One of Grant's minuses was for trying to draw a marginal hold instead of flowing—he's the guy on this defense with the greatest tendency to spart—and the other was for jumping at a pump fake. It's a little weird to see our superfreak just getting a steady stream of +1s but my guess is this had a lot to do with Texas's OL.
+I take it the defensive ends didn't earn their shields.
+They graded out a lot like Grant but instead of physicality it was preparation. Sark was SO SURE he finally got NFL guy Wink in a change and the quick snap just gave Derrick Moore a free TFL.
+Josaiah Stewart continued his season quest to prove he's Jaylen Harrell plus oomph.
+To earn their shields though they also had to beat Texas's freak of a right tackle and 1st rounder of a left tackle, and they didn't. Other than the DTs, the guy whose pass rush actually held up against two of the best pass protectors in college right now was Guy.
+One time he got into the backfield and didn't know where to go, so it's not like Moore's job is in jeopardy, but there's one spot where Michigan has depth like they did last season.
+You will note I said "Moore" there not Stewart. Guy has been playing strongside, while Brandt has been coming in behind Stewart. This is weird if you think of them as Heavy and Harrell, less so when you consider Texas mostly ran power to the "weak" side. But Brandt's solid Fresno debut did fall to earth in this one, not in physical ability but in "this is a very hard job for a true sophomore." He was the guy getting too far inside on the Wingo reverse, the help that Hill didn't have when he attempted to invent the "jump in the air" tackle method, the guy who thunked the edge but then didn't get his feet squared to make sure the RB couldn't bounce around it.
+He will be good; this was another true sophomore in Week 2. I'm in a good place there.
+Okay positive vibes guy, if things can be okay then what, if anything, is coming in better than our preseason expectations?
+Can I interest you in some backup defensive linemen? Texas thought they could plow right through backup DT Ike Iwunnah, who's been a roster ghost for his first 3 years. Ike takes that personally.
+#92 the top DT
+I didn't chart the last drive but I thought about clipping all three plays of it for Ike's preview. I clipped two.
+and you can't have one without the other.
+He had six snaps in this game, half of them on the last garbage drive, so the fact he scored the highest of any Michigan player to PFF is an indictment on the rest of the team's performance, mostly. Forcing me to clip half of his snaps, on the other hand, is a very good sign that Michigan has a player coming up behind Grant. Next step is being able to take some real snaps off the starters.
+As for Rayshaun Benny, he got a normal Jenkins number of snaps and had a Normal Jenkins.
+He is coming in at the top of his expectations for this year.
+Et cetera. These guys are asking this trivia question from the same place 1947 national champion Fritz Crisler watched his successor Bennie Oosterbaan win the 1948 national championship.
+And yet.
+Someone said it's maybe because they don't recognize the '47s. Notre Dame's claim to the 1947 championship is predicated on the fact that they were ahead in the last poll before the bowls and didn't get to play in one, ergo they were #1 when *their* season ended. Michigan's claim is based on the poll taken after they demolished USC in the Rose Bowl far more thoroughly than common opponent Notre Dame. Notre Dame also lost to NIU within hours of this very wrong trivia question. Do NOT mess with the ghosts of the Mad Magicians. The last of them perished right before the team most like them won in Pasadena, and they were a feisty lot before they were paranormal.
+(Related: Look for a film about Dick Kempthorn soon).
+Heroes?
+Mason Graham even though he got scooped. Will Johnson got the full Woodson treatment. Rayshaun Benny and Ike Iwunnah considerably lowered my concern about the future of DT when The Freaks are gone next year.
+Maybe not so heroic?
+Wink Martindale, again. Ernest Hausmann and Jimmy Rolder get to blame him the once. Quinten Johnson isn't an NFL linebacker. Enow Etta isn't a defensive tackle. Jyaire Hill (+10, –17 = +7) isn't out of beta.
+Judge as you would against an elite offense. Ewers made some salad. D-Mo and Stewart were slowed in ways other so-called elite lines could not. They're not what they were by Week 15 last year.
+Welcome to college, Wink. It has to be disorienting to be dealing with players who will screw up so much that has to be part of your gameplan. Let's see how he adjusts before passing judgment.
+Maybe limit them to 50 snaps. I'd like to see an expanded role for Iwunnah. DTs held up well to a 40% rise in playing time, but weren't operating at peak.
+Jyaire Hill is still in beta. Texas attacked him for a reason; I am fine with this.
+BJM has his work cut out for him. I'm willing to chalk the linebacking issues up to Wink asking too much of them in Week 2 against an elite opponent.
+Your Moment of Zen:
+[Patrick Barron]
+PopeLando
+
+
+September 11th, 2024 at 4:58 PM  
+
+^
+
+INTERESTING!
+Not at all what I expected.
+But it’s giving me “Iowa vs Penn State 2023 vibes.” Penn State didn’t do anything particularly spectacular: they were just down to down incrementally better…and Iowa handed them 45 minutes of game time and 100 plays.
+Fun fact about our defense is that last year they faced the lowest number of plays EVER in the Harbaugh era. Because the offense was - again, for the only time in the Harbaugh era - going on long sustained drives with scores at the end.
+Iowa, OTOH, made their 3-4 plays on offense take as long as humanly possible.
+Joined: 08/01/2015
+
+MGoPoints: 92082
+In reply to INTERESTING!Not at all what… by PopeLando
+alum96
+
+
+September 11th, 2024 at 9:41 PM  
+
+^
+
+Fun fact about our defense is that last year they faced the lowest number of plays EVER in the Harbaugh era. 
+First year of running clock on 1st downs helped.  Remember 15 months ago people were freaking about how that would limit the # of drives per game.
+Joined: 04/28/2012
+
+MGoPoints: 87665
+In reply to Fun fact about our defense… by alum96
+PopeLando
+
+
+September 11th, 2024 at 10:01 PM  
+
+^
+
+And it did! Our counting stats took a big leap backwards due to that
+Joined: 08/01/2015
+
+MGoPoints: 92082
+abertain
+
+
+September 11th, 2024 at 4:59 PM  
+
+^
+
+Yeah. Other folks who have reviewed some film noted the high number of MAs. That feels like the coordinator is giving them too much. As for LB, BJM was here in 2020, which was the only abysmal Harbaugh defense. I’m happy to withhold judgement for a bit longer, but I am looking closely as Tenn. appears just fine on D right now.
+Joined: 10/24/2009
+
+MGoPoints: 6238
+In reply to Yeah. Other folks who have… by abertain
+MJ14
+
+
+September 11th, 2024 at 10:19 PM  
+
+^
+
+Michigan continues getting worse and worse coaches at the linebacker level. Campanile > Helow > Partridge > BJM. What’s funny is it’s probably the opposite as far as recruiting goes. As Ohio State has shown us though, development is much more important. 
+Joined: 01/09/2011
+
+MGoPoints: 20920
+In reply to Michigan continues getting… by MJ14
+maquih
+
+
+September 12th, 2024 at 7:55 AM  
+
+^
+
+Sir, we won the national championship undefeated.
+Joined: 11/04/2010
+
+MGoPoints: 4728
+In reply to Yeah. Other folks who have… by abertain
+AWAS
+
+
+September 12th, 2024 at 8:05 AM  
+
+^
+
+After a lengthy NFL career, it's not surprising Wink will take some time to recalibrate his teaching to his less experienced players.  The position group coaching turnover hurt the continuity here almost as much as losing savants named Moore and Sainristil.  Macdonald and Minter set a bar that may be unrealistic to attain, but it's now the standard to which judgment is made.  I'll be making mine based on the improvement seen over the course of the season.    
+Joined: 01/02/2018
+
+MGoPoints: 14969
+abertain
+
+
+September 11th, 2024 at 4:59 PM  
+
+^
+
+Eom
+Joined: 10/24/2009
+
+MGoPoints: 6238
+HateSparty
+
+
+September 11th, 2024 at 5:02 PM  
+
+^
+
+This made me sad all over again.  I felt the grading was better than my untrained eyes saw but what do I know.   I'll just enjoy the National Championship and lessen my hopes significantly. Go Blue!
+Joined: 12/17/2014
+
+MGoPoints: 33624
+In reply to This made me sad all over… by HateSparty
+Bo Harbaugh
+
+
+September 11th, 2024 at 8:20 PM  
+
+^
+
+The eyes don't lie.  
+The grading is useful like advanced metrics when analyzing a team's predicted rank and outcomes, but this was the first game since UGA that I saw our guys getting pushed at the LOS on both sides of the ball. Some of this could be attributed to fatigue, specifically on the defensive side, but the push we've become accustomed too wasn't quite there.  Also, tackling is bad ,both individually and team pursuit- Harbaugh always had good tackling teams.
+A lot of credit to Ewers and Sark...great QB with awareness and a feel for the pocket and Sark can exploit matchups, but from the first snaps of the game it was clear that this UT O-line combine with the RPO was going to be a handful for the defense.
+Offense is quite abysmall and makes all this look worse - so yes, that is obviously a factor.
+Right now UM is the inverse of what it has been for the past few years.  The whole is less than the sum of the parts right now - as individual lapses are creating huge problems.
+Joined: 08/03/2019
+
+MGoPoints: 47080
+mGrowOld
+
+
+September 11th, 2024 at 5:05 PM  
+
+^
+
+This UFR was quite encouraging to me as it validated many of the points I've been making this week to the "OMG UNACCEPTABLE" portion of the board
+I think things are not nearly as bad as some here would like others to believe (remember the "Our coaching staff is incompetent" thread") and will get better as the year goes on.
+Joined: 10/04/2010
+
+MGoPoints: 233417
+In reply to This UFR was quite… by mGrowOld
+NeverPunt
+
+
+September 11th, 2024 at 5:56 PM  
+
+^
+
+We won a title last year with a PRECISE  combination of excellent depth and a ton of player experience, talent at the right spots, player development at others, and excellent coaching and playcalling and dominance in the trenches. And guess what? The majority of the players and coaches left. So now we have some talent, and some holes to fill. We have some experience, and a lot of young inexperienced guys. We have some good coaches and some jury-is-out coaches. We have some new systems to adapt to.  This year is gonna be a mixed bag. If you're in the UNACCEPTABLE crowd, frankly, you might consider rooting for another team that wins with unlimited five stars and portal purchases. We aren't that program, won't be that program, but for the love of all things holy please give this staff and team a chance, expect the season to be somewhat of a clunker,  be suprised if it's not, and let's see what we can build here again.
+Joined: 03/26/2019
+
+MGoPoints: 46841
+In reply to This UFR was quite… by mGrowOld
+KBLOW
+
+
+September 11th, 2024 at 6:06 PM  
+
+^
+
+Wink and the other defensive coaches had all spring and summer to acclimatize. He's a professional getting paid huge money. To do such a poor job even vs such a good team is pathetic. 
+Joined: 06/30/2008
+
+MGoPoints: 29086
+In reply to Wink and the other defensive… by KBLOW
+wavintheflag
+
+
+September 11th, 2024 at 6:34 PM  
+
+^
+
+And players too.
+Joined: 03/22/2009
+
+MGoPoints: 535
+In reply to And players too. by wavintheflag
+Tex_Ind_Blue
+
+
+September 11th, 2024 at 8:00 PM  
+
+^
+
+NCAA restrictions on practice times, and supervised practices are still in force, even though the players are getting paid to play. 
+Joined: 12/31/2014
+
+MGoPoints: 9324
+In reply to Wink and the other defensive… by KBLOW
+GoBlueZ06
+
+
+September 12th, 2024 at 9:40 AM  
+
+^
+
+Ah so you just glossed over that average starting field position of the GODDAMN FORTY EIGHT YARDLINE I see...
+Joined: 10/31/2020
+
+MGoPoints: 4099
+In reply to This UFR was quite… by mGrowOld
+DelGriffith
+
+
+September 11th, 2024 at 8:43 PM  
+
+^
+
+To me, the single biggest question on D now is this: Wink now knows what he has to work with. Will he adapt to that, or will he just do what he does, believing that if the players get it right, it works. If it's the former, we still have hope for this year. If the latter....gonna be a long year. Trying to teach avanced calculus to middle-schoolers and then blaming them for getting it wrong is not a recipe for success for teacher OR student.
+Joined: 11/01/2023
+
+MGoPoints: 9428
+Erik_in_Dayton
+
+
+September 11th, 2024 at 5:07 PM  
+
+^
+
+Sarkisian had Martindale's number to such an extent that it reached "I'm not even mad territory."  I thank last year's team for giving me the serenity to accept it.
+To be clear, I'm only commenting on this game.  I am not in favor of firing anyone or even of making someone sit in the timeout chair.
+Joined: 12/03/2008
+
+MGoPoints: 62069
+Blue Vet
+
+
+September 11th, 2024 at 5:36 PM  
+
+^
+
+Again, an amazingly comprehensive analysis. Always impressive.
+Y'know, we ALWAYS have comments, not to mention comments about comments, and comments on those comments.
+But, Seth, if you ever wrote only a couple hundred words, you'd stun the MGoBlogosphere into shocked silence.
+Joined: 05/08/2012
+
+MGoPoints: 82938
+DTOW
+
+
+September 11th, 2024 at 5:57 PM  
+
+^
+
+Defense had their mistakes and errors.  Offense didn't do them any favors with short drives and terrible field position.  I imagine tomorrow's UFR is going to look ugly.
+Joined: 08/31/2013
+
+MGoPoints: 6856
+KBLOW
+
+
+September 11th, 2024 at 6:04 PM  
+
+^
+
+It's absolutely not wrong to expect a DC at Michigan making the vast amount of money that Wink does to, you know, actually understand what his job will entail and how it will be different with college kids than pros. Even a kid who had just begun working at Burger King who had previously only served ice cream at Baskin-Robbins would be expected to understand how the job is different and do his job correctly. 
+Joined: 06/30/2008
+
+MGoPoints: 29086
+In reply to It's absolutely not wrong to… by KBLOW
+ThisGuyFawkes
+
+
+September 11th, 2024 at 7:57 PM  
+
+^
+
+Insufferable
+The dude is 2 games in and that might have been the best offense UM has faced in the last 3 years -- time will tell. Time will also tell whether Wink is viable as a college DC - but saying he doesn't understand his job is a fucking joke. Mike McDonald's defense gave up 51 points (Aided by some JJ turnovers) to TCU - that guy must suck and not be a good coach; Jesse Minter's D gave up almost as many points (24 v 31) to Maryland last year - clearly he doesn't know shit and has no future in coaching defenses... amirite? It's one game going into a season where we lost almost our entire starting D-Line (while our current guys all have experience, only Graham was a starter), our starting linebackers and 1/2 of our starters in the secondary --- save the dumbass fast food analogy for the end of the year.
+Joined: 09/16/2019
+
+MGoPoints: 7164
+In reply to InsufferableThe dude is 2… by ThisGuyFawkes
+MJ14
+
+
+September 11th, 2024 at 10:23 PM  
+
+^
+
+This is what I tried to make clear to everyone before the Texas game. Maryland and OSU scored almost this much against us last year. And last years defense was elite, elite. This Texas offense is better than both of them. 
+Joined: 01/09/2011
+
+MGoPoints: 20920
+In reply to This is what I tried to make… by MJ14
+pastor_of_muppets
+
+
+September 12th, 2024 at 8:00 AM  
+
+^
+
+I'm not having a meltdown nor am I disagreeing with you. I have an almost emotionless idea in my brain which is so based on nothing that it's not even really turned into my opinion, it's just a very simple, miniscule feeling that Texas made a conscious decision to not beat us mercilessly in the second half.
+Joined: 05/22/2020
+
+MGoPoints: 2233
+In reply to I'm not having a meltdown… by pastor_of_muppets
+tubauberalles
+
+
+September 12th, 2024 at 9:30 PM  
+
+^
+
+I agree it had that feel, though they did keep their starting QB in for the entire game despite every Longhorn fan clamoring to see Manning get some reps.  So while they may not have felt the need to push for points, they were concerned enough to not let UM back in the game.  I think.
+Joined: 06/30/2008
+
+MGoPoints: 4598
+In reply to InsufferableThe dude is 2… by ThisGuyFawkes
+MGoBlue96
+
+
+September 12th, 2024 at 10:24 AM  
+
+^
+
+Eh, the d-line statement is a bit misleading, for all intensive purposes Stewart and Moore were co starters with Harrell and McGregor. You have a starting d-line with two probable first rounders and another two who will be drafted and were top 20 pass rushers themselves to PFF last year. I get the depth isn't the same and there are new starters at CB2 and linebacker but sorry starting d-line is one spot that really doesn't have any excuse not to be elite. Pretty much every team in the country would trade their starting d-lines for UM's.
+Joined: 12/26/2010
+
+MGoPoints: 33748
+In reply to InsufferableThe dude is 2… by ThisGuyFawkes
+NJblue2
+
+
+September 12th, 2024 at 4:51 PM  
+
+^
+
+I don't think Texas's offense will be better than Washington last year, or 2021/2022 OSU. Georgia's 2021 offense was pretty good as well. 
+I mean that OSU offense alone had 3 first round picks at WR and a QB with one of the best rookie years in awhile. They were pretty stacked.
+As to your d-line comment, as someone else said, Moore and Stewart were borderline starters and rotated in a ton. Also it was Minter who had the TCU game. Those guys were ascending DCs though, Wink, not so much.
+Joined: 08/08/2010
+
+MGoPoints: 36019
+In reply to InsufferableThe dude is 2… by ThisGuyFawkes
+ppen52
+
+
+September 13th, 2024 at 1:09 AM  
+
+^
+
+For what it’s worth ‘22 & ‘23 were Minter, ‘21 was McDonald. So the 51 to TCU was given up by minter.
+I think the thing that’s got many of us so upset is that under McDonald and Minter Michigan was good to great at basics. Being aligned properly, tackling, team tackling, not busting, etc. they definitely got beat at times but it was rare the times that someone jus flat out was in the wrong spot or utterly screwed up. Seth mentioned you can count on one hand how many times it happened in 3 years. It happened several times agiainst Texas and it happened against Fresno. It seems obvious these young players are not being coached, especially at the level they had been previously. Which is unacceptable for someone with Winks experience and Salary. You don’t have to shut out an elite offense. But you can’t get consistently beat due to simple, obviously coaching / preparation, errors 
+Joined: 08/06/2024
+
+MGoPoints: 16
+tragictones
+
+
+September 11th, 2024 at 6:10 PM  
+
+^
+
+This was a comedown from last year's Playoff but the down-to-down metrics—removing garbage drives—are well within the 2021-'23 distribution.
+Well, SP+ seems to define garbage drives (difference in score at certain points in the game clock.)   very differently than Sarkisian does.   Because it was pretty clear Sark took his foot off the gas as soon as the second half kicked off.  Perhaps Michigan's metrics are buoyed by Texas drives that weren't technically garbage, but Texas went conservative.   I mean he threw about 25 passes in the first half, and 10 in the second.  Surely, some part of the third quarter, when Texas was going easy on Michigan, is built into the "not that bad" metrics.
+Joined: 07/23/2010
+
+MGoPoints: 1328
+In reply to This was a comedown from… by tragictones
+DenverMaize
+
+
+September 12th, 2024 at 3:40 AM  
+
+^
+
+Yes, I was going to make this same point. If you look at just the first half, the metrics may have been "that bad". That said, I do still feel a bit better after reading this UFR.
+Joined: 05/13/2016
+
+MGoPoints: 764
+In reply to Yes, I was going to make… by DenverMaize
+Michigan4Life
+
+
+September 12th, 2024 at 8:05 AM  
+
+^
+
+Yeah, after Texas 2nd half TD, Sark just went into turtle mode just to save his offense for an another game. He wanted to get the game over with because he knows Michigan offense is not capable of coming back. 
+Michigan is not built to play from behind even in the last few years. Within one score is fine because Michigan can still stick with their gameplan but once they're down multiple scores, that's when they get into trouble. USC and OSU offense are plenty good enough to do it. USC looks to have a competent defense and OSU has an elite defense. 
+Joined: 07/29/2010
+
+MGoPoints: 31505
+In reply to This was a comedown from… by tragictones
+AWAS
+
+
+September 12th, 2024 at 9:48 AM  
+
+^
+
+I'm sure at halftime it was pretty clear to Sark that he had enough points to win the game, and the only way to lose the game was going to be turnovers.  I guess you can say "take the foot off the gas", but it's really playing conservative not to lose rather than any feelings of mercy against an overmatched opponent.  See:  UM 2023 for further examples.
+Joined: 01/02/2018
+
+MGoPoints: 14969
+King Tot
+
+
+September 11th, 2024 at 6:18 PM  
+
+^
+
+Should they move Enow Etta back to DE with Ike emerging?
+Joined: 11/29/2016
+
+MGoPoints: 21850
+MeanJoe07
+
+
+September 11th, 2024 at 6:39 PM  
+
+^
+
+I think Corum keeping us on the field over and over and eventually punching it in at the 2 yard line 5,000 times last year was some of our best defense. 
+Joined: 09/15/2013
+
+MGoPoints: 80854
+In reply to I think Corum keeping us on… by MeanJoe07
+stephenrjking
+
+
+September 11th, 2024 at 11:01 PM  
+
+^
+
+Unquestionably. Harbaugh was big on the complimentary football aspect of the game, part of how he builds his offensive philosophy. It annoyed some of us at times and resulted in 2021-2023. 
+Michigan's inability to stay on the field was a huge factor in what happened. Sometimes things snowball and the first half was a harsh example of this. 
+Joined: 03/15/2012
+
+MGoPoints: 20158648
+In reply to Unquestionably. Harbaugh was… by stephenrjking
+MGlobules
+
+
+September 12th, 2024 at 4:17 AM  
+
+^
+
+To be frank: It annoyed hell out of many of the same people who are standing at the cliff-edge now. Please, people. Crawl back or jump.
+Joined: 11/17/2008
+
+MGoPoints: 57142
+Vasav
+
+
+September 11th, 2024 at 6:56 PM  
+
+^
+
+I feel better
+Joined: 12/13/2009
+
+MGoPoints: 27968
+andrewG
+
+
+September 11th, 2024 at 7:05 PM  
+
+^
+
+The opening story of why this wasn't as bad as it seems rings pretty hollow when you consider that Texas was up 3 scores at halftime and mailed in the majority of the second half. The 2021 Georgia game is the only comparable one on the list in that regard.
+Joined: 10/20/2010
+
+MGoPoints: 5407
+Blue Vet
+
+
+September 11th, 2024 at 7:10 PM  
+
+^
+
+Another example of why the fascinating English language ain't math: "so it's not unlikely they can get back to elite at preventing touchdowns."
+In math, if I recall correctly, two negatives make a positive. But the two negatives of "not" and "unlikely" don't mean the same as the positive of "likely."
+Here's hoping it's likely  they "get back to elite at preventing touchdowns."
+Joined: 05/08/2012
+
+MGoPoints: 82938
+Clarence Beeks
+
+
+September 11th, 2024 at 7:15 PM  
+
+^
+
+Three things were out of whack here: points per drive, expected points added and third down success rate.This was validating to read and reassuring. A huge part of this was the third one. As I said before in other threads, change that one by even half and one and two are different. And three was largely about Ewers being great.
+Joined: 09/06/2008
+
+MGoPoints: 25462
+HollywoodHokeHogan
+
+
+September 11th, 2024 at 7:18 PM  
+
+^
+
+Usually, when the new  DC comes from a particular position group background, that group gets a bump. E.g. Minter and safeties last year. Obviously lots of that depends on the talent available,  but it sucks to see returning defensive backs play worse without any offsetting improvement in another position group (like linebacker or DL).  At LB, this might just be about talent, but the DL starters should be roughly as talented as last year. 
+Joined: 02/12/2011
+
+MGoPoints: 24333
+Double-D
+
+
+September 11th, 2024 at 7:29 PM  
+
+^
+
+A well sold play action might be the most criminally under used play in football.
+Especially when a team is known to run on 1st down and known to be effective running the ball.
+I do feel a bit better about Wink and the defense than I did from the earlier review.
+Jyaire and the LBs need to shake it off and step it up. 
+Joined: 12/21/2013
+
+MGoPoints: 99572
+Tex_Ind_Blue
+
+
+September 11th, 2024 at 8:02 PM  
+
+^
+
+This is way better than I expected. While some mistakes were egregious, the runway to improvement seems good too. Here's hoping that this team grows up together. 
+Joined: 12/31/2014
+
+MGoPoints: 9324
+ca_prophet
+
+
+September 11th, 2024 at 8:06 PM  
+
+^
+
+Hill got got, but he's young and can get better.  One test for the coaching staff to check at the end of the year.
+Similarly, Wink won a few and lost more, but his main failing was that he doesn't have nearly as good a grasp on what his team can do as Sark does.  This is the second test for the staff; will they coach 'em up so they can master the complicated defense they want to run?
+They can't do anything about the fact that Texas is good, but we'll have a better grasp on that at year's end too.
+We expected - or should have - a step down from the defense.  It looked like a cliff on Saturday, but I expect it to look a lot better at year's end.  That will be a far better measure of the defense and staff than a Game 2 test against one of the nation's best offenses.
+Joined: 09/07/2010
+
+MGoPoints: 8464
+MichiganiaMan
+
+
+September 11th, 2024 at 8:26 PM  
+
+^
+
+Definitely seems that we’re paying transition costs for getting a front seven guy to replace a secondary guy at DC. The personnel losses compound that change, but this still feels like a coaching issue where maybe Wink & co hammered philosophy more than the basics. The missed tackles are deeply troubling.
+Joined: 12/10/2014
+
+MGoPoints: 6470
+abertain
+
+
+September 11th, 2024 at 8:37 PM  
+
+^
+
+They didn’t force a punt until the third quarter, were lucky to have the first drive end without points as a wide open TD was taken off the board. Guys were routinely out of position. This was not a comparable performance 🤷
+Joined: 10/24/2009
+
+MGoPoints: 6238
+In reply to They didn’t force a punt… by abertain
+Ernis
+
+
+September 11th, 2024 at 10:34 PM  
+
+^
+
+Indeed, throughout the first half, unless Texas made a mistake their offense could put the ball where they wanted with impunity. But M’s defense had fine process metrics, apparently, even if their outcome metrics were garbage, so there’s that!
+Joined: 09/23/2008
+
+MGoPoints: 12872
+AlbanyBlue
+
+
+September 11th, 2024 at 9:27 PM  
+
+^
+
+Right at the beginning of the season, a "Seth deserves a medal" UFR !! Take some out of petty cash for that excellent piece of work!
+This UFR validated a great deal of what I thought after two games -- the coaches and the players are in general a step/steps down from 2023, and the "arrrgh unacceptable" crowd needs to recalibrate some. With the personnel losses and Michigan's reticence to do what it takes to reload in modern CFB, it's not gonna be 2023.
+That being said, Wink will need to recalibrate as well. And as far as BJM goes, he was the only hire that made me cringe. 2020 was 2020, but he did not impress. Hiring back not-great coaches isn't a desirable move. 
+Joined: 09/11/2010
+
+MGoPoints: 29696
+M-Dog
+
+
+September 11th, 2024 at 9:59 PM  
+
+^
+
+Welcome to how the rest of the college football world lives that are not the 2023 Michigan Wolverines.  
+If your defense holds the opponent to under 30 points, they've done about as well as can be expected.  Your offense has to take it from there.  Nobody is winning top level games 17 - 10 anymore.  Your offense has to score points.
+Even against Texas, the Michigan defense probably did somewhat close to enough, if the offense was competent and especially if it did not give up three turnovers.
+The 2024 defense is not the 2023 defense.  They are not going to be able to hold the fort down while you run the ball 32 straight times (and have to punt four times while doing it, which people forget).
+But the 2024 defense can gel well enough eventually this year to hit the benchmark of not giving up 30 points against the top teams.
+The issue is the Michigan offense.  That's going to be a problem.  They don't look like they will ever have 30 points in them in a big game this year.    
+Joined: 07/06/2008
+
+MGoPoints: 276144
+In reply to Welcome to how the rest of… by M-Dog
+stephenrjking
+
+
+September 11th, 2024 at 11:03 PM  
+
+^
+
+It's going to be a problem. And the defense is going to look bad again with the offense a major contributor. 
+Joined: 03/15/2012
+
+MGoPoints: 20158648
+VICTORS, our 2021-2023 yearbook, is now SOLD OUT. Join the interest list for a 2nd printing.
+I am focusing on making sure the Kickstarter backers all get theirs before we sell any more. If your book came and you want to be jubilant, the thread's here.
+Go to Diaries
+Go to MGoBoard
+I'M SORRY YOU NEED TO WIN A SHIP AND YOUR RIVALRY GAME AND THE CONFERENCE OR I CAN'T UNDERSTAND YOU.
+© 2022 MGoBlog. All rights reserved. Privacy Policy
+Design by Human Element

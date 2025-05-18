@@ -1,0 +1,16 @@
+Stream San Diego News for free, 24/7, wherever you are with NBC 7.
+Nvidia stock closed up 1% on Tuesday after CEO Jensen Huang said in an analyst meeting that the company expects to increase its share of the $250 billion data center market.
+Huang's comments were made a day after Nvidia announced its latest generation of artificial intelligence chips, called Blackwell, and a new AI software platform.
+Get top local San Diego stories delivered to you every morning with our News Headlines newsletter.
+"You can build chips to make software run better, but you can't create a new market without software. What makes us unique is that we're the only chip company I believe that will create its own market," he said during the meeting on Tuesday.
+Shares had dipped about 2% before his comments sent the stock back up.
+Huang announced the new chips on Monday at Nvidia's developer conference in San Jose, California, touting them as even more powerful processors than the current generation of Hopper graphics processing units, which have been highly sought after for running large AI models. The first Blackwell chip is the GB200 and will ship later this year.
+"We had to invent some new technology to make it possible," said Huang, holding up one of the new chips during an interview with CNBC's "Squawk on the Street" on Tuesday. He estimated one chip could cost $30,000 to $40,000 and that the research and development budget for the processor totaled around $10 billion.
+The company on Monday also announced a new enterprise software product known as Nvidia Inference Microservice, which makes it easier to run older generations of Nvidia GPUs.
+"Move over Taylor Swift, you're not the only one that can sell out a stadium as Jensen presented his GTC keynote to a packed crowd at the SAP Center in San Jose," Bernstein analysts wrote in an investor note Tuesday, maintaining an outperform rating and $1,000 price target on the stock.
+Wells Fargo analysts reacted to the chipmaker's announcement with measured optimism, reiterating their overweight rating on Nvidia shares while boosting their price target to $970 from $840.
+"While NVDA once again highlighted its full stack / platform differentiation, we think some may have anticipated a bit more out of the Blackwell B200 launch," the analysts wrote in a note.
+Still, the Wells Fargo analysts wrote the news reinforced their "long-standing positive thesis" on Nvidia's technology and monetization opportunities.
+Analysts at Goldman Sachs, retaining a buy rating of Nvidia stock, raised their price target to $1,000 from $875 on Tuesday and expressed "renewed appreciation" for Nvidia's innovation, customer and partner relationships, and pivotal role in the generative AI space following the company's keynote.
+"Based on our recent industry conversations, we expect Blackwell to be the fastest ramping product in Nvidia's history," the analysts wrote in a note to investors. "Nvidia has played (and will continue to play) an instrumental role in democratizing AI across many industry verticals."
+— CNBC's Michael Bloom contributed to this report.

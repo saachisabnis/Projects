@@ -1,0 +1,6375 @@
+Friday, Feb 23, 2024   - Posted by Isabel Miller
+
+* ICYMI: ShotSpotter microphones have been hidden from police and the public, now the secret locations of microphones are revealed.  WIRED…
+- SoundThinking equipment has been installed at more than a thousand elementary and high schools; they are perched atop dozens of billboards, scores of hospitals, and within more than a hundred public housing complexes.
+- An analysis of sensor distribution in US cities found nearly 70 percent of people who live in a neighborhood with at least one SoundThinking sensor identified as Black or Latino.
+- In February, a leaked internal report from the State’s Attorney’s Office in Illinois’ Cook County found that nearly a third of arrests stemming from a ShotSpotter alert had nothing to do with a gun.
+
+* Related stories…
+* Isabel’s top picks…
+* Sun-Times | Who to vote for? Too often, it’s about who’s first on the ballot.: Many voters told the Sun-Times they would feel more assured in their picks — and, experts say, a significant share of non-voters might be more inclined to join the process — if they had better access to clear, unbiased information to help them make choices.
+* WAND | Native Americans hope Illinois lawmakers can transfer stolen land, ban racist school mascots: Illinois lawmakers could pass several pieces of legislation this spring to help Native Americans across the state.  One proposal could support the Prairie Band Potawatomi Nation’s goal to reclaim land stolen from them more than 200 years ago. The measure would allow Illinois to transfer ownership of Shabbona Lake State Park to the Prairie Band Potawatomi Nation.
+* ABC Chicago | Dolton Mayor Tiffany Henyard accused of corruption, trustees approve call for federal investigation: Trustees in Dolton approved a resolution to ask for a federal investigation into Mayor Tiffany Henyard, who is accused of corruption.Four of Mayor Henyard’s six colleagues on the Dolton Village Board attended Thursday evening’s meeting, and celebrated after the resolution passed.
+* Here’s the rest of your morning roundup…
+* Daily Herald | 11th District GOP congressional candidates complain of ‘moral decline’ in U.S.: Hathaway-Altman, a chief sales officer with a travel company who unsuccessfully sought the nomination in 2022, raised the issue during her opening remarks. She proclaimed the U.S. is experiencing a “sharp” moral decline. When asked to clarify, Hathaway-Altman said Americans don’t focus enough on families and family values.
+* Effingham Daily News | Write-in candidates vie for GOP nomination in 102nd District: Incumbent Adam Niemerg is being challenged in his bid for reelection by Jim Acklin of Ogden and Edward Blade of Toledo. Niemerg began pursuing a write-in campaign after the Illinois State Board of Elections elected not to place his name on the ballot for failure to have his nominating petition notarized. He was the only candidate who filed a petition to have his name placed on the Republican ballot.
+* Daily-Journal | Governors State awarded $500K grant for addictions studies scholarships: The grant will provide tuition scholarships, internship stipends and wraparound support for students attending. Funded through the Illinois Division of Substance Use Prevention and Recovery and the Illinois Certification Board, this initiative is part of a new workforce incentive program for certified alcohol and other drug counselors (CADCs) in Illinois known as the CADC Workforce Expansion Program.
+* Daily-Journal | Bourbonnais preparing ordinance dealing with migrant buses: “We took a little longer to review and be sure about enforcement and legality,” Mayor Paul Schore said. During Monday’s meeting the board’s attorney, Patrick Dunn, said he looked at several recently passed ordinances, including the city of Kankakee and Manteno.
+* Telegraph | Resolution opposing sanctuary status passed in Madison County: The resolution declares opposition to “sanctuary state status,” directs the county administration to “take no discretionary action” supporting sanctuary state policies, and encourages citizens to “actively advocate” for changes in state policies and federal immigration laws.
+* Sun-Times | Why is Jerry Reinsdorf spending millions buying up parking lots around the United Center?: Over the past 19 months, a Reinsdorf-connected company has spent $44.7 million buying vacant lots from two politically connected families that have long offered discounted parking deals to fans of the Bulls and Blackhawks, records examined by the Chicago Sun-Times show. A third family has refused to sell its parking lots.
+* Paul Sullivan | Jerry Reinsdorf’s about-face on the White Sox possibly leaving Chicago is history — and hypocrisy — repeating itself: The good news for Chicago White Sox fans is the team eventually will be up for sale, according to Chairman Jerry Reinsdorf. The bad news is it won’t happen as long as Reinsdorf is alive. Before he does go, Reinsdorf — who turns 88 Sunday — wants to leave Chicago with a special gift: a shiny, new ballpark for the Sox that would anchor the redevelopment of The 78 site in the South Loop. Sox fans would enjoy the gift long after he’s gone, and Reinsdorf believes the city and state would benefit as well.
+* Daily Herald | ‘We regret it deeply’: Ventra app’s creators accept blame as Metra questions fare collection meltdown: “We fully understand how critical it is that our platform operates as seamlessly as possible for riders who rely on it every day,” Cubic General Manager Matt Newsome said. The implosion was “entirely a Cubic issue and we regret it deeply and apologize wholeheartedly to those it affected.”
+* Axios | Billionaire George Soros steps up to save Chicago radio stations: Billionaire George Soros’ investment firm is poised to take control of Audacy, which owns several radio stations in Chicago.  The 93-year-old progressive philanthropist is set to become the latest owner in Chicago media to have political leanings, stepping in after the publicly traded radio and podcast company filed for bankruptcy in January.
+* Sun-Times | Hard liquor sales proposed at rooftop clubs surrounding Wrigley Field: At Wednesday’s City Council meeting, Ald. Bennett Lawson (44th) introduced an ordinance that would pave the way for selling hard liquor at the rooftop clubs surrounding Wrigley, clubs primarily owned by the Cubs. For now, rooftop patrons can buy only beer and wine.
+* BND | 52 Swansea homes evacuated due to ‘potentially hazardous substance’ in sewers OK’d to return: That investigation led to the discovery of “a potentially hazardous substance within the sewers,” according to a Facebook post from the St. Clair County Emergency Management Agency. Emergency responders didn’t know what the substance was or where it was coming from, but based on initial readings, determined it could be considered flammable and/or explosive, Whitaker said.
+* SJ-R | Doughnut shop that opened in the 1930s is moving from its longtime Lincoln location: Generations of Lincolnites have perched atop the low-seated stools at the Formica countertops that “V” off the Mel-O-Cream doughnut display case stocked with everything from long johns to old fashions, cake to cream filled, apple fritters to tiger tails. But that six-decade tradition is set to come to an end Sunday with the last deep-fried pastry passing the counter at 704 Keokuk St. Lincoln’s original home to Mel-O-Cream is closing as owners relocate the business to a newly constructed structure at 227 N. Kickapoo St., just two blocks north of the Logan County courthouse square.
+* WPSD | Shawnee National Forest Snake Road closes early for spring migration: A news release from Shawnee National Forest said the road is closed biannually during the animals’ migration season. The 2.5-mile-long road is regularly closed March 15 through May 15; however, forest officials closed the road early due to higher seasonal temperatures. The road is closed to vehicles, but is open to people travel on foot. The gradual, two-month migration attracts people from across the country who want to witness the diversity of reptile and amphibian species along the single stretch of road. Visitors may see volunteers assisting the Forest Service with counting snakes, people, and cars that visit the area.
+* Herald-Whig | ‘All schools need a Bunny’: QJHS therapy dog making difference for students and staff: One of the newest faces at Quincy Junior High School sports an alert expression and a love of kids along with a tail. Bunny the Therapy Dog walks the halls, visits classrooms and takes a turn at bus and lunch duty with her owner and handler, seventh-grade counselor Jackie Martin.
+* SJ-R | Local artists help tell authentic stories while showcasing Black history in central Illinois: Tori, as Kolanowski likes to be called, said that her art she creates is meant to do more than just to inspire younger Black audiences, but to teach fundamental history of Illinois. “My art, especially with the pieces I’ve put forth in museums, has gotten a lot of feedback from the people I was reaching out to while creating these pieces,” Kolanowski said. “One of my pieces I used lots of central Illinois history of the Black community … it encouraged a lot of people who I had shown (the art) to, to look further into the history and these peoples names and the stories behind them.”
+-  Nick - Friday, Feb 23, 24 @ 8:51 am:  $8.6 million is more than what sharpshooter cost the city the entire year of 2023. 
+It honestly makes no sense to me. If this is important / effective enough that it has to be extended through the Democratic National Convention, then it should just be extended period.
+But if it’s as ineffective as the activists and studies say, which I’m inclined to believe, then Johnson is just giving away money here.
+
+
+$8.6 million is more than what sharpshooter cost the city the entire year of 2023. 
+It honestly makes no sense to me. If this is important / effective enough that it has to be extended through the Democratic National Convention, then it should just be extended period.
+But if it’s as ineffective as the activists and studies say, which I’m inclined to believe, then Johnson is just giving away money here.
+
+
+
+-  Nick - Friday, Feb 23, 24 @ 8:51 am:  SharpSpotter*
+
+
+
+-  Three Dimensional Checkers - Friday, Feb 23, 24 @ 9:19 am:  It is painfully obvious Mayor Johnson had no plan to cancel Shotspotter, despite a transition period and 10 months in office. With the deadline approaching, he just threw together a press release that he hoped would avoid the issue. No matter your viewpoint or ideology, everyone should demand basic competency from their Mayor.
+
+
+
+-  Charles Edward Cheese - Friday, Feb 23, 24 @ 9:46 am:  The ShotSpotter contract mismanagement is just another masterclass from Mayor Johnson’s administration - It’s not effective and we won’t extend it, let’s cancel the contract, oops we let it auto renew, let’s cancel it early, just kidding we’ll temporarily extend it at a higher cost, etc. Goodness gracious the inexperience is showing and the gaffes just keep piling up.
+
+
+
+-  OneMan - Friday, Feb 23, 24 @ 9:48 am:  I went to grade school and high school in Dolton, and as a youth, I worked for the Village of Dolton as a lifeguard at the public pool and the pool in the retirement center (an old modified hotel).  Working at the pool, the trustees and folks from public works would stop by since the pool wasn’t owned by the park district but the village, so we were public works employees.  I got to learn a lot about city government over those summers; the public works guy would tell you all sorts of stories, and the trustees would talk quite a bit.  I think they were just happy to chat with interested people. There was some drama, but it was always low-key.  A useless piece of trivia is was one of the largest towns in the Chicago area with a volunteer fire department (not even pay-per-call for the volunteers) at the time.
+I also realize now that I am older it would have been an excellent place to ‘get away with stuff’ if you didn’t draw attention to yourself. Heck, the town owned a retirement center (they purchased it to keep it out of bankruptcy), and there were all sorts of opportunities to take care of folks and the like.
+Whoever recommended that she draw this much attention to herself did not do the mayor any favors. Heck, Instagram and Twitter have all sorts of folks talking about her and Dolotn as well as miss-pronouncing the name (Doll-ton), not (Daal-ton).  This much attention to these issues never ends well.
+Also, she has a detail, and the city spent money on an ice rink blows my mind.
+
+
+
+-  Chicagonk - Friday, Feb 23, 24 @ 9:49 am:  @Nick - If the metric is whether ShotSpotter reduces crime, that is inconclusive. It’s a tool and police departments view it as an effective one at improving response times and responding to shots fired incidents that do not have a corresponding 911 call. I think it is likely somewhat useful and do not really understand why activists are expending so much political capital on this, but in the end it going away is probably not a big deal.
+
+
+
+-  Rich Miller - Friday, Feb 23, 24 @ 10:31 am:  ===It’s a tool and police departments view it as an effective one at improving response times===
+Maybe, but the huge percentage of false alarms/no evidence of gunfire is diverting a whole lot of resources.
+And there’s also this
+
+
+
+
+-  low level - Friday, Feb 23, 24 @ 11:53 am:  Paul Sullivan’s column about White Sox / Reinsdorf history repeating itself was a great reminder of how we got to this point.   Hopefully legislators took a moment to read it.  It is well worth it.
+
+
+
+-  Three Dimensional Checkers - Friday, Feb 23, 24 @ 12:54 pm:  To me, it seems like Shotspotter opponents have the same non-binding promise they had 10 months ago, and Shotspotter has a contract for millions of dollars. Opponents probably should not be throwing around the gullible word.
+
+
+
+-  Nick - Friday, Feb 23, 24 @ 8:51 am:  SharpSpotter*
+
+
+SharpSpotter*
+
+
+
+-  Three Dimensional Checkers - Friday, Feb 23, 24 @ 9:19 am:  It is painfully obvious Mayor Johnson had no plan to cancel Shotspotter, despite a transition period and 10 months in office. With the deadline approaching, he just threw together a press release that he hoped would avoid the issue. No matter your viewpoint or ideology, everyone should demand basic competency from their Mayor.
+
+
+
+-  Charles Edward Cheese - Friday, Feb 23, 24 @ 9:46 am:  The ShotSpotter contract mismanagement is just another masterclass from Mayor Johnson’s administration - It’s not effective and we won’t extend it, let’s cancel the contract, oops we let it auto renew, let’s cancel it early, just kidding we’ll temporarily extend it at a higher cost, etc. Goodness gracious the inexperience is showing and the gaffes just keep piling up.
+
+
+
+-  OneMan - Friday, Feb 23, 24 @ 9:48 am:  I went to grade school and high school in Dolton, and as a youth, I worked for the Village of Dolton as a lifeguard at the public pool and the pool in the retirement center (an old modified hotel).  Working at the pool, the trustees and folks from public works would stop by since the pool wasn’t owned by the park district but the village, so we were public works employees.  I got to learn a lot about city government over those summers; the public works guy would tell you all sorts of stories, and the trustees would talk quite a bit.  I think they were just happy to chat with interested people. There was some drama, but it was always low-key.  A useless piece of trivia is was one of the largest towns in the Chicago area with a volunteer fire department (not even pay-per-call for the volunteers) at the time.
+I also realize now that I am older it would have been an excellent place to ‘get away with stuff’ if you didn’t draw attention to yourself. Heck, the town owned a retirement center (they purchased it to keep it out of bankruptcy), and there were all sorts of opportunities to take care of folks and the like.
+Whoever recommended that she draw this much attention to herself did not do the mayor any favors. Heck, Instagram and Twitter have all sorts of folks talking about her and Dolotn as well as miss-pronouncing the name (Doll-ton), not (Daal-ton).  This much attention to these issues never ends well.
+Also, she has a detail, and the city spent money on an ice rink blows my mind.
+
+
+
+-  Chicagonk - Friday, Feb 23, 24 @ 9:49 am:  @Nick - If the metric is whether ShotSpotter reduces crime, that is inconclusive. It’s a tool and police departments view it as an effective one at improving response times and responding to shots fired incidents that do not have a corresponding 911 call. I think it is likely somewhat useful and do not really understand why activists are expending so much political capital on this, but in the end it going away is probably not a big deal.
+
+
+
+-  Rich Miller - Friday, Feb 23, 24 @ 10:31 am:  ===It’s a tool and police departments view it as an effective one at improving response times===
+Maybe, but the huge percentage of false alarms/no evidence of gunfire is diverting a whole lot of resources.
+And there’s also this
+
+
+
+
+-  low level - Friday, Feb 23, 24 @ 11:53 am:  Paul Sullivan’s column about White Sox / Reinsdorf history repeating itself was a great reminder of how we got to this point.   Hopefully legislators took a moment to read it.  It is well worth it.
+
+
+
+-  Three Dimensional Checkers - Friday, Feb 23, 24 @ 12:54 pm:  To me, it seems like Shotspotter opponents have the same non-binding promise they had 10 months ago, and Shotspotter has a contract for millions of dollars. Opponents probably should not be throwing around the gullible word.
+
+
+
+-  Three Dimensional Checkers - Friday, Feb 23, 24 @ 9:19 am:  It is painfully obvious Mayor Johnson had no plan to cancel Shotspotter, despite a transition period and 10 months in office. With the deadline approaching, he just threw together a press release that he hoped would avoid the issue. No matter your viewpoint or ideology, everyone should demand basic competency from their Mayor.
+
+
+It is painfully obvious Mayor Johnson had no plan to cancel Shotspotter, despite a transition period and 10 months in office. With the deadline approaching, he just threw together a press release that he hoped would avoid the issue. No matter your viewpoint or ideology, everyone should demand basic competency from their Mayor.
+
+
+
+-  Charles Edward Cheese - Friday, Feb 23, 24 @ 9:46 am:  The ShotSpotter contract mismanagement is just another masterclass from Mayor Johnson’s administration - It’s not effective and we won’t extend it, let’s cancel the contract, oops we let it auto renew, let’s cancel it early, just kidding we’ll temporarily extend it at a higher cost, etc. Goodness gracious the inexperience is showing and the gaffes just keep piling up.
+
+
+
+-  OneMan - Friday, Feb 23, 24 @ 9:48 am:  I went to grade school and high school in Dolton, and as a youth, I worked for the Village of Dolton as a lifeguard at the public pool and the pool in the retirement center (an old modified hotel).  Working at the pool, the trustees and folks from public works would stop by since the pool wasn’t owned by the park district but the village, so we were public works employees.  I got to learn a lot about city government over those summers; the public works guy would tell you all sorts of stories, and the trustees would talk quite a bit.  I think they were just happy to chat with interested people. There was some drama, but it was always low-key.  A useless piece of trivia is was one of the largest towns in the Chicago area with a volunteer fire department (not even pay-per-call for the volunteers) at the time.
+I also realize now that I am older it would have been an excellent place to ‘get away with stuff’ if you didn’t draw attention to yourself. Heck, the town owned a retirement center (they purchased it to keep it out of bankruptcy), and there were all sorts of opportunities to take care of folks and the like.
+Whoever recommended that she draw this much attention to herself did not do the mayor any favors. Heck, Instagram and Twitter have all sorts of folks talking about her and Dolotn as well as miss-pronouncing the name (Doll-ton), not (Daal-ton).  This much attention to these issues never ends well.
+Also, she has a detail, and the city spent money on an ice rink blows my mind.
+
+
+
+-  Chicagonk - Friday, Feb 23, 24 @ 9:49 am:  @Nick - If the metric is whether ShotSpotter reduces crime, that is inconclusive. It’s a tool and police departments view it as an effective one at improving response times and responding to shots fired incidents that do not have a corresponding 911 call. I think it is likely somewhat useful and do not really understand why activists are expending so much political capital on this, but in the end it going away is probably not a big deal.
+
+
+
+-  Rich Miller - Friday, Feb 23, 24 @ 10:31 am:  ===It’s a tool and police departments view it as an effective one at improving response times===
+Maybe, but the huge percentage of false alarms/no evidence of gunfire is diverting a whole lot of resources.
+And there’s also this
+
+
+
+
+-  low level - Friday, Feb 23, 24 @ 11:53 am:  Paul Sullivan’s column about White Sox / Reinsdorf history repeating itself was a great reminder of how we got to this point.   Hopefully legislators took a moment to read it.  It is well worth it.
+
+
+
+-  Three Dimensional Checkers - Friday, Feb 23, 24 @ 12:54 pm:  To me, it seems like Shotspotter opponents have the same non-binding promise they had 10 months ago, and Shotspotter has a contract for millions of dollars. Opponents probably should not be throwing around the gullible word.
+
+
+
+-  Charles Edward Cheese - Friday, Feb 23, 24 @ 9:46 am:  The ShotSpotter contract mismanagement is just another masterclass from Mayor Johnson’s administration - It’s not effective and we won’t extend it, let’s cancel the contract, oops we let it auto renew, let’s cancel it early, just kidding we’ll temporarily extend it at a higher cost, etc. Goodness gracious the inexperience is showing and the gaffes just keep piling up.
+
+
+The ShotSpotter contract mismanagement is just another masterclass from Mayor Johnson’s administration - It’s not effective and we won’t extend it, let’s cancel the contract, oops we let it auto renew, let’s cancel it early, just kidding we’ll temporarily extend it at a higher cost, etc. Goodness gracious the inexperience is showing and the gaffes just keep piling up.
+
+
+
+-  OneMan - Friday, Feb 23, 24 @ 9:48 am:  I went to grade school and high school in Dolton, and as a youth, I worked for the Village of Dolton as a lifeguard at the public pool and the pool in the retirement center (an old modified hotel).  Working at the pool, the trustees and folks from public works would stop by since the pool wasn’t owned by the park district but the village, so we were public works employees.  I got to learn a lot about city government over those summers; the public works guy would tell you all sorts of stories, and the trustees would talk quite a bit.  I think they were just happy to chat with interested people. There was some drama, but it was always low-key.  A useless piece of trivia is was one of the largest towns in the Chicago area with a volunteer fire department (not even pay-per-call for the volunteers) at the time.
+I also realize now that I am older it would have been an excellent place to ‘get away with stuff’ if you didn’t draw attention to yourself. Heck, the town owned a retirement center (they purchased it to keep it out of bankruptcy), and there were all sorts of opportunities to take care of folks and the like.
+Whoever recommended that she draw this much attention to herself did not do the mayor any favors. Heck, Instagram and Twitter have all sorts of folks talking about her and Dolotn as well as miss-pronouncing the name (Doll-ton), not (Daal-ton).  This much attention to these issues never ends well.
+Also, she has a detail, and the city spent money on an ice rink blows my mind.
+
+
+
+-  Chicagonk - Friday, Feb 23, 24 @ 9:49 am:  @Nick - If the metric is whether ShotSpotter reduces crime, that is inconclusive. It’s a tool and police departments view it as an effective one at improving response times and responding to shots fired incidents that do not have a corresponding 911 call. I think it is likely somewhat useful and do not really understand why activists are expending so much political capital on this, but in the end it going away is probably not a big deal.
+
+
+
+-  Rich Miller - Friday, Feb 23, 24 @ 10:31 am:  ===It’s a tool and police departments view it as an effective one at improving response times===
+Maybe, but the huge percentage of false alarms/no evidence of gunfire is diverting a whole lot of resources.
+And there’s also this
+
+
+
+
+-  low level - Friday, Feb 23, 24 @ 11:53 am:  Paul Sullivan’s column about White Sox / Reinsdorf history repeating itself was a great reminder of how we got to this point.   Hopefully legislators took a moment to read it.  It is well worth it.
+
+
+
+-  Three Dimensional Checkers - Friday, Feb 23, 24 @ 12:54 pm:  To me, it seems like Shotspotter opponents have the same non-binding promise they had 10 months ago, and Shotspotter has a contract for millions of dollars. Opponents probably should not be throwing around the gullible word.
+
+
+
+-  OneMan - Friday, Feb 23, 24 @ 9:48 am:  I went to grade school and high school in Dolton, and as a youth, I worked for the Village of Dolton as a lifeguard at the public pool and the pool in the retirement center (an old modified hotel).  Working at the pool, the trustees and folks from public works would stop by since the pool wasn’t owned by the park district but the village, so we were public works employees.  I got to learn a lot about city government over those summers; the public works guy would tell you all sorts of stories, and the trustees would talk quite a bit.  I think they were just happy to chat with interested people. There was some drama, but it was always low-key.  A useless piece of trivia is was one of the largest towns in the Chicago area with a volunteer fire department (not even pay-per-call for the volunteers) at the time.
+I also realize now that I am older it would have been an excellent place to ‘get away with stuff’ if you didn’t draw attention to yourself. Heck, the town owned a retirement center (they purchased it to keep it out of bankruptcy), and there were all sorts of opportunities to take care of folks and the like.
+Whoever recommended that she draw this much attention to herself did not do the mayor any favors. Heck, Instagram and Twitter have all sorts of folks talking about her and Dolotn as well as miss-pronouncing the name (Doll-ton), not (Daal-ton).  This much attention to these issues never ends well.
+Also, she has a detail, and the city spent money on an ice rink blows my mind.
+
+
+I went to grade school and high school in Dolton, and as a youth, I worked for the Village of Dolton as a lifeguard at the public pool and the pool in the retirement center (an old modified hotel).  Working at the pool, the trustees and folks from public works would stop by since the pool wasn’t owned by the park district but the village, so we were public works employees.  I got to learn a lot about city government over those summers; the public works guy would tell you all sorts of stories, and the trustees would talk quite a bit.  I think they were just happy to chat with interested people. There was some drama, but it was always low-key.  A useless piece of trivia is was one of the largest towns in the Chicago area with a volunteer fire department (not even pay-per-call for the volunteers) at the time.
+I also realize now that I am older it would have been an excellent place to ‘get away with stuff’ if you didn’t draw attention to yourself. Heck, the town owned a retirement center (they purchased it to keep it out of bankruptcy), and there were all sorts of opportunities to take care of folks and the like.
+Whoever recommended that she draw this much attention to herself did not do the mayor any favors. Heck, Instagram and Twitter have all sorts of folks talking about her and Dolotn as well as miss-pronouncing the name (Doll-ton), not (Daal-ton).  This much attention to these issues never ends well.
+Also, she has a detail, and the city spent money on an ice rink blows my mind.
+
+
+
+-  Chicagonk - Friday, Feb 23, 24 @ 9:49 am:  @Nick - If the metric is whether ShotSpotter reduces crime, that is inconclusive. It’s a tool and police departments view it as an effective one at improving response times and responding to shots fired incidents that do not have a corresponding 911 call. I think it is likely somewhat useful and do not really understand why activists are expending so much political capital on this, but in the end it going away is probably not a big deal.
+
+
+
+-  Rich Miller - Friday, Feb 23, 24 @ 10:31 am:  ===It’s a tool and police departments view it as an effective one at improving response times===
+Maybe, but the huge percentage of false alarms/no evidence of gunfire is diverting a whole lot of resources.
+And there’s also this
+
+
+
+
+-  low level - Friday, Feb 23, 24 @ 11:53 am:  Paul Sullivan’s column about White Sox / Reinsdorf history repeating itself was a great reminder of how we got to this point.   Hopefully legislators took a moment to read it.  It is well worth it.
+
+
+
+-  Three Dimensional Checkers - Friday, Feb 23, 24 @ 12:54 pm:  To me, it seems like Shotspotter opponents have the same non-binding promise they had 10 months ago, and Shotspotter has a contract for millions of dollars. Opponents probably should not be throwing around the gullible word.
+
+
+
+-  Chicagonk - Friday, Feb 23, 24 @ 9:49 am:  @Nick - If the metric is whether ShotSpotter reduces crime, that is inconclusive. It’s a tool and police departments view it as an effective one at improving response times and responding to shots fired incidents that do not have a corresponding 911 call. I think it is likely somewhat useful and do not really understand why activists are expending so much political capital on this, but in the end it going away is probably not a big deal.
+
+
+@Nick - If the metric is whether ShotSpotter reduces crime, that is inconclusive. It’s a tool and police departments view it as an effective one at improving response times and responding to shots fired incidents that do not have a corresponding 911 call. I think it is likely somewhat useful and do not really understand why activists are expending so much political capital on this, but in the end it going away is probably not a big deal.
+
+
+
+-  Rich Miller - Friday, Feb 23, 24 @ 10:31 am:  ===It’s a tool and police departments view it as an effective one at improving response times===
+Maybe, but the huge percentage of false alarms/no evidence of gunfire is diverting a whole lot of resources.
+And there’s also this
+
+
+
+
+-  low level - Friday, Feb 23, 24 @ 11:53 am:  Paul Sullivan’s column about White Sox / Reinsdorf history repeating itself was a great reminder of how we got to this point.   Hopefully legislators took a moment to read it.  It is well worth it.
+
+
+
+-  Three Dimensional Checkers - Friday, Feb 23, 24 @ 12:54 pm:  To me, it seems like Shotspotter opponents have the same non-binding promise they had 10 months ago, and Shotspotter has a contract for millions of dollars. Opponents probably should not be throwing around the gullible word.
+
+
+
+-  Rich Miller - Friday, Feb 23, 24 @ 10:31 am:  ===It’s a tool and police departments view it as an effective one at improving response times===
+Maybe, but the huge percentage of false alarms/no evidence of gunfire is diverting a whole lot of resources.
+And there’s also this
+
+
+
+===It’s a tool and police departments view it as an effective one at improving response times===
+Maybe, but the huge percentage of false alarms/no evidence of gunfire is diverting a whole lot of resources.
+And there’s also this
+
+
+-  low level - Friday, Feb 23, 24 @ 11:53 am:  Paul Sullivan’s column about White Sox / Reinsdorf history repeating itself was a great reminder of how we got to this point.   Hopefully legislators took a moment to read it.  It is well worth it.
+
+
+
+-  Three Dimensional Checkers - Friday, Feb 23, 24 @ 12:54 pm:  To me, it seems like Shotspotter opponents have the same non-binding promise they had 10 months ago, and Shotspotter has a contract for millions of dollars. Opponents probably should not be throwing around the gullible word.
+
+
+
+-  low level - Friday, Feb 23, 24 @ 11:53 am:  Paul Sullivan’s column about White Sox / Reinsdorf history repeating itself was a great reminder of how we got to this point.   Hopefully legislators took a moment to read it.  It is well worth it.
+
+
+Paul Sullivan’s column about White Sox / Reinsdorf history repeating itself was a great reminder of how we got to this point.   Hopefully legislators took a moment to read it.  It is well worth it.
+
+
+
+-  Three Dimensional Checkers - Friday, Feb 23, 24 @ 12:54 pm:  To me, it seems like Shotspotter opponents have the same non-binding promise they had 10 months ago, and Shotspotter has a contract for millions of dollars. Opponents probably should not be throwing around the gullible word.
+
+
+
+-  Three Dimensional Checkers - Friday, Feb 23, 24 @ 12:54 pm:  To me, it seems like Shotspotter opponents have the same non-binding promise they had 10 months ago, and Shotspotter has a contract for millions of dollars. Opponents probably should not be throwing around the gullible word.
+
+
+To me, it seems like Shotspotter opponents have the same non-binding promise they had 10 months ago, and Shotspotter has a contract for millions of dollars. Opponents probably should not be throwing around the gullible word.
+
+Sorry, comments for this post are now closed.
+Support CapitolFax.com Visit our advertisers...
+
+ 
+  
+...............
+  
+...............
+ 
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+
+
+ 
+
+...............
+  
+...............
+ 
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+
+
+ 
+
+...............
+ 
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+
+
+ 
+
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+
+
+ 
+
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+  
+...............
+
+
+ 
+
+...............
+...............
+...............
+
+
+ 
+
+
+     
+
+
+Loading
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+  
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+
+
+
+Main Menu
+Home
+Illinois
+YouTube
+Pundit rankings
+Obama
+Subscriber Content
+Durbin
+Burris
+Blagojevich Trial
+Advertising
+Updated Posts
+Polls
+
+
+
+
+Archives
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+January 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+
+
+
+
+Blog*Spot Archives
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+
+
+
+
+Syndication
+
+
+RSS Feed 2.0
+Comments RSS 2.0
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+
+
+Remap Links
+- - - - - - - - - - - - -
+Interactive map
+- - - - - - - - - -
+Senate Page
+IL House Page
+- - - - - - - - - -
+Senate Google Earth
+Demographics
+Chicago districts
+Suburban districts
+Statewide districts
+- - - - - - - - - -
+House Google Earth
+House Google Map
+Suburban overlay
+- - - - - - - - - -
+
+
+Follow @capitolfax
+
+
+
+
+
+
+Follow @capitolfax
+
+
+
+
+
+
+
+Hosted by MCS
+SUBSCRIBE to Capitol Fax
+Advertise Here
+Mobile Version
+Contact Rich Miller
