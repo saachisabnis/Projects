@@ -1,10 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CrufMRFh)
-### MY470 Computer Programming
+Homophily and Social Contagion of Cheating in PUBG
+This project investigates the dynamics of cheating behavior in the multiplayer online game PlayerUnknown's Battlegrounds (PUBG), focusing on two core mechanisms: homophily (cheaters tend to associate with each other) and social contagion (exposure to cheaters increases the likelihood of adopting cheating behavior).
 
-### Final Assignment, AT 2024
+Objectives
+Determine whether cheaters are more likely to team up with other cheaters than expected by chance.
 
-#### \*\*\* Due 12:00 noon on Monday, January 20, 2025 \*\*\*
+Examine whether players exposed to cheaters — through teaming up, observing, or being killed by them — are more likely to become cheaters.
 
----
+Simulate randomized game scenarios to establish baseline expectations and compare them to real-world behavior.
 
-The final assignment asks you to use the computational thinking and programming skills you learned in the course to answer an empirical social science question using digital trace data.
+Methodology
+Analysis is performed using game interaction and behavior data from PUBG.
+
+Simulated "alternative universes" are created to establish what cheating exposure would look like under random conditions.
+
+The project isolates the effects of interaction types (teammates, observers, victims) on future cheating behavior.
+
+Technical Details
+All data cleaning, manipulation, and simulation logic was implemented using pure Python, without external libraries such as pandas or numpy.
